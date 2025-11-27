@@ -4,9 +4,11 @@
 
 > A curated list of AI/SaaS products with personal insights and growth perspectives
 
-Welcome to Awesome AI Tools! This is a curated collection of AI and SaaS products I've encountered during my 3+ years of experience in AI/SaaS growth. Each product includes personal insights, usage experiences, and growth perspectives.
+Welcome to Awesome AI Tools! This is a curated collection of AI and SaaS products curated by **Kostja** based on 3+ years of experience in AI/SaaS growth. This repository is regularly updated with the latest tools and models. Each product includes personal insights, usage experiences, and growth perspectives.
 
 ## About
+
+This repository is curated and maintained by **Kostja**. All content is personally curated and will be regularly updated with the latest AI tools and models.
 
 This repository serves as a personal knowledge base and sharing platform for AI/SaaS products. All entries are based on real-world experience and include:
 
@@ -79,7 +81,41 @@ _These are foundational image editing models that can be accessed via API. Many 
 
 ## AI Video Tools
 
-<!-- Add AI video generation, editing, and processing tools here -->
+### Text-to-Video Models
+
+_These are foundational text-to-video generation models that can be accessed via API. Many AI video applications are built on top of these models._
+
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a> - Google's text-to-video generation model
+- <a href="https://openai.com/sora/" target="_blank">Sora by OpenAI</a> - OpenAI's text-to-video generation model
+- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a> - KlingAI's text-to-video generation model
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma AI</a> - Luma AI's text-to-video generation model
+- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a> - MiniMax's text-to-video generation model
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance</a> - ByteDance's text-to-video generation model
+- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a> - Alibaba's text-to-video generation model
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a> - Tencent's text-to-video generation model
+- <a href="https://pika.art/" target="_blank">Pika</a> - Text-to-video generation model
+- <a href="https://www.genmo.ai/" target="_blank">Mochi by Genmo AI</a> - Genmo AI's text-to-video generation model
+
+### Image-to-Video Models
+
+_These are foundational image-to-video generation models that can be accessed via API. Many AI video applications are built on top of these models._
+
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a> - Google's image-to-video generation model
+- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a> - KlingAI's image-to-video generation model
+- <a href="https://pixverse.ai/" target="_blank">PixVerse</a> - Image-to-video generation model
+- <a href="https://cloud.baidu.com/product/wenxinworkshop" target="_blank">GenFlare by Baidu</a> - Baidu's image-to-video generation model
+- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a> - MiniMax's image-to-video generation model
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Waver by ByteDance</a> - ByteDance's image-to-video generation model
+- <a href="https://www.vidu.com/" target="_blank">Vidu</a> - Image-to-video generation model
+- <a href="https://ltx.studio/" target="_blank">LTX Studio</a> - Image-to-video generation model
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance Seed</a> - ByteDance Seed's image-to-video generation model
+- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a> - Alibaba's image-to-video generation model
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma Labs</a> - Luma Labs' image-to-video generation model
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a> - Tencent's image-to-video generation model
+- <a href="https://www.animon.ai/" target="_blank">Animon</a> - Image-to-video generation model
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - Image-to-video generation model
+- <a href="https://www.hidream.ai/" target="_blank">Vivago by HiDream</a> - HiDream's image-to-video generation model
+- <a href="https://runwayml.com/" target="_blank">Runway Gen</a> - Runway's image-to-video generation model
 
 ## AI Audio Tools
 

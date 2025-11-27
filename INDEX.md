@@ -67,7 +67,36 @@ Quick reference index of all products in this repository.
 - <a href="https://www.stepfun.com/" target="_blank">StepFun</a>
 
 ### AI Video Tools
-- _Coming soon_
+
+#### Text-to-Video Models
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a>
+- <a href="https://openai.com/sora/" target="_blank">Sora by OpenAI</a>
+- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a>
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma AI</a>
+- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a>
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance</a>
+- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a>
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a>
+- <a href="https://pika.art/" target="_blank">Pika</a>
+- <a href="https://www.genmo.ai/" target="_blank">Mochi by Genmo AI</a>
+
+#### Image-to-Video Models
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a>
+- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a>
+- <a href="https://pixverse.ai/" target="_blank">PixVerse</a>
+- <a href="https://cloud.baidu.com/product/wenxinworkshop" target="_blank">GenFlare by Baidu</a>
+- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a>
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Waver by ByteDance</a>
+- <a href="https://www.vidu.com/" target="_blank">Vidu</a>
+- <a href="https://ltx.studio/" target="_blank">LTX Studio</a>
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance Seed</a>
+- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a>
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma Labs</a>
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a>
+- <a href="https://www.animon.ai/" target="_blank">Animon</a>
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a>
+- <a href="https://www.hidream.ai/" target="_blank">Vivago by HiDream</a>
+- <a href="https://runwayml.com/" target="_blank">Runway Gen</a>
 
 ### AI Audio Tools
 - _Coming soon_

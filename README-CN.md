@@ -4,9 +4,11 @@
 
 > 精选的 AI/SaaS 产品列表，包含个人见解和增长视角
 
-欢迎来到 Awesome AI Tools！这是一个精选的 AI 和 SaaS 产品集合，基于我 3+ 年 AI/SaaS 增长经验中遇到的产品。每个产品都包含个人见解、使用体验和增长视角。
+欢迎来到 Awesome AI Tools！这是一个由 **Kostja** 精心整理的 AI 和 SaaS 产品集合，基于 3+ 年 AI/SaaS 增长经验。本仓库会定期更新最新的工具和模型。每个产品都包含个人见解、使用体验和增长视角。
 
 ## 关于
+
+本仓库由 **Kostja** 精心整理和维护。所有内容均为个人精选，并将定期更新最新的 AI 工具和模型。
 
 本仓库作为 AI/SaaS 产品的个人知识库和分享平台。所有条目都基于真实使用体验，包括：
 
@@ -79,7 +81,41 @@ _这些是基础的图片编辑大模型，可通过 API 调用。许多 AI 图�
 
 ## AI 视频工具
 
-<!-- 在此添加 AI 视频生成、编辑和处理工具 -->
+### 文生视频大模型
+
+_这些是基础的文生视频大模型，可通过 API 调用。许多 AI 视频应用都是基于这些模型构建的。_
+
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a> - Google 开发的文生视频大模型
+- <a href="https://openai.com/sora/" target="_blank">Sora by OpenAI</a> - OpenAI 开发的文生视频大模型
+- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a> - KlingAI 开发的文生视频大模型
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma AI</a> - Luma AI 开发的文生视频大模型
+- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a> - MiniMax 开发的文生视频大模型
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance</a> - 字节跳动开发的文生视频大模型
+- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a> - 阿里巴巴开发的文生视频大模型
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a> - 腾讯开发的文生视频大模型
+- <a href="https://pika.art/" target="_blank">Pika</a> - 文生视频大模型
+- <a href="https://www.genmo.ai/" target="_blank">Mochi by Genmo AI</a> - Genmo AI 开发的文生视频大模型
+
+### 图生视频大模型
+
+_这些是基础的图生视频大模型，可通过 API 调用。许多 AI 视频应用都是基于这些模型构建的。_
+
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a> - Google 开发的图生视频大模型
+- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a> - KlingAI 开发的图生视频大模型
+- <a href="https://pixverse.ai/" target="_blank">PixVerse</a> - 图生视频大模型
+- <a href="https://cloud.baidu.com/product/wenxinworkshop" target="_blank">GenFlare by Baidu</a> - 百度开发的图生视频大模型
+- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a> - MiniMax 开发的图生视频大模型
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Waver by ByteDance</a> - 字节跳动开发的图生视频大模型
+- <a href="https://www.vidu.com/" target="_blank">Vidu</a> - 图生视频大模型
+- <a href="https://ltx.studio/" target="_blank">LTX Studio</a> - 图生视频大模型
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance Seed</a> - 字节跳动 Seed 开发的图生视频大模型
+- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a> - 阿里巴巴开发的图生视频大模型
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma Labs</a> - Luma Labs 开发的图生视频大模型
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a> - 腾讯开发的图生视频大模型
+- <a href="https://www.animon.ai/" target="_blank">Animon</a> - 图生视频大模型
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - 图生视频大模型
+- <a href="https://www.hidream.ai/" target="_blank">Vivago by HiDream</a> - HiDream 开发的图生视频大模型
+- <a href="https://runwayml.com/" target="_blank">Runway Gen</a> - Runway 开发的图生视频大模型
 
 ## AI 音频工具
 
