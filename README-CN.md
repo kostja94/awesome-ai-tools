@@ -29,6 +29,7 @@
 - 🔍 [AI 搜索工具](#ai-搜索工具)
   - [搜索增强型 LLM](#搜索增强型-llm)
   - [AI 搜索 API 与基础设施](#ai-搜索-api-与基础设施)
+  - [网页抓取工具](#网页抓取工具)
   - [AI 搜索引擎](#ai-搜索引擎)
   - [电商搜索助手](#电商搜索助手)
   - [AI 浏览器](#ai-浏览器)
@@ -57,6 +58,33 @@
   - [数据标注](#数据标注)
   - [数据分析](#数据分析)
   - [合成数据](#合成数据)
+- 📚 [AI 教育)
+  - [作业与解题](#作业与解题)
+  - [学习工具与闪卡](#学习工具与闪卡)
+  - [语言学习](#语言学习)
+  - [数学工具](#数学工具)
+  - [辅导平台](#辅导平台)
+  - [课堂工具](#课堂工具)
+- 📝 [AI 生产力工具](#ai-生产力工具)
+  - [项目管理与协作](#项目管理与协作)
+  - [笔记与知识管理](#笔记与知识管理)
+  - [表单与问卷](#表单与问卷)
+  - [日程安排](#日程安排)
+  - [PDF 与文档工具](#pdf-与文档工具)
+  - [文档平台](#文档平台)
+  - [工作流自动化](#工作流自动化)
+  - [企业 AI 助手](#企业-ai-助手)
+  - [AI 聊天助手](#ai-聊天助手)
+- 💰 [AI 金融与会计工具](#ai-金融与会计工具)
+  - [财务运营与会计](#财务运营与会计)
+  - [金融分析与情报](#金融分析与情报)
+  - [金融基础设施](#金融基础设施)
+- 📈 [AI SEO 与营销工具](#ai-seo-与营销工具)
+  - [GEO (Google E-E-A-T 优化) 工具](#geo-google-e-e-a-t-优化-工具)
+  - [SEO 优化工具](#seo-优化工具)
+  - [SEO 本地化工具](#seo-本地化工具)
+- 🎥 [屏幕录制工具](#屏幕录制工具)
+- 📊 [AI 电子表格工具](#ai-电子表格工具)
 
 ## 大语言模型 (LLMs)
 
@@ -200,19 +228,19 @@ _这些是基础的文字转语音大模型，可通过 API 调用。许多 AI �
 
 _这些是基础的语音转文字（自动语音识别）大模型，可通过 API 调用。许多 AI 音频应用都是基于这些模型构建的。_
 
-- <a href="https://platform.openai.com/docs/guides/speech-to-text" target="_blank">OpenAI Whisper</a> (**OpenAI** · 最新版) - 开源语音识别模型，彻底改变了 AI 转录领域，使云推理服务商能够在速度和价格上展开竞争
-- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a> (**Fireworks** · Large v3 Turbo) - 超快速基于 Whisper 的转录服务，每秒可转录 353 秒音频
-- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a> (**Fal.ai** · Large v3) - 高性能转录服务，每秒可转录 218 秒音频
-- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a> (**Groq** · 最新版) - 快速转录服务，每秒转录 204 秒音频，价格为每 1000 分钟 0.33 美元
-- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a> (**DeepInfra** · Large v3) - 高性能转录服务，每秒可转录 149 秒音频
-- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a> (**Deepgram** · Nova-2) - 先进的语音识别模型，每秒转录 142 秒音频，提供高精度和低延迟
 - <a href="https://aws.amazon.com/transcribe/" target="_blank">Amazon Transcribe</a> (**Amazon** · 最新版) - 自动语音识别服务，支持多种语言和音频格式，价格为每 1000 分钟 24 美元
-- <a href="https://cloud.google.com/speech-to-text" target="_blank">Google Cloud Speech-to-Text</a> (**Google** · Chirp 2) - 高精度语音识别服务，支持实时和批量处理
-- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech-to-Text</a> (**Microsoft** · 最新版) - 语音识别服务，支持自定义模型和多语言转录
 - <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> (**AssemblyAI** · Universal 2) - 高精度语音转文字 API，支持长音频文件、关键词检测和情感分析
+- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech-to-Text</a> (**Microsoft** · 最新版) - 语音识别服务，支持自定义模型和多语言转录
+- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a> (**Deepgram** · Nova-2) - 先进的语音识别模型，每秒转录 142 秒音频，提供高精度和低延迟
+- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a> (**DeepInfra** · Large v3) - 高性能转录服务，每秒可转录 149 秒音频
+- <a href="https://elevenlabs.io/blog/meet-scribe" target="_blank">ElevenLabs Scribe</a> (**ElevenLabs** · V1) - 世界最准确的语音转文字模型，支持 99 种语言的语音转录，提供词级时间戳、说话人分离和音频事件标记
+- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a> (**Fal.ai** · Large v3) - 高性能转录服务，每秒可转录 218 秒音频
+- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a> (**Fireworks** · Large v3 Turbo) - 超快速基于 Whisper 的转录服务，每秒可转录 353 秒音频
+- <a href="https://cloud.google.com/speech-to-text" target="_blank">Google Cloud Speech-to-Text</a> (**Google** · Chirp 2) - 高精度语音识别服务，支持实时和批量处理
+- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a> (**Groq** · 最新版) - 快速转录服务，每秒转录 204 秒音频，价格为每 1000 分钟 0.33 美元
+- <a href="https://platform.openai.com/docs/guides/speech-to-text" target="_blank">OpenAI Whisper</a> (**OpenAI** · 最新版) - 开源语音识别模型，彻底改变了 AI 转录领域，使云推理服务商能够在速度和价格上展开竞争
 - <a href="https://www.rev.ai/" target="_blank">Rev AI</a> (**Rev** · 最新版) - 高精度语音转文字服务，支持实时和批量转录
 - <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> (**Speechmatics** · Enhanced) - 全球语言覆盖的语音识别服务，支持多种口音和方言
-- <a href="https://elevenlabs.io/blog/meet-scribe" target="_blank">ElevenLabs Scribe</a> (**ElevenLabs** · V1) - 世界最准确的语音转文字模型，支持 99 种语言的语音转录，提供词级时间戳、说话人分离和音频事件标记
 
 ### 音乐生成大模型
 
@@ -303,11 +331,24 @@ _这些是基础的 AI 搜索 API 和基础设施，可通过 API 调用。许�
 - <a href="https://bochaai.com/" target="_blank">博查</a> (**博查** · 最新版) - 面向 AI 应用的多模态搜索引擎，为智能体提供高质量知识检索 API
 - <a href="https://jina.ai/" target="_blank">Jina AI</a> (**Jina AI** · 最新版) - 构建多模态/文本企业级神经检索与 RAG 系统的 API 平台
 - <a href="https://www.algolia.com/" target="_blank">Algolia</a> (**Algolia** · 最新版) - 为企业和开发者提供即时、可定制和高性能的站内搜索与内容发现 API 服务
+- <a href="https://deepset.ai/" target="_blank">Deepset</a> (**Deepset** · 最新版) - 自然语言处理框架 Haystack，支持语义搜索、问答与 RAG 应用
+- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> (**Zeta Alpha** · 最新版) - 神经搜索平台，优化知识发现与共享
+
+### 网页抓取工具
+
+_这些是网页抓取 API 和工具，用于从网站提取数据，为 AI 应用和代理提供干净、结构化的内容。_
+
+- <a href="https://www.browse.ai/" target="_blank">Browse.ai</a> (**Browse.ai** · 最新版) - 无代码 AI 网页抓取与监控平台，点击即可设置机器人采集网页数据
+- <a href="https://www.firecrawl.dev/" target="_blank">Firecrawl</a> (**Firecrawl** · 最新版) - 网页抓取 API，将网站转换为 LLM 就绪数据（Markdown、JSON、截图），开源并针对 AI 代理优化
+- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a> (**ScrapingBee** · 最新版) - 简便的网页内容抓取 REST API，绕过反爬虫限制快速获取网页数据
+- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a> (**ScraperAPI** · 最新版) - 托管的爬虫 API，自动处理代理、CAPTCHA 与 IP 封锁问题
 
 ### AI 搜索引擎
 
 _这些是 AI 驱动的搜索引擎，提供对话式搜索体验，支持实时网络检索和引用来源的答案。_
 
+- <a href="https://ambersearch.de/" target="_blank">AmberSearch</a> (**AmberSearch** · 最新版) - 企业智能搜索引擎，支持多媒体内容搜索
+- <a href="https://andisearch.com/" target="_blank">Andi</a> (**Andi** · 最新版) - 自然语言交互搜索引擎，提供推荐和知识发现
 - <a href="https://www.perplexity.ai/" target="_blank">Perplexity</a> (**Perplexity** · 最新版) - 一个结合搜索引擎与 LLM 的 AI 回答平台，能实时检索网络并给出引用来源的详实答案
 - <a href="https://yep.com/" target="_blank">Yep</a> (**Yep** · 最新版) - 私隐搜索引擎，广告收入 90％返还创作者
 - <a href="https://www.phind.com/" target="_blank">Phind</a> (**Phind** · 最新版) - 为开发者打造的 AI 搜索引擎，提供可视化、交互式且引用清晰的代码与技术答案
@@ -501,6 +542,7 @@ _这些是专为招聘者和招聘经理设计的 AI 工具，帮助简化招聘
 - <a href="https://mercor.com/" target="_blank">Mercor</a> (**Mercor** · 最新版) - AI 驱动招聘平台，生成匹配、面试及支付流程
 - <a href="https://joinbrix.com/" target="_blank">Brix</a> (**Brix** · 最新版) - AI 自动生成 JD、筛选候选人及预审
 - <a href="https://www.carv.com/" target="_blank">Carv</a> (**Carv** · 最新版) - 为招聘者自动处理流程并更新 ATS 系统
+- <a href="https://www.turing.com/" target="_blank">Turing</a> (**Turing** · 最新版) - AI 驱动远程开发者平台，自动匹配和管理全球软件工程师
 
 ### 面向求职者
 
@@ -529,7 +571,6 @@ _这些平台同时为招聘者和求职者提供全面的招聘和求职解决�
 _这些是用于数据标注、标记和管理的 AI 平台和服务，以支持机器学习模型训练。_
 
 - <a href="https://scale.com/" target="_blank">Scale AI</a> (**Scale AI** · 最新版) - AI 驱动的数据标注平台，为机器学习模型提供高质量的训练数据
-- <a href="https://www.turing.com/" target="_blank">Turing</a> (**Turing** · 最新版) - AI 驱动远程开发者平台，自动匹配和管理全球软件工程师
 - <a href="https://snorkel.ai/" target="_blank">Snorkel</a> (**Snorkel** · 最新版) - 数据中心 AI 平台，将专业知识快速转成训练数据
 - <a href="https://www.superannotate.com/" target="_blank">SuperAnnotate</a> (**SuperAnnotate** · 最新版) - 高效 AI 数据标注与管理平台，适用于模型训练
 - <a href="https://www.coactive.ai/" target="_blank">Coactive</a> (**Coactive** · 最新版) - 多模态视觉内容平台，AI 自动标签、检索与分析图像/视频
@@ -562,6 +603,236 @@ _这些平台生成合成数据用于训练 AI 模型，同时保护隐私并解
 - <a href="https://mostly.ai" target="_blank">Mostly AI</a> (**Mostly AI** · 最新版) - 合成数据生成器和知识中心，专注于隐私保护的数据生成
 - <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a> (**Tonic.ai** · 最新版) - 数据技术公司，专注于利用人工智能和机器学习生成合成数据
 - <a href="https://hazy.com" target="_blank">Hazy</a> (**Hazy** · 最新版) - 专注于合成数据领域的公司，提供隐私保护的数据生成解决方案
+
+## AI 教育
+
+### 作业与解题
+
+_这些是专为学生设计的 AI 工具，帮助解决作业问题并提供即时答案和分步解释。_
+
+- <a href="https://solvely.ai/" target="_blank">Solvely</a> (**Solvely** · 最新版) - 拍照解题的 AI 家庭作业助手，提供分步解法
+- <a href="https://www.questionai.com/" target="_blank">Question AI</a> (**Question AI** · 最新版) - AI 即问即答作业助手，解题＋总结一步到位
+- <a href="https://answerai.pro/" target="_blank">Answer AI</a> (**Answer AI** · 最新版) - 24/7 AI 学伴，答疑解题并提供写作/应用建议
+- <a href="https://www.gauthmath.com/" target="_blank">Gauth</a> (**Gauth** · 最新版) - 多学科 AI 作业助手，拍照解题并提供详细解析
+- <a href="https://cameramath.com/" target="_blank">Upstudy</a> (**Upstudy** · 最新版) - 拍照即解，涵盖所有学科的 AI 辅导助手
+
+### 学习工具与闪卡
+
+_这些工具帮助学生创建学习材料、生成闪卡并组织学习。_
+
+- <a href="https://quizlet.com/" target="_blank">Quizlet</a> (**Quizlet** · 最新版) - AI 闪卡与学习工具，支持自建与分享学习集
+- <a href="https://knowt.com/" target="_blank">Knowt</a> (**Knowt** · 最新版) - AI 笔记与闪卡生成器，一键转录高效学习
+- <a href="https://www.studyfetch.com/" target="_blank">Study Fetch</a> (**Study Fetch** · 最新版) - 录音转 AI 笔记与测验的个性学习助手
+- <a href="https://www.mindgrasp.ai/" target="_blank">Mindgrasp</a> (**Mindgrasp** · 最新版) - 上传文稿生成笔记、闪卡与测验的 AI 学习平台
+- <a href="https://www.scholarcy.com/" target="_blank">Scholarcy</a> (**Scholarcy** · 最新版) - AI 自动摘要研究文献，生成互动式闪卡
+- <a href="https://penseum.com/" target="_blank">Penseum</a> (**Penseum** · 最新版) - AI 学习平台，上传资料生成定制笔记、闪卡与测验
+
+### 语言学习
+
+_这些平台使用 AI 帮助用户通过对话、发音训练和互动练习学习语言。_
+
+- <a href="https://www.boldvoice.com/" target="_blank">BoldVoice</a> (**BoldVoice** · 最新版) - AI+好莱坞口音教练辅助发音训练 App
+- <a href="https://www.duolingo.com/" target="_blank">Duolingo</a> (**Duolingo** · 最新版) - 游戏化语言学习应用，提供多语种课程与每日练习
+- <a href="https://www.apeuni.com/" target="_blank">APEUni</a> (**APEUni** · 最新版) - 免费 AI 驱动的 PTE 考试练习平台，评估口语与写作
+- <a href="https://praktika.ai/" target="_blank">Praktika.ai</a> (**Praktika.ai** · 最新版) - AI 语言导师 App，通过对话练习提升口语
+- <a href="https://www.speak.com/" target="_blank">Speak</a> (**Speak** · 最新版) - AI 对话教学 App，通过实时口语练习反馈提升流利度
+- <a href="https://www.trancy.org/" target="_blank">Trancy</a> (**Trancy** · 最新版) - 为视频自动生成双语字幕并建立学习卡片
+- <a href="https://gliglish.com/" target="_blank">Gliglish</a> (**Gliglish** · 最新版) - 通过语音与 AI 角色演练，提升口语与听力
+- <a href="https://lingokids.com/" target="_blank">Lingokids</a> (**Lingokids** · 最新版) - 儿童语言学习 App，通过游戏互动和语音识别让 2-8 岁孩子快乐学习
+- <a href="https://www.mondly.com/" target="_blank">Mondly</a> (**Mondly** · 最新版) - 多人语言学习 App，提供会话式练习和语音识别功能
+
+### 数学工具
+
+_这些是专注于解决数学问题和提供数学辅导的专业 AI 工具。_
+
+- <a href="https://www.mathgptpro.com/" target="_blank">Mathos</a> (**Mathos** · 最新版) - AI 数学解题器与个性化辅导工具
+- <a href="https://math-gpt.org/" target="_blank">MathGPT</a> (**MathGPT** · 最新版) - 图像数学计算器，提供视频+动画解题教程
+- <a href="https://photomath.com/" target="_blank">Photomath</a> (**Photomath** · 最新版) - 拍照识别数学题，分步教学多种解法
+- <a href="https://www.mathway.com/" target="_blank">Mathway</a> (**Mathway** · 最新版) - 支持拍照与输入的多用途数学问题解决器
+- <a href="https://qanda.ai/" target="_blank">Quanda</a> (**Quanda** · 最新版) - OCR 识题+一步解答的 AI 数学学习平台，用户超 9000 万
+
+### 辅导平台
+
+_这些平台提供全面的辅导服务、学习材料和学术支持。_
+
+- <a href="https://www.chegg.com/" target="_blank">Chegg</a> (**Chegg** · 最新版) - 24/7 在线作业辅导与教材租赁平台
+- <a href="https://www.coursehero.com/" target="_blank">Course Hero</a> (**Course Hero** · 最新版) - 百万课程资料+在线辅导一站式学习平台
+- <a href="https://www.khanmigo.ai/" target="_blank">Khanmigo</a> (**Khan Academy** · 最新版) - Khan Academy 的智能辅导员，提供引导式学习支持
+- <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> (**DataCamp** · 最新版) - 编程与数据分析在线学习平台，提供项目和技能课程
+
+### 课堂工具
+
+_这些工具专为教师设计，用于创建互动课程、测验和管理课堂活动。_
+
+- <a href="https://quizizz.com/" target="_blank">Quizizz</a> (**Quizizz** · 最新版) - 在线互动测验平台，支持课堂与远程游戏式学习
+- <a href="https://curipod.com/" target="_blank">Curipod</a> (**Curipod** · 最新版) - 为 K-12 设计的 AI 互动课堂，生成投票与测验
+- <a href="https://classcompanion.com/" target="_blank">Class Companion</a> (**Class Companion** · 最新版) - 教师工具，AI 即时批改反馈并辅导学生
+- <a href="https://www.doctrina.ai/" target="_blank">Doctrina AI</a> (**Doctrina AI** · 最新版) - 多功能 AI 教育平台，生成笔记、测验、论文与对话
+- <a href="https://www.bohrium.com/" target="_blank">Bohrium</a> (**Bohrium** · 最新版) - 学术类教育平台
+
+## AI 生产力工具
+
+### 项目管理与协作
+
+_这些平台帮助团队管理项目、协作并高效组织工作。_
+
+- <a href="https://www.notion.so/" target="_blank">Notion</a> (**Notion** · 最新版) - 可定制的一体化协作空间，集笔记、数据库、任务与 AI 助手于一体
+- <a href="https://miro.com/" target="_blank">Miro</a> (**Miro** · 最新版) - 在线视觉白板，支持分布式团队的创新协作与头脑风暴
+- <a href="https://clickup.com/" target="_blank">ClickUp</a> (**ClickUp** · 最新版) - 全能型项目管理平台，集任务、文档、时间线、AI 功能于一处
+- <a href="https://trello.com/" target="_blank">Trello</a> (**Trello** · 最新版) - 看板式协作工具，用卡片与列表直观管理项目任务
+- <a href="https://asana.com/" target="_blank">Asana</a> (**Asana** · 最新版) - 团队任务管理平台，支持项目规划、进度跟踪与实时报告
+- <a href="https://www.airtable.com/" target="_blank">Airtable</a> (**Airtable** · 最新版) - 表格+数据库协作平台，适用自定义应用与数据驱动流程
+- <a href="https://quip.com/" target="_blank">Quip</a> (**Quip** · 最新版) - Salesforce 内嵌实时文档协作，融合表格与聊天功能
+
+### 笔记与知识管理
+
+_这些工具帮助用户捕获、组织和管理知识与信息。_
+
+- <a href="https://evernote.com/" target="_blank">Evernote</a> (**Evernote** · 最新版) - 笔记与任务管理工具，全平台同步、AI 整理与支持多媒体输入
+- <a href="https://obsidian.md/" target="_blank">Obsidian</a> (**Obsidian** · 最新版) - Markdown 本地笔记工具，支持插件与强大双向链接
+- <a href="https://logseq.com/" target="_blank">Logseq</a> (**Logseq** · 最新版) - 隐私优先的本地知识库，基于 Markdown 与双向链接构建
+- <a href="https://feather.so/" target="_blank">Feather</a> (**Feather** · 最新版) - 轻量级协作笔记/文档应用，强调极简与多平台同步
+- <a href="https://flowith.io/" target="_blank">Flowith</a> (**Flowith** · 最新版) - 面向创作者的 AI 工作空间，多线程画布助力知识管理与创作
+
+### 表单与问卷
+
+_这些工具能够高效创建表单、问卷并收集数据。_
+
+- <a href="https://tally.so/" target="_blank">Tally</a> (**Tally** · 最新版) - 无代码表单工具，类似 Notion 式编辑，免费创建多样表单
+- <a href="https://www.typeform.com/" target="_blank">Typeform</a> (**Typeform** · 最新版) - 交互式表单/问卷生成器，打造对话式用户体验，提升完成率
+- <a href="https://www.surveymonkey.com/" target="_blank">Survey Monkey</a> (**Survey Monkey** · 最新版) - 专业在线问卷平台，支持多种题型及 AI 辅助问卷生成
+
+### 日程安排
+
+_这些工具帮助管理日程、预约和日历事件。_
+
+- <a href="https://cal.com/" target="_blank">Cal.com</a> (**Cal.com** · 最新版) - 可自托管的开源日程安排基础设施，支持高度定制化排期
+- <a href="https://calendly.com/" target="_blank">Calendly</a> (**Calendly** · 最新版) - 自动化日程管理工具，一键安排并去除多余沟通成本
+- <a href="https://www.usemotion.com/" target="_blank">Motion</a> (**Motion** · 最新版) - AI 项目/时间管理助手，自动生成任务与日程安排
+
+### PDF 与文档工具
+
+_这些工具帮助编辑、注释和管理 PDF 和文档文件。_
+
+- <a href="https://updf.com/" target="_blank">UPDF</a> (**UPDF** · 最新版) - 跨平台 AI PDF 编辑器，具备阅读、编辑、注释与聊天功能
+
+### 文档平台
+
+_这些平台帮助创建、管理和分享文档。_
+
+- <a href="https://www.gitbook.com/" target="_blank">Gitbook</a> (**Gitbook** · 最新版) - 面向技术团队的文档平台，AI 搜索+可视化协作编辑文档
+- <a href="https://scribehow.com/" target="_blank">Scribe</a> (**Scribe** · 最新版) - 自动捕捉操作并生成带截图的步骤指南，用 AI 快速输出流程文档
+- <a href="https://mintlify.com/" target="_blank">Mintlify</a> (**Mintlify** · 最新版) - AI 驱动文档平台，一键从代码生成可交互、高度可定制的开发者文档
+
+### 工作流自动化
+
+_这些工具自动化工作流、流程和重复性任务。_
+
+- <a href="https://n8n.io/" target="_blank">n8n</a> (**n8n** · 最新版) - 可自托管的低代码 AI 自动化平台，连接多种服务并构建流程
+- <a href="https://www.getmagical.com/" target="_blank">Magical</a> (**Magical** · 最新版) - Chrome 自动填充 AI 助手，支持表单、消息与表格一键执行
+- <a href="https://brightdata.com/" target="_blank">Bright Data</a> (**Bright Data** · 最新版) - 大规模代理与网页采集平台，提供结构化数据与 API
+- <a href="https://www.automationanywhere.com/" target="_blank">Automation Anywhere</a> (**Automation Anywhere** · 最新版) - 面向企业的全流程智能 RPA 自动化平台
+- <a href="https://www.gumloop.com/" target="_blank">Gumloop</a> (**Gumloop** · 最新版) - 无代码 AI 自动化平台，通过拖拽组件构建复杂工作流
+- <a href="https://composio.dev/" target="_blank">Composio.dev</a> (**Composio** · 最新版) - 连接 LLM 与 250+ 工具的集成平台，轻松构建具代理能力的 AI 应用
+- <a href="https://www.uipath.com/" target="_blank">UiPath</a> (**UiPath** · 最新版) - 企业级 RPA 平台，结合 AI 与机器人流程自动化，智能执行重复任务
+- <a href="https://www.induced.ai/" target="_blank">Induced</a> (**Induced** · 最新版) - Human-in-the-loop RPA 3.0，AI 驱动网页任务自动化，实现实时智能判断
+- <a href="https://www.stagehand.dev/" target="_blank">Stagehand</a> (**Stagehand** · 最新版) - AI 浏览器自动化框架，支持代码与自然语言混合控制浏览器操作
+- <a href="https://www.browserless.io/" target="_blank">Browserless</a> (**Browserless** · 最新版) - 无头浏览器即服务，支持 Docker 部署，自动避开反爬虫并实现页面自动化
+
+### 企业 AI 助手
+
+_这些是企业级 AI 助手，自动化业务流程并处理复杂任务。_
+
+- <a href="https://www.moveworks.com/" target="_blank">Moveworks</a> (**Moveworks** · 最新版) - 企业级智能 AI 助手，自动响应员工请求并执行任务
+- <a href="https://aisera.com/" target="_blank">Aisera</a> (**Aisera** · 最新版) - 企业 AI 服务台助手，自动处理 IT/HR 请求并生成工单和解决方案
+- <a href="https://kore.ai/" target="_blank">Kore.ai</a> (**Kore.ai** · 最新版) - 企业级对话式 AI 平台，构建智能客服机器人
+- <a href="https://www.sierra.com/" target="_blank">Sierra</a> (**Sierra** · 最新版) - 企业级会话 AI 代理平台，定制化品牌虚拟助手用于客户服务与任务处理
+- <a href="https://www.pryon.com/" target="_blank">Pryon</a> (**Pryon** · 最新版) - 企业知识搜索与自动化问答系统，通过语义理解提升信息生产效率
+- <a href="https://momoai.co/" target="_blank">Momo</a> (**Momo** · 最新版) - AI 对话助手，可接入业务系统实现自动客户问答与智能流程处理
+- <a href="https://ushur.ai/" target="_blank">Ushur</a> (**Ushur** · 最新版) - AI 驱动的客户体验自动化平台，通过聊天与流程机器人实现端到端服务变革
+- <a href="https://contextual.ai/" target="_blank">Contextual AI</a> (**Contextual AI** · 最新版) - 企业级 RAG 平台，构建具高度真实度的知识驱动智能助手
+
+### AI 聊天助手
+
+_这些是 AI 驱动的聊天助手，用于各种生产力与沟通任务。_
+
+- <a href="https://www.popai.pro/" target="_blank">PopAi</a> (**PopAi** · 最新版) - 多功能 AI 助手 App，支持对话查询文档、制作幻灯片、作业解答与图像生成
+- <a href="https://usegenie.ai/" target="_blank">Genie</a> (**Genie** · 最新版) - 集成 GPT‑4o、Gemini 等多模型的 AI 聊天助手，用于写作、客服等多场景
+- <a href="https://chatboxai.app/" target="_blank">ChatBox</a> (**ChatBox** · 最新版) - 跨平台 AI 客户端，可处理对话、文档、图片和代码，助力写作与生产力
+- <a href="https://chaton.ai/" target="_blank">ChatOn</a> (**ChatOn** · 最新版) - 结合 GPT‑4/GPT‑4o 的写作与生产力 AI 聊天助手，涵盖内容创作和搜索工具
+- <a href="https://ai.quark.cn/" target="_blank">Quark</a> (**Alibaba** · 最新版) - 阿里巴巴旗下 AI 超级助手，集成搜索、笔记、云盘、文档与深度推理功能
+- <a href="https://novaapp.ai/" target="_blank">Nova A.I.</a> (**Nova A.I.** · 最新版) - 基于 GPT‑4o 和 Gemini 的全平台聊天助手，支持写作、问答、推荐等多功能
+- <a href="https://manus.im/" target="_blank">manus</a> (**manus** · 最新版) - 中国首款通用自主 AI 代理，可自主执行复杂在线任务并生成输出结果
+
+## AI 金融与会计工具
+
+### 财务运营与会计
+
+_这些平台自动化财务运营、会计流程和企业的财务管理。_
+
+- <a href="https://www.bill.com/" target="_blank">Bill</a> (**Bill.com** · 最新版) - 中小企业财务运营平台，自动处理发票生成支付、开票、费用管理与预算控制
+- <a href="https://www.rillet.com/" target="_blank">Rillet</a> (**Rillet** · 最新版) - AI 原生 ERP 系统，自动完成月末关账、合并、GAAP 报表与发票处理
+
+### 金融分析与情报
+
+_这些工具提供 AI 驱动的金融分析、市场情报和投资决策支持。_
+
+- <a href="https://rogo.ai/" target="_blank">Rogo AI</a> (**Rogo AI** · 最新版) - 面向金融机构的专属 AI 分析平台，自动研究数据、生成洞察并加速投资决策
+- <a href="https://www.alpha-sense.com/" target="_blank">AlphaSense</a> (**AlphaSense** · 最新版) - AI 企业搜索引擎，实时分析市场与财务情报
+
+### 金融基础设施
+
+_这些是专为金融应用和高性能金融数据处理设计的基础设施工具和数据库。_
+
+- <a href="https://www.ibm.com/products/informix" target="_blank">Informix</a> (**IBM** · 最新版) - IBM 的多模态关系数据库，适合混合事务与分析场景
+
+## AI SEO 与营销工具
+
+### GEO (Google E-E-A-T 优化) 工具
+
+_这些工具帮助品牌优化在 AI 搜索平台和 LLM 生成内容中的可见性和存在感。_
+
+- <a href="https://www.bluefishai.com/" target="_blank">Bluefish</a> (**Bluefish** · 最新版) - AI 可见性分析平台，帮助品牌优化在 AI 搜索平台中的存在感
+- <a href="https://scrunchai.com/" target="_blank">Scrunch AI</a> (**Scrunch AI** · 最新版) - 构建了面向 AI 爬虫的基础设施层 - Agent Experience Platform（AXP），帮助品牌提供为 AI agent 和爬虫压缩、结构化的内容，创建品牌的机器可读版本，针对大语言模型解析、解释和返回内容的方式进行了优化
+- <a href="https://www.tryprofound.com/" target="_blank">Profound</a> (**Profound** · 最新版) - 面向企业的 AI 可见性分析工具，实时监控并优化品牌 AI 搜索平台上的曝光与引用
+- <a href="https://www.evertune.ai/" target="_blank">Evertune</a> (**Evertune** · 最新版) - GEO 优化平台，帮助品牌提升在 AI 搜索结果中的可见性
+
+### SEO 优化工具
+
+_这些工具帮助优化网站内容、关键词和 SEO 性能。_
+
+- <a href="https://www.withdaydream.com/" target="_blank">Daydream</a> (**Daydream** · 最新版) - SEO 优化工具，用于提升搜索引擎排名
+- <a href="https://www.airops.com/" target="_blank">Airops</a> (**Airops** · 最新版) - 内容运营 AI 平台，结合专家策略与 SEO 自动生成优化内容
+- <a href="https://www.clearscope.io/" target="_blank">Clearscope</a> (**Clearscope** · 最新版) - 内容优先的 AI SEO 工具，关键词优化与竞争分析助流量增长
+- <a href="https://byword.ai/" target="_blank">Byword</a> (**Byword** · 最新版) - AI SEO 写作助手，一键生成高质量、结构化并优化排名文案
+- <a href="https://frase.io/" target="_blank">Frase</a> (**Frase** · 最新版) - SEO 内容优化与 AI 写作工具，结合专家策略与自动化内容生成
+
+### SEO 本地化工具
+
+_这些工具帮助创建针对国际 SEO 优化的多语言网站。_
+
+- <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a> (**GlobalSEO** · 最新版) - AI 驱动网站多语言自动翻译，提升国际有机搜索流量
+
+_这些工具帮助创建针对国际 SEO 优化的多语言网站。_
+
+- <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a> (**GlobalSEO** · 最新版) - AI 驱动网站多语言自动翻译，提升国际有机搜索流量
+- <a href="https://www.weglot.com/" target="_blank">Weglot</a> (**Weglot** · 最新版) - 无代码多语言网站翻译平台，支持 SEO 优化与内容编辑
+
+## 屏幕录制工具
+
+_这些工具帮助捕获屏幕录制、创建演示并分享视觉内容。_
+
+- <a href="https://www.loom.com/" target="_blank">Loom</a> (**Loom** · 最新版) - 一键录屏分享，辅以 AI 视频增强、文本剪辑与跨平台协作功能
+- <a href="https://screen.studio/" target="_blank">Screen Studio</a> (**Screen Studio** · 最新版) - Mac 专用屏幕录像软件，自动平滑光标、放大重点并优化动态
+- <a href="https://www.arcade.software/" target="_blank">Arcade</a> (**Arcade** · 最新版) - 无代码互动演示平台，快速制作引人入胜的产品 demo 页面
+- <a href="https://cursorful.com/" target="_blank">Cursorful</a> (**Cursorful** · 最新版) - 浏览器录制插件，自动缩放光标焦点，实现专业级演示视频
+
+## AI 电子表格工具
+
+_这些是 AI 驱动的电子表格工具，提供智能数据分析和自动化。_
+
+- <a href="https://endex.ai/" target="_blank">Endex.ai</a> (**Endex.ai** · 最新版) - AI 电子表格工具，提供智能数据分析和可视化功能
+- <a href="https://www.paradigmai.com/" target="_blank">Paradigm</a> (**Paradigm** · 最新版) - AI 电子表格平台，支持自动化数据处理和高级分析
 
 ---
 

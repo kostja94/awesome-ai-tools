@@ -145,19 +145,19 @@ Quick reference index of all products in this repository.
 - <a href="https://stepfun.com/" target="_blank">StepFun TTS</a>
 
 #### Speech-to-Text (ASR) Models
-- <a href="https://platform.openai.com/docs/guides/speech-to-text" target="_blank">OpenAI Whisper</a>
-- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a>
-- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a>
-- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a>
-- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a>
-- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a>
 - <a href="https://aws.amazon.com/transcribe/" target="_blank">Amazon Transcribe</a>
-- <a href="https://cloud.google.com/speech-to-text" target="_blank">Google Cloud Speech-to-Text</a>
-- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech-to-Text</a>
 - <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a>
+- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech-to-Text</a>
+- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a>
+- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a>
+- <a href="https://elevenlabs.io/blog/meet-scribe" target="_blank">ElevenLabs Scribe</a>
+- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a>
+- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a>
+- <a href="https://cloud.google.com/speech-to-text" target="_blank">Google Cloud Speech-to-Text</a>
+- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a>
+- <a href="https://platform.openai.com/docs/guides/speech-to-text" target="_blank">OpenAI Whisper</a>
 - <a href="https://www.rev.ai/" target="_blank">Rev AI</a>
 - <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a>
-- <a href="https://elevenlabs.io/" target="_blank">ElevenLabs Scribe</a>
 
 #### Music Generation Models
 - <a href="https://suno.ai/" target="_blank">Suno</a>
@@ -227,8 +227,18 @@ Quick reference index of all products in this repository.
 - <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a>
 - <a href="https://jina.ai/" target="_blank">Jina AI</a>
 - <a href="https://www.algolia.com/" target="_blank">Algolia</a>
+- <a href="https://deepset.ai/" target="_blank">Deepset</a>
+- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a>
+
+#### Web Scraping Tools
+- <a href="https://www.browse.ai/" target="_blank">Browse.ai</a>
+- <a href="https://www.firecrawl.dev/" target="_blank">Firecrawl</a>
+- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a>
+- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a>
 
 #### AI-Powered Search Engines
+- <a href="https://ambersearch.de/" target="_blank">AmberSearch</a>
+- <a href="https://andisearch.com/" target="_blank">Andi</a>
 - <a href="https://www.perplexity.ai/" target="_blank">Perplexity</a>
 - <a href="https://yep.com/" target="_blank">Yep</a>
 - <a href="https://www.phind.com/" target="_blank">Phind</a>
@@ -272,6 +282,7 @@ Quick reference index of all products in this repository.
 #### For General Users
 - <a href="https://poe.com/" target="_blank">Poe</a>
 - <a href="https://monica.im/" target="_blank">Monica</a>
+- <a href="http://generativeai.net/" target="_blank">Generative AI</a>
 
 ### AI 3D Model Generation
 
@@ -365,6 +376,7 @@ Quick reference index of all products in this repository.
 - <a href="https://mercor.com/" target="_blank">Mercor</a>
 - <a href="https://joinbrix.com/" target="_blank">Brix</a>
 - <a href="https://www.carv.com/" target="_blank">Carv</a>
+- <a href="https://www.turing.com/" target="_blank">Turing</a>
 
 #### For Job Seekers
 - <a href="https://www.thecorrelate.com" target="_blank">Correlate AI</a>
@@ -384,7 +396,6 @@ Quick reference index of all products in this repository.
 
 #### Data Annotation
 - <a href="https://scale.com/" target="_blank">Scale AI</a>
-- <a href="https://www.turing.com/" target="_blank">Turing</a>
 - <a href="https://snorkel.ai/" target="_blank">Snorkel</a>
 - <a href="https://www.superannotate.com/" target="_blank">SuperAnnotate</a>
 - <a href="https://www.coactive.ai/" target="_blank">Coactive</a>
@@ -411,6 +422,163 @@ Quick reference index of all products in this repository.
 - <a href="https://mostly.ai" target="_blank">Mostly AI</a>
 - <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a>
 - <a href="https://hazy.com" target="_blank">Hazy</a>
+
+### AI Education
+
+#### Homework & Problem Solving
+- <a href="https://solvely.ai/" target="_blank">Solvely</a>
+- <a href="https://www.questionai.com/" target="_blank">Question AI</a>
+- <a href="https://answerai.pro/" target="_blank">Answer AI</a>
+- <a href="https://www.gauthmath.com/" target="_blank">Gauth</a>
+- <a href="https://cameramath.com/" target="_blank">Upstudy (CameraMath)</a>
+
+#### Study Tools & Flashcards
+- <a href="https://quizlet.com/" target="_blank">Quizlet</a>
+- <a href="https://knowt.com/" target="_blank">Knowt</a>
+- <a href="https://www.studyfetch.com/" target="_blank">Study Fetch</a>
+- <a href="https://www.mindgrasp.ai/" target="_blank">Mindgrasp</a>
+- <a href="https://www.scholarcy.com/" target="_blank">Scholarcy</a>
+- <a href="https://penseum.com/" target="_blank">Penseum</a>
+
+#### Language Learning
+- <a href="https://www.boldvoice.com/" target="_blank">BoldVoice</a>
+- <a href="https://www.duolingo.com/" target="_blank">Duolingo</a>
+- <a href="https://www.apeuni.com/" target="_blank">APEUni</a>
+- <a href="https://praktika.ai/" target="_blank">Praktika.ai</a>
+- <a href="https://www.speak.com/" target="_blank">Speak</a>
+- <a href="https://www.trancy.org/" target="_blank">Trancy</a>
+- <a href="https://gliglish.com/" target="_blank">Gliglish</a>
+- <a href="https://lingokids.com/" target="_blank">Lingokids</a>
+- <a href="https://www.mondly.com/" target="_blank">Mondly</a>
+
+#### Math Tools
+- <a href="https://www.mathgptpro.com/" target="_blank">Mathos</a>
+- <a href="https://math-gpt.org/" target="_blank">MathGPT</a>
+- <a href="https://photomath.com/" target="_blank">Photomath</a>
+- <a href="https://www.mathway.com/" target="_blank">Mathway</a>
+- <a href="https://qanda.ai/" target="_blank">Quanda</a>
+
+#### Tutoring Platforms
+- <a href="https://www.chegg.com/" target="_blank">Chegg</a>
+- <a href="https://www.coursehero.com/" target="_blank">Course Hero</a>
+- <a href="https://www.khanmigo.ai/" target="_blank">Khanmigo</a>
+- <a href="https://www.datacamp.com/" target="_blank">DataCamp</a>
+
+#### Classroom Tools
+- <a href="https://quizizz.com/" target="_blank">Quizizz</a>
+- <a href="https://curipod.com/" target="_blank">Curipod</a>
+- <a href="https://classcompanion.com/" target="_blank">Class Companion</a>
+- <a href="https://www.doctrina.ai/" target="_blank">Doctrina AI</a>
+- <a href="https://www.bohrium.com/" target="_blank">Bohrium</a>
+
+### AI Finance & Accounting Tools
+
+#### Financial Operations & Accounting
+- <a href="https://www.bill.com/" target="_blank">Bill</a>
+- <a href="https://www.rillet.com/" target="_blank">Rillet</a>
+
+#### Financial Analysis & Intelligence
+- <a href="https://rogo.ai/" target="_blank">Rogo AI</a>
+- <a href="https://www.alpha-sense.com/" target="_blank">AlphaSense</a>
+
+#### Financial Infrastructure
+- <a href="https://www.ibm.com/products/informix" target="_blank">Informix</a>
+
+### AI SEO & Marketing Tools
+
+#### GEO (Google E-E-A-T Optimization) Tools
+- <a href="https://www.bluefishai.com/" target="_blank">Bluefish</a>
+- <a href="https://scrunchai.com/" target="_blank">Scrunch AI</a>
+- <a href="https://www.tryprofound.com/" target="_blank">Profound</a>
+- <a href="https://www.evertune.ai/" target="_blank">Evertune</a>
+
+#### SEO Optimization Tools
+- <a href="https://www.withdaydream.com/" target="_blank">Daydream</a>
+- <a href="https://www.airops.com/" target="_blank">Airops</a>
+- <a href="https://www.clearscope.io/" target="_blank">Clearscope</a>
+- <a href="https://byword.ai/" target="_blank">Byword</a>
+- <a href="https://frase.io/" target="_blank">Frase</a>
+
+#### SEO Localization Tools
+- <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a>
+- <a href="https://www.weglot.com/" target="_blank">Weglot</a>
+
+### AI Productivity Tools
+
+#### Project Management & Collaboration
+- <a href="https://www.notion.so/" target="_blank">Notion</a>
+- <a href="https://miro.com/" target="_blank">Miro</a>
+- <a href="https://clickup.com/" target="_blank">ClickUp</a>
+- <a href="https://trello.com/" target="_blank">Trello</a>
+- <a href="https://asana.com/" target="_blank">Asana</a>
+- <a href="https://www.airtable.com/" target="_blank">Airtable</a>
+- <a href="https://quip.com/" target="_blank">Quip</a>
+
+#### Note-Taking & Knowledge Management
+- <a href="https://evernote.com/" target="_blank">Evernote</a>
+- <a href="https://obsidian.md/" target="_blank">Obsidian</a>
+- <a href="https://logseq.com/" target="_blank">Logseq</a>
+- <a href="https://feather.so/" target="_blank">Feather</a>
+- <a href="https://flowith.io/" target="_blank">Flowith</a>
+
+#### Forms & Surveys
+- <a href="https://tally.so/" target="_blank">Tally</a>
+- <a href="https://www.typeform.com/" target="_blank">Typeform</a>
+- <a href="https://www.surveymonkey.com/" target="_blank">Survey Monkey</a>
+
+#### Scheduling & Calendar
+- <a href="https://cal.com/" target="_blank">Cal.com</a>
+- <a href="https://calendly.com/" target="_blank">Calendly</a>
+- <a href="https://www.usemotion.com/" target="_blank">Motion</a>
+
+#### PDF & Document Tools
+- <a href="https://updf.com/" target="_blank">UPDF</a>
+
+#### Documentation Platforms
+- <a href="https://www.gitbook.com/" target="_blank">Gitbook</a>
+- <a href="https://scribehow.com/" target="_blank">Scribe</a>
+- <a href="https://mintlify.com/" target="_blank">Mintlify</a>
+
+#### Workflow Automation
+- <a href="https://n8n.io/" target="_blank">n8n</a>
+- <a href="https://www.getmagical.com/" target="_blank">Magical</a>
+- <a href="https://brightdata.com/" target="_blank">Bright Data</a>
+- <a href="https://www.automationanywhere.com/" target="_blank">Automation Anywhere</a>
+- <a href="https://www.gumloop.com/" target="_blank">Gumloop</a>
+- <a href="https://composio.dev/" target="_blank">Composio.dev</a>
+- <a href="https://www.uipath.com/" target="_blank">UiPath</a>
+- <a href="https://www.induced.ai/" target="_blank">Induced</a>
+- <a href="https://www.stagehand.dev/" target="_blank">Stagehand</a>
+- <a href="https://www.browserless.io/" target="_blank">Browserless</a>
+
+#### Enterprise AI Assistants
+- <a href="https://www.moveworks.com/" target="_blank">Moveworks</a>
+- <a href="https://aisera.com/" target="_blank">Aisera</a>
+- <a href="https://kore.ai/" target="_blank">Kore.ai</a>
+- <a href="https://www.sierra.com/" target="_blank">Sierra</a>
+- <a href="https://www.pryon.com/" target="_blank">Pryon</a>
+- <a href="https://momoai.co/" target="_blank">Momo</a>
+- <a href="https://ushur.ai/" target="_blank">Ushur</a>
+- <a href="https://contextual.ai/" target="_blank">Contextual AI</a>
+
+#### AI Chat Assistants
+- <a href="https://www.popai.pro/" target="_blank">PopAi</a>
+- <a href="https://usegenie.ai/" target="_blank">Genie</a>
+- <a href="https://chatboxai.app/" target="_blank">ChatBox</a>
+- <a href="https://chaton.ai/" target="_blank">ChatOn</a>
+- <a href="https://ai.quark.cn/" target="_blank">Quark</a>
+- <a href="https://novaapp.ai/" target="_blank">Nova A.I.</a>
+- <a href="https://manus.im/" target="_blank">manus</a>
+
+### Screen Recording Tools
+- <a href="https://www.loom.com/" target="_blank">Loom</a>
+- <a href="https://screen.studio/" target="_blank">Screen Studio</a>
+- <a href="https://www.arcade.software/" target="_blank">Arcade</a>
+- <a href="https://cursorful.com/" target="_blank">Cursorful</a>
+
+### AI Spreadsheet Tools
+- <a href="https://endex.ai/" target="_blank">Endex.ai</a>
+- <a href="https://www.paradigmai.com/" target="_blank">Paradigm</a>
 
 ---
 
