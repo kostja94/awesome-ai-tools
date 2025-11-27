@@ -43,6 +43,8 @@ The information in this repository is compiled from multiple sources:
   - [Text-to-Image Models](#text-to-image-models)
   - [Image-to-Image Models](#image-to-image-models)
 - 📽️ [AI Video Tools](#ai-video-tools)
+  - [Text-to-Video Models](#text-to-video-models)
+  - [Image-to-Video Models](#image-to-video-models)
 - 🎶 [AI Audio Tools](#ai-audio-tools)
   - [Text-to-Speech (TTS) Models](#text-to-speech-tts-models)
   - [Speech-to-Text (ASR) Models](#speech-to-text-asr-models)
