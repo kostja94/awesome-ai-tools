@@ -10,12 +10,26 @@ Welcome to Awesome AI Tools! This is a curated collection of AI and SaaS product
 
 This repository is curated and maintained by **Kostja**. All content is personally curated and will be regularly updated with the latest AI tools and models.
 
+**Contributions Welcome!** If you'd like to suggest a new product or tool, please:
+- Open a [GitHub Issue](https://github.com/kostja94/awesome-ai-tools/issues) (preferred)
+- Or contact via email: **zyjstc@gmail.com**
+
 This repository serves as a personal knowledge base and sharing platform for AI/SaaS products. All entries are based on real-world experience and include:
 
 - **Product Information**: Name, category, description, and links
 - **Personal Insights**: Usage experience and evaluation
 - **Growth Perspective**: Analysis from a growth marketing standpoint
 - **Pricing & Features**: Key features and pricing models
+
+### Data Sources
+
+The information in this repository is compiled from multiple sources:
+
+- **LMArena** - Model rankings and performance benchmarks
+- **Artificial Analysis** - Comprehensive AI model evaluations and comparisons
+- **LLM Responses** - Information gathered from large language model interactions
+- **Web Resources** - Official documentation, websites, and public resources
+- **Personal Professional Experience** - Insights from 3+ years of experience in AI/SaaS growth
 
 ## Contents
 
@@ -187,7 +201,7 @@ _These are foundational text-to-speech models that can be accessed via API. Many
 - <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> (**Microsoft** · Latest) - Text-to-speech model
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> (**Amazon** · Latest) - Text-to-speech model
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> (**Google** · Latest) - Google Cloud's text-to-speech service with Chirp 3: HD, WaveNet, and Studio models supporting 380+ voices across 75+ languages
-- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · Latest) - #1 ranked TTS on Artificial Analysis and Hugging Face, realtime multimodal AI with rich multilingual support
+- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · Latest) - Realtime multimodal AI with rich multilingual support
 - <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · Latest) - Text-to-speech model
 
 ### Speech-to-Text (ASR) Models
@@ -272,19 +286,19 @@ _These tools help improve code quality, security, and documentation through AI-p
 
 ### Search-Enhanced LLMs
 
-_These are large language models with integrated web search capabilities, providing real-time information retrieval, external knowledge, and grounded citations. Rankings based on [LMArena Search Arena](https://lmarena.ai/leaderboard/search)._
+_These are large language models with integrated web search capabilities, providing real-time information retrieval, external knowledge, and grounded citations._
 
-- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a> (**xAI** · Latest) - Search-enhanced LLM ranked #1 in Search Arena (Score: 1166), providing fast and accurate search results
-- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM ranked #2 in Search Arena (Score: 1149), combining search engine with LLM for real-time web retrieval
-- <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a> (**Google** · Latest) - Search-enhanced LLM ranked #3 in Search Arena (Score: 1142), providing real-time information with grounded citations
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM ranked #4 in Search Arena (Score: 1142), providing real-time information retrieval and external knowledge
-- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a> (**xAI** · Latest) - Search-enhanced LLM ranked #5 in Search Arena (Score: 1141), providing fast search capabilities
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM ranked #6 in Search Arena (Score: 1132), providing real-time information retrieval
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM ranked #7 in Search Arena (Score: 1132), providing real-time information with external knowledge
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM ranked #8 in Search Arena (Score: 1130), providing high-quality search results
-- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM ranked #9 in Search Arena (Score: 1127), combining reasoning with search capabilities
-- <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a> (**Diffbot** · Latest) - Search-enhanced LLM ranked #10 in Search Arena (Score: 1023), open-source Apache 2.0 licensed model
-- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM ranked #11 in Search Arena (Score: 1011), providing search capabilities via API
+- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a> (**xAI** · Latest) - Search-enhanced LLM providing fast and accurate search results
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM combining search engine with LLM for real-time web retrieval
+- <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a> (**Google** · Latest) - Search-enhanced LLM providing real-time information with grounded citations
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM providing real-time information retrieval and external knowledge
+- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a> (**xAI** · Latest) - Search-enhanced LLM providing fast search capabilities
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM providing real-time information retrieval
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM providing real-time information with external knowledge
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM providing high-quality search results
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM combining reasoning with search capabilities
+- <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a> (**Diffbot** · Latest) - Search-enhanced LLM, open-source Apache 2.0 licensed model
+- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM providing search capabilities via API
 
 ### AI Search APIs & Infrastructure
 
@@ -389,7 +403,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 1. Fork this repository
 2. Create a new branch (`git checkout -b feature/AddNewProduct`)
-3. Add your product following the [TEMPLATE.md](TEMPLATE.md)
+3. Add your product to the appropriate section in [README.md](README.md) following the existing format
 4. Update the [INDEX.md](INDEX.md) if needed
 5. Commit your changes (`git commit -m 'Add: Product Name'`)
 6. Push to the branch (`git push origin feature/AddNewProduct`)
@@ -401,7 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by <a href="https://github.com/mahseema/awesome-ai-tools" target="_blank">awesome-ai-tools</a>
+Thank you to all contributors and the AI community for their support and feedback.
 - Thanks to all the AI/SaaS creators building amazing products
 
 ---

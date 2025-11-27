@@ -10,12 +10,26 @@
 
 本仓库由 **Kostja** 精心整理和维护。所有内容均为个人精选，并将定期更新最新的 AI 工具和模型。
 
+**欢迎贡献！** 如果您想推荐新的产品或工具，请：
+- 创建 [GitHub Issue](https://github.com/kostja94/awesome-ai-tools/issues)（推荐）
+- 或通过邮件联系：**zyjstc@gmail.com**
+
 本仓库作为 AI/SaaS 产品的个人知识库和分享平台。所有条目都基于真实使用体验，包括：
 
 - **产品信息**：名称、类别、描述和链接
 - **个人见解**：使用体验和评价
 - **增长视角**：从增长营销角度的分析
 - **定价与功能**：关键功能和定价模式
+
+### 数据来源
+
+本仓库的信息来源于多个渠道：
+
+- **LMArena** - 模型排名和性能基准测试
+- **Artificial Analysis** - 全面的 AI 模型评估和比较
+- **大模型回复** - 从大语言模型交互中收集的信息
+- **网络资源** - 官方文档、网站和公开资源
+- **个人从业经验** - 基于 3+ 年 AI/SaaS 增长经验的见解
 
 ## 目录
 
@@ -184,7 +198,7 @@ _这些是基础的文字转语音大模型，可通过 API 调用。许多 AI �
 - <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> (**Microsoft** · 最新版) - 文字转语音大模型
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> (**Amazon** · 最新版) - 文字转语音大模型
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> (**Google** · 最新版) - Google Cloud 的文字转语音服务，提供 Chirp 3: HD、WaveNet 和 Studio 等模型，支持 380+ 种语音和 75+ 种语言
-- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · 最新版) - 在 Artificial Analysis 和 Hugging Face 上排名第一的 TTS，实时多模态 AI，支持丰富的多语言功能
+- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · 最新版) - 实时多模态 AI，支持丰富的多语言功能
 - <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · 最新版) - 文字转语音大模型
 
 ### 语音转文字 (ASR) 大模型
@@ -269,19 +283,19 @@ _这些工具通过 AI 驱动的分析帮助提高代码质量、安全性和文
 
 ### 搜索增强型 LLM
 
-_这些是集成网络搜索功能的大语言模型，提供实时信息检索、外部知识和引用来源。排名基于 [LMArena Search Arena](https://lmarena.ai/leaderboard/search)。_
+_这些是集成网络搜索功能的大语言模型，提供实时信息检索、外部知识和引用来源。_
 
-- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a> (**xAI** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 1（得分：1166），提供快速准确的搜索结果
-- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a> (**Perplexity** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 2（得分：1149），结合搜索引擎与 LLM 实现实时网络检索
-- <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a> (**Google** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 3（得分：1142），提供带引用来源的实时信息
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 4（得分：1142），提供实时信息检索和外部知识
-- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a> (**xAI** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 5（得分：1141），提供快速搜索功能
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 6（得分：1132），提供实时信息检索
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a> (**Anthropic** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 7（得分：1132），提供带外部知识的实时信息
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a> (**Anthropic** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 8（得分：1130），提供高质量搜索结果
-- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a> (**Perplexity** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 9（得分：1127），结合推理与搜索功能
-- <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a> (**Diffbot** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 10（得分：1023），开源 Apache 2.0 许可模型
-- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，在 Search Arena 排名第 11（得分：1011），通过 API 提供搜索功能
+- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a> (**xAI** · 最新版) - 搜索增强型 LLM，提供快速准确的搜索结果
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a> (**Perplexity** · 最新版) - 搜索增强型 LLM，结合搜索引擎与 LLM 实现实时网络检索
+- <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a> (**Google** · 最新版) - 搜索增强型 LLM，提供带引用来源的实时信息
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，提供实时信息检索和外部知识
+- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a> (**xAI** · 最新版) - 搜索增强型 LLM，提供快速搜索功能
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，提供实时信息检索
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a> (**Anthropic** · 最新版) - 搜索增强型 LLM，提供带外部知识的实时信息
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a> (**Anthropic** · 最新版) - 搜索增强型 LLM，提供高质量搜索结果
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a> (**Perplexity** · 最新版) - 搜索增强型 LLM，结合推理与搜索功能
+- <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a> (**Diffbot** · 最新版) - 搜索增强型 LLM，开源 Apache 2.0 许可模型
+- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，通过 API 提供搜索功能
 
 ### AI 搜索 API 与基础设施
 
@@ -386,7 +400,7 @@ _这些是通过自然对话和智能自动化辅助音乐创作、制作和编�
 
 1. Fork 本仓库
 2. 创建新分支 (`git checkout -b feature/AddNewProduct`)
-3. 按照 [TEMPLATE.md](TEMPLATE.md) 添加您的产品
+3. 按照现有格式在 [README.md](README.md) 中添加您的产品
 4. 如需要，更新 [INDEX.md](INDEX.md)
 5. 提交更改 (`git commit -m 'Add: 产品名称'`)
 6. 推送到分支 (`git push origin feature/AddNewProduct`)
@@ -398,7 +412,7 @@ _这些是通过自然对话和智能自动化辅助音乐创作、制作和编�
 
 ## 致谢
 
-- 灵感来源于 <a href="https://github.com/mahseema/awesome-ai-tools" target="_blank">awesome-ai-tools</a>
+感谢所有贡献者和 AI 社区的支持与反馈。
 - 感谢所有构建出色产品的 AI/SaaS 创作者
 
 ---
