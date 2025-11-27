@@ -27,12 +27,6 @@ Quick reference index of all products in this repository.
 
 ## By Category
 
-### Editor's Choice
-- _Coming soon_
-
-### AI Text Tools
-- _Coming soon_
-
 ### Large Language Models (LLMs)
 - <a href="https://gemini.google.com/" target="_blank">Gemini</a>
 - <a href="https://x.ai/" target="_blank">Grok</a>
@@ -115,22 +109,33 @@ Quick reference index of all products in this repository.
 - <a href="https://runwayml.com/" target="_blank">Runway Gen</a>
 
 ### AI Audio Tools
-- _Coming soon_
 
-### SaaS Marketing Tools
-- _Coming soon_
+#### Text-to-Speech (TTS) Models
+- <a href="https://elevenlabs.io/" target="_blank">ElevenLabs</a>
+- <a href="https://fish.audio/" target="_blank">Fish Studio</a>
+- <a href="https://www.sesame.com/" target="_blank">Sesame</a>
+- <a href="https://platform.openai.com/docs/guides/text-to-speech" target="_blank">OpenAI TTS</a>
+- <a href="https://www.minimax.io/audio" target="_blank">MiniMax Audio</a>
+- <a href="https://cartesia.ai/" target="_blank">Cartesia</a>
+- <a href="https://speechify.com/" target="_blank">Speechify</a>
+- <a href="https://www.resemble.ai/" target="_blank">Resemble AI</a>
+- <a href="https://www.hume.ai/" target="_blank">Hume</a>
+- <a href="https://play.ht/" target="_blank">Play AI</a>
+- <a href="https://www.zyphra.com/" target="_blank">Zyphra</a>
+- <a href="https://murf.ai/" target="_blank">Murf</a>
+- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a>
+- <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a>
+- <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a>
+- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a>
+- <a href="https://stepfun.com/" target="_blank">StepFun TTS</a>
 
-### SaaS Productivity Tools
-- _Coming soon_
-
-### SaaS Analytics Tools
-- _Coming soon_
-
-### Developer Tools
-- _Coming soon_
-
-### Other AI/SaaS Tools
-- _Coming soon_
+#### Music Generation Models
+- <a href="https://suno.ai/" target="_blank">Suno</a>
+- <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a>
+- <a href="https://udio.com/" target="_blank">Udio</a>
+- <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a>
+- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a>
+- <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a>
 
 ---
 

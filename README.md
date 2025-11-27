@@ -19,22 +19,12 @@ This repository serves as a personal knowledge base and sharing platform for AI/
 
 ## Contents
 
-- 🌟 [Editor's Choice](#editors-choice)
 - 🤖 [Large Language Models (LLMs)](#large-language-models-llms)
 - 🖼️ [AI Image Tools](#ai-image-tools)
 - 📽️ [AI Video Tools](#ai-video-tools)
 - 🎶 [AI Audio Tools](#ai-audio-tools)
-- 💼 [SaaS Marketing Tools](#saas-marketing-tools)
-- 🎯 [SaaS Productivity Tools](#saas-productivity-tools)
-- 📊 [SaaS Analytics Tools](#saas-analytics-tools)
-- 🔧 [Developer Tools](#developer-tools)
-- 💡 [Other AI/SaaS Tools](#other-aisaas-tools)
-
-## Editor's Choice
-
-_Curated selection of the most impactful and useful tools_
-
-<!-- Add your editor's choice products here -->
+  - [Text-to-Speech (TTS) Models](#text-to-speech-tts-models)
+  - [Music Generation Models](#music-generation-models)
 
 ## Large Language Models (LLMs)
 
@@ -134,27 +124,38 @@ _These are foundational image-to-video generation models that can be accessed vi
 
 ## AI Audio Tools
 
-<!-- Add AI audio generation, voice cloning, and music tools here -->
+### Text-to-Speech (TTS) Models
 
-## SaaS Marketing Tools
+_These are foundational text-to-speech models that can be accessed via API. Many AI audio applications are built on top of these models._
 
-<!-- Add marketing, SEO, and growth tools here -->
+- <a href="https://elevenlabs.io/" target="_blank">ElevenLabs</a> (**ElevenLabs** · Latest) - Industry-leading AI voice synthesis platform, generating natural voices for podcasts, dubbing, and more
+- <a href="https://fish.audio/" target="_blank">Fish Studio</a> (**Fish Studio** · Latest) - Text-to-speech model
+- <a href="https://www.sesame.com/" target="_blank">Sesame</a> (**Sesame** · Latest) - Text-to-speech model
+- <a href="https://platform.openai.com/docs/guides/text-to-speech" target="_blank">OpenAI TTS</a> (**OpenAI** · Latest) - Text-to-speech model
+- <a href="https://www.minimax.io/audio" target="_blank">MiniMax Audio</a> (**MiniMax** · Latest) - Text-to-speech model
+- <a href="https://cartesia.ai/" target="_blank">Cartesia</a> (**Cartesia** · Latest) - Text-to-speech model
+- <a href="https://speechify.com/" target="_blank">Speechify</a> (**Speechify** · Latest) - Top-tier text-to-speech tool supporting 200+ natural voices, OCR document reading, reading speed up to 4.5×
+- <a href="https://www.resemble.ai/" target="_blank">Resemble AI</a> (**Resemble AI** · Latest) - AI company focused on generating human voices
+- <a href="https://www.hume.ai/" target="_blank">Hume</a> (**Hume** · Latest) - Text-to-speech model
+- <a href="https://play.ht/" target="_blank">Play AI</a> (**Play AI** · Latest) - Text-to-speech model
+- <a href="https://www.zyphra.com/" target="_blank">Zyphra</a> (**Zyphra** · Latest) - Text-to-speech model
+- <a href="https://murf.ai/" target="_blank">Murf</a> (**Murf** · Latest) - Text-to-speech model
+- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> (**Microsoft** · Latest) - Text-to-speech model
+- <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> (**Amazon** · Latest) - Text-to-speech model
+- <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> (**Google** · Latest) - Google Cloud's text-to-speech service with Chirp 3: HD, WaveNet, and Studio models supporting 380+ voices across 75+ languages
+- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · Latest) - #1 ranked TTS on Artificial Analysis and Hugging Face, realtime multimodal AI with rich multilingual support
+- <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · Latest) - Text-to-speech model
 
-## SaaS Productivity Tools
+### Music Generation Models
 
-<!-- Add productivity, collaboration, and workflow tools here -->
+_These are foundational music generation models that can be accessed via API. Many AI music applications are built on top of these models._
 
-## SaaS Analytics Tools
-
-<!-- Add analytics, tracking, and data tools here -->
-
-## Developer Tools
-
-<!-- Add developer-focused AI/SaaS tools here -->
-
-## Other AI/SaaS Tools
-
-<!-- Add other categories as needed -->
+- <a href="https://suno.ai/" target="_blank">Suno</a> (**Suno** · V4.5) - AI music generator that creates high-quality songs from text prompts, supporting vocals and multiple genres
+- <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a> (**ElevenLabs** · Latest) - Studio-quality AI music generator that creates tracks instantly in any genre or style, with or without vocals
+- <a href="https://udio.com/" target="_blank">Udio</a> (**Udio** · v1.5 Allegro) - AI music generator that creates personalized music for any moment, supporting extension, remixing, and stem extraction
+- <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.0) - Text-to-audio generation model for creating music and sound effects
+- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google's music generation model integrated with YouTube
+- <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · Latest) - Meta's open-source music generation model
 
 ---
 

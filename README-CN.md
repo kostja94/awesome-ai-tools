@@ -19,22 +19,12 @@
 
 ## 目录
 
-- 🌟 [编辑推荐](#编辑推荐)
 - 🤖 [大语言模型 (LLMs)](#大语言模型-llms)
 - 🖼️ [AI 图像工具](#ai-图像工具)
 - 📽️ [AI 视频工具](#ai-视频工具)
 - 🎶 [AI 音频工具](#ai-音频工具)
-- 💼 [SaaS 营销工具](#saas-营销工具)
-- 🎯 [SaaS 生产力工具](#saas-生产力工具)
-- 📊 [SaaS 分析工具](#saas-分析工具)
-- 🔧 [开发者工具](#开发者工具)
-- 💡 [其他 AI/SaaS 工具](#其他-aisaas-工具)
-
-## 编辑推荐
-
-_精选最具影响力和实用性的工具_
-
-<!-- 在此添加编辑推荐的产品 -->
+  - [文字转语音 (TTS) 大模型](#文字转语音-tts-大模型)
+  - [音乐生成大模型](#音乐生成大模型)
 
 ## 大语言模型 (LLMs)
 
@@ -134,27 +124,38 @@ _这些是基础的图生视频大模型，可通过 API 调用。许多 AI 视�
 
 ## AI 音频工具
 
-<!-- 在此添加 AI 音频生成、声音克隆和音乐工具 -->
+### 文字转语音 (TTS) 大模型
 
-## SaaS 营销工具
+_这些是基础的文字转语音大模型，可通过 API 调用。许多 AI 音频应用都是基于这些模型构建的。_
 
-<!-- 在此添加营销、SEO 和增长工具 -->
+- <a href="https://elevenlabs.io/" target="_blank">ElevenLabs</a> (**ElevenLabs** · 最新版) - 业界领先的 AI 语音合成平台，生成自然语音用于播客、配音等
+- <a href="https://fish.audio/" target="_blank">Fish Studio</a> (**Fish Studio** · 最新版) - 文字转语音大模型
+- <a href="https://www.sesame.com/" target="_blank">Sesame</a> (**Sesame** · 最新版) - 文字转语音大模型
+- <a href="https://platform.openai.com/docs/guides/text-to-speech" target="_blank">OpenAI TTS</a> (**OpenAI** · 最新版) - 文字转语音大模型
+- <a href="https://www.minimax.io/audio" target="_blank">MiniMax Audio</a> (**MiniMax** · 最新版) - 文字转语音大模型
+- <a href="https://cartesia.ai/" target="_blank">Cartesia</a> (**Cartesia** · 最新版) - 文字转语音大模型
+- <a href="https://speechify.com/" target="_blank">Speechify</a> (**Speechify** · 最新版) - 顶级文字转语音工具，支持200+自然语音，OCR读取文档，读速提升至4.5×
+- <a href="https://www.resemble.ai/" target="_blank">Resemble AI</a> (**Resemble AI** · 最新版) - 专注于生成人声的人工智能公司
+- <a href="https://www.hume.ai/" target="_blank">Hume</a> (**Hume** · 最新版) - 文字转语音大模型
+- <a href="https://play.ht/" target="_blank">Play AI</a> (**Play AI** · 最新版) - 文字转语音大模型
+- <a href="https://www.zyphra.com/" target="_blank">Zyphra</a> (**Zyphra** · 最新版) - 文字转语音大模型
+- <a href="https://murf.ai/" target="_blank">Murf</a> (**Murf** · 最新版) - 文字转语音大模型
+- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> (**Microsoft** · 最新版) - 文字转语音大模型
+- <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> (**Amazon** · 最新版) - 文字转语音大模型
+- <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> (**Google** · 最新版) - Google Cloud 的文字转语音服务，提供 Chirp 3: HD、WaveNet 和 Studio 等模型，支持 380+ 种语音和 75+ 种语言
+- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · 最新版) - 在 Artificial Analysis 和 Hugging Face 上排名第一的 TTS，实时多模态 AI，支持丰富的多语言功能
+- <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · 最新版) - 文字转语音大模型
 
-## SaaS 生产力工具
+### 音乐生成大模型
 
-<!-- 在此添加生产力、协作和工作流工具 -->
+_这些是基础的音乐生成大模型，可通过 API 调用。许多 AI 音乐应用都是基于这些模型构建的。_
 
-## SaaS 分析工具
-
-<!-- 在此添加分析、跟踪和数据工具 -->
-
-## 开发者工具
-
-<!-- 在此添加面向开发者的 AI/SaaS 工具 -->
-
-## 其他 AI/SaaS 工具
-
-<!-- 根据需要添加其他类别 -->
+- <a href="https://suno.ai/" target="_blank">Suno</a> (**Suno** · V4.5) - AI 音乐生成器，从文本提示创建高质量歌曲，支持人声和多种流派
+- <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a> (**ElevenLabs** · 最新版) - 录音室级 AI 音乐生成器，可即时创建任何流派或风格的音乐，支持有/无人声
+- <a href="https://udio.com/" target="_blank">Udio</a> (**Udio** · v1.5 Allegro) - AI 音乐生成器，为任何时刻创建个性化音乐，支持扩展、混音和音轨提取
+- <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.0) - 文本转音频生成模型，用于创建音乐和音效
+- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google 的音乐生成模型，与 YouTube 集成
+- <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · 最新版) - Meta 的开源音乐生成模型
 
 ---
 
