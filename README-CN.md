@@ -20,6 +20,7 @@
 ## 目录
 
 - 🤖 [大语言模型 (LLMs)](#大语言模型-llms)
+  - [通用大语言模型](#通用大语言模型)
   - [Web 开发 LLM](#web-开发-llm)
 - 🖼️ [AI 图像工具](#ai-图像工具)
   - [文生图大模型](#文生图大模型)
@@ -46,22 +47,6 @@
 
 ## 大语言模型 (LLMs)
 
-### Web 开发 LLM
-
-_这些是专门针对 Web 开发任务优化的大语言模型。排名基于 [LMArena WebDev Leaderboard](https://lmarena.ai/leaderboard/webdev)。_
-
-- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a> (**Anthropic** · 20251101) - 在 WebDev Arena 排名第 1-2（得分：1479-1493），针对 Web 开发任务优化，具备思考能力
-- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a> (**Google** · 最新版) - 在 WebDev Arena 排名第 3（得分：1473），针对 Web 开发优化的多模态模型
-- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a> (**OpenAI** · 最新版) - 在 WebDev Arena 排名第 4（得分：1399），针对 Web 开发任务优化
-- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a> (**Anthropic** · 20250929) - 在 WebDev Arena 排名第 5-8（得分：1387-1397），针对 Web 开发优化，具备思考能力
-- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a> (**OpenAI** · 最新版) - 在 WebDev Arena 排名第 6-11（得分：1358-1395），先进的 Web 开发模型
-- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a> (**Z.ai** · 最新版) - 在 WebDev Arena 排名第 9（得分：1370），开源 MIT 许可模型，针对编码优化
-- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - 在 WebDev Arena 排名第 10（得分：1358），针对 Web 开发任务优化
-- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a> (**OpenAI** · 最新版) - 在 WebDev Arena 排名第 12（得分：1340），专门的代码生成模型
-- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a> (**MiniMax** · 最新版) - 在 WebDev Arena 排名第 13（得分：1321），开源 Apache 2.0 许可模型
-- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a> (**DeepSeek AI** · Exp) - 在 WebDev Arena 排名第 14（得分：1294），开源 MIT 许可模型
-- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a> (**Alibaba** · 480B) - 在 WebDev Arena 排名第 15（得分：1293），专门的编码模型，Apache 2.0 许可
-
 ### 通用大语言模型
 
 _这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都是基于这些模型构建的。_
@@ -80,6 +65,22 @@ _这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都�
 - <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · 最新版) - 法国开源 LLM 新势力，Mistral 推理模型强化链式思维能力
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> (**Google** · 最新版) - 大语言模型
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> (**Aleph Alpha** · 最新版) - 强人工智能技术研发，支持多语言文本和图像分析
+
+### Web 开发 LLM
+
+_这些是针对 Web 开发任务优化的大语言模型，可通过 API 调用。许多 AI 编程应用都是基于这些模型构建的。_
+
+- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a> (**Anthropic** · 20251101) - 针对 Web 开发任务优化，具备思考能力
+- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a> (**Google** · 最新版) - 针对 Web 开发优化的多模态模型
+- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a> (**OpenAI** · 最新版) - 针对 Web 开发任务优化
+- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a> (**Anthropic** · 20250929) - 针对 Web 开发优化，具备思考能力
+- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a> (**OpenAI** · 最新版) - 先进的 Web 开发模型
+- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a> (**Z.ai** · 最新版) - 开源 MIT 许可模型，针对编码优化
+- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - 针对 Web 开发任务优化
+- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a> (**OpenAI** · 最新版) - 专门的代码生成模型
+- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a> (**MiniMax** · 最新版) - 开源 Apache 2.0 许可模型
+- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a> (**DeepSeek AI** · Exp) - 开源 MIT 许可模型
+- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a> (**Alibaba** · 480B) - 专门的编码模型，Apache 2.0 许可
 
 ## AI 图像工具
 

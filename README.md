@@ -20,6 +20,7 @@ This repository serves as a personal knowledge base and sharing platform for AI/
 ## Contents
 
 - 🤖 [Large Language Models (LLMs)](#large-language-models-llms)
+  - [General Purpose LLMs](#general-purpose-llms)
   - [Web Development LLMs](#web-development-llms)
 - 👁️ [Vision Models](#vision-models)
   - [Vision-Language Models (VLMs)](#vision-language-models-vlms)
@@ -49,22 +50,6 @@ This repository serves as a personal knowledge base and sharing platform for AI/
 
 ## Large Language Models (LLMs)
 
-### Web Development LLMs
-
-_These are large language models specifically optimized for web development tasks. Rankings based on [LMArena WebDev Leaderboard](https://lmarena.ai/leaderboard/webdev)._
-
-- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a> (**Anthropic** · 20251101) - Ranked #1-2 in WebDev Arena (Score: 1479-1493), optimized for web development tasks with thinking capabilities
-- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a> (**Google** · Latest) - Ranked #3 in WebDev Arena (Score: 1473), multimodal model optimized for web development
-- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a> (**OpenAI** · Latest) - Ranked #4 in WebDev Arena (Score: 1399), optimized for web development tasks
-- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a> (**Anthropic** · 20250929) - Ranked #5-8 in WebDev Arena (Score: 1387-1397), optimized for web development with thinking capabilities
-- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a> (**OpenAI** · Latest) - Ranked #6-11 in WebDev Arena (Score: 1358-1395), advanced model for web development
-- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a> (**Z.ai** · Latest) - Ranked #9 in WebDev Arena (Score: 1370), open-source MIT licensed model optimized for coding
-- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - Ranked #10 in WebDev Arena (Score: 1358), optimized for web development tasks
-- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a> (**OpenAI** · Latest) - Ranked #12 in WebDev Arena (Score: 1340), specialized code generation model
-- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a> (**MiniMax** · Latest) - Ranked #13 in WebDev Arena (Score: 1321), open-source Apache 2.0 licensed model
-- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a> (**DeepSeek AI** · Exp) - Ranked #14 in WebDev Arena (Score: 1294), open-source MIT licensed model
-- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a> (**Alibaba** · 480B) - Ranked #15 in WebDev Arena (Score: 1293), specialized coding model with Apache 2.0 license
-
 ### General Purpose LLMs
 
 _These are foundational large language models that can be accessed via API. Many AI applications are built on top of these models._
@@ -83,6 +68,22 @@ _These are foundational large language models that can be accessed via API. Many
 - <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · Latest) - French open-source LLM innovator, Mistral models enhance chain-of-thought reasoning
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> (**Google** · Latest) - Large language model
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> (**Aleph Alpha** · Latest) - Strong AI technology research, supporting multilingual text and image analysis
+
+### Web Development LLMs
+
+_These are large language models optimized for web development tasks that can be accessed via API. Many AI coding applications are built on top of these models._
+
+- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a> (**Anthropic** · 20251101) - Optimized for web development tasks with thinking capabilities
+- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a> (**Google** · Latest) - Multimodal model optimized for web development
+- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a> (**OpenAI** · Latest) - Optimized for web development tasks
+- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a> (**Anthropic** · 20250929) - Optimized for web development with thinking capabilities
+- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a> (**OpenAI** · Latest) - Advanced model for web development
+- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a> (**Z.ai** · Latest) - Open-source MIT licensed model optimized for coding
+- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - Optimized for web development tasks
+- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a> (**OpenAI** · Latest) - Specialized code generation model
+- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a> (**MiniMax** · Latest) - Open-source Apache 2.0 licensed model
+- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a> (**DeepSeek AI** · Exp) - Open-source MIT licensed model
+- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a> (**Alibaba** · 480B) - Specialized coding model with Apache 2.0 license
 
 ## AI Image Tools
 
