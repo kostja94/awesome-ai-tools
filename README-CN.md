@@ -2,34 +2,9 @@
 
 # Awesome AI Tools
 
-> 精选的 AI/SaaS 产品列表，包含个人见解和增长视角
+> 精选的 AI/SaaS 产品列表
 
-欢迎来到 Awesome AI Tools！这是一个由 **Kostja** 精心整理的 AI 和 SaaS 产品集合，基于 3+ 年 AI/SaaS 增长经验。本仓库会定期更新最新的工具和模型。每个产品都包含个人见解、使用体验和增长视角。
-
-## 关于
-
-本仓库由 **Kostja** 精心整理和维护。所有内容均为个人精选，并将定期更新最新的 AI 工具和模型。
-
-**欢迎贡献！** 如果您想推荐新的产品或工具，请：
-- 创建 [GitHub Issue](https://github.com/kostja94/awesome-ai-tools/issues)（推荐）
-- 或通过邮件联系：**zyjstc@gmail.com**
-
-本仓库作为 AI/SaaS 产品的个人知识库和分享平台。所有条目都基于真实使用体验，包括：
-
-- **产品信息**：名称、类别、描述和链接
-- **个人见解**：使用体验和评价
-- **增长视角**：从增长营销角度的分析
-- **定价与功能**：关键功能和定价模式
-
-### 数据来源
-
-本仓库的信息来源于多个渠道：
-
-- **LMArena** - 模型排名和性能基准测试
-- **Artificial Analysis** - 全面的 AI 模型评估和比较
-- **大模型回复** - 从大语言模型交互中收集的信息
-- **网络资源** - 官方文档、网站和公开资源
-- **个人从业经验** - 基于 3+ 年 AI/SaaS 增长经验的见解
+精选的 AI 和 SaaS 产品集合，定期更新最新的工具和模型。
 
 ## 目录
 
@@ -64,15 +39,24 @@
 - 🎨 [AI 3D 模型生成](#ai-3d-模型生成)
   - [文本到 3D 模型](#文本到-3d-模型)
   - [图像到 3D 模型](#图像到-3d-模型)
+  - [3D 电商平台](#3d-电商平台)
+  - [无代码 3D 创作工具](#无代码-3d-创作工具)
+  - [3D CAD 与制造工具](#3d-cad-与制造工具)
+  - [概念艺术与创意工具](#概念艺术与创意工具)
 - 💬 [AI 聊天机器人](#ai-聊天机器人)
   - [角色聊天机器人](#角色聊天机器人)
   - [NSFW 聊天机器人](#nsfw-聊天机器人)
   - [专业聊天机器人](#专业聊天机器人)
 - 🤖 [AI 代理](#ai-代理)
 - 🏭 [应用开发工厂](#应用开发工厂)
-  - [视频剪辑代理](#视频剪辑代理)
-  - [设计代理](#设计代理)
-  - [音乐代理](#音乐代理)
+- 💼 [AI 招聘与求职](#ai-招聘与求职)
+  - [面向招聘者](#面向招聘者)
+  - [面向求职者](#面向求职者)
+  - [通用平台](#通用平台)
+- 📊 [AI 数据工具](#ai-数据工具)
+  - [数据标注](#数据标注)
+  - [数据分析](#数据分析)
+  - [合成数据](#合成数据)
 
 ## 大语言模型 (LLMs)
 
@@ -396,6 +380,8 @@ _这些是基础的 AI 3D 模型生成工具，可以从文本提示生成 3D �
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · 最新版) - 从文本提示和图像生成多样化的 3D 模型，适合快速原型设计和概念开发
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · 最新版) - 从文本提示和图像生成高质量 3D 模型，支持多种导出格式
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
+- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> (**Alpha3D** · 最新版) - 将文本或 2D 图像一键转成游戏级 3D 资产，含 Unity 开发支持
+- <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> (**NVIDIA Research** · 最新版) - 高分辨率文本到 3D 内容生成模型，用于图形和视觉技术研究
 
 ### 图像到 3D 模型
 
@@ -406,6 +392,32 @@ _这些是基础的 AI 3D 模型生成工具，可以从 2D 图像生成 3D 模�
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · 最新版) - 从文本提示和图像生成多样化的 3D 模型，适合快速原型设计和概念开发
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · 最新版) - 从文本提示和图像生成高质量 3D 模型，支持多种导出格式
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
+
+### 3D 电商平台
+
+_这些平台专注于为电商应用创建和管理 3D 内容，帮助企业以 3D 形式展示产品。_
+
+- <a href="https://www.hexa3d.io/" target="_blank">Hexa</a> (**Hexa** · 最新版) - 3D 电商平台，提供完整的 3D 技术栈，用于创建、管理、分析和分发 3D 资产，提升在线购物体验
+
+### 无代码 3D 创作工具
+
+_这些是无代码平台，使用户能够创建、编辑和协作 3D 内容，无需编程知识。_
+
+- <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> (**Eufymake** · 最新版) - 无代码 AI 3D 创作工具，快速生成、编辑并协作高质量场景
+- <a href="https://www.intangible.ai/" target="_blank">Intangible.ai</a> (**Intangible.ai** · 最新版) - 无代码 AI 3D 创作平台，快速生成、编辑并协作高质量场景
+
+### 3D CAD 与制造工具
+
+_这些工具专注于将 3D 扫描转换为 CAD 模型，并集成 3D 打印和制造工作流程。_
+
+- <a href="https://www.backflip.ai/" target="_blank">Backflip</a> (**Backflip** · 最新版) - AI 一键将 3D 扫描转为 CAD 模型
+- <a href="https://ai-build.com/" target="_blank">AI Build</a> (**AI Build** · 最新版) - 融合 3D 打印与 CNC 的制造平台
+
+### 概念艺术与创意工具
+
+_这些工具专为概念艺术家和从事 3D 内容创作的创意专业人士设计。_
+
+- <a href="https://mirageml.com/" target="_blank">Mirage</a> (**Mirage** · 最新版) - 为概念艺术家提供创作工具，支持 3D 内容生成
 
 ## AI 聊天机器人
 
@@ -479,21 +491,87 @@ _这些是作为"应用工厂"或"产品工作室"运营的公司，构建和运
 - <a href="https://hubx.com/" target="_blank">HUBX</a> (**HUBX** · 最新版) - 全球化科技孵化器，构建 AI 驱动移动 App 并支持团队协作与资源共享
 - <a href="https://www.mobiversite.com/" target="_blank">Mobiversite</a> (**Mobiversite** · 最新版) - 专注于移动应用开发和发行的公司，致力于为全球用户提供高质量的应用产品
 
+## AI 招聘与求职
+
+### 面向招聘者
+
+_这些是专为招聘者和招聘经理设计的 AI 工具，帮助简化招聘流程，从职位发布到候选人筛选和管理。_
+
+- <a href="https://www.moonhub.ai/" target="_blank">Moonhub</a> (**Moonhub** · 最新版) - AI 招聘助手，自动筛选面试并促进公平匹配
+- <a href="https://mercor.com/" target="_blank">Mercor</a> (**Mercor** · 最新版) - AI 驱动招聘平台，生成匹配、面试及支付流程
+- <a href="https://joinbrix.com/" target="_blank">Brix</a> (**Brix** · 最新版) - AI 自动生成 JD、筛选候选人及预审
+- <a href="https://www.carv.com/" target="_blank">Carv</a> (**Carv** · 最新版) - 为招聘者自动处理流程并更新 ATS 系统
+
+### 面向求职者
+
+_这些是专为求职者设计的 AI 工具，帮助寻找机会、优化申请并准备面试。_
+
+- <a href="https://www.thecorrelate.com" target="_blank">Correlate AI</a> (**Correlate AI** · 最新版) - 一键自动投简历，定制并投递匹配岗位
+- <a href="https://helloboss.com/" target="_blank">Hello Boss</a> (**Hello Boss** · 最新版) - AI 职位推荐和一键生成履历日式招聘应用
+- <a href="https://jobright.ai/" target="_blank">Jobright</a> (**Jobright** · 最新版) - AI 求职副驾驶，智能匹配并一键申请
+- <a href="https://himalayas.app/" target="_blank">Himalayas</a> (**Himalayas** · 最新版) - 远程/AI 职位平台，匹配职位并生成简历封信
+- <a href="https://nodeflair.com/" target="_blank">NODEFLAIR</a> (**NODEFLAIR** · 最新版) - 东南亚技术职业平台，简历工具+职位/工资透明
+- <a href="https://www.senseicopilot.com/" target="_blank">Sensei AI</a> (**Sensei AI** · 最新版) - 浏览器面试伴侣，实时生成结构化答案
+- <a href="https://www.finalroundai.com/" target="_blank">Final Round AI</a> (**Final Round AI** · 最新版) - AI 面试助手，自动生成简历，进行模拟面试
+- <a href="https://www.lockedinai.com/" target="_blank">Lockedin AI</a> (**Lockedin AI** · 最新版) - 实时面试/会议助手，提供语音反馈和答案建议
+- <a href="https://www.vervecopilot.com/" target="_blank">Verve AI</a> (**Verve AI** · 最新版) - AI 面试陪练助手，实时建议+冷邮和简历优化
+
+### 通用平台
+
+_这些平台同时为招聘者和求职者提供全面的招聘和求职解决方案。_
+
+- <a href="https://clado.ai/" target="_blank">Clado AI</a> (**Clado AI** · 最新版) - AI 驱动的招聘和求职平台
+
+## AI 数据工具
+
+### 数据标注
+
+_这些是用于数据标注、标记和管理的 AI 平台和服务，以支持机器学习模型训练。_
+
+- <a href="https://scale.com/" target="_blank">Scale AI</a> (**Scale AI** · 最新版) - AI 驱动的数据标注平台，为机器学习模型提供高质量的训练数据
+- <a href="https://www.turing.com/" target="_blank">Turing</a> (**Turing** · 最新版) - AI 驱动远程开发者平台，自动匹配和管理全球软件工程师
+- <a href="https://snorkel.ai/" target="_blank">Snorkel</a> (**Snorkel** · 最新版) - 数据中心 AI 平台，将专业知识快速转成训练数据
+- <a href="https://www.superannotate.com/" target="_blank">SuperAnnotate</a> (**SuperAnnotate** · 最新版) - 高效 AI 数据标注与管理平台，适用于模型训练
+- <a href="https://www.coactive.ai/" target="_blank">Coactive</a> (**Coactive** · 最新版) - 多模态视觉内容平台，AI 自动标签、检索与分析图像/视频
+- <a href="https://www.appen.com/" target="_blank">Appen</a> (**Appen** · 最新版) - 人机结合的企业级 AI 数据采集、清洗与标注平台
+- <a href="https://www.surgehq.ai/" target="_blank">Surge</a> (**Surge** · 最新版) - 全球高技能众包标注平台，为生成式 AI 提供训练数据
+- <a href="https://dataloop.ai/" target="_blank">Dataloop</a> (**Dataloop** · 最新版) - 端到端 AI 数据管理与标注平台，支持可视化和流水线自动化
+- <a href="https://www.v7labs.com/" target="_blank">V7</a> (**V7** · 最新版) - AI 驱动的图像/视频数据标注平台，支持自动分割与流程协作
+
+### 数据分析
+
+_这些是通过对话界面和自动化洞察进行数据分析、商业智能和预测建模的 AI 工具。_
+
+- <a href="https://julius.ai/" target="_blank">Julius</a> (**Julius** · 最新版) - 对数据进行对话式分析与预测建模的 AI 数据分析师
+- <a href="https://datasquirrel.ai/" target="_blank">DataSquirrel</a> (**DataSquirrel** · 最新版) - 无代码 BI 工具，自动清洗、分析并可视化数据
+- <a href="https://datachat.ai/" target="_blank">DataChat</a> (**DataChat** · 最新版) - 无需编码即能通过聊天查询并洞察数据的生成式分析平台
+- <a href="https://vizly.fyi/" target="_blank">Vizly</a> (**Vizly** · 最新版) - AI 数据分析师，支持聊天查询并自动生成可视化报告
+- <a href="https://www.morphdb.io/" target="_blank">Morph</a> (**Morph** · 最新版) - 一体化 No‑Code 数据工作室，结合表格、数据库与 AI 分析
+- <a href="https://datagpt.com/" target="_blank">DataGPT</a> (**DataGPT** · 最新版) - 对话式 AI 数据分析师，实时提供业务数据洞察
+- <a href="https://www.kater.ai/" target="_blank">Kater</a> (**Kater** · 最新版) - 企业 AI 报告平台，一问直达决策洞察与分析流程
+- <a href="https://deepnote.com/" target="_blank">Deepnote</a> (**Deepnote** · 最新版) - 云端协作数据科学笔记本，AI 驱动代码、查询与可视化
+- <a href="https://www.thoughtspot.com/" target="_blank">ThoughtSpot</a> (**ThoughtSpot** · 最新版) - AI 驱动分析工具，通过自然语言查询企业数据
+
+### 合成数据
+
+_这些平台生成合成数据用于训练 AI 模型，同时保护隐私并解决数据稀缺挑战。_
+
+- <a href="https://aindo.com" target="_blank">Aindo</a> (**Aindo** · 最新版) - 数据科技公司，利用人工智能技术生成合成数据
+- <a href="https://gretel.ai" target="_blank">Gretel AI</a> (**Gretel AI** · 最新版) - 提供合成数据平台的企业，专注于隐私保护的数据生成解决方案
+- <a href="https://www.syntho.ai" target="_blank">Syntho</a> (**Syntho** · 最新版) - 数据技术公司，专注于利用人工智能生成合成数据
+- <a href="https://mostly.ai" target="_blank">Mostly AI</a> (**Mostly AI** · 最新版) - 合成数据生成器和知识中心，专注于隐私保护的数据生成
+- <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a> (**Tonic.ai** · 最新版) - 数据技术公司，专注于利用人工智能和机器学习生成合成数据
+- <a href="https://hazy.com" target="_blank">Hazy</a> (**Hazy** · 最新版) - 专注于合成数据领域的公司，提供隐私保护的数据生成解决方案
+
 ---
 
-## 贡献
+## 关于
 
-欢迎贡献！请随时提交 Pull Request 或打开 Issue。
+由 **<a href="https://alignify.co" target="_blank">Kostja</a>** 精心整理和维护。欢迎通过 [GitHub Issues](https://github.com/kostja94/awesome-ai-tools/issues) 或邮件 **zyjstc@gmail.com** 贡献
 
-### 如何贡献
+### 数据来源
 
-1. Fork 本仓库
-2. 创建新分支 (`git checkout -b feature/AddNewProduct`)
-3. 按照现有格式在 [README.md](README.md) 中添加您的产品
-4. 如需要，更新 [INDEX.md](INDEX.md)
-5. 提交更改 (`git commit -m 'Add: 产品名称'`)
-6. 推送到分支 (`git push origin feature/AddNewProduct`)
-7. 打开 Pull Request
+本仓库的信息来源于多个渠道，包括 LMArena（模型排名和性能基准测试）、Artificial Analysis（全面的 AI 模型评估和比较）、大模型回复、网络资源（官方文档、网站和公开资源）以及个人从业经验。
 
 ## 许可证
 

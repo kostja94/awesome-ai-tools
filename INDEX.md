@@ -283,6 +283,8 @@ Quick reference index of all products in this repository.
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a>
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a>
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a>
+- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a>
+- <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a>
 
 #### Image-to-3D Models
 - <a href="https://www.kaedim3d.com/" target="_blank">Kaedim</a>
@@ -290,6 +292,20 @@ Quick reference index of all products in this repository.
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a>
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a>
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a>
+
+#### 3D E-commerce Platforms
+- <a href="https://www.hexa3d.io/" target="_blank">Hexa</a>
+
+#### No-Code 3D Creation Tools
+- <a href="https://www.eufymake.com/" target="_blank">Eufymake</a>
+- <a href="https://www.intangible.ai/" target="_blank">Intangible.ai</a>
+
+#### 3D CAD & Manufacturing Tools
+- <a href="https://www.backflip.ai/" target="_blank">Backflip</a>
+- <a href="https://ai-build.com/" target="_blank">AI Build</a>
+
+#### Concept Art & Creative Tools
+- <a href="https://mirageml.com/" target="_blank">Mirage</a>
 
 ### AI Chatbots
 
@@ -341,6 +357,60 @@ Quick reference index of all products in this repository.
 - <a href="https://aiby.com/" target="_blank">AIBY</a>
 - <a href="https://hubx.com/" target="_blank">HUBX</a>
 - <a href="https://www.mobiversite.com/" target="_blank">Mobiversite</a>
+
+### AI Recruitment & Job Search
+
+#### For Recruiters
+- <a href="https://www.moonhub.ai/" target="_blank">Moonhub</a>
+- <a href="https://mercor.com/" target="_blank">Mercor</a>
+- <a href="https://joinbrix.com/" target="_blank">Brix</a>
+- <a href="https://www.carv.com/" target="_blank">Carv</a>
+
+#### For Job Seekers
+- <a href="https://www.thecorrelate.com" target="_blank">Correlate AI</a>
+- <a href="https://helloboss.com/" target="_blank">Hello Boss</a>
+- <a href="https://jobright.ai/" target="_blank">Jobright</a>
+- <a href="https://himalayas.app/" target="_blank">Himalayas</a>
+- <a href="https://nodeflair.com/" target="_blank">NODEFLAIR</a>
+- <a href="https://www.senseicopilot.com/" target="_blank">Sensei AI</a>
+- <a href="https://www.finalroundai.com/" target="_blank">Final Round AI</a>
+- <a href="https://www.lockedinai.com/" target="_blank">Lockedin AI</a>
+- <a href="https://www.vervecopilot.com/" target="_blank">Verve AI</a>
+
+#### General Platforms
+- <a href="https://clado.ai/" target="_blank">Clado AI</a>
+
+### AI Data Tools
+
+#### Data Annotation
+- <a href="https://scale.com/" target="_blank">Scale AI</a>
+- <a href="https://www.turing.com/" target="_blank">Turing</a>
+- <a href="https://snorkel.ai/" target="_blank">Snorkel</a>
+- <a href="https://www.superannotate.com/" target="_blank">SuperAnnotate</a>
+- <a href="https://www.coactive.ai/" target="_blank">Coactive</a>
+- <a href="https://www.appen.com/" target="_blank">Appen</a>
+- <a href="https://www.surgehq.ai/" target="_blank">Surge</a>
+- <a href="https://dataloop.ai/" target="_blank">Dataloop</a>
+- <a href="https://www.v7labs.com/" target="_blank">V7</a>
+
+#### Data Analytics
+- <a href="https://julius.ai/" target="_blank">Julius</a>
+- <a href="https://datasquirrel.ai/" target="_blank">DataSquirrel</a>
+- <a href="https://datachat.ai/" target="_blank">DataChat</a>
+- <a href="https://vizly.fyi/" target="_blank">Vizly</a>
+- <a href="https://www.morphdb.io/" target="_blank">Morph</a>
+- <a href="https://datagpt.com/" target="_blank">DataGPT</a>
+- <a href="https://www.kater.ai/" target="_blank">Kater</a>
+- <a href="https://deepnote.com/" target="_blank">Deepnote</a>
+- <a href="https://www.thoughtspot.com/" target="_blank">ThoughtSpot</a>
+
+#### Synthetic Data
+- <a href="https://aindo.com" target="_blank">Aindo</a>
+- <a href="https://gretel.ai" target="_blank">Gretel AI</a>
+- <a href="https://www.syntho.ai" target="_blank">Syntho</a>
+- <a href="https://mostly.ai" target="_blank">Mostly AI</a>
+- <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a>
+- <a href="https://hazy.com" target="_blank">Hazy</a>
 
 ---
 

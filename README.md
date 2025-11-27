@@ -2,34 +2,9 @@
 
 # Awesome AI Tools
 
-> A curated list of AI/SaaS products with personal insights and growth perspectives
+> A curated list of AI/SaaS products
 
-Welcome to Awesome AI Tools! This is a curated collection of AI and SaaS products curated by **Kostja** based on 3+ years of experience in AI/SaaS growth. This repository is regularly updated with the latest tools and models. Each product includes personal insights, usage experiences, and growth perspectives.
-
-## About
-
-This repository is curated and maintained by **Kostja**. All content is personally curated and will be regularly updated with the latest AI tools and models.
-
-**Contributions Welcome!** If you'd like to suggest a new product or tool, please:
-- Open a [GitHub Issue](https://github.com/kostja94/awesome-ai-tools/issues) (preferred)
-- Or contact via email: **zyjstc@gmail.com**
-
-This repository serves as a personal knowledge base and sharing platform for AI/SaaS products. All entries are based on real-world experience and include:
-
-- **Product Information**: Name, category, description, and links
-- **Personal Insights**: Usage experience and evaluation
-- **Growth Perspective**: Analysis from a growth marketing standpoint
-- **Pricing & Features**: Key features and pricing models
-
-### Data Sources
-
-The information in this repository is compiled from multiple sources:
-
-- **LMArena** - Model rankings and performance benchmarks
-- **Artificial Analysis** - Comprehensive AI model evaluations and comparisons
-- **LLM Responses** - Information gathered from large language model interactions
-- **Web Resources** - Official documentation, websites, and public resources
-- **Personal Professional Experience** - Insights from 3+ years of experience in AI/SaaS growth
+A curated collection of AI and SaaS products, regularly updated with the latest tools and models.
 
 ## Contents
 
@@ -67,15 +42,24 @@ The information in this repository is compiled from multiple sources:
 - 🎨 [AI 3D Model Generation](#ai-3d-model-generation)
   - [Text-to-3D Models](#text-to-3d-models)
   - [Image-to-3D Models](#image-to-3d-models)
+  - [3D E-commerce Platforms](#3d-e-commerce-platforms)
+  - [No-Code 3D Creation Tools](#no-code-3d-creation-tools)
+  - [3D CAD & Manufacturing Tools](#3d-cad--manufacturing-tools)
+  - [Concept Art & Creative Tools](#concept-art--creative-tools)
 - 💬 [AI Chatbots](#ai-chatbots)
   - [Character Chatbots](#character-chatbots)
   - [NSFW Chatbots](#nsfw-chatbots)
   - [Specialized Chatbots](#specialized-chatbots)
 - 🤖 [AI Agents](#ai-agents)
 - 🏭 [App Development Factories](#app-development-factories)
-  - [Video Editing Agents](#video-editing-agents)
-  - [Design Agents](#design-agents)
-  - [Music Agents](#music-agents)
+- 💼 [AI Recruitment & Job Search](#ai-recruitment--job-search)
+  - [For Recruiters](#for-recruiters)
+  - [For Job Seekers](#for-job-seekers)
+  - [General Platforms](#general-platforms)
+- 📊 [AI Data Tools](#ai-data-tools)
+  - [Data Annotation](#data-annotation)
+  - [Data Analytics](#data-analytics)
+  - [Synthetic Data](#synthetic-data)
 
 ## Large Language Models (LLMs)
 
@@ -399,6 +383,8 @@ _These are foundational AI 3D model generation tools that generate 3D models fro
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
+- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> (**Alpha3D** · Latest) - Convert text or 2D images to game-ready 3D assets with Unity development support
+- <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> (**NVIDIA Research** · Latest) - High-resolution text-to-3D content generation model for graphics and visual technology research
 
 ### Image-to-3D Models
 
@@ -409,6 +395,32 @@ _These are foundational AI 3D model generation tools that generate 3D models fro
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
+
+### 3D E-commerce Platforms
+
+_These platforms specialize in creating and managing 3D content for e-commerce applications, helping businesses showcase products in 3D._
+
+- <a href="https://www.hexa3d.io/" target="_blank">Hexa</a> (**Hexa** · Latest) - 3D e-commerce platform providing complete 3D technology stack for creating, managing, analyzing, and distributing 3D assets to enhance online shopping experiences
+
+### No-Code 3D Creation Tools
+
+_These are no-code platforms that enable users to create, edit, and collaborate on 3D content without requiring programming knowledge._
+
+- <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> (**Eufymake** · Latest) - No-code AI 3D creation tool for rapidly generating, editing, and collaborating on high-quality 3D scenes
+- <a href="https://www.intangible.ai/" target="_blank">Intangible.ai</a> (**Intangible.ai** · Latest) - No-code AI 3D creation platform for quickly generating, editing, and collaborating on high-quality 3D scenes
+
+### 3D CAD & Manufacturing Tools
+
+_These tools focus on converting 3D scans to CAD models and integrating 3D printing and manufacturing workflows._
+
+- <a href="https://www.backflip.ai/" target="_blank">Backflip</a> (**Backflip** · Latest) - AI-powered tool that converts 3D scans to CAD models with one click
+- <a href="https://ai-build.com/" target="_blank">AI Build</a> (**AI Build** · Latest) - Manufacturing platform combining 3D printing and CNC technologies for automated production
+
+### Concept Art & Creative Tools
+
+_These tools are designed for concept artists and creative professionals working with 3D content._
+
+- <a href="https://mirageml.com/" target="_blank">Mirage</a> (**Mirage** · Latest) - Creative tools for concept artists working with 3D content generation
 
 ## AI Chatbots
 
@@ -482,21 +494,87 @@ _These are companies that operate as "app factories" or "product studios," build
 - <a href="https://hubx.com/" target="_blank">HUBX</a> (**HUBX** · Latest) - Global tech incubator building AI-driven mobile apps and supporting team collaboration and resource sharing
 - <a href="https://www.mobiversite.com/" target="_blank">Mobiversite</a> (**Mobiversite** · Latest) - Mobile app development factory focused on creating and operating consumer applications
 
+## AI Recruitment & Job Search
+
+### For Recruiters
+
+_These are AI-powered tools designed to help recruiters and hiring managers streamline the recruitment process, from job posting to candidate screening and management._
+
+- <a href="https://www.moonhub.ai/" target="_blank">Moonhub</a> (**Moonhub** · Latest) - AI recruitment assistant that automatically screens interviews and promotes fair matching
+- <a href="https://mercor.com/" target="_blank">Mercor</a> (**Mercor** · Latest) - AI-driven recruitment platform that generates matches, handles interviews, and manages payment processes
+- <a href="https://joinbrix.com/" target="_blank">Brix</a> (**Brix** · Latest) - AI platform that automatically generates job descriptions, screens candidates, and conducts pre-screening
+- <a href="https://www.carv.com/" target="_blank">Carv</a> (**Carv** · Latest) - Automatically processes recruitment workflows and updates ATS systems for recruiters
+
+### For Job Seekers
+
+_These are AI-powered tools designed to help job seekers find opportunities, optimize their applications, and prepare for interviews._
+
+- <a href="https://www.thecorrelate.com" target="_blank">Correlate AI</a> (**Correlate AI** · Latest) - One-click automatic resume submission, customizing and applying to matching positions
+- <a href="https://helloboss.com/" target="_blank">Hello Boss</a> (**Hello Boss** · Latest) - AI job recommendation and one-click resume generation for Japanese-style recruitment applications
+- <a href="https://jobright.ai/" target="_blank">Jobright</a> (**Jobright** · Latest) - AI job search copilot that intelligently matches positions and enables one-click applications
+- <a href="https://himalayas.app/" target="_blank">Himalayas</a> (**Himalayas** · Latest) - Remote/AI job platform that matches positions and generates resume cover letters
+- <a href="https://nodeflair.com/" target="_blank">NODEFLAIR</a> (**NODEFLAIR** · Latest) - Southeast Asia tech careers platform with resume tools and transparent job/salary information
+- <a href="https://www.senseicopilot.com/" target="_blank">Sensei AI</a> (**Sensei AI** · Latest) - Browser interview companion that generates structured answers in real-time
+- <a href="https://www.finalroundai.com/" target="_blank">Final Round AI</a> (**Final Round AI** · Latest) - AI interview assistant that automatically generates resumes and conducts mock interviews
+- <a href="https://www.lockedinai.com/" target="_blank">Lockedin AI</a> (**Lockedin AI** · Latest) - Real-time interview/meeting assistant providing voice feedback and answer suggestions
+- <a href="https://www.vervecopilot.com/" target="_blank">Verve AI</a> (**Verve AI** · Latest) - AI interview practice assistant with real-time suggestions, cold email optimization, and resume optimization
+
+### General Platforms
+
+_These platforms serve both recruiters and job seekers with comprehensive recruitment and job search solutions._
+
+- <a href="https://clado.ai/" target="_blank">Clado AI</a> (**Clado AI** · Latest) - AI-powered recruitment and hiring platform
+
+## AI Data Tools
+
+### Data Annotation
+
+_These are AI-powered platforms and services for data labeling, annotation, and management to support machine learning model training._
+
+- <a href="https://scale.com/" target="_blank">Scale AI</a> (**Scale AI** · Latest) - AI-powered data annotation platform providing high-quality training data for machine learning models
+- <a href="https://www.turing.com/" target="_blank">Turing</a> (**Turing** · Latest) - AI-driven remote developer platform that automatically matches and manages global software engineers
+- <a href="https://snorkel.ai/" target="_blank">Snorkel</a> (**Snorkel** · Latest) - Data-centric AI platform that quickly converts domain expertise into training data
+- <a href="https://www.superannotate.com/" target="_blank">SuperAnnotate</a> (**SuperAnnotate** · Latest) - Efficient AI data annotation and management platform for model training
+- <a href="https://www.coactive.ai/" target="_blank">Coactive</a> (**Coactive** · Latest) - Multimodal visual content platform with AI-powered automatic tagging, retrieval, and analysis of images/videos
+- <a href="https://www.appen.com/" target="_blank">Appen</a> (**Appen** · Latest) - Enterprise AI data collection, cleaning, and annotation platform combining human and AI capabilities
+- <a href="https://www.surgehq.ai/" target="_blank">Surge</a> (**Surge** · Latest) - Global high-skilled crowdsourcing annotation platform providing training data for generative AI
+- <a href="https://dataloop.ai/" target="_blank">Dataloop</a> (**Dataloop** · Latest) - End-to-end AI data management and annotation platform with visualization and pipeline automation
+- <a href="https://www.v7labs.com/" target="_blank">V7</a> (**V7** · Latest) - AI-powered image/video data annotation platform supporting automatic segmentation and workflow collaboration
+
+### Data Analytics
+
+_These are AI-powered tools for data analysis, business intelligence, and predictive modeling through conversational interfaces and automated insights._
+
+- <a href="https://julius.ai/" target="_blank">Julius</a> (**Julius** · Latest) - AI data analyst for conversational data analysis and predictive modeling
+- <a href="https://datasquirrel.ai/" target="_blank">DataSquirrel</a> (**DataSquirrel** · Latest) - No-code BI tool that automatically cleans, analyzes, and visualizes data
+- <a href="https://datachat.ai/" target="_blank">DataChat</a> (**DataChat** · Latest) - Generative analytics platform enabling data querying and insights through chat without coding
+- <a href="https://vizly.fyi/" target="_blank">Vizly</a> (**Vizly** · Latest) - AI data analyst supporting chat queries and automatic visualization report generation
+- <a href="https://www.morphdb.io/" target="_blank">Morph</a> (**Morph** · Latest) - All-in-one no-code data studio combining spreadsheets, databases, and AI analysis
+- <a href="https://datagpt.com/" target="_blank">DataGPT</a> (**DataGPT** · Latest) - Conversational AI data analyst providing real-time business data insights
+- <a href="https://www.kater.ai/" target="_blank">Kater</a> (**Kater** · Latest) - Enterprise AI reporting platform delivering decision insights and analysis workflows through natural language queries
+- <a href="https://deepnote.com/" target="_blank">Deepnote</a> (**Deepnote** · Latest) - Cloud-based collaborative data science notebook with AI-powered code, queries, and visualizations
+- <a href="https://www.thoughtspot.com/" target="_blank">ThoughtSpot</a> (**ThoughtSpot** · Latest) - AI-powered analytics tool enabling natural language queries of enterprise data
+
+### Synthetic Data
+
+_These platforms generate synthetic data for training AI models while preserving privacy and addressing data scarcity challenges._
+
+- <a href="https://aindo.com" target="_blank">Aindo</a> (**Aindo** · Latest) - Data technology company leveraging AI to generate synthetic data
+- <a href="https://gretel.ai" target="_blank">Gretel AI</a> (**Gretel AI** · Latest) - Synthetic data platform providing privacy-preserving data generation solutions
+- <a href="https://www.syntho.ai" target="_blank">Syntho</a> (**Syntho** · Latest) - Data technology company specializing in AI-powered synthetic data generation
+- <a href="https://mostly.ai" target="_blank">Mostly AI</a> (**Mostly AI** · Latest) - Synthetic data generator and knowledge center for privacy-preserving data generation
+- <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a> (**Tonic.ai** · Latest) - Data technology company specializing in AI and machine learning-powered synthetic data generation
+- <a href="https://hazy.com" target="_blank">Hazy</a> (**Hazy** · Latest) - Company focused on synthetic data solutions for privacy-preserving data generation
+
 ---
 
-## Contributing
+## About
 
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
+Curated and maintained by **<a href="https://alignify.co" target="_blank">Kostja</a>**. Contributions welcome via [GitHub Issues](https://github.com/kostja94/awesome-ai-tools/issues) or email: **zyjstc@gmail.com**
 
-### How to Contribute
+### Data Sources
 
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature/AddNewProduct`)
-3. Add your product to the appropriate section in [README.md](README.md) following the existing format
-4. Update the [INDEX.md](INDEX.md) if needed
-5. Commit your changes (`git commit -m 'Add: Product Name'`)
-6. Push to the branch (`git push origin feature/AddNewProduct`)
-7. Open a Pull Request
+The information in this repository is compiled from multiple sources including LMArena (model rankings and performance benchmarks), Artificial Analysis (comprehensive AI model evaluations and comparisons), LLM responses, web resources (official documentation, websites, and public resources), and personal professional experience.
 
 ## License
 
