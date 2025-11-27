@@ -6,18 +6,24 @@ Quick reference index of all products in this repository.
 
 | Product Name | Category | Link | Status |
 |-------------|----------|------|--------|
-| Imagen by Google | AI Image Tools | [Link](products/imagen-google.md) | Active |
-| DALL-E 3 by OpenAI | AI Image Tools | [Link](products/dalle-3-openai.md) | Active |
-| Flux by Black Forest Labs | AI Image Tools | [Link](products/flux-black-forest-labs.md) | Active |
-| Seedream by ByteDance | AI Image Tools | [Link](products/seedream-bytedance.md) | Active |
-| Ideogram | AI Image Tools | [Link](products/ideogram.md) | Active |
-| Stability AI | AI Image Tools | [Link](products/stability-ai.md) | Active |
-| Midjourney | AI Image Tools | [Link](products/midjourney.md) | Active |
-| Reve | AI Image Tools | [Link](products/reve.md) | Active |
-| Leonardo AI | AI Image Tools | [Link](products/leonardo-ai.md) | Active |
-| Recraft | AI Image Tools | [Link](products/recraft.md) | Active |
-| Adobe Firefly | AI Image Tools | [Link](products/adobe-firefly.md) | Active |
-| Luma Photon | AI Image Tools | [Link](products/luma-photon.md) | Active |
+| Gemini by Google | AI Image Tools | [Link](https://ai.studio/banana) | Active |
+| Tencent Hunyuan | AI Image Tools | [Link](https://hunyuan.tencent.com/image/en) | Active |
+| Imagen by Google | AI Image Tools | [Link](https://deepmind.google/models/imagen/) | Active |
+| Seedream by ByteDance | AI Image Tools | [Link](https://seed.bytedance.com/en/tech/seedream3_0) | Active |
+| WAN by Alibaba | AI Image Tools | [Link](https://modelstudio.console.alibabacloud.com/) | Active |
+| GPT Image by OpenAI | AI Image Tools | [Link](https://platform.openai.com/docs/models/gpt-image-1) | Active |
+| MAI Image by Microsoft AI | AI Image Tools | [Link](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/) | Active |
+| Qwen Image by Alibaba | AI Image Tools | [Link](https://qwenlm.github.io/blog/qwen-image/) | Active |
+| DALL-E 3 by OpenAI | AI Image Tools | [Link](https://openai.com/index/dall-e-3/) | Active |
+| Flux by Black Forest Labs | AI Image Tools | [Link](https://bfl.ai/) | Active |
+| Ideogram | AI Image Tools | [Link](https://ideogram.ai/) | Active |
+| Stability AI | AI Image Tools | [Link](https://stability.ai/) | Active |
+| Midjourney | AI Image Tools | [Link](https://www.midjourney.com/) | Active |
+| Reve | AI Image Tools | [Link](https://reve.art/) | Active |
+| Leonardo AI | AI Image Tools | [Link](https://leonardo.ai/) | Active |
+| Recraft | AI Image Tools | [Link](https://www.recraft.ai/) | Active |
+| Adobe Firefly | AI Image Tools | [Link](https://www.adobe.com/products/firefly.html) | Active |
+| Luma Photon | AI Image Tools | [Link](https://lumalabs.ai/photon) | Active |
 
 ## By Category
 
@@ -28,18 +34,24 @@ Quick reference index of all products in this repository.
 - _Coming soon_
 
 ### AI Image Tools
-- [Imagen by Google](products/imagen-google.md)
-- [DALL-E 3 by OpenAI](products/dalle-3-openai.md)
-- [Flux by Black Forest Labs](products/flux-black-forest-labs.md)
-- [Seedream by ByteDance](products/seedream-bytedance.md)
-- [Ideogram](products/ideogram.md)
-- [Stability AI](products/stability-ai.md)
-- [Midjourney](products/midjourney.md)
-- [Reve](products/reve.md)
-- [Leonardo AI](products/leonardo-ai.md)
-- [Recraft](products/recraft.md)
-- [Adobe Firefly](products/adobe-firefly.md)
-- [Luma Photon](products/luma-photon.md)
+- [Gemini by Google](https://ai.studio/banana)
+- [Tencent Hunyuan](https://hunyuan.tencent.com/image/en)
+- [Imagen by Google](https://deepmind.google/models/imagen/)
+- [Seedream by ByteDance](https://seed.bytedance.com/en/tech/seedream3_0)
+- [WAN by Alibaba](https://modelstudio.console.alibabacloud.com/)
+- [GPT Image by OpenAI](https://platform.openai.com/docs/models/gpt-image-1)
+- [MAI Image by Microsoft AI](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/)
+- [Qwen Image by Alibaba](https://qwenlm.github.io/blog/qwen-image/)
+- [DALL-E 3 by OpenAI](https://openai.com/index/dall-e-3/)
+- [Flux by Black Forest Labs](https://bfl.ai/)
+- [Ideogram](https://ideogram.ai/)
+- [Stability AI](https://stability.ai/)
+- [Midjourney](https://www.midjourney.com/)
+- [Reve](https://reve.art/)
+- [Leonardo AI](https://leonardo.ai/)
+- [Recraft](https://www.recraft.ai/)
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html)
+- [Luma Photon](https://lumalabs.ai/photon)
 
 ### AI Video Tools
 - _Coming soon_
@@ -64,5 +76,5 @@ Quick reference index of all products in this repository.
 
 ---
 
-**Note**: This index will be automatically updated as products are added. For detailed information about each product, please refer to the [README.md](README.md) or individual product files in the `products/` directory.
+**Note**: This index will be automatically updated as products are added. For detailed information about each product, please refer to the [README.md](README.md).
 

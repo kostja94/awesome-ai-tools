@@ -40,18 +40,24 @@ _Curated selection of the most impactful and useful tools_
 
 ## AI Image Tools
 
-- [Imagen by Google](products/imagen-google.md) - Google DeepMind's advanced AI image generation model
-- [DALL-E 3 by OpenAI](products/dalle-3-openai.md) - OpenAI's third-generation DALL-E model for creative image generation
-- [Flux by Black Forest Labs](products/flux-black-forest-labs.md) - Advanced AI image generation and editing
-- [Seedream by ByteDance](products/seedream-bytedance.md) - ByteDance's Seedream 3.0 AI image generation model
-- [Ideogram](products/ideogram.md) - Text-to-image tool with exceptional text rendering capabilities
-- [Stability AI](products/stability-ai.md) - Open-source AI platform offering image, video, audio, and 3D generation APIs
-- [Midjourney](products/midjourney.md) - Creative AI image generation via Discord or web, known for artistic quality
-- [Reve](products/reve.md) - AI image generation and editing platform
-- [Leonardo AI](products/leonardo-ai.md) - Professional-grade AI image/video generation tool for designers
-- [Recraft](products/recraft.md) - Professional AI image generation platform supporting vectors and mockups
-- [Adobe Firefly](products/adobe-firefly.md) - Adobe's AI image generation tool integrated with Creative Cloud
-- [Luma Photon](products/luma-photon.md) - Luma Labs' AI image generation tool
+- [Gemini by Google](https://ai.studio/banana) - Google's advanced AI image generation model
+- [Tencent Hunyuan](https://hunyuan.tencent.com/image/en) - Tencent's AI image generation model
+- [Imagen by Google](https://deepmind.google/models/imagen/) - Google DeepMind's advanced AI image generation model
+- [Seedream by ByteDance](https://seed.bytedance.com/en/tech/seedream3_0) - ByteDance's AI image generation model
+- [WAN by Alibaba](https://modelstudio.console.alibabacloud.com/) - Alibaba's text-to-image model
+- [GPT Image by OpenAI](https://platform.openai.com/docs/models/gpt-image-1) - OpenAI's image generation model
+- [MAI Image by Microsoft AI](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/) - Microsoft AI's image generation model
+- [Qwen Image by Alibaba](https://qwenlm.github.io/blog/qwen-image/) - Alibaba's open-source image generation model
+- [DALL-E 3 by OpenAI](https://openai.com/index/dall-e-3/) - OpenAI's third-generation DALL-E model for creative image generation
+- [Flux by Black Forest Labs](https://bfl.ai/) - Advanced AI image generation and editing
+- [Ideogram](https://ideogram.ai/) - Text-to-image tool with exceptional text rendering capabilities
+- [Stability AI](https://stability.ai/) - Open-source AI platform offering image, video, audio, and 3D generation APIs
+- [Midjourney](https://www.midjourney.com/) - Creative AI image generation via Discord or web, known for artistic quality
+- [Reve](https://reve.art/) - AI image generation and editing platform
+- [Leonardo AI](https://leonardo.ai/) - Professional-grade AI image/video generation tool for designers
+- [Recraft](https://www.recraft.ai/) - Professional AI image generation platform supporting vectors and mockups
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI image generation tool integrated with Creative Cloud
+- [Luma Photon](https://lumalabs.ai/photon) - Luma Labs' AI image generation tool
 
 ## AI Video Tools
 

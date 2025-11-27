@@ -40,18 +40,24 @@ _精选最具影响力和实用性的工具_
 
 ## AI 图像工具
 
-- [Imagen by Google](products/imagen-google.md) - Google DeepMind 开发的先进 AI 图像生成模型
-- [DALL-E 3 by OpenAI](products/dalle-3-openai.md) - OpenAI 开发的第三代 DALL-E 模型，创意图像生成
-- [Flux by Black Forest Labs](products/flux-black-forest-labs.md) - 先进的 AI 图像生成和编辑工具
-- [Seedream by ByteDance](products/seedream-bytedance.md) - 字节跳动开发的 Seedream 3.0 AI 图像生成模型
-- [Ideogram](products/ideogram.md) - 文本生成图像利器，智能将文字融入视觉设计中
-- [Stability AI](products/stability-ai.md) - 以开源 Stable Diffusion 起家，提供图像、视频、音频与 3D 生成 API 平台
-- [Midjourney](products/midjourney.md) - 通过 Discord 或网页版，根据提示生成极具创意的 AI 图像
-- [Reve](products/reve.md) - AI 图像生成和编辑平台
-- [Leonardo AI](products/leonardo-ai.md) - 为设计师提供专业级速度与画质的 AI 图像/视频生成工具
-- [Recraft](products/recraft.md) - 专业级 AI 图像生成与风格化编辑平台，支持矢量与 mockups
-- [Adobe Firefly](products/adobe-firefly.md) - Adobe 开发的 AI 图像生成工具，与 Creative Cloud 集成
-- [Luma Photon](products/luma-photon.md) - Luma Labs 开发的 AI 图像生成工具
+- [Gemini by Google](https://ai.studio/banana) - Google 开发的先进 AI 图像生成模型
+- [腾讯混元 (Tencent Hunyuan)](https://hunyuan.tencent.com/image/en) - 腾讯开发的 AI 图像生成模型
+- [Imagen by Google](https://deepmind.google/models/imagen/) - Google DeepMind 开发的先进 AI 图像生成模型
+- [Seedream by ByteDance](https://seed.bytedance.com/en/tech/seedream3_0) - 字节跳动开发的 AI 图像生成模型
+- [WAN by Alibaba](https://modelstudio.console.alibabacloud.com/) - 阿里巴巴开发的文本生成图像模型
+- [GPT Image by OpenAI](https://platform.openai.com/docs/models/gpt-image-1) - OpenAI 开发的图像生成模型
+- [MAI Image by Microsoft AI](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/) - Microsoft AI 开发的图像生成模型
+- [Qwen Image by Alibaba](https://qwenlm.github.io/blog/qwen-image/) - 阿里巴巴开发的开源图像生成模型
+- [DALL-E 3 by OpenAI](https://openai.com/index/dall-e-3/) - OpenAI 开发的第三代 DALL-E 模型，创意图像生成
+- [Flux by Black Forest Labs](https://bfl.ai/) - 先进的 AI 图像生成和编辑工具
+- [Ideogram](https://ideogram.ai/) - 文本生成图像利器，智能将文字融入视觉设计中
+- [Stability AI](https://stability.ai/) - 以开源 Stable Diffusion 起家，提供图像、视频、音频与 3D 生成 API 平台
+- [Midjourney](https://www.midjourney.com/) - 通过 Discord 或网页版，根据提示生成极具创意的 AI 图像
+- [Reve](https://reve.art/) - AI 图像生成和编辑平台
+- [Leonardo AI](https://leonardo.ai/) - 为设计师提供专业级速度与画质的 AI 图像/视频生成工具
+- [Recraft](https://www.recraft.ai/) - 专业级 AI 图像生成与风格化编辑平台，支持矢量与 mockups
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe 开发的 AI 图像生成工具，与 Creative Cloud 集成
+- [Luma Photon](https://lumalabs.ai/photon) - Luma Labs 开发的 AI 图像生成工具
 
 ## AI 视频工具
 
