@@ -20,13 +20,47 @@ This repository serves as a personal knowledge base and sharing platform for AI/
 ## Contents
 
 - 🤖 [Large Language Models (LLMs)](#large-language-models-llms)
+  - [Web Development LLMs](#web-development-llms)
 - 🖼️ [AI Image Tools](#ai-image-tools)
 - 📽️ [AI Video Tools](#ai-video-tools)
 - 🎶 [AI Audio Tools](#ai-audio-tools)
   - [Text-to-Speech (TTS) Models](#text-to-speech-tts-models)
+  - [Speech-to-Text (ASR) Models](#speech-to-text-asr-models)
   - [Music Generation Models](#music-generation-models)
+- 💻 [AI Coding Tools](#ai-coding-tools)
+  - [AI Coding Agents & IDEs](#ai-coding-agents--ides)
+  - [Code Completion Tools](#code-completion-tools)
+  - [Low-Code/No-Code Platforms](#low-codeno-code-platforms)
+  - [Code Quality & Security Tools](#code-quality--security-tools)
+- 🔍 [AI Search Tools](#ai-search-tools)
+  - [Search-Enhanced LLMs](#search-enhanced-llms)
+  - [AI Search APIs & Infrastructure](#ai-search-apis--infrastructure)
+  - [AI-Powered Search Engines](#ai-powered-search-engines)
+  - [E-commerce Search Assistants](#e-commerce-search-assistants)
+  - [AI Browsers](#ai-browsers)
+- 🎨 [AI 3D Model Generation](#ai-3d-model-generation)
+  - [Text-to-3D Models](#text-to-3d-models)
+  - [Image-to-3D Models](#image-to-3d-models)
 
 ## Large Language Models (LLMs)
+
+### Web Development LLMs
+
+_These are large language models specifically optimized for web development tasks. Rankings based on [LMArena WebDev Leaderboard](https://lmarena.ai/leaderboard/webdev)._
+
+- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a> (**Anthropic** · 20251101) - Ranked #1-2 in WebDev Arena (Score: 1479-1493), optimized for web development tasks with thinking capabilities
+- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a> (**Google** · Latest) - Ranked #3 in WebDev Arena (Score: 1473), multimodal model optimized for web development
+- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a> (**OpenAI** · Latest) - Ranked #4 in WebDev Arena (Score: 1399), optimized for web development tasks
+- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a> (**Anthropic** · 20250929) - Ranked #5-8 in WebDev Arena (Score: 1387-1397), optimized for web development with thinking capabilities
+- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a> (**OpenAI** · Latest) - Ranked #6-11 in WebDev Arena (Score: 1358-1395), advanced model for web development
+- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a> (**Z.ai** · Latest) - Ranked #9 in WebDev Arena (Score: 1370), open-source MIT licensed model optimized for coding
+- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - Ranked #10 in WebDev Arena (Score: 1358), optimized for web development tasks
+- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a> (**OpenAI** · Latest) - Ranked #12 in WebDev Arena (Score: 1340), specialized code generation model
+- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a> (**MiniMax** · Latest) - Ranked #13 in WebDev Arena (Score: 1321), open-source Apache 2.0 licensed model
+- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a> (**DeepSeek AI** · Exp) - Ranked #14 in WebDev Arena (Score: 1294), open-source MIT licensed model
+- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a> (**Alibaba** · 480B) - Ranked #15 in WebDev Arena (Score: 1293), specialized coding model with Apache 2.0 license
+
+### General Purpose LLMs
 
 _These are foundational large language models that can be accessed via API. Many AI applications are built on top of these models._
 
@@ -146,6 +180,24 @@ _These are foundational text-to-speech models that can be accessed via API. Many
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · Latest) - #1 ranked TTS on Artificial Analysis and Hugging Face, realtime multimodal AI with rich multilingual support
 - <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · Latest) - Text-to-speech model
 
+### Speech-to-Text (ASR) Models
+
+_These are foundational speech-to-text (automatic speech recognition) models that can be accessed via API. Many AI audio applications are built on top of these models._
+
+- <a href="https://elevenlabs.io/blog/meet-scribe" target="_blank">ElevenLabs Scribe</a> (**ElevenLabs** · V1) - World's most accurate speech-to-text model, transcribing speech in 99 languages with word-level timestamps, speaker diarization, and audio-event tagging
+- <a href="https://platform.openai.com/docs/guides/speech-to-text" target="_blank">OpenAI Whisper</a> (**OpenAI** · Latest) - Open-source speech recognition model that revolutionized the AI transcription field, enabling cloud inference providers to compete on speed and price
+- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a> (**Deepgram** · Nova-2) - Advanced speech recognition model transcribing 142 seconds of audio per second, providing high accuracy and low latency
+- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a> (**Fireworks** · Large v3 Turbo) - Ultra-fast Whisper-based transcription service, capable of transcribing 353 seconds of audio per second
+- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a> (**Fal.ai** · Large v3) - High-performance transcription service, capable of transcribing 218 seconds of audio per second
+- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a> (**Groq** · Latest) - Fast transcription service transcribing 204 seconds of audio per second, priced at $0.33 per 1000 minutes
+- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a> (**DeepInfra** · Large v3) - High-performance transcription service, capable of transcribing 149 seconds of audio per second
+- <a href="https://aws.amazon.com/transcribe/" target="_blank">Amazon Transcribe</a> (**Amazon** · Latest) - Automatic speech recognition service supporting multiple languages and audio formats, priced at $24 per 1000 minutes
+- <a href="https://cloud.google.com/speech-to-text" target="_blank">Google Cloud Speech-to-Text</a> (**Google** · Chirp 2) - High-accuracy speech recognition service with real-time and batch processing capabilities
+- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech-to-Text</a> (**Microsoft** · Latest) - Speech recognition service with custom model support and multilingual transcription
+- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> (**AssemblyAI** · Universal 2) - High-precision speech-to-text API supporting long audio files, keyword detection, and sentiment analysis
+- <a href="https://www.rev.ai/" target="_blank">Rev AI</a> (**Rev** · Latest) - High-precision speech-to-text service supporting real-time and batch transcription
+- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> (**Speechmatics** · Enhanced) - Global language coverage speech recognition service supporting multiple accents and dialects
+
 ### Music Generation Models
 
 _These are foundational music generation models that can be accessed via API. Many AI music applications are built on top of these models._
@@ -156,6 +208,141 @@ _These are foundational music generation models that can be accessed via API. Ma
 - <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.0) - Text-to-audio generation model for creating music and sound effects
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google's music generation model integrated with YouTube
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · Latest) - Meta's open-source music generation model
+
+## AI Coding Tools
+
+### AI Coding Agents & IDEs
+
+_These are foundational AI coding agents and IDEs that provide end-to-end code generation and development assistance._
+
+- <a href="https://www.cursor.com/" target="_blank">Cursor</a> (**Cursor** · Latest) - AI-powered IDE with natural language prompts for end-to-end code generation and queries
+- <a href="https://devin.ai/" target="_blank">Devin</a> (**Devin** · Latest) - AI software engineer that handles code generation, debugging, and deployment workflows
+- <a href="https://replit.com/" target="_blank">Replit</a> (**Replit** · Latest) - Cloud-based IDE platform with AI Agent that generates and deploys complete applications from natural language
+- <a href="https://www.trae.ai/" target="_blank">Trae</a> (**ByteDance** · Latest) - Free AI IDE from ByteDance, intelligently breaks down tasks and completes code through Builder mode
+- <a href="https://stackblitz.com/" target="_blank">StackBlitz</a> (**StackBlitz** · Latest) - Browser-based full-stack IDE using WebAssembly to run Node.js, ideal for instant building and collaborative development
+- <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a> (**Reflection AI** · Latest) - Creates autonomous "super-intelligent" programming AI that can simulate human development processes
+- <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware** · Latest) - Browser-based AI tool development IDE supporting natural language programming, LLM orchestration, and multimodal agent building
+
+### Code Completion Tools
+
+_These are AI-powered code completion tools that provide intelligent suggestions and autocomplete functionality._
+
+- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> (**GitHub** · Latest) - AI pair programmer providing instant code completion, bug fixes, and PR submissions
+- <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a> (**Codeium** · Latest) - AI coding assistant with million-token context for high-quality code completion
+- <a href="https://supermaven.com/" target="_blank">Supermaven</a> (**Supermaven** · Latest) - Ultra-fast AI programming assistant with million-token context providing high-quality code completion
+- <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI** · Latest) - AI programming assistant providing real-time intelligent completion, documentation, and debugging suggestions
+- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment** · Latest) - AI coding agent platform that automatically improves code quality through local + cloud intelligence in IDE
+- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI** · Latest) - AI system that translates natural language into code, powering coding assistants
+
+### Low-Code/No-Code Platforms
+
+_These platforms enable building applications with minimal or no coding through AI-powered natural language interfaces._
+
+- <a href="https://www.fine.dev/" target="_blank">Fine</a> (**Fine** · Latest) - AI-driven full-stack development platform that generates, deploys, and manages SaaS applications with one click
+- <a href="https://magic.dev/" target="_blank">Magic</a> (**Magic** · Latest) - Low-code full-stack generation platform that automatically generates and deploys SaaS applications from English descriptions
+- <a href="https://bolt.new/" target="_blank">Bolt</a> (**Bolt** · Latest) - Browser-based AI Agent that generates and deploys full-stack web applications through conversation
+- <a href="https://retool.com/" target="_blank">Retool</a> (**Retool** · Latest) - Low-code internal application builder that generates interfaces and business logic through natural language
+- <a href="https://lovable.dev/" target="_blank">Lovable</a> (**Lovable** · Latest) - Generates full-stack applications and website prototypes automatically through chat input
+- <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle** · Latest) - No-code tool for building AI agents, websites, and forms, supporting screenshot search
+- <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel** · Latest) - Conversational IDE that generates and deploys React/Svelte frontend projects with one click
+- <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy** · Latest) - AI-driven design platform that creates production-ready UI and outputs code with one click
+- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif** · Latest) - Lightweight generator platform for creating AI mini-apps, image/video generation, and comics
+- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a> (**Narrative BI** · Latest) - No-code generative BI platform that automatically converts data into natural language insights and anomaly alerts
+- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside** · Latest) - AI coding platform designed specifically for software engineering, using proprietary models for automatic code completion and generation
+
+### Code Quality & Security Tools
+
+_These tools help improve code quality, security, and documentation through AI-powered analysis._
+
+- <a href="https://moderne.io/" target="_blank">Moderne</a> (**Moderne** · Latest) - Focuses on automatically identifying and patching security vulnerabilities in code
+- <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography** · Latest) - Uses AI technology to automatically generate documentation for code
+- <a href="http://codiga.io/" target="_blank">Codiga</a> (**Codiga** · Latest) - Innovative code analysis platform for code quality improvement
+
+## AI Search Tools
+
+### Search-Enhanced LLMs
+
+_These are large language models with integrated web search capabilities, providing real-time information retrieval, external knowledge, and grounded citations. Rankings based on [LMArena Search Arena](https://lmarena.ai/leaderboard/search)._
+
+- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a> (**xAI** · Latest) - Search-enhanced LLM ranked #1 in Search Arena (Score: 1166), providing fast and accurate search results
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM ranked #2 in Search Arena (Score: 1149), combining search engine with LLM for real-time web retrieval
+- <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a> (**Google** · Latest) - Search-enhanced LLM ranked #3 in Search Arena (Score: 1142), providing real-time information with grounded citations
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM ranked #4 in Search Arena (Score: 1142), providing real-time information retrieval and external knowledge
+- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a> (**xAI** · Latest) - Search-enhanced LLM ranked #5 in Search Arena (Score: 1141), providing fast search capabilities
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM ranked #6 in Search Arena (Score: 1132), providing real-time information retrieval
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM ranked #7 in Search Arena (Score: 1132), providing real-time information with external knowledge
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM ranked #8 in Search Arena (Score: 1130), providing high-quality search results
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM ranked #9 in Search Arena (Score: 1127), combining reasoning with search capabilities
+- <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a> (**Diffbot** · Latest) - Search-enhanced LLM ranked #10 in Search Arena (Score: 1023), open-source Apache 2.0 licensed model
+- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM ranked #11 in Search Arena (Score: 1011), providing search capabilities via API
+
+### AI Search APIs & Infrastructure
+
+_These are foundational AI search APIs and infrastructure that can be accessed via API. Many AI search applications are built on top of these models._
+
+- <a href="https://exa.ai/" target="_blank">Exa.ai</a> (**Exa** · Latest) - Real-time AI search engine with web crawling API, SERP API, and deep research tools. Search and extract structured content from websites and live data
+- <a href="https://you.com/" target="_blank">You.com</a> (**You.com** · Latest) - Web Search API for LLMs & Enterprise AI Solutions (formerly consumer AI search, now transformed to API)
+- <a href="https://tavily.com/" target="_blank">Tavily</a> (**Tavily** · Latest) - Real-time search engine for AI agents and RAG workflows with fast and secure APIs for web search and content extraction
+- <a href="https://serpapi.com/" target="_blank">SerpApi</a> (**SerpApi** · Latest) - Real-time scraping of Google/Bing search engine results with structured API responses
+- <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a> (**Bocha** · Latest) - Multimodal search engine for AI applications, providing high-quality knowledge retrieval API for agents
+- <a href="https://jina.ai/" target="_blank">Jina AI</a> (**Jina AI** · Latest) - API platform for building multimodal/text enterprise neural search and RAG systems
+- <a href="https://www.algolia.com/" target="_blank">Algolia</a> (**Algolia** · Latest) - Instant, customizable, and high-performance in-site search and content discovery API services for enterprises and developers
+
+### AI-Powered Search Engines
+
+_These are AI-powered search engines that provide conversational search experiences with real-time web retrieval and cited answers._
+
+- <a href="https://www.perplexity.ai/" target="_blank">Perplexity</a> (**Perplexity** · Latest) - AI answer platform combining search engine with LLM, providing real-time web retrieval with cited sources
+- <a href="https://yep.com/" target="_blank">Yep</a> (**Yep** · Latest) - Privacy-focused search engine that returns 90% of ad revenue to creators
+- <a href="https://www.phind.com/" target="_blank">Phind</a> (**Phind** · Latest) - AI search engine built for developers, providing visual, interactive, and clearly cited code and technical answers
+- <a href="https://iask.ai/" target="_blank">iAsk</a> (**iAsk** · Latest) - Free AI Q&A search supporting natural language instant answers
+- <a href="https://consensus.app/" target="_blank">Consensus</a> (**Consensus** · Latest) - AI search engine focused on academic research, extracting and summarizing scientific conclusions from millions of papers
+- <a href="https://komo.ai/" target="_blank">Komo</a> (**Komo** · Latest) - Ad-free generative AI search platform supporting deep conversational exploration and community-driven discovery
+- <a href="https://brave.com/search/" target="_blank">Brave Search</a> (**Brave** · Latest) - Independent, privacy-focused search engine with its own web index, no user tracking
+- <a href="https://adot.ai/" target="_blank">Adot</a> (**Adot** · Latest) - Web3 intelligent search Chrome extension providing multi-model AI summaries
+
+### E-commerce Search Assistants
+
+_These are AI-powered search assistants specifically designed for e-commerce and shopping experiences._
+
+- <a href="https://www.amazon.com/Rufus/b?ie=UTF8&node=121214013011" target="_blank">Amazon Rufus</a> (**Amazon** · Latest) - Amazon's built-in AI shopping assistant that recommends products, compares options through conversation, driving traffic and retail sales
+- <a href="https://www.accio.com/" target="_blank">Accio</a> (**Alibaba** · Latest) - Alibaba-powered B2B AI procurement engine, intelligently matching suppliers with market insights
+- <a href="https://www.shopencore.ai/" target="_blank">Encore</a> (**Encore** · Latest) - AI second-hand product search assistant, aggregating multiple platforms for conversational precision shopping
+- <a href="https://faircado.com/" target="_blank">Faircado</a> (**Faircado** · Latest) - AI-powered browser extension/app aggregating millions of second-hand product platforms, helping intelligent search and price comparison
+- <a href="https://onton.com/" target="_blank">Onton</a> (**Onton** · Latest) - Ad-free, spam-free AI shopping search engine
+
+### AI Browsers
+
+_These are browsers with integrated AI assistants that enhance browsing experiences with intelligent features._
+
+- <a href="https://arc.net/" target="_blank">Arc</a> (**Arc** · Latest) - Reimagined browser interface with sidebar and customizable spaces to enhance productivity
+- <a href="https://www.diabrowser.com/" target="_blank">Dia</a> (**Dia** · Latest) - AI browser that can converse with tabs and generate real-time assistants
+- <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a> (**Strawberry** · Latest) - Built-in AI assistant for automated research, writing, and daily tasks
+- <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a> (**Perplexity** · Latest) - Integrated Perplexity search sidebar with automatic tab organization and ad blocking
+
+## AI 3D Model Generation
+
+### Text-to-3D Models
+
+_These are foundational AI 3D model generation tools that generate 3D models from text prompts. Many 3D applications are built on top of these models._
+
+- <a href="https://lumalabs.ai/genie" target="_blank">Luma Genie</a> (**Luma Labs** · Latest) - Create detailed 3D meshes from text prompts, ideal for rapid concept design with basic PBR textures and exportable formats
+- <a href="https://csm.ai/" target="_blank">CSM AI</a> (**CSM** · Latest) - AI-powered 3D model generation tool that automatically generates high-quality 3D models based on text descriptions
+- <a href="https://spline.design/" target="_blank">Spline AI</a> (**Spline** · Latest) - Generate 3D objects from text prompts, focused on interactive 3D scene creation for web and app design
+- <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · Latest) - AI-powered 3D model generation supporting text-to-3D, image-to-3D, and automatic PBR texture generation
+- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
+- <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
+- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
+
+### Image-to-3D Models
+
+_These are foundational AI 3D model generation tools that generate 3D models from 2D images. Many 3D applications are built on top of these models._
+
+- <a href="https://www.kaedim3d.com/" target="_blank">Kaedim</a> (**Kaedim** · Latest) - Convert 2D images or sketches to 3D models in minutes, supporting multiple output styles and seamless integration with Unity, Unreal Engine, and Blender
+- <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · Latest) - AI-powered 3D model generation supporting text-to-3D, image-to-3D, and automatic PBR texture generation
+- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
+- <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
+- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
 
 ---
 

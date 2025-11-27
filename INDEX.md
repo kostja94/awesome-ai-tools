@@ -28,6 +28,21 @@ Quick reference index of all products in this repository.
 ## By Category
 
 ### Large Language Models (LLMs)
+
+#### Web Development LLMs
+- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a>
+- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a>
+- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a>
+- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a>
+- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a>
+- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a>
+- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a>
+- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a>
+- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a>
+- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a>
+- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a>
+
+#### General Purpose LLMs
 - <a href="https://gemini.google.com/" target="_blank">Gemini</a>
 - <a href="https://x.ai/" target="_blank">Grok</a>
 - <a href="https://www.anthropic.com/" target="_blank">Claude</a>
@@ -129,6 +144,21 @@ Quick reference index of all products in this repository.
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a>
 - <a href="https://stepfun.com/" target="_blank">StepFun TTS</a>
 
+#### Speech-to-Text (ASR) Models
+- <a href="https://platform.openai.com/docs/guides/speech-to-text" target="_blank">OpenAI Whisper</a>
+- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a>
+- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a>
+- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a>
+- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a>
+- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a>
+- <a href="https://aws.amazon.com/transcribe/" target="_blank">Amazon Transcribe</a>
+- <a href="https://cloud.google.com/speech-to-text" target="_blank">Google Cloud Speech-to-Text</a>
+- <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech-to-Text</a>
+- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a>
+- <a href="https://www.rev.ai/" target="_blank">Rev AI</a>
+- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a>
+- <a href="https://elevenlabs.io/" target="_blank">ElevenLabs Scribe</a>
+
 #### Music Generation Models
 - <a href="https://suno.ai/" target="_blank">Suno</a>
 - <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a>
@@ -136,6 +166,108 @@ Quick reference index of all products in this repository.
 - <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a>
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a>
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a>
+
+### AI Coding Tools
+
+#### AI Coding Agents & IDEs
+- <a href="https://www.cursor.com/" target="_blank">Cursor</a>
+- <a href="https://devin.ai/" target="_blank">Devin</a>
+- <a href="https://replit.com/" target="_blank">Replit</a>
+- <a href="https://www.trae.ai/" target="_blank">Trae</a>
+- <a href="https://stackblitz.com/" target="_blank">StackBlitz</a>
+- <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a>
+- <a href="https://www.wordware.ai/" target="_blank">Wordware</a>
+
+#### Code Completion Tools
+- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a>
+- <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a>
+- <a href="https://supermaven.com/" target="_blank">Supermaven</a>
+- <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a>
+- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a>
+- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a>
+
+#### Low-Code/No-Code Platforms
+- <a href="https://www.fine.dev/" target="_blank">Fine</a>
+- <a href="https://magic.dev/" target="_blank">Magic</a>
+- <a href="https://bolt.new/" target="_blank">Bolt</a>
+- <a href="https://retool.com/" target="_blank">Retool</a>
+- <a href="https://lovable.dev/" target="_blank">Lovable</a>
+- <a href="https://www.trickle.so/" target="_blank">Trickle</a>
+- <a href="https://v0.dev/" target="_blank">V0 by Vercel</a>
+- <a href="https://readdy.ai/" target="_blank">Readdy</a>
+- <a href="https://glif.app/" target="_blank">Glif</a>
+- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a>
+- <a href="https://poolside.ai/" target="_blank">Poolside</a>
+
+#### Code Quality & Security Tools
+- <a href="https://moderne.io/" target="_blank">Moderne</a>
+- <a href="https://stenography.dev/" target="_blank">Stenography</a>
+- <a href="http://codiga.io/" target="_blank">Codiga</a>
+
+### AI Search Tools
+
+#### Search-Enhanced LLMs
+- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a>
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a>
+- <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a>
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a>
+- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a>
+- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a>
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a>
+- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a>
+- <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a>
+- <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a>
+- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a>
+
+#### AI Search APIs & Infrastructure
+- <a href="https://exa.ai/" target="_blank">Exa.ai</a>
+- <a href="https://you.com/" target="_blank">You.com</a>
+- <a href="https://tavily.com/" target="_blank">Tavily</a>
+- <a href="https://serpapi.com/" target="_blank">SerpApi</a>
+- <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a>
+- <a href="https://jina.ai/" target="_blank">Jina AI</a>
+- <a href="https://www.algolia.com/" target="_blank">Algolia</a>
+
+#### AI-Powered Search Engines
+- <a href="https://www.perplexity.ai/" target="_blank">Perplexity</a>
+- <a href="https://yep.com/" target="_blank">Yep</a>
+- <a href="https://www.phind.com/" target="_blank">Phind</a>
+- <a href="https://iask.ai/" target="_blank">iAsk</a>
+- <a href="https://consensus.app/" target="_blank">Consensus</a>
+- <a href="https://komo.ai/" target="_blank">Komo</a>
+- <a href="https://brave.com/search/" target="_blank">Brave Search</a>
+- <a href="https://adot.ai/" target="_blank">Adot</a>
+
+#### E-commerce Search Assistants
+- <a href="https://www.amazon.com/Rufus/b?ie=UTF8&node=121214013011" target="_blank">Amazon Rufus</a>
+- <a href="https://www.accio.com/" target="_blank">Accio</a>
+- <a href="https://www.shopencore.ai/" target="_blank">Encore</a>
+- <a href="https://faircado.com/" target="_blank">Faircado</a>
+- <a href="https://onton.com/" target="_blank">Onton</a>
+
+#### AI Browsers
+- <a href="https://arc.net/" target="_blank">Arc</a>
+- <a href="https://www.diabrowser.com/" target="_blank">Dia</a>
+- <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a>
+- <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a>
+
+### AI 3D Model Generation
+
+#### Text-to-3D Models
+- <a href="https://lumalabs.ai/genie" target="_blank">Luma Genie</a>
+- <a href="https://csm.ai/" target="_blank">CSM AI</a>
+- <a href="https://spline.design/" target="_blank">Spline AI</a>
+- <a href="https://www.meshy.ai/" target="_blank">Meshy</a>
+- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a>
+- <a href="https://hyper3d.ai/" target="_blank">Rodin</a>
+- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a>
+
+#### Image-to-3D Models
+- <a href="https://www.kaedim3d.com/" target="_blank">Kaedim</a>
+- <a href="https://www.meshy.ai/" target="_blank">Meshy</a>
+- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a>
+- <a href="https://hyper3d.ai/" target="_blank">Rodin</a>
+- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a>
 
 ---
 
