@@ -70,6 +70,7 @@ The information in this repository is compiled from multiple sources:
   - [NSFW Chatbots](#nsfw-chatbots)
   - [Specialized Chatbots](#specialized-chatbots)
 - 🤖 [AI Agents](#ai-agents)
+- 🏭 [App Development Factories](#app-development-factories)
   - [Video Editing Agents](#video-editing-agents)
   - [Design Agents](#design-agents)
   - [Music Agents](#music-agents)
@@ -459,6 +460,25 @@ _These are AI agents that assist with music creation, production, and editing th
 - <a href="https://www.producer.ai/" target="_blank">Producer.ai</a> (**Producer.ai** · Latest) - AI music agent for creating music from imagination
 - <a href="https://www.wondera.ai/" target="_blank">Wondera</a> (**Wondera** · Latest) - AI music co-creator that helps bring musical ideas to life
 - <a href="https://tunee.ai/" target="_blank">Tunee</a> (**Tunee** · Latest) - Next-gen AI music agent that works through natural conversation to create customized music, understanding style preferences and creative patterns
+
+## App Development Factories
+
+_These are companies that operate as "app factories" or "product studios," building and operating multiple consumer applications, often leveraging AI technology and systematic approaches to product development._
+
+- <a href="https://www.lightricks.com/" target="_blank">Lightricks</a> (**Lightricks** · Latest) - Visual content creation factory built with popular apps like Facetune and Videoleap, integrating AI image and video generation and editing engines
+- <a href="https://bendingspoons.com/" target="_blank">Bending Spoons</a> (**Bending Spoons** · Latest) - Italian tech group that builds high-activity digital products like Evernote, Meetup, and Remini through acquisition and optimization model
+- <a href="https://www.freepikcompany.com/" target="_blank">Freepik</a> (**Freepik** · Latest) - Spanish AI visual platform providing billions of assets and image/video/audio generation tools, along with enterprise creative tools
+- <a href="https://www.kaleido.ai/" target="_blank">Kaleido</a> (**Canva** · Latest) - Visual AI editing and automation platform, now part of Canva Austria
+- <a href="https://www.codeway.co/" target="_blank">Codeway</a> (**Codeway** · Latest) - AI-driven mobile app development factory that rapidly builds and operates high-download apps from creative concepts
+- <a href="https://www.pixerylabs.com/" target="_blank">Pixerylabs</a> (**Pixerylabs** · Latest) - Mobile video editing tool developer for content creators, supporting animation, effects, and AI generation
+- <a href="https://www.codeorgana.com/" target="_blank">Code (Organa)</a> (**Code Organa** · Latest) - Developer of mobile apps and visual effects tools for artistic creation, including Brushstroke and Animatix
+- <a href="https://vyro.ai/" target="_blank">Vyro</a> (**Vyro** · Latest) - Multilingual AI design platform that quickly converts text into high-quality brand visual content and graphic designs
+- <a href="https://www.learneo.com/" target="_blank">Learneo</a> (**Learneo** · Latest) - Online education and creation platform aggregating brands like Course Hero and Symbolab, facilitating sharing and access to learning resources
+- <a href="https://www.intuit.com/" target="_blank">Intuit</a> (**Intuit** · Latest) - Comprehensive fintech company providing TurboTax tax filing, QuickBooks accounting, Credit Karma credit monitoring, and Mailchimp marketing tools
+- <a href="https://superapplabs.co/" target="_blank">Superapp Labs</a> (**Superapp Labs** · Latest) - AI mobile app incubator building multiple visual and productivity apps for tens of millions of global users
+- <a href="https://aiby.com/" target="_blank">AIBY</a> (**AIBY** · Latest) - US AI co-creation company building and operating multiple consumer apps and games with over 100 million downloads
+- <a href="https://hubx.com/" target="_blank">HUBX</a> (**HUBX** · Latest) - Global tech incubator building AI-driven mobile apps and supporting team collaboration and resource sharing
+- <a href="https://www.mobiversite.com/" target="_blank">Mobiversite</a> (**Mobiversite** · Latest) - Mobile app development factory focused on creating and operating consumer applications
 
 ---
 

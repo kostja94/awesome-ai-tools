@@ -67,6 +67,7 @@
   - [NSFW 聊天机器人](#nsfw-聊天机器人)
   - [专业聊天机器人](#专业聊天机器人)
 - 🤖 [AI 代理](#ai-代理)
+- 🏭 [应用开发工厂](#应用开发工厂)
   - [视频剪辑代理](#视频剪辑代理)
   - [设计代理](#设计代理)
   - [音乐代理](#音乐代理)
@@ -456,6 +457,25 @@ _这些是通过自然对话和智能自动化辅助音乐创作、制作和编�
 - <a href="https://www.producer.ai/" target="_blank">Producer.ai</a> (**Producer.ai** · 最新版) - 从想象中创作音乐的 AI 音乐代理
 - <a href="https://www.wondera.ai/" target="_blank">Wondera</a> (**Wondera** · 最新版) - 帮助实现音乐创意的 AI 音乐共创工具
 - <a href="https://tunee.ai/" target="_blank">Tunee</a> (**Tunee** · 最新版) - 下一代 AI 音乐代理，通过自然对话创建定制音乐，理解风格偏好和创作模式
+
+## 应用开发工厂
+
+_这些是作为"应用工厂"或"产品工作室"运营的公司，构建和运营多个消费者应用程序，通常利用 AI 技术和系统化的产品开发方法。_
+
+- <a href="https://www.lightricks.com/" target="_blank">Lightricks</a> (**Lightricks** · 最新版) - 以 Facetune、Videoleap 等热门应用构建的视觉内容"一体化创作工厂"，融合 AI 图像、视频生成与编辑引擎
+- <a href="https://bendingspoons.com/" target="_blank">Bending Spoons</a> (**Bending Spoons** · 最新版) - 意大利技术集团，通过收购+优化模式，构建 Evernote、Meetup、Remini 等多款高活跃数字产品
+- <a href="https://www.freepikcompany.com/" target="_blank">Freepik</a> (**Freepik** · 最新版) - 西班牙 AI 视觉平台，提供亿级素材库与图片/视频/音频生成及企业级创意工具
+- <a href="https://www.kaleido.ai/" target="_blank">Kaleido</a> (**Canva** · 最新版) - 专注视觉 AI 编辑与自动化处理的工具平台，现为 Canva 旗下产品
+- <a href="https://www.codeway.co/" target="_blank">Codeway</a> (**Codeway** · 最新版) - AI 驱动的移动应用开发工厂，从创意出发快速构建并运营高下载量 App
+- <a href="https://www.pixerylabs.com/" target="_blank">Pixerylabs</a> (**Pixerylabs** · 最新版) - 面向内容创作者的手机视频编辑工具开发者，支持动画、特效与 AI 生成
+- <a href="https://www.codeorgana.com/" target="_blank">Code (Organa)</a> (**Code Organa** · 最新版) - 开发支持艺术创作的手机 App 与视觉特效工具，包括 Brushstroke、Animatix 等
+- <a href="https://vyro.ai/" target="_blank">Vyro</a> (**Vyro** · 最新版) - 多语言 AI 设计平台，将文本快速转化为高质量品牌视觉内容与图形设计
+- <a href="https://www.learneo.com/" target="_blank">Learneo</a> (**Learneo** · 最新版) - 在线教育与创作平台，汇聚 Course Hero、Symbolab 等品牌，助力分享与访问学习资源
+- <a href="https://www.intuit.com/" target="_blank">Intuit</a> (**Intuit** · 最新版) - 综合金融科技公司，提供 TurboTax 纳税、QuickBooks 账务、Credit Karma 信用监控与 Mailchimp 营销工具
+- <a href="https://superapplabs.co/" target="_blank">Superapp Labs</a> (**Superapp Labs** · 最新版) - AI 移动应用孵化者，打造数款面向全球千万级用户的视觉与生产力 App
+- <a href="https://aiby.com/" target="_blank">AIBY</a> (**AIBY** · 最新版) - 美国 AI 联合创公司，构建并运营多款下载过亿的消费者应用和游戏
+- <a href="https://hubx.com/" target="_blank">HUBX</a> (**HUBX** · 最新版) - 全球化科技孵化器，构建 AI 驱动移动 App 并支持团队协作与资源共享
+- <a href="https://www.mobiversite.com/" target="_blank">Mobiversite</a> (**Mobiversite** · 最新版) - 专注于移动应用开发和发行的公司，致力于为全球用户提供高质量的应用产品
 
 ---
 

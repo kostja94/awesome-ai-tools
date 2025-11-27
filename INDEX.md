@@ -326,6 +326,22 @@ Quick reference index of all products in this repository.
 - <a href="https://www.wondera.ai/" target="_blank">Wondera</a>
 - <a href="https://tunee.ai/" target="_blank">Tunee</a>
 
+### App Development Factories
+- <a href="https://www.lightricks.com/" target="_blank">Lightricks</a>
+- <a href="https://bendingspoons.com/" target="_blank">Bending Spoons</a>
+- <a href="https://www.freepikcompany.com/" target="_blank">Freepik</a>
+- <a href="https://www.kaleido.ai/" target="_blank">Kaleido</a>
+- <a href="https://www.codeway.co/" target="_blank">Codeway</a>
+- <a href="https://www.pixerylabs.com/" target="_blank">Pixerylabs</a>
+- <a href="https://www.codeorgana.com/" target="_blank">Code (Organa)</a>
+- <a href="https://vyro.ai/" target="_blank">Vyro</a>
+- <a href="https://www.learneo.com/" target="_blank">Learneo</a>
+- <a href="https://www.intuit.com/" target="_blank">Intuit</a>
+- <a href="https://superapplabs.co/" target="_blank">Superapp Labs</a>
+- <a href="https://aiby.com/" target="_blank">AIBY</a>
+- <a href="https://hubx.com/" target="_blank">HUBX</a>
+- <a href="https://www.mobiversite.com/" target="_blank">Mobiversite</a>
+
 ---
 
 **Note**: This index will be automatically updated as products are added. For detailed information about each product, please refer to the [README.md](README.md).
