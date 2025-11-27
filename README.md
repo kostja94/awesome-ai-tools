@@ -40,7 +40,18 @@ _Curated selection of the most impactful and useful tools_
 
 ## AI Image Tools
 
-<!-- Add AI image generation, editing, and processing tools here -->
+- [Imagen by Google](products/imagen-google.md) - Google DeepMind's advanced AI image generation model
+- [DALL-E 3 by OpenAI](products/dalle-3-openai.md) - OpenAI's third-generation DALL-E model for creative image generation
+- [Flux by Black Forest Labs](products/flux-black-forest-labs.md) - Advanced AI image generation and editing
+- [Seedream by ByteDance](products/seedream-bytedance.md) - ByteDance's Seedream 3.0 AI image generation model
+- [Ideogram](products/ideogram.md) - Text-to-image tool with exceptional text rendering capabilities
+- [Stability AI](products/stability-ai.md) - Open-source AI platform offering image, video, audio, and 3D generation APIs
+- [Midjourney](products/midjourney.md) - Creative AI image generation via Discord or web, known for artistic quality
+- [Reve](products/reve.md) - AI image generation and editing platform
+- [Leonardo AI](products/leonardo-ai.md) - Professional-grade AI image/video generation tool for designers
+- [Recraft](products/recraft.md) - Professional AI image generation platform supporting vectors and mockups
+- [Adobe Firefly](products/adobe-firefly.md) - Adobe's AI image generation tool integrated with Creative Cloud
+- [Luma Photon](products/luma-photon.md) - Luma Labs' AI image generation tool
 
 ## AI Video Tools
 
