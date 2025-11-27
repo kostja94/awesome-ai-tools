@@ -58,9 +58,17 @@ The information in this repository is compiled from multiple sources:
   - [AI-Powered Search Engines](#ai-powered-search-engines)
   - [E-commerce Search Assistants](#e-commerce-search-assistants)
   - [AI Browsers](#ai-browsers)
+- 🔗 [AI Aggregation Platforms](#ai-aggregation-platforms)
+  - [For Developers](#for-developers)
+  - [For Enterprises](#for-enterprises)
+  - [For General Users](#for-general-users)
 - 🎨 [AI 3D Model Generation](#ai-3d-model-generation)
   - [Text-to-3D Models](#text-to-3d-models)
   - [Image-to-3D Models](#image-to-3d-models)
+- 💬 [AI Chatbots](#ai-chatbots)
+  - [Character Chatbots](#character-chatbots)
+  - [NSFW Chatbots](#nsfw-chatbots)
+  - [Specialized Chatbots](#specialized-chatbots)
 - 🤖 [AI Agents](#ai-agents)
   - [Video Editing Agents](#video-editing-agents)
   - [Design Agents](#design-agents)
@@ -344,6 +352,37 @@ _These are browsers with integrated AI assistants that enhance browsing experien
 - <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a> (**Strawberry** · Latest) - Built-in AI assistant for automated research, writing, and daily tasks
 - <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a> (**Perplexity** · Latest) - Integrated Perplexity search sidebar with automatic tab organization and ad blocking
 
+## AI Aggregation Platforms
+
+### For Developers
+
+_These platforms provide unified API access to multiple AI models, making it easy for developers to integrate various AI capabilities._
+
+- <a href="https://openrouter.ai/" target="_blank">OpenRouter</a> (**OpenRouter** · Latest) - Unified LLM access platform, one-click access to multiple open-source or commercial LLM APIs, currently ranked #1 in the industry
+- <a href="https://fal.ai/" target="_blank">Fal</a> (**Fal** · Latest) - Unified API access platform for image generation models, one-click access to multiple open-source or commercial image generation APIs, fast diffusion model inference and training APIs, improving generation efficiency up to 4×
+- <a href="https://replicate.com/" target="_blank">Replicate</a> (**Replicate** · Latest) - Run or fine-tune open-source models with one line of code, host custom AI inference services
+- <a href="https://huggingface.co/" target="_blank">Hugging Face</a> (**Hugging Face** · Latest) - One-stop AI model platform and API, providing Transformers library, Hub, and inference services
+- <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a> (**EachLabs** · Latest) - Model marketplace providing 150+ AI models and visual workflows, one-click building of secure and scalable AI backends
+- <a href="https://requesty.ai/" target="_blank">Requesty</a> (**Requesty** · Latest) - AI model marketplace and API aggregation platform
+- <a href="https://www.edenai.co/" target="_blank">Eden AI</a> (**Eden AI** · Latest) - AI model marketplace and unified API platform
+
+### For Enterprises
+
+_These platforms provide enterprise-grade AI infrastructure and multi-model API access for large-scale deployments._
+
+- <a href="https://aws.amazon.com/bedrock/" target="_blank">Amazon Bedrock</a> (**Amazon** · Latest) - Single API to access multiple foundation models, enabling text, image, and multimodal inference
+- <a href="https://ai.azure.com/" target="_blank">Azure AI Foundry</a> (**Microsoft** · Latest) - Enterprise AI platform providing unified access to multiple AI models and services
+- <a href="https://cloud.google.com/vertex-ai" target="_blank">Google Vertex AI</a> (**Google** · Latest) - Enterprise AI platform on Google Cloud, providing access to multiple AI models and services
+- <a href="https://build.nvidia.com/" target="_blank">NVIDIA NIM</a> (**NVIDIA** · Latest) - Microservices-based GPU-accelerated inference platform, self-hosted or cloud deployment of latest AI models
+- <a href="https://developers.cloudflare.com/workers-ai/" target="_blank">Cloudflare Workers AI</a> (**Cloudflare** · Latest) - Cloudflare serverless edge GPU inference, integrated vector storage and API access
+
+### For General Users
+
+_These platforms provide easy access to multiple AI models through user-friendly interfaces._
+
+- <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · Latest) - Platform providing access to multiple AI models through a unified interface
+- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · Latest) - All-in-one AI assistant integrating multiple AI models, supporting GPT-5.1, Claude 4.5, Gemini 3 Pro, and more, providing chat, search, writing, image generation, video generation, and coding features
+
 ## AI 3D Model Generation
 
 ### Text-to-3D Models
@@ -367,6 +406,34 @@ _These are foundational AI 3D model generation tools that generate 3D models fro
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
+
+## AI Chatbots
+
+### Character Chatbots
+
+_These are AI chatbot platforms that allow users to create and interact with custom AI characters for conversation, roleplay, and companionship._
+
+- <a href="https://character.ai/" target="_blank">Character.ai</a> (**Character.ai** · Latest) - Customizable character chat platform providing deep, persistent memory conversation experiences
+- <a href="https://www.joyland.ai/" target="_blank">Joyland.AI</a> (**Joyland.AI** · Latest) - Generate anime-style AI characters for immersive character companionship and roleplay experiences
+- <a href="https://yodayo.com/" target="_blank">Yodayo</a> (**Yodayo** · Latest) - AI chat and image generation platform for anime enthusiasts, supporting character creation experiences
+- <a href="https://www.polybuzz.ai/" target="_blank">PolyBuzz</a> (**PolyBuzz** · Latest) - AI chat and roleplay platform with millions of virtual characters, supporting text and voice interactions
+- <a href="https://www.chub.ai/" target="_blank">Chub AI</a> (**Chub AI** · Latest) - Interactive roleplay AI chat platform enabling custom character experiences and storytelling
+- <a href="https://replika.ai/" target="_blank">Replika</a> (**Replika** · Latest) - AI companion chatbot supporting customizable personality, voice, and conversation modes
+
+### NSFW Chatbots
+
+_These are AI chatbot platforms that support NSFW content and adult content for virtual companionship._
+
+- <a href="https://crushon.ai/" target="_blank">CrushOn.AI</a> (**CrushOn.AI** · Latest) - NSFW virtual AI companion chat supporting customizable characters and deep memory
+- <a href="https://candy.ai/" target="_blank">Candy AI</a> (**Candy AI** · Latest) - High-quality AI virtual companion chat simulating real emotional scenarios
+- <a href="https://spicychat.ai/" target="_blank">Spicychat</a> (**Spicychat** · Latest) - NSFW roleplay AI chat platform with rich user-created character library
+
+### Specialized Chatbots
+
+_These are AI chatbots designed for specific use cases or audiences._
+
+- <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> (**AutoResponder.ai** · Latest) - AI auto-reply chatbot generator supporting WhatsApp, Telegram, and other platforms
+- <a href="https://www.heeyo.ai/" target="_blank">Heeyo AI</a> (**Heeyo AI** · Latest) - Multilingual AI chat companion designed for children aged 3-11, featuring educational games and adaptive growth capabilities
 
 ## AI Agents
 

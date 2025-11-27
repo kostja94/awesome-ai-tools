@@ -251,21 +251,27 @@ Quick reference index of all products in this repository.
 - <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a>
 - <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a>
 
-### AI Agents
+### AI Aggregation Platforms
 
-#### Video Editing Agents
-- <a href="https://mosaic.so/" target="_blank">Mosaic</a>
-- <a href="https://www.opus.pro/agent" target="_blank">Opus Pro Agent</a>
+#### For Developers
+- <a href="https://openrouter.ai/" target="_blank">OpenRouter</a>
+- <a href="https://fal.ai/" target="_blank">Fal</a>
+- <a href="https://replicate.com/" target="_blank">Replicate</a>
+- <a href="https://huggingface.co/" target="_blank">Hugging Face</a>
+- <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a>
+- <a href="https://requesty.ai/" target="_blank">Requesty</a>
+- <a href="https://www.edenai.co/" target="_blank">Eden AI</a>
 
-#### Design Agents
-- <a href="https://www.lovart.ai/" target="_blank">Lovart</a>
+#### For Enterprises
+- <a href="https://aws.amazon.com/bedrock/" target="_blank">Amazon Bedrock</a>
+- <a href="https://ai.azure.com/" target="_blank">Azure AI Foundry</a>
+- <a href="https://cloud.google.com/vertex-ai" target="_blank">Google Vertex AI</a>
+- <a href="https://build.nvidia.com/" target="_blank">NVIDIA NIM</a>
+- <a href="https://developers.cloudflare.com/workers-ai/" target="_blank">Cloudflare Workers AI</a>
 
-#### Music Agents
-- <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a>
-- <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a>
-- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a>
-- <a href="https://www.wondera.ai/" target="_blank">Wondera</a>
-- <a href="https://tunee.ai/" target="_blank">Tunee</a>
+#### For General Users
+- <a href="https://poe.com/" target="_blank">Poe</a>
+- <a href="https://monica.im/" target="_blank">Monica</a>
 
 ### AI 3D Model Generation
 
@@ -284,6 +290,41 @@ Quick reference index of all products in this repository.
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a>
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a>
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a>
+
+### AI Chatbots
+
+#### Character Chatbots
+- <a href="https://character.ai/" target="_blank">Character.ai</a>
+- <a href="https://www.joyland.ai/" target="_blank">Joyland.AI</a>
+- <a href="https://yodayo.com/" target="_blank">Yodayo</a>
+- <a href="https://www.polybuzz.ai/" target="_blank">PolyBuzz</a>
+- <a href="https://www.chub.ai/" target="_blank">Chub AI</a>
+- <a href="https://replika.ai/" target="_blank">Replika</a>
+
+#### NSFW Chatbots
+- <a href="https://crushon.ai/" target="_blank">CrushOn.AI</a>
+- <a href="https://candy.ai/" target="_blank">Candy AI</a>
+- <a href="https://spicychat.ai/" target="_blank">Spicychat</a>
+
+#### Specialized Chatbots
+- <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a>
+- <a href="https://www.heeyo.ai/" target="_blank">Heeyo AI</a>
+
+### AI Agents
+
+#### Video Editing Agents
+- <a href="https://mosaic.so/" target="_blank">Mosaic</a>
+- <a href="https://www.opus.pro/agent" target="_blank">Opus Pro Agent</a>
+
+#### Design Agents
+- <a href="https://www.lovart.ai/" target="_blank">Lovart</a>
+
+#### Music Agents
+- <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a>
+- <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a>
+- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a>
+- <a href="https://www.wondera.ai/" target="_blank">Wondera</a>
+- <a href="https://tunee.ai/" target="_blank">Tunee</a>
 
 ---
 

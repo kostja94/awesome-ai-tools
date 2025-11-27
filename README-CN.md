@@ -55,9 +55,17 @@
   - [AI 搜索引擎](#ai-搜索引擎)
   - [电商搜索助手](#电商搜索助手)
   - [AI 浏览器](#ai-浏览器)
+- 🔗 [AI 聚合平台](#ai-聚合平台)
+  - [面向开发者](#面向开发者)
+  - [面向企业](#面向企业)
+  - [面向普通用户](#面向普通用户)
 - 🎨 [AI 3D 模型生成](#ai-3d-模型生成)
   - [文本到 3D 模型](#文本到-3d-模型)
   - [图像到 3D 模型](#图像到-3d-模型)
+- 💬 [AI 聊天机器人](#ai-聊天机器人)
+  - [角色聊天机器人](#角色聊天机器人)
+  - [NSFW 聊天机器人](#nsfw-聊天机器人)
+  - [专业聊天机器人](#专业聊天机器人)
 - 🤖 [AI 代理](#ai-代理)
   - [视频剪辑代理](#视频剪辑代理)
   - [设计代理](#设计代理)
@@ -341,6 +349,37 @@ _这些是集成 AI 助手的浏览器，通过智能功能增强浏览体验。
 - <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a> (**Strawberry** · 最新版) - 内置 AI 助手，自动化研究、撰写与日常任务
 - <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a> (**Perplexity** · 最新版) - 集成 Perplexity 搜索侧边栏并能自动组织标签、屏蔽广告等
 
+## AI 聚合平台
+
+### 面向开发者
+
+_这些平台提供统一的 API 访问多个 AI 模型，方便开发者集成各种 AI 功能。_
+
+- <a href="https://openrouter.ai/" target="_blank">OpenRouter</a> (**OpenRouter** · 最新版) - 统一 LLM 接入平台，一键调用多个开源或商业大模型 API，目前业内排行第一
+- <a href="https://fal.ai/" target="_blank">Fal</a> (**Fal** · 最新版) - 统一 API 接入平台，一键调用多个开源或商业生图大模型 API，极速扩散模型推理与训练 API，提升生成效率最高达 4×
+- <a href="https://replicate.com/" target="_blank">Replicate</a> (**Replicate** · 最新版) - 一行代码运行或微调开源模型，托管自定义 AI 推理服务
+- <a href="https://huggingface.co/" target="_blank">Hugging Face</a> (**Hugging Face** · 最新版) - 一站式 AI 模型平台与 API，提供 Transformers 库、Hub 与推理服务
+- <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a> (**EachLabs** · 最新版) - 提供 150+ AI 模型与可视化工作流，一键构建安全、可扩展的 AI 后端
+- <a href="https://requesty.ai/" target="_blank">Requesty</a> (**Requesty** · 最新版) - AI 模型市场与 API 聚合平台
+- <a href="https://www.edenai.co/" target="_blank">Eden AI</a> (**Eden AI** · 最新版) - AI 模型市场与统一 API 平台
+
+### 面向企业
+
+_这些平台提供企业级 AI 基础设施和多模型 API 访问，适用于大规模部署。_
+
+- <a href="https://aws.amazon.com/bedrock/" target="_blank">Amazon Bedrock</a> (**Amazon** · 最新版) - 单一 API 调用多家基础模型，实现文本、图像等多模态推理
+- <a href="https://ai.azure.com/" target="_blank">Azure AI Foundry</a> (**Microsoft** · 最新版) - 企业 AI 平台，提供统一访问多个 AI 模型和服务
+- <a href="https://cloud.google.com/vertex-ai" target="_blank">Google Vertex AI</a> (**Google** · 最新版) - Google Cloud 上的企业 AI 平台，提供访问多个 AI 模型和服务
+- <a href="https://build.nvidia.com/" target="_blank">NVIDIA NIM</a> (**NVIDIA** · 最新版) - 微服务化 GPU 加速推理平台，自托管或云端部署最新 AI 模型
+- <a href="https://developers.cloudflare.com/workers-ai/" target="_blank">Cloudflare Workers AI</a> (**Cloudflare** · 最新版) - Cloudflare 无服务器边缘 GPU 推理，集成向量存储与 API 调用
+
+### 面向普通用户
+
+_这些平台通过用户友好的界面提供对多个 AI 模型的便捷访问。_
+
+- <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · 最新版) - 通过统一界面访问多个 AI 模型的平台
+- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · 最新版) - 集成多种 AI 模型的全能助手，支持 GPT-5.1、Claude 4.5、Gemini 3 Pro 等，提供聊天、搜索、写作、图像生成、视频生成和编码功能
+
 ## AI 3D 模型生成
 
 ### 文本到 3D 模型
@@ -364,6 +403,34 @@ _这些是基础的 AI 3D 模型生成工具，可以从 2D 图像生成 3D 模�
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · 最新版) - 从文本提示和图像生成多样化的 3D 模型，适合快速原型设计和概念开发
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · 最新版) - 从文本提示和图像生成高质量 3D 模型，支持多种导出格式
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
+
+## AI 聊天机器人
+
+### 角色聊天机器人
+
+_这些是允许用户创建和与自定义 AI 角色进行对话、角色扮演和陪伴的 AI 聊天机器人平台。_
+
+- <a href="https://character.ai/" target="_blank">Character.ai</a> (**Character.ai** · 最新版) - 可自定义角色聊天平台，提供深度、持续记忆的对话体验
+- <a href="https://www.joyland.ai/" target="_blank">Joyland.AI</a> (**Joyland.AI** · 最新版) - 生成动漫风格 AI 角色，打造沉浸式角色陪伴与演绎体验
+- <a href="https://yodayo.com/" target="_blank">Yodayo</a> (**Yodayo** · 最新版) - 面向动漫爱好者的 AI 聊天与图生图平台，支持角色创造体验
+- <a href="https://www.polybuzz.ai/" target="_blank">PolyBuzz</a> (**PolyBuzz** · 最新版) - 拥有数百万虚拟角色的 AI 聊天与角色扮演平台，支持文本与语音互动
+- <a href="https://www.chub.ai/" target="_blank">Chub AI</a> (**Chub AI** · 最新版) - 交互式角色扮演 AI 聊天平台，可创建自定义角色体验故事
+- <a href="https://replika.ai/" target="_blank">Replika</a> (**Replika** · 最新版) - AI 伴侣聊天机器人，支持用户定制性格、声音和对话模式
+
+### NSFW 聊天机器人
+
+_这些是支持 NSFW 内容和成人内容的虚拟陪伴 AI 聊天机器人平台。_
+
+- <a href="https://crushon.ai/" target="_blank">CrushOn.AI</a> (**CrushOn.AI** · 最新版) - NSFW 虚拟 AI 伴侣聊天，支持可定制角色与深层记忆
+- <a href="https://candy.ai/" target="_blank">Candy AI</a> (**Candy AI** · 最新版) - 高质量 AI 虚拟伴侣聊天，模拟真实情感场景
+- <a href="https://spicychat.ai/" target="_blank">Spicychat</a> (**Spicychat** · 最新版) - NSFW 角色扮演 AI 聊天平台，拥有丰富用户创作角色库
+
+### 专业聊天机器人
+
+_这些是为特定用途或受众设计的 AI 聊天机器人。_
+
+- <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> (**AutoResponder.ai** · 最新版) - 支持 WhatsApp、Telegram 等平台的 AI 自动回复机器人生成器
+- <a href="https://www.heeyo.ai/" target="_blank">Heeyo AI</a> (**Heeyo AI** · 最新版) - 为 3-11 岁儿童打造的多语言 AI 聊伴，具教育游戏与成长适应能力
 
 ## AI 代理
 
