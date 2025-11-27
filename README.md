@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README-CN.md)
+
 # Awesome AI Tools
 
 > A curated list of AI/SaaS products with personal insights and growth perspectives
