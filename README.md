@@ -47,6 +47,10 @@ This repository serves as a personal knowledge base and sharing platform for AI/
 - 🎨 [AI 3D Model Generation](#ai-3d-model-generation)
   - [Text-to-3D Models](#text-to-3d-models)
   - [Image-to-3D Models](#image-to-3d-models)
+- 🤖 [AI Agents](#ai-agents)
+  - [Video Editing Agents](#video-editing-agents)
+  - [Design Agents](#design-agents)
+  - [Music Agents](#music-agents)
 
 ## Large Language Models (LLMs)
 
@@ -349,6 +353,31 @@ _These are foundational AI 3D model generation tools that generate 3D models fro
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
+
+## AI Agents
+
+### Video Editing Agents
+
+_These are AI agents that automate video editing workflows, from concept to final production._
+
+- <a href="https://mosaic.so/" target="_blank">Mosaic</a> (**Mosaic** · Latest) - Agentic AI video editing platform that automates the entire video production workflow
+- <a href="https://www.opus.pro/agent" target="_blank">Opus Pro Agent</a> (**Opus Pro** · Latest) - AI video generator for social media that turns ideas into videos from news articles, scripts, audio, blogs, and X posts
+
+### Design Agents
+
+_These are AI agents that automate design workflows, from concept to final deliverables._
+
+- <a href="https://www.lovart.ai/" target="_blank">Lovart</a> (**Lovart** · Latest) - The world's first design agent that automates the entire design journey, from concept to images, videos, 3D, and more
+
+### Music Agents
+
+_These are AI agents that assist with music creation, production, and editing through natural conversation and intelligent automation._
+
+- <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a> (**MixAudio** · Latest) - All-in-one AI music agent for creating soundtracks, remixes, stem separation, and music analysis
+- <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a> (**MIDI Agent** · Latest) - AI VST & AU plugin that generates and transcribes MIDI using natural language and major AI models (ChatGPT, Claude, Gemini, Grok)
+- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a> (**Producer.ai** · Latest) - AI music agent for creating music from imagination
+- <a href="https://www.wondera.ai/" target="_blank">Wondera</a> (**Wondera** · Latest) - AI music co-creator that helps bring musical ideas to life
+- <a href="https://tunee.ai/" target="_blank">Tunee</a> (**Tunee** · Latest) - Next-gen AI music agent that works through natural conversation to create customized music, understanding style preferences and creative patterns
 
 ---
 

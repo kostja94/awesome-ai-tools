@@ -44,6 +44,10 @@
 - 🎨 [AI 3D 模型生成](#ai-3d-模型生成)
   - [文本到 3D 模型](#文本到-3d-模型)
   - [图像到 3D 模型](#图像到-3d-模型)
+- 🤖 [AI 代理](#ai-代理)
+  - [视频剪辑代理](#视频剪辑代理)
+  - [设计代理](#设计代理)
+  - [音乐代理](#音乐代理)
 
 ## 大语言模型 (LLMs)
 
@@ -346,6 +350,31 @@ _这些是基础的 AI 3D 模型生成工具，可以从 2D 图像生成 3D 模�
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · 最新版) - 从文本提示和图像生成多样化的 3D 模型，适合快速原型设计和概念开发
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · 最新版) - 从文本提示和图像生成高质量 3D 模型，支持多种导出格式
 - <a href="https://hunyuan.tencent.com/3d" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
+
+## AI 代理
+
+### 视频剪辑代理
+
+_这些是自动化视频剪辑工作流的 AI 代理，从概念到最终制作。_
+
+- <a href="https://mosaic.so/" target="_blank">Mosaic</a> (**Mosaic** · 最新版) - 自动化整个视频制作工作流的智能 AI 视频剪辑平台
+- <a href="https://www.opus.pro/agent" target="_blank">Opus Pro Agent</a> (**Opus Pro** · 最新版) - 面向社交媒体的 AI 视频生成器，可将新闻文章、脚本、音频、博客和 X 帖子转换为视频
+
+### 设计代理
+
+_这些是自动化设计工作流的 AI 代理，从概念到最终交付物。_
+
+- <a href="https://www.lovart.ai/" target="_blank">Lovart</a> (**Lovart** · 最新版) - 世界首个设计代理，自动化整个设计流程，从概念到图像、视频、3D 等
+
+### 音乐代理
+
+_这些是通过自然对话和智能自动化辅助音乐创作、制作和编辑的 AI 代理。_
+
+- <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a> (**MixAudio** · 最新版) - 一体化 AI 音乐代理，用于创建配乐、混音、音轨分离和音乐分析
+- <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a> (**MIDI Agent** · 最新版) - AI VST & AU 插件，使用自然语言和主流 AI 模型（ChatGPT、Claude、Gemini、Grok）生成和转录 MIDI
+- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a> (**Producer.ai** · 最新版) - 从想象中创作音乐的 AI 音乐代理
+- <a href="https://www.wondera.ai/" target="_blank">Wondera</a> (**Wondera** · 最新版) - 帮助实现音乐创意的 AI 音乐共创工具
+- <a href="https://tunee.ai/" target="_blank">Tunee</a> (**Tunee** · 最新版) - 下一代 AI 音乐代理，通过自然对话创建定制音乐，理解风格偏好和创作模式
 
 ---
 

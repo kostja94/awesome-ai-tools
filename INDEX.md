@@ -251,6 +251,22 @@ Quick reference index of all products in this repository.
 - <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a>
 - <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a>
 
+### AI Agents
+
+#### Video Editing Agents
+- <a href="https://mosaic.so/" target="_blank">Mosaic</a>
+- <a href="https://www.opus.pro/agent" target="_blank">Opus Pro Agent</a>
+
+#### Design Agents
+- <a href="https://www.lovart.ai/" target="_blank">Lovart</a>
+
+#### Music Agents
+- <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a>
+- <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a>
+- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a>
+- <a href="https://www.wondera.ai/" target="_blank">Wondera</a>
+- <a href="https://tunee.ai/" target="_blank">Tunee</a>
+
 ### AI 3D Model Generation
 
 #### Text-to-3D Models
