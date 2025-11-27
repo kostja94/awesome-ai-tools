@@ -40,16 +40,18 @@ _Curated selection of the most impactful and useful tools_
 
 _These are foundational large language models that can be accessed via API. Many AI applications are built on top of these models._
 
-- <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · Latest) - AI research and deployment pioneer, committed to making AGI benefit all humanity
-- <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · Latest) - Google DeepMind's multimodal large model supporting text, image, audio, and video inputs
+- <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 3.0 Pro / 2.5 Pro) - Google DeepMind's multimodal large model supporting text, image, audio, and video inputs
+- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 4.1) - AI company founded by Elon Musk, developing Grok chat model and exploring explainable intelligence
+- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · Opus 4.5 / Sonnet 4.5 / Opus 4.1) - LLM developer focused on safety and controllability, with Claude series as representative products
+- <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 5.1 / 5 / 4.5 / 4o) - AI research and deployment pioneer, committed to making AGI benefit all humanity
+- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · 3 Max) - Large language model
+- <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> (**Moonshot AI** · K2) - Large language model with strong article summarization capabilities
+- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM</a> (**Z.ai** · 4.6) - Large language model
+- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · v3.2) - Large language model
 - <a href="https://llama.meta.com/" target="_blank">Llama</a> (**Meta** · Latest) - Meta's open-source large language model series, lightweight and efficient with multimodal capabilities
-- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · Latest) - LLM developer focused on safety and controllability, with Claude series as representative products
-- <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · Latest) - French open-source LLM innovator, Mistral models enhance chain-of-thought reasoning
-- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · Latest) - AI company founded by Elon Musk, developing Grok chat model and exploring explainable intelligence
-- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · Latest) - Large language model
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> (**MiniMax** · Latest) - Large language model
-- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · Latest) - Large language model
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · Latest) - Large language model
+- <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · Latest) - French open-source LLM innovator, Mistral models enhance chain-of-thought reasoning
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> (**Google** · Latest) - Large language model
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> (**Aleph Alpha** · Latest) - Strong AI technology research, supporting multilingual text and image analysis
 

@@ -40,16 +40,18 @@ _精选最具影响力和实用性的工具_
 
 _这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都是基于这些模型构建的。_
 
-- <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 最新版) - AI 研究和部署先锋，致力于让通用人工智能造福全人类
-- <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 最新版) - Google DeepMind 的多模态大模型，支持文字、图像、音频甚至视频输入
+- <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 3.0 Pro / 2.5 Pro) - Google DeepMind 的多模态大模型，支持文字、图像、音频甚至视频输入
+- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 4.1) - 埃隆·马斯克创办的 AI 公司，开发 Grok 聊天模型并探索解释型智能
+- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · Opus 4.5 / Sonnet 4.5 / Opus 4.1) - 主打安全与可控性的 LLM 开发商，其 Claude 系列也是代表产品
+- <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 5.1 / 5 / 4.5 / 4o) - AI 研究和部署先锋，致力于让通用人工智能造福全人类
+- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · 3 Max) - 大语言模型
+- <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> (**Moonshot AI** · K2) - 大语言模型，文章总结能力较强
+- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM</a> (**Z.ai** · 4.6) - 大语言模型
+- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · v3.2) - 大语言模型
 - <a href="https://llama.meta.com/" target="_blank">Llama</a> (**Meta** · 最新版) - Meta 推出的开源大语言模型系列，轻量高效覆盖多模态功能
-- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · 最新版) - 主打安全与可控性的 LLM 开发商，其 Claude 系列也是代表产品
-- <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · 最新版) - 法国开源 LLM 新势力，Mistral 推理模型强化链式思维能力
-- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 最新版) - 埃隆·马斯克创办的 AI 公司，开发 Grok 聊天模型并探索解释型智能
-- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · 最新版) - 大语言模型
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> (**MiniMax** · 最新版) - 大语言模型
-- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · 最新版) - 大语言模型
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 大语言模型
+- <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · 最新版) - 法国开源 LLM 新势力，Mistral 推理模型强化链式思维能力
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> (**Google** · 最新版) - 大语言模型
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> (**Aleph Alpha** · 最新版) - 强人工智能技术研发，支持多语言文本和图像分析
 
