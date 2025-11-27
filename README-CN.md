@@ -20,7 +20,7 @@
 ## 目录
 
 - 🌟 [编辑推荐](#编辑推荐)
-- 📝 [AI 文本工具](#ai-文本工具)
+- 🤖 [大语言模型 (LLMs)](#大语言模型-llms)
 - 🖼️ [AI 图像工具](#ai-图像工具)
 - 📽️ [AI 视频工具](#ai-视频工具)
 - 🎶 [AI 音频工具](#ai-音频工具)
@@ -36,9 +36,22 @@ _精选最具影响力和实用性的工具_
 
 <!-- 在此添加编辑推荐的产品 -->
 
-## AI 文本工具
+## 大语言模型 (LLMs)
 
-<!-- 在此添加 AI 文本生成、写作和语言工具 -->
+_这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都是基于这些模型构建的。_
+
+- <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 最新版) - AI 研究和部署先锋，致力于让通用人工智能造福全人类
+- <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 最新版) - Google DeepMind 的多模态大模型，支持文字、图像、音频甚至视频输入
+- <a href="https://llama.meta.com/" target="_blank">Llama</a> (**Meta** · 最新版) - Meta 推出的开源大语言模型系列，轻量高效覆盖多模态功能
+- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · 最新版) - 主打安全与可控性的 LLM 开发商，其 Claude 系列也是代表产品
+- <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · 最新版) - 法国开源 LLM 新势力，Mistral 推理模型强化链式思维能力
+- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 最新版) - 埃隆·马斯克创办的 AI 公司，开发 Grok 聊天模型并探索解释型智能
+- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · 最新版) - 大语言模型
+- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> (**MiniMax** · 最新版) - 大语言模型
+- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · 最新版) - 大语言模型
+- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 大语言模型
+- <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> (**Google** · 最新版) - 大语言模型
+- <a href="https://aleph-alpha.com" target="_blank">Luminous</a> (**Aleph Alpha** · 最新版) - 强人工智能技术研发，支持多语言文本和图像分析
 
 ## AI 图像工具
 
@@ -46,38 +59,38 @@ _精选最具影响力和实用性的工具_
 
 _这些是基础的文生图大模型，可通过 API 调用。许多 AI 图像应用都是基于这些模型构建的。_
 
-- <a href="https://ai.studio/banana" target="_blank">Gemini by Google</a> - Google 开发的文生图大模型
-- <a href="https://hunyuan.tencent.com/image/en" target="_blank">腾讯混元 (Tencent Hunyuan)</a> - 腾讯开发的文生图大模型
-- <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen by Google</a> - Google DeepMind 开发的文生图大模型
-- <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream by ByteDance</a> - 字节跳动开发的文生图大模型
-- <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">WAN by Alibaba</a> - 阿里巴巴开发的文生图大模型
-- <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a> - OpenAI 开发的文生图大模型
-- <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">MAI Image by Microsoft AI</a> - Microsoft AI 开发的文生图大模型
-- <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image by Alibaba</a> - 阿里巴巴开发的开源文生图大模型
-- <a href="https://openai.com/index/dall-e-3/" target="_blank">DALL-E 3 by OpenAI</a> - OpenAI 开发的文生图大模型
-- <a href="https://bfl.ai/" target="_blank">Flux by Black Forest Labs</a> - Black Forest Labs 开发的文生图大模型
-- <a href="https://stability.ai/" target="_blank">Stability AI</a> - 开源文生图大模型（Stable Diffusion），提供 API 访问
-- <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - 文生图大模型，擅长文字渲染
-- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - 以艺术性著称的文生图大模型
-- <a href="https://reve.art/" target="_blank">Reve</a> - 文生图大模型
-- <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> - 文生图和视频生成大模型
-- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - 支持矢量和 mockups 的文生图大模型
-- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe 开发的文生图大模型，与 Creative Cloud 集成
-- <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs 开发的文生图大模型
+- <a href="https://ai.studio/banana" target="_blank">Gemini</a> (**Google** · 3.0 Pro / 2.5 Flash) - Google 开发的文生图大模型
+- <a href="https://hunyuan.tencent.com/image/en" target="_blank">腾讯混元</a> (**Tencent** · 3.0) - 腾讯开发的文生图大模型
+- <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen</a> (**Google** · 4.0 Ultra / 4.0) - Google DeepMind 开发的文生图大模型
+- <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - 字节跳动开发的文生图大模型
+- <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的文生图大模型
+- <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image</a> (**OpenAI** · 1) - OpenAI 开发的文生图大模型
+- <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">MAI Image</a> (**Microsoft AI** · 1) - Microsoft AI 开发的文生图大模型
+- <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image</a> (**Alibaba** · 开源) - 阿里巴巴开发的开源文生图大模型
+- <a href="https://openai.com/index/dall-e-3/" target="_blank">DALL-E</a> (**OpenAI** · 3) - OpenAI 开发的文生图大模型
+- <a href="https://bfl.ai/" target="_blank">Flux</a> (**Black Forest Labs** · 1.1 Pro / 1 Kontext) - Black Forest Labs 开发的文生图大模型
+- <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> (**Stability AI** · v3.5) - 开源文生图大模型（Stable Diffusion），提供 API 访问
+- <a href="https://ideogram.ai/" target="_blank">Ideogram</a> (**Ideogram** · v3) - 文生图大模型，擅长文字渲染
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · 最新版) - 以艺术性著称的文生图大模型
+- <a href="https://reve.art/" target="_blank">Reve</a> (**Reve** · v1) - 文生图大模型
+- <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> (**Leonardo AI** · Lucid Origin) - 文生图和视频生成大模型
+- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> (**Recraft** · v3) - 支持矢量和 mockups 的文生图大模型
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 最新版) - Adobe 开发的文生图大模型，与 Creative Cloud 集成
+- <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> (**Luma Labs** · 最新版) - Luma Labs 开发的文生图大模型
 
 ### 图片编辑大模型
 
 _这些是基础的图片编辑大模型，可通过 API 调用。许多 AI 图片编辑应用都是基于这些模型构建的。_
 
-- <a href="https://ai.studio/banana" target="_blank">Gemini by Google</a> - Google 开发的图片编辑大模型
-- <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream by ByteDance</a> - 字节跳动开发的图片编辑大模型
-- <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a> - OpenAI 开发的图片编辑大模型
-- <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit by Alibaba</a> - 阿里巴巴开发的图片编辑大模型
-- <a href="https://reve.art/" target="_blank">Reve</a> - 图片编辑大模型
-- <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext by Black Forest Labs</a> - Black Forest Labs 开发的图片编辑大模型
-- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe 开发的图片编辑大模型，与 Creative Cloud 集成
-- <a href="https://www.hidream.ai/" target="_blank">HiDream</a> - 图片编辑大模型
-- <a href="https://www.stepfun.com/" target="_blank">StepFun</a> - 图片编辑大模型
+- <a href="https://ai.studio/banana" target="_blank">Gemini</a> (**Google** · 3.0 Pro) - Google 开发的图片编辑大模型
+- <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - 字节跳动开发的图片编辑大模型
+- <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image</a> (**OpenAI** · 1) - OpenAI 开发的图片编辑大模型
+- <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit</a> (**Alibaba** · 最新版) - 阿里巴巴开发的图片编辑大模型
+- <a href="https://reve.art/" target="_blank">Reve</a> (**Reve** · v1) - 图片编辑大模型
+- <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext</a> (**Black Forest Labs** · 1 Kontext) - Black Forest Labs 开发的图片编辑大模型
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 5 Preview) - Adobe 开发的图片编辑大模型，与 Creative Cloud 集成
+- <a href="https://www.hidream.ai/" target="_blank">HiDream</a> (**HiDream** · 最新版) - 图片编辑大模型
+- <a href="https://www.stepfun.com/" target="_blank">StepFun</a> (**StepFun** · 最新版) - 图片编辑大模型
 
 ## AI 视频工具
 
@@ -85,37 +98,37 @@ _这些是基础的图片编辑大模型，可通过 API 调用。许多 AI 图�
 
 _这些是基础的文生视频大模型，可通过 API 调用。许多 AI 视频应用都是基于这些模型构建的。_
 
-- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a> - Google 开发的文生视频大模型
-- <a href="https://openai.com/sora/" target="_blank">Sora by OpenAI</a> - OpenAI 开发的文生视频大模型
-- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a> - KlingAI 开发的文生视频大模型
-- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma AI</a> - Luma AI 开发的文生视频大模型
-- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a> - MiniMax 开发的文生视频大模型
-- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance</a> - 字节跳动开发的文生视频大模型
-- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a> - 阿里巴巴开发的文生视频大模型
-- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a> - 腾讯开发的文生视频大模型
-- <a href="https://pika.art/" target="_blank">Pika</a> - 文生视频大模型
-- <a href="https://www.genmo.ai/" target="_blank">Mochi by Genmo AI</a> - Genmo AI 开发的文生视频大模型
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo</a> (**Google** · 3.1) - Google 开发的文生视频大模型
+- <a href="https://openai.com/sora/" target="_blank">Sora</a> (**OpenAI** · 2 Pro / 2) - OpenAI 开发的文生视频大模型
+- <a href="https://www.klingai.com/" target="_blank">Kling</a> (**KlingAI** · 2.5 Turbo) - KlingAI 开发的文生视频大模型
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray</a> (**Luma AI** · 3) - Luma AI 开发的文生视频大模型
+- <a href="https://hailuoai.video/" target="_blank">Hailuo</a> (**MiniMax** · 2.3) - MiniMax 开发的文生视频大模型
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance** · 1.0 Pro) - 字节跳动开发的文生视频大模型
+- <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的文生视频大模型
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的文生视频大模型
+- <a href="https://pika.art/" target="_blank">Pika</a> (**Pika** · 2.2) - 文生视频大模型
+- <a href="https://www.genmo.ai/" target="_blank">Mochi</a> (**Genmo AI** · 1) - Genmo AI 开发的文生视频大模型
 
 ### 图生视频大模型
 
 _这些是基础的图生视频大模型，可通过 API 调用。许多 AI 视频应用都是基于这些模型构建的。_
 
-- <a href="https://deepmind.google/models/veo/" target="_blank">Veo by Google</a> - Google 开发的图生视频大模型
-- <a href="https://www.klingai.com/" target="_blank">Kling by KlingAI</a> - KlingAI 开发的图生视频大模型
-- <a href="https://pixverse.ai/" target="_blank">PixVerse</a> - 图生视频大模型
-- <a href="https://cloud.baidu.com/product/wenxinworkshop" target="_blank">GenFlare by Baidu</a> - 百度开发的图生视频大模型
-- <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a> - MiniMax 开发的图生视频大模型
-- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Waver by ByteDance</a> - 字节跳动开发的图生视频大模型
-- <a href="https://www.vidu.com/" target="_blank">Vidu</a> - 图生视频大模型
-- <a href="https://ltx.studio/" target="_blank">LTX Studio</a> - 图生视频大模型
-- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance Seed</a> - 字节跳动 Seed 开发的图生视频大模型
-- <a href="https://wan.video/" target="_blank">WAN by Alibaba</a> - 阿里巴巴开发的图生视频大模型
-- <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma Labs</a> - Luma Labs 开发的图生视频大模型
-- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a> - 腾讯开发的图生视频大模型
-- <a href="https://www.animon.ai/" target="_blank">Animon</a> - 图生视频大模型
-- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - 图生视频大模型
-- <a href="https://www.hidream.ai/" target="_blank">Vivago by HiDream</a> - HiDream 开发的图生视频大模型
-- <a href="https://runwayml.com/" target="_blank">Runway Gen</a> - Runway 开发的图生视频大模型
+- <a href="https://deepmind.google/models/veo/" target="_blank">Veo</a> (**Google** · 3.1) - Google 开发的图生视频大模型
+- <a href="https://www.klingai.com/" target="_blank">Kling</a> (**KlingAI** · 2.5 Turbo) - KlingAI 开发的图生视频大模型
+- <a href="https://pixverse.ai/" target="_blank">PixVerse</a> (**PixVerse** · V5) - 图生视频大模型
+- <a href="https://cloud.baidu.com/product/wenxinworkshop" target="_blank">GenFlare</a> (**Baidu** · 最新版) - 百度开发的图生视频大模型
+- <a href="https://hailuoai.video/" target="_blank">Hailuo</a> (**MiniMax** · 2.3) - MiniMax 开发的图生视频大模型
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Waver</a> (**ByteDance** · 1.0) - 字节跳动开发的图生视频大模型
+- <a href="https://www.vidu.com/" target="_blank">Vidu</a> (**Vidu** · Q2 Turbo) - 图生视频大模型
+- <a href="https://ltx.studio/" target="_blank">LTX Studio</a> (**Lightricks** · 2 Pro) - 图生视频大模型
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance Seed** · 1.0) - 字节跳动 Seed 开发的图生视频大模型
+- <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的图生视频大模型
+- <a href="https://lumalabs.ai/ray" target="_blank">Ray</a> (**Luma Labs** · 3) - Luma Labs 开发的图生视频大模型
+- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的图生视频大模型
+- <a href="https://www.animon.ai/" target="_blank">Animon</a> (**Animon** · AniCut Pro 1.6) - 图生视频大模型
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · V1) - 图生视频大模型
+- <a href="https://www.hidream.ai/" target="_blank">Vivago</a> (**HiDream** · 2.0) - HiDream 开发的图生视频大模型
+- <a href="https://runwayml.com/" target="_blank">Runway Gen</a> (**Runway** · Gen 4) - Runway 开发的图生视频大模型
 
 ## AI 音频工具
 

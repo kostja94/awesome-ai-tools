@@ -33,6 +33,20 @@ Quick reference index of all products in this repository.
 ### AI Text Tools
 - _Coming soon_
 
+### Large Language Models (LLMs)
+- <a href="https://openai.com/" target="_blank">GPT</a>
+- <a href="https://gemini.google.com/" target="_blank">Gemini</a>
+- <a href="https://llama.meta.com/" target="_blank">Llama</a>
+- <a href="https://www.anthropic.com/" target="_blank">Claude</a>
+- <a href="https://mistral.ai/" target="_blank">Mistral</a>
+- <a href="https://x.ai/" target="_blank">Grok</a>
+- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a>
+- <a href="https://www.minimax.io/" target="_blank">MiniMax</a>
+- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a>
+- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a>
+- <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a>
+- <a href="https://aleph-alpha.com" target="_blank">Luminous</a>
+
 ### AI Image Tools
 
 #### Text-to-Image Models
