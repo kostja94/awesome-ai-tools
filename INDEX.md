@@ -80,7 +80,7 @@ Quick reference index of all products in this repository.
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a>
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a>
 
-#### Image Editing Models
+#### Image-to-Image Models
 - <a href="https://ai.studio/banana" target="_blank">Gemini by Google</a>
 - <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream by ByteDance</a>
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a>

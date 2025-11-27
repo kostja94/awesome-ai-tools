@@ -21,7 +21,12 @@ This repository serves as a personal knowledge base and sharing platform for AI/
 
 - 🤖 [Large Language Models (LLMs)](#large-language-models-llms)
   - [Web Development LLMs](#web-development-llms)
+- 👁️ [Vision Models](#vision-models)
+  - [Vision-Language Models (VLMs)](#vision-language-models-vlms)
+  - [Computer Vision Models](#computer-vision-models)
 - 🖼️ [AI Image Tools](#ai-image-tools)
+  - [Text-to-Image Models](#text-to-image-models)
+  - [Image-to-Image Models](#image-to-image-models)
 - 📽️ [AI Video Tools](#ai-video-tools)
 - 🎶 [AI Audio Tools](#ai-audio-tools)
   - [Text-to-Speech (TTS) Models](#text-to-speech-tts-models)
@@ -104,9 +109,9 @@ _These are foundational text-to-image generation models that can be accessed via
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · Latest) - Adobe's text-to-image generation model integrated with Creative Cloud
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> (**Luma Labs** · Latest) - Luma Labs' text-to-image generation model
 
-### Image Editing Models
+### Image-to-Image Models
 
-_These are foundational image editing models that can be accessed via API. Many AI image editing applications are built on top of these models._
+_These are foundational image-to-image generation and editing models that can be accessed via API. Many AI image editing applications are built on top of these models._
 
 - <a href="https://ai.studio/banana" target="_blank">Gemini</a> (**Google** · 3.0 Pro) - Google's image editing model
 - <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - ByteDance's image editing model

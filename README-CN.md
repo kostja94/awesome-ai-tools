@@ -22,6 +22,8 @@
 - 🤖 [大语言模型 (LLMs)](#大语言模型-llms)
   - [Web 开发 LLM](#web-开发-llm)
 - 🖼️ [AI 图像工具](#ai-图像工具)
+  - [文生图大模型](#文生图大模型)
+  - [图生图大模型](#图生图大模型)
 - 📽️ [AI 视频工具](#ai-视频工具)
 - 🎶 [AI 音频工具](#ai-音频工具)
   - [文字转语音 (TTS) 大模型](#文字转语音-tts-大模型)
@@ -104,9 +106,9 @@ _这些是基础的文生图大模型，可通过 API 调用。许多 AI 图像�
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 最新版) - Adobe 开发的文生图大模型，与 Creative Cloud 集成
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> (**Luma Labs** · 最新版) - Luma Labs 开发的文生图大模型
 
-### 图片编辑大模型
+### 图生图大模型
 
-_这些是基础的图片编辑大模型，可通过 API 调用。许多 AI 图片编辑应用都是基于这些模型构建的。_
+_这些是基础的图生图生成和编辑大模型，可通过 API 调用。许多 AI 图片编辑应用都是基于这些模型构建的。_
 
 - <a href="https://ai.studio/banana" target="_blank">Gemini</a> (**Google** · 3.0 Pro) - Google 开发的图片编辑大模型
 - <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - 字节跳动开发的图片编辑大模型
