@@ -37,6 +37,26 @@
   - [面向开发者](#面向开发者)
   - [面向企业](#面向企业)
   - [面向普通用户](#面向普通用户)
+- ⚙️ [AI 基础设施与 GPU 云](#ai-基础设施与-gpu-云)
+  - [GPU 云平台](#gpu-云平台)
+  - [数据基础设施与 OLAP 数据库](#数据基础设施与-olap-数据库)
+  - [AI 训练与计费工具](#ai-训练与计费工具)
+  - [后端即服务](#后端即服务)
+  - [虚拟化与沙箱环境](#虚拟化与沙箱环境)
+  - [LLM 应用框架](#llm-应用框架)
+  - [AI Agent 基础设施](#ai-agent-基础设施)
+    - [Agent 平台](#agent-平台)
+    - [Agent 工具与服务](#agent-工具与服务)
+    - [Agent 数据基础设施](#agent-数据基础设施)
+    - [Agent 编排](#agent-编排)
+    - [Agent 平台基础设施](#agent-平台基础设施)
+- 🔐 [认证与身份服务](#认证与身份服务)
+- 💳 [AI Agent 支付基础设施](#ai-agent-支付基础设施)
+- 📊 [AI 演示文稿工具](#ai-演示文稿工具)
+- 🎨 [AI 设计工具](#ai-设计工具)
+- 📚 [AI 故事书生成](#ai-故事书生成)
+- 💬 [对话智能](#对话智能)
+- 📈 [销售与营销内容](#销售与营销内容)
 - 🎨 [AI 3D 模型生成](#ai-3d-模型生成)
   - [文本到 3D 模型](#文本到-3d-模型)
   - [图像到 3D 模型](#图像到-3d-模型)
@@ -73,6 +93,8 @@
   - [PDF 与文档工具](#pdf-与文档工具)
   - [文档平台](#文档平台)
   - [工作流自动化](#工作流自动化)
+  - [数据可视化](#数据可视化)
+  - [内容创作](#内容创作)
   - [企业 AI 助手](#企业-ai-助手)
   - [AI 聊天助手](#ai-聊天助手)
 - 💰 [AI 金融与会计工具](#ai-金融与会计工具)
@@ -223,6 +245,8 @@ _这些是基础的文字转语音大模型，可通过 API 调用。许多 AI �
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> (**Google** · 最新版) - Google Cloud 的文字转语音服务，提供 Chirp 3: HD、WaveNet 和 Studio 等模型，支持 380+ 种语音和 75+ 种语言
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · 最新版) - 实时多模态 AI，支持丰富的多语言功能
 - <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · 最新版) - 文字转语音大模型
+- <a href="https://wellsaidlabs.com/" target="_blank">WellSaid Labs</a> (**WellSaid Labs** · 最新版) - AI 文本转语音技术公司，开发自然语音合成技术，提供120+真实AI语音
+- <a href="https://amai.io/" target="_blank">AMAI</a> (**AMAI** · 最新版) - 语音AI解决方案，提供语音合成技术
 
 ### 语音转文字 (ASR) 大模型
 
@@ -333,6 +357,7 @@ _这些是基础的 AI 搜索 API 和基础设施，可通过 API 调用。许�
 - <a href="https://www.algolia.com/" target="_blank">Algolia</a> (**Algolia** · 最新版) - 为企业和开发者提供即时、可定制和高性能的站内搜索与内容发现 API 服务
 - <a href="https://deepset.ai/" target="_blank">Deepset</a> (**Deepset** · 最新版) - 自然语言处理框架 Haystack，支持语义搜索、问答与 RAG 应用
 - <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> (**Zeta Alpha** · 最新版) - 神经搜索平台，优化知识发现与共享
+- <a href="https://www.ai21.com/" target="_blank">AI21 Labs</a> (**AI21 Labs** · 最新版) - 以强大 RAG 能力著称的智能 NLP 平台，推动生成式 AI 商业化
 
 ### 网页抓取工具
 
@@ -390,6 +415,18 @@ _这些平台提供统一的 API 访问多个 AI 模型，方便开发者集成�
 - <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a> (**EachLabs** · 最新版) - 提供 150+ AI 模型与可视化工作流，一键构建安全、可扩展的 AI 后端
 - <a href="https://requesty.ai/" target="_blank">Requesty</a> (**Requesty** · 最新版) - AI 模型市场与 API 聚合平台
 - <a href="https://www.edenai.co/" target="_blank">Eden AI</a> (**Eden AI** · 最新版) - AI 模型市场与统一 API 平台
+- <a href="https://fireworks.ai/" target="_blank">Fireworks</a> (**Fireworks** · 最新版) - 高性能生成式 AI 推理引擎 API，支持函数调用与多模式集成
+- <a href="https://groq.com/" target="_blank">Groq API</a> (**Groq** · 最新版) - 专为 AI 推理打造的高性能 LPU 芯片与云端/本地计算平台，实现极速、低成本的 AI 模型部署
+- <a href="https://www.together.ai/" target="_blank">Together AI</a> (**Together AI** · 最新版) - AI 加速云平台，一键部署/微调上百种开源模型
+- <a href="https://novita.ai/" target="_blank">Novita AI</a> (**Novita AI** · 最新版) - 一站式 AI 云，简单 API 访问 200+ 模型并弹性 GPU 扩展
+- <a href="https://lmstudio.ai/" target="_blank">LM Studio</a> (**LM Studio** · 最新版) - 本地运行开源 LLM 的桌面工具，支持聊天与本地微服务部署
+- <a href="https://deepinfra.com/" target="_blank">Deep Infra</a> (**Deep Infra** · 最新版) - 多模型推理 API，涵盖文本、图像、语音、分类等丰富功能
+- <a href="https://apilayer.com/" target="_blank">APILayer</a> (**APILayer** · 最新版) - 高质量微型 API 市场，低延迟集成各种开发者需求
+- <a href="https://rapidapi.com/" target="_blank">Rapid API</a> (**Rapid API** · 最新版) - 全球最大 API 市场，集 API 查找、集 API 查找、测试、盈利与管理于一体
+- <a href="https://apidog.com/" target="_blank">Apidog</a> (**Apidog** · 最新版) - 端到端 API 设计开发平台，支持设计、调试与文档同步
+- <a href="https://octo.ai/" target="_blank">OctoAI</a> (**OctoAI** · 最新版) - 开发者用的一站式生成式 AI 基础设施，支持模型部署、微调与无缝扩展
+- <a href="https://www.anyscale.com/" target="_blank">Anyscale</a> (**Anyscale** · 最新版) - AI 应用平台，基于 Ray，可即时构建、运行并扩展大规模 AI 工作负载
+- <a href="https://mainfunc.ai/" target="_blank">MainFunc</a> (**MainFunc** · 最新版) - AI 驱动产品创新平台，由 Tech 大厂出身团队打造，用生成式 AI 构建应用
 
 ### 面向企业
 
@@ -543,6 +580,9 @@ _这些是专为招聘者和招聘经理设计的 AI 工具，帮助简化招聘
 - <a href="https://joinbrix.com/" target="_blank">Brix</a> (**Brix** · 最新版) - AI 自动生成 JD、筛选候选人及预审
 - <a href="https://www.carv.com/" target="_blank">Carv</a> (**Carv** · 最新版) - 为招聘者自动处理流程并更新 ATS 系统
 - <a href="https://www.turing.com/" target="_blank">Turing</a> (**Turing** · 最新版) - AI 驱动远程开发者平台，自动匹配和管理全球软件工程师
+- <a href="https://micro1.io/" target="_blank">Micro1</a> (**Micro1** · 最新版) - AI 语音驱动的招聘平台
+- <a href="https://apriora.ai/" target="_blank">Apriora</a> (**Apriora** · 最新版) - AI 语音驱动的招聘平台
+- <a href="https://lightscreen.ai/" target="_blank">Lightscreen</a> (**Lightscreen** · 最新版) - AI 语音驱动的招聘平台
 
 ### 面向求职者
 
@@ -763,6 +803,7 @@ _这些是 AI 驱动的聊天助手，用于各种生产力与沟通任务。_
 - <a href="https://ai.quark.cn/" target="_blank">Quark</a> (**Alibaba** · 最新版) - 阿里巴巴旗下 AI 超级助手，集成搜索、笔记、云盘、文档与深度推理功能
 - <a href="https://novaapp.ai/" target="_blank">Nova A.I.</a> (**Nova A.I.** · 最新版) - 基于 GPT‑4o 和 Gemini 的全平台聊天助手，支持写作、问答、推荐等多功能
 - <a href="https://manus.im/" target="_blank">manus</a> (**manus** · 最新版) - 中国首款通用自主 AI 代理，可自主执行复杂在线任务并生成输出结果
+- <a href="https://inflection.ai/" target="_blank">Inflection AI</a> (**Inflection AI** · 最新版) - 个人AI助手Pi，提供富有同理心的对话体验，用于规划、日程安排和信息收集
 
 ## AI 金融与会计工具
 

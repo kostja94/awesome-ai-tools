@@ -284,6 +284,65 @@ Quick reference index of all products in this repository.
 - <a href="https://monica.im/" target="_blank">Monica</a>
 - <a href="http://generativeai.net/" target="_blank">Generative AI</a>
 
+### AI Infrastructure & GPU Cloud
+
+#### GPU Cloud Platforms
+- <a href="https://www.coreweave.com/" target="_blank">CoreWeave</a>
+- <a href="https://nebius.com/" target="_blank">Nebius</a>
+- <a href="https://www.gmicloud.ai/" target="_blank">GMI Cloud</a>
+- <a href="https://lambda.ai/" target="_blank">Lambda</a>
+- <a href="https://www.runpod.io/" target="_blank">RunPod</a>
+- <a href="https://www.hyperstack.cloud/" target="_blank">Hyperstack</a>
+- <a href="https://www.e2enetworks.com/" target="_blank">E2E Networks</a>
+- <a href="https://vast.ai/" target="_blank">Vast.ai</a>
+- <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a>
+- <a href="https://www.genesiscloud.com/" target="_blank">Genesis Cloud</a>
+- <a href="https://www.leadergpu.com/" target="_blank">LeaderGPU</a>
+- <a href="https://irendering.net/" target="_blank">iRender</a>
+- <a href="https://gpueater.com/" target="_blank">GPUEater</a>
+- <a href="https://datacrunch.io/" target="_blank">DataCrunch</a>
+
+#### Data Infrastructure & OLAP Databases
+- <a href="https://duckdb.org/" target="_blank">DuckDB</a>
+- <a href="https://doris.apache.org/" target="_blank">Doris</a>
+- <a href="https://www.starrocks.io/" target="_blank">StarRocks</a>
+- <a href="https://www.elastic.co/" target="_blank">Elastic</a>
+- <a href="https://cloud.google.com/bigquery" target="_blank">BigQuery</a>
+- <a href="https://aws.amazon.com/redshift/" target="_blank">Redshift</a>
+- <a href="https://tdengine.com/" target="_blank">TDengine</a>
+- <a href="https://www.weka.io/" target="_blank">Weka.IO</a>
+- <a href="https://www.pinecone.io/" target="_blank">Pinecone</a>
+
+#### AI Training & Billing Tools
+- <a href="https://metronome.com/" target="_blank">Metronome</a>
+- <a href="https://neptune.ai/" target="_blank">Neptune.ai</a>
+- <a href="https://arize.com/" target="_blank">Arize AI</a>
+
+#### Backend-as-a-Service
+- <a href="https://www.inngest.com/" target="_blank">Inngest</a>
+- <a href="https://supabase.com/" target="_blank">Supabase</a>
+- <a href="https://temporal.io/" target="_blank">Temporal</a>
+
+#### Virtualization & Sandbox Environments
+- <a href="https://e2b.dev/" target="_blank">E2B</a>
+- <a href="https://modal.com/" target="_blank">Modal</a>
+
+#### LLM Application Frameworks
+- <a href="https://www.langchain.com/" target="_blank">Langchain</a>
+- <a href="https://www.llamaindex.ai/" target="_blank">LlamaIndex</a>
+- <a href="https://dify.ai/" target="_blank">Dify</a>
+- <a href="https://flowiseai.com/" target="_blank">Flowise</a>
+
+### Authentication & Identity Services
+- <a href="https://clerk.com/" target="_blank">Clerk</a>
+- <a href="https://www.authing.com/" target="_blank">Authing</a>
+
+### AI Agent Payment Infrastructure
+- <a href="https://www.paid.ai/" target="_blank">Paid</a>
+- <a href="https://paymanai.com/" target="_blank">Payman AI</a>
+- <a href="https://skyfire.xyz/" target="_blank">Skyfire</a>
+- <a href="https://nekuda.ai/" target="_blank">Nekuda</a>
+
 ### AI 3D Model Generation
 
 #### Text-to-3D Models

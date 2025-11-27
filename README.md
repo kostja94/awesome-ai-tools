@@ -21,6 +21,11 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [Text-to-Speech (TTS) Models](#text-to-speech-tts-models)
   - [Speech-to-Text (ASR) Models](#speech-to-text-asr-models)
   - [Music Generation Models](#music-generation-models)
+  - [Music Generation Tools](#music-generation-tools)
+  - [Voice Changer Tools](#voice-changer-tools)
+  - [Voice Services & Applications](#voice-services--applications)
+  - [Transcription Tools](#transcription-tools)
+  - [Sound Design Tools](#sound-design-tools)
 - 💻 [AI Coding Tools](#ai-coding-tools)
   - [AI Coding Agents & IDEs](#ai-coding-agents--ides)
   - [Code Completion Tools](#code-completion-tools)
@@ -40,6 +45,26 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [For Developers](#for-developers)
   - [For Enterprises](#for-enterprises)
   - [For General Users](#for-general-users)
+- ⚙️ [AI Infrastructure & GPU Cloud](#ai-infrastructure--gpu-cloud)
+  - [GPU Cloud Platforms](#gpu-cloud-platforms)
+  - [Data Infrastructure & OLAP Databases](#data-infrastructure--olap-databases)
+  - [AI Training & Billing Tools](#ai-training--billing-tools)
+  - [Backend-as-a-Service](#backend-as-a-service)
+  - [Virtualization & Sandbox Environments](#virtualization--sandbox-environments)
+  - [LLM Application Frameworks](#llm-application-frameworks)
+  - [Infrastructure for AI Agents](#infrastructure-for-ai-agents)
+    - [Agent Platforms](#agent-platforms)
+    - [Agent Tools & Services](#agent-tools--services)
+    - [Agent Data Infrastructure](#agent-data-infrastructure)
+    - [Agent Orchestration](#agent-orchestration)
+    - [Agent Platform Infrastructure](#agent-platform-infrastructure)
+- 🔐 [Authentication & Identity Services](#authentication--identity-services)
+- 💳 [AI Agent Payment Infrastructure](#ai-agent-payment-infrastructure)
+- 📊 [AI Presentation Tools](#ai-presentation-tools)
+- 🎨 [AI Design Tools](#ai-design-tools)
+- 📚 [AI Story & Book Generation](#ai-story--book-generation)
+- 💬 [Conversation Intelligence](#conversation-intelligence)
+- 📈 [Sales & Marketing Content](#sales--marketing-content)
 - 🎨 [AI 3D Model Generation](#ai-3d-model-generation)
   - [Text-to-3D Models](#text-to-3d-models)
   - [Image-to-3D Models](#image-to-3d-models)
@@ -76,6 +101,10 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [PDF & Document Tools](#pdf--document-tools)
   - [Documentation Platforms](#documentation-platforms)
   - [Workflow Automation](#workflow-automation)
+  - [Meeting Notes & Transcription](#meeting-notes--transcription)
+  - [Specialized Scribes](#specialized-scribes)
+  - [Data Visualization](#data-visualization)
+  - [Content Creation](#content-creation)
   - [Enterprise AI Assistants](#enterprise-ai-assistants)
   - [AI Chat Assistants](#ai-chat-assistants)
 - 💰 [AI Finance & Accounting Tools](#ai-finance--accounting-tools)
@@ -86,6 +115,24 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [GEO (Google E-E-A-T Optimization) Tools](#geo-google-e-e-a-t-optimization-tools)
   - [SEO Optimization Tools](#seo-optimization-tools)
   - [SEO Localization Tools](#seo-localization-tools)
+- 🏥 [AI Medical Scribes](#ai-medical-scribes)
+  - [General Medical](#general-medical)
+  - [Mental Health](#mental-health)
+  - [Veterinary](#veterinary)
+  - [Home Aid](#home-aid)
+  - [Physical Therapy](#physical-therapy)
+- 💬 [Customer Service Platforms](#customer-service-platforms)
+- ⚖️ [AI Legal Tools](#ai-legal-tools)
+- 🏥 [AI Healthcare Tools](#ai-healthcare-tools)
+- 🛡️ [AI Defense & Military](#ai-defense--military)
+- 🚨 [AI Emergency Response](#ai-emergency-response)
+- 🏢 [Vertical Domain Solutions](#vertical-domain-solutions)
+- 🔗 [Link in Bio Tools](#link-in-bio-tools)
+- 📊 [AI Model Evaluation](#ai-model-evaluation)
+- ✈️ [AI Travel Tools](#ai-travel-tools)
+- 🎮 [AI Gaming Tools](#ai-gaming-tools)
+- 🎉 [AI Event Planning Tools](#ai-event-planning-tools)
+- 📋 [AI User Research Tools](#ai-user-research-tools)
 - 🎥 [Screen Recording Tools](#screen-recording-tools)
 - 📊 [AI Spreadsheet Tools](#ai-spreadsheet-tools)
 
@@ -226,6 +273,8 @@ _These are foundational text-to-speech models that can be accessed via API. Many
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> (**Google** · Latest) - Google Cloud's text-to-speech service with Chirp 3: HD, WaveNet, and Studio models supporting 380+ voices across 75+ languages
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · Latest) - Realtime multimodal AI with rich multilingual support
 - <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · Latest) - Text-to-speech model
+- <a href="https://wellsaidlabs.com/" target="_blank">WellSaid Labs</a> (**WellSaid Labs** · Latest) - AI text-to-speech technology company developing natural voice synthesis with 120+ realistic AI voices
+- <a href="https://amai.io/" target="_blank">AMAI</a> (**AMAI** · Latest) - Voice AI solutions providing speech synthesis technology
 
 ### Speech-to-Text (ASR) Models
 
@@ -256,11 +305,77 @@ _These are foundational music generation models that can be accessed via API. Ma
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google's music generation model integrated with YouTube
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · Latest) - Meta's open-source music generation model
 
+### Music Generation Tools
+
+_These are AI-powered music generation platforms and applications that help users create music._
+
+- <a href="https://acestudio.ai/" target="_blank">Ace Studio</a> (**Ace Studio** · Latest) - AI music generation platform
+- <a href="https://soundraw.io/" target="_blank">Soundraw</a> (**Soundraw** · Latest) - AI music generator creating royalty-free music with customizable styles and lengths
+- <a href="https://www.beatoven.ai/" target="_blank">Beatoven AI</a> (**Beatoven AI** · Latest) - AI music generation technology for creating music for videos or podcasts
+- <a href="https://musicfy.lol/" target="_blank">Musicfy</a> (**Musicfy** · Latest) - AI music generation platform
+- <a href="https://boomy.com/" target="_blank">Boomy</a> (**Boomy** · Latest) - AI-powered generative music creation platform enabling users to create original songs
+- <a href="https://soundful.com/" target="_blank">Soundful</a> (**Soundful** · Latest) - Generate and download royalty-free background music
+- <a href="https://mubert.com/" target="_blank">Mubert</a> (**Mubert** · Latest) - Music technology company focused on AI and machine learning for music generation
+- <a href="https://www.aiva.ai/" target="_blank">Aiva Technologies</a> (**Aiva Technologies** · Latest) - AI company focused on creating music using artificial intelligence
+- <a href="https://loudly.com/" target="_blank">Loudly</a> (**Loudly** · Latest) - AI music platform providing music creation and licensing services
+- <a href="https://endel.io/" target="_blank">Endel</a> (**Endel** · Latest) - Music generation app creating personalized sound environments based on user activity and context
+- <a href="https://aimi.fm/" target="_blank">AiMi</a> (**AiMi** · Latest) - Music platform
+- <a href="https://musi-co.com/" target="_blank">Musico</a> (**Musico** · Latest) - Online music teaching platform
+- <a href="https://music.ai/" target="_blank">Music</a> (**Music** · Latest) - AI music platform
+- <a href="https://mozartai.app/" target="_blank">Mozartai</a> (**Mozartai** · Latest) - Image-to-music generation app
+
+### Voice Changer Tools
+
+_These tools enable real-time voice transformation and voice effects._
+
+- <a href="https://www.voicemod.net/" target="_blank">Voicemod</a> (**Voicemod** · Latest) - Real-time AI voice changer and soundboard technology for voice transformation
+- <a href="https://voice.ai/" target="_blank">Voice.ai</a> (**Voice.ai** · Latest) - Real-time voice changer platform
+- <a href="https://dubbingai.io/" target="_blank">Dubbing AI</a> (**Dubbing AI** · Latest) - Real-time voice changer and dubbing platform
+
+### Voice Services & Applications
+
+_These platforms provide voice services, voice assistants, and voice-enabled applications._
+
+- <a href="https://elevenreader.io/" target="_blank">ElevenReader by ElevenLabs</a> (**ElevenLabs** · Latest) - High-quality AI voice reading for articles, PDFs, and ebooks
+- <a href="https://www.openai.fm/" target="_blank">OpenAI.fm</a> (**OpenAI** · Latest) - Interactive demo platform showcasing OpenAI's high-fidelity text-to-speech API
+- <a href="https://coqui.ai/" target="_blank">Coqui</a> (**Coqui** · Latest) - Providing emotional, generative virtual voice services
+- <a href="https://pirr.me/" target="_blank">Pirr</a> (**Pirr** · Latest) - Interact with AI through voice input and output
+- <a href="https://poly.ai/" target="_blank">PolyAI</a> (**PolyAI** · Latest) - Company focused on enterprise voice assistant solutions
+- <a href="https://www.retellai.com/" target="_blank">Retell AI</a> (**Retell AI** · Latest) - No-code voice AI customer service platform for deploying phone bots in real-time
+- <a href="https://vapi.ai/" target="_blank">Vapi</a> (**Vapi** · Latest) - Enterprise voice assistant API for deploying customizable phone AI agents
+- <a href="https://www.withdavid.ai/" target="_blank">David AI</a> (**David AI** · Latest) - Professional audio data foundation building high-quality voice training datasets for conversational AI
+- <a href="https://www.papercup.com/" target="_blank">Papercup</a> (**Papercup** · Latest) - End-to-end AI dubbing and video localization platform with human review for language quality
+- <a href="https://www.ribbon.ai/" target="_blank">Ribbon</a> (**Ribbon** · Latest) - Voice-based recruitment platform
+- <a href="https://willowvoice.com/" target="_blank">Willow Voice</a> (**Willow Voice** · Latest) - Voice-to-text typing tool
+- <a href="https://wisprflow.ai/" target="_blank">Wispr Flow</a> (**Wispr Flow** · Latest) - Voice-to-text typing tool
+- <a href="https://www.dialpad.com/" target="_blank">Dialpad</a> (**Dialpad** · Latest) - AI-driven cloud communication platform integrating calls, messaging, meetings, real-time summaries, and insights
+- <a href="https://delphi.ai/" target="_blank">Delphi</a> (**Delphi** · Latest) - Consumer service voice AI platform
+- <a href="https://tolvia.ai/" target="_blank">Tolvia</a> (**Tolvia** · Latest) - Consumer service voice AI platform
+- <a href="https://sonia.ai/" target="_blank">Sonia</a> (**Sonia** · Latest) - Consumer service voice AI platform
+- <a href="https://autio.com/" target="_blank">Autio</a> (**Autio** · Latest) - Consumer service voice AI platform
+
+### Transcription Tools
+
+_These tools provide transcription services for audio and video content._
+
+- <a href="https://www.plaud.ai/" target="_blank">PLAUD</a> (**PLAUD** · Latest) - AI voice recording and summarization tool, automatically transcribing multilingual conversations and generating key points/action items
+- <a href="https://www.clipto.com/" target="_blank">Clipto.AI</a> (**Clipto.AI** · Latest) - Locally running AI media assistant, automatically transcribing audio/video and providing subtitles, editing, and download tools
+- <a href="https://wave.co/" target="_blank">Wave AI</a> (**Wave AI** · Latest) - Meeting recording assistant, automatically transcribing, supporting multiple languages, and generating summaries
+- <a href="https://turboscribe.ai/" target="_blank">TurboScribe</a> (**TurboScribe** · Latest) - Unlimited AI audio transcription service supporting 98 languages and batch processing of long recordings
+
+### Sound Design Tools
+
+_These tools assist with sound design and audio effects creation._
+
+- <a href="https://krotosaudio.com/" target="_blank">Krotos</a> (**Krotos** · Latest) - Audio technology company focused on developing advanced sound design software and sound effect libraries
+
 ## AI Coding Tools
 
 ### AI Coding Agents & IDEs
 
 _These are foundational AI coding agents and IDEs that provide end-to-end code generation and development assistance._
+
+- <a href="https://warp.dev/" target="_blank">Warp</a> (**Warp** · Latest) - Innovative terminal software dedicated to improving developer productivity, efficiency, and speed
 
 - <a href="https://www.cursor.com/" target="_blank">Cursor</a> (**Cursor** · Latest) - AI-powered IDE with natural language prompts for end-to-end code generation and queries
 - <a href="https://devin.ai/" target="_blank">Devin</a> (**Devin** · Latest) - AI software engineer that handles code generation, debugging, and deployment workflows
@@ -280,6 +395,7 @@ _These are AI-powered code completion tools that provide intelligent suggestions
 - <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI** · Latest) - AI programming assistant providing real-time intelligent completion, documentation, and debugging suggestions
 - <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment** · Latest) - AI coding agent platform that automatically improves code quality through local + cloud intelligence in IDE
 - <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI** · Latest) - AI system that translates natural language into code, powering coding assistants
+- <a href="https://mutable.ai/" target="_blank">MutableAI</a> (**MutableAI** · Latest) - AI tools accelerating software development with auto-completion, documentation generation, and code refactoring
 
 ### Low-Code/No-Code Platforms
 
@@ -336,6 +452,9 @@ _These are foundational AI search APIs and infrastructure that can be accessed v
 - <a href="https://www.algolia.com/" target="_blank">Algolia</a> (**Algolia** · Latest) - Instant, customizable, and high-performance in-site search and content discovery API services for enterprises and developers
 - <a href="https://deepset.ai/" target="_blank">Deepset</a> (**Deepset** · Latest) - Natural language processing framework Haystack supporting semantic search, question answering, and RAG applications
 - <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> (**Zeta Alpha** · Latest) - Neural search platform optimizing knowledge discovery and sharing
+- <a href="https://www.ai21.com/" target="_blank">AI21 Labs</a> (**AI21 Labs** · Latest) - Intelligent NLP platform known for powerful RAG capabilities, driving generative AI commercialization
+- <a href="https://www.glean.com/" target="_blank">Glean</a> (**Glean** · Latest) - Intelligent learning technology supporting learners with different abilities
+- <a href="https://samaya.ai/" target="_blank">Samaya AI</a> (**Samaya AI** · Latest) - Knowledge discovery platform leveraging AI and large language models for domain experts
 
 ### Web Scraping Tools
 
@@ -393,6 +512,18 @@ _These platforms provide unified API access to multiple AI models, making it eas
 - <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a> (**EachLabs** · Latest) - Model marketplace providing 150+ AI models and visual workflows, one-click building of secure and scalable AI backends
 - <a href="https://requesty.ai/" target="_blank">Requesty</a> (**Requesty** · Latest) - AI model marketplace and API aggregation platform
 - <a href="https://www.edenai.co/" target="_blank">Eden AI</a> (**Eden AI** · Latest) - AI model marketplace and unified API platform
+- <a href="https://fireworks.ai/" target="_blank">Fireworks</a> (**Fireworks** · Latest) - High-performance generative AI inference engine API, supporting function calling and multimodal integration
+- <a href="https://groq.com/" target="_blank">Groq API</a> (**Groq** · Latest) - High-performance LPU chip and cloud/on-premise computing platform designed for AI inference, enabling ultra-fast, low-cost AI model deployment
+- <a href="https://www.together.ai/" target="_blank">Together AI</a> (**Together AI** · Latest) - AI acceleration cloud platform, one-click deployment and fine-tuning of hundreds of open-source models
+- <a href="https://novita.ai/" target="_blank">Novita AI</a> (**Novita AI** · Latest) - One-stop AI cloud, simple API access to 200+ models with elastic GPU scaling
+- <a href="https://lmstudio.ai/" target="_blank">LM Studio</a> (**LM Studio** · Latest) - Desktop tool for running open-source LLMs locally, supporting chat and local microservice deployment
+- <a href="https://deepinfra.com/" target="_blank">Deep Infra</a> (**Deep Infra** · Latest) - Multi-model inference API covering text, image, speech, classification, and other rich features
+- <a href="https://apilayer.com/" target="_blank">APILayer</a> (**APILayer** · Latest) - High-quality micro API marketplace, low-latency integration for various developer needs
+- <a href="https://rapidapi.com/" target="_blank">Rapid API</a> (**Rapid API** · Latest) - World's largest API marketplace, integrating API discovery, testing, monetization, and management
+- <a href="https://apidog.com/" target="_blank">Apidog</a> (**Apidog** · Latest) - End-to-end API design and development platform, supporting design, debugging, and documentation synchronization
+- <a href="https://octo.ai/" target="_blank">OctoAI</a> (**OctoAI** · Latest) - One-stop generative AI infrastructure for developers, supporting model deployment, fine-tuning, and seamless scaling
+- <a href="https://www.anyscale.com/" target="_blank">Anyscale</a> (**Anyscale** · Latest) - AI application platform based on Ray, enabling instant building, running, and scaling of large-scale AI workloads
+- <a href="https://mainfunc.ai/" target="_blank">MainFunc</a> (**MainFunc** · Latest) - AI-driven product innovation platform built by teams from major tech companies, building applications with generative AI
 
 ### For Enterprises
 
@@ -411,6 +542,272 @@ _These platforms provide easy access to multiple AI models through user-friendly
 - <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · Latest) - Platform providing access to multiple AI models through a unified interface
 - <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · Latest) - All-in-one AI assistant integrating multiple AI models, supporting GPT-5.1, Claude 4.5, Gemini 3 Pro, and more, providing chat, search, writing, image generation, video generation, and coding features
 - <a href="http://generativeai.net/" target="_blank">Generative AI</a> (**Generative AI** · Latest) - Online courses and information platform for generative AI education and resources
+
+## AI Infrastructure & GPU Cloud
+
+### GPU Cloud Platforms
+
+_These platforms provide GPU cloud infrastructure and rental services for AI training and inference workloads._
+
+- <a href="https://www.coreweave.com/" target="_blank">CoreWeave</a> (**CoreWeave** · Latest) - GPU cloud platform designed for AI, providing high-performance, scalable NVIDIA infrastructure
+- <a href="https://nebius.com/" target="_blank">Nebius</a> (**Nebius** · Latest) - One-stop AI cloud service, providing NVIDIA H100/H200 GPU clusters on-demand for training and inference
+- <a href="https://www.gmicloud.ai/" target="_blank">GMI Cloud</a> (**GMI Cloud** · Latest) - Global AI cloud platform with GPU instances, clusters, and high-throughput inference APIs
+- <a href="https://lambda.ai/" target="_blank">Lambda</a> (**Lambda** · Latest) - Cloud GPU platform for AI training and inference, providing H100/H200/B200 multi-GPU instances
+- <a href="https://www.runpod.io/" target="_blank">RunPod</a> (**RunPod** · Latest) - Cost-effective globally distributed GPU cloud, instant deployment of Llama and other models for training and inference
+- <a href="https://www.hyperstack.cloud/" target="_blank">Hyperstack</a> (**Hyperstack** · Latest) - European green GPU cloud, providing efficient, low-cost NVIDIA inference and training services
+- <a href="https://www.e2enetworks.com/" target="_blank">E2E Networks</a> (**E2E Networks** · Latest) - Indian cloud GPU platform, providing H100/H200 GPUs on-demand for AI/ML workloads
+- <a href="https://vast.ai/" target="_blank">Vast.ai</a> (**Vast.ai** · Latest) - GPU rental platform with lower prices than mainstream clouds, convenient resource search and comparison
+- <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a> (**Jarvis Labs** · Latest) - One-click GPU cloud environment deployment, supporting instant use of deep learning frameworks
+- <a href="https://www.genesiscloud.com/" target="_blank">Genesis Cloud</a> (**Genesis Cloud** · Latest) - Enterprise GPU cloud, providing H100/H200/B200 high-performance training and inference services
+- <a href="https://www.leadergpu.com/" target="_blank">LeaderGPU</a> (**LeaderGPU** · Latest) - GPU server rental focused on deep learning, supporting high-performance training and image processing
+- <a href="https://irendering.net/" target="_blank">iRender</a> (**iRender** · Latest) - GPU rendering cloud for creators, supporting Blender/Unreal and other software acceleration
+- <a href="https://gpueater.com/" target="_blank">GPUEater</a> (**GPUEater** · Latest) - Japanese AMD GPU cloud, providing per-second billing for deep learning rental services
+- <a href="https://datacrunch.io/" target="_blank">DataCrunch</a> (**DataCrunch** · Latest) - European GPU cloud with on-demand clusters and serverless inference, supporting NVIDIA B/H series GPUs
+
+### Data Infrastructure & OLAP Databases
+
+_These are analytical databases and data infrastructure platforms optimized for AI workloads, vector search, and large-scale data processing._
+
+- <a href="https://duckdb.org/" target="_blank">DuckDB</a> (**DuckDB** · Latest) - Embedded columnar OLAP database, lightweight, efficient, supporting complex SQL analytics
+- <a href="https://doris.apache.org/" target="_blank">Doris</a> (**Apache Doris** · Latest) - Real-time analytical open-source database, focused on high concurrency and point queries
+- <a href="https://www.starrocks.io/" target="_blank">StarRocks</a> (**StarRocks** · Latest) - High-performance distributed OLAP warehouse, supporting real-time analytics and data lake queries
+- <a href="https://www.elastic.co/" target="_blank">Elastic</a> (**Elastic** · Latest) - Open-source search and analytics engine, supporting full-text search, multi-model logging, and metrics analysis
+- <a href="https://cloud.google.com/bigquery" target="_blank">BigQuery</a> (**Google** · Latest) - Google Cloud columnar analytics service, supporting PB-scale data warehouse ad-hoc queries
+- <a href="https://aws.amazon.com/redshift/" target="_blank">Redshift</a> (**Amazon** · Latest) - AWS managed data warehouse, providing massively parallel query capabilities
+- <a href="https://tdengine.com/" target="_blank">TDengine</a> (**TDengine** · Latest) - High-performance distributed database designed for IoT and time-series data
+- <a href="https://www.weka.io/" target="_blank">Weka.IO</a> (**Weka.IO** · Latest) - High-performance cloud and on-premise AI data storage platform, supporting large-scale ML/HPC training and inference
+- <a href="https://www.pinecone.io/" target="_blank">Pinecone</a> (**Pinecone** · Latest) - Enterprise vector database, providing fast, scalable semantic search and recommendation query APIs
+
+### AI Training & Billing Tools
+
+_These tools support AI model training monitoring and usage-based billing for AI services._
+
+- <a href="https://metronome.com/" target="_blank">Metronome</a> (**Metronome** · Latest) - Usage-based billing platform, automated billing models supporting real-time adjustments and growth-driven pricing
+- <a href="https://neptune.ai/" target="_blank">Neptune.ai</a> (**Neptune.ai** · Latest) - Large model training monitoring platform, supporting real-time tracking and debugging of thousands of metric layers
+- <a href="https://arize.com/" target="_blank">Arize AI</a> (**Arize AI** · Latest) - Machine learning observability platform for monitoring, debugging, and improving ML models
+
+### Backend-as-a-Service
+
+_These platforms provide backend infrastructure and services for building AI applications._
+
+- <a href="https://www.inngest.com/" target="_blank">Inngest</a> (**Inngest** · Latest) - Durable functions platform, simplifying AI workflow and background task execution with state management
+- <a href="https://supabase.com/" target="_blank">Supabase</a> (**Supabase** · Latest) - Open-source Postgres backend platform with authentication, real-time subscriptions, edge functions, and vector search
+- <a href="https://temporal.io/" target="_blank">Temporal</a> (**Temporal** · Latest) - Durable execution platform, ensuring workflows don't lose state and automatically recovering failed processes
+
+### Virtualization & Sandbox Environments
+
+_These platforms provide secure execution environments for AI code and applications._
+
+- <a href="https://e2b.dev/" target="_blank">E2B</a> (**E2B** · Latest) - Open-source secure sandbox environment, allowing AI code snippets to execute in isolated cloud environments
+- <a href="https://modal.com/" target="_blank">Modal</a> (**Modal** · Latest) - Write-and-run cloud function platform, supporting auto-scaling and GPU acceleration
+
+### LLM Application Frameworks
+
+_These frameworks and platforms help developers build LLM applications, RAG systems, and AI workflows._
+
+- <a href="https://www.langchain.com/" target="_blank">Langchain</a> (**Langchain** · Latest) - Framework for developing applications powered by language models, enabling LLM workflow automation and orchestration
+- <a href="https://www.llamaindex.ai/" target="_blank">LlamaIndex</a> (**LlamaIndex** · Latest) - Data framework for building LLM applications with RAG capabilities, connecting data sources to LLMs
+- <a href="https://dify.ai/" target="_blank">Dify</a> (**Dify** · Latest) - LLM application development platform providing workflow automation and RAG capabilities
+- <a href="https://flowiseai.com/" target="_blank">Flowise</a> (**Flowise** · Latest) - Low-code AI workflow builder for creating LLM applications and automation workflows
+
+### Infrastructure for AI Agents
+
+_These platforms and services, frameworks, and infrastructure specifically designed for building, deploying, and managing AI agents._
+
+#### Agent Platforms
+
+_Next-generation copilots, agent teammates, and agent swarm platforms._
+
+- **Cleric** - AI agent infrastructure stack for next-gen copilots
+- **Gradial** - AI agent infrastructure stack for next-gen copilots
+- **New Gen** - AI agent infrastructure stack for next-gen copilots
+- **Astral** - AI agent infrastructure stack for agent teammates
+- **Common Room** - AI agent infrastructure stack for agent teammates
+- **Dropzone AI** - AI agent infrastructure stack for agent teammates
+- **Aaru** - AI agent infrastructure stack for agent swarms
+- **Societies** - AI agent infrastructure stack for agent swarms
+
+#### Agent Tools & Services
+
+_These tools provide specialized services for AI agents including search, data extraction, UI automation, payments, authentication, and more._
+
+##### Search Services
+- <a href="https://www.perplexity.ai/" target="_blank">Sonar by Perplexity</a> (**Perplexity** · Latest) - AI search API for agents
+- <a href="https://exa.ai/" target="_blank">Exa</a> (**Exa** · Latest) - Real-time AI search engine for AI agents and RAG workflows
+- **Serper** - Search API service for agents
+- **Meilisearch** - Search API service for agents
+- **Search1 API** - Search API service for agents
+
+##### Data Extraction
+- <a href="https://www.firecrawl.dev/" target="_blank">Firecrawl</a> (**Firecrawl** · Latest) - Web scraping API that converts websites into LLM-ready data
+- **Parallel** - Data extraction service for agents
+- <a href="https://www.tinyfish.ai/" target="_blank">Tiny Fish</a> (**Tinyfish** · Latest) - Enterprise-focused AI agent platform
+- **Browse AI** - Data extraction service for agents
+- **Oxylabs** - Data extraction service for agents
+- **NIMBE** - Data extraction service for agents
+
+##### UI Automation
+- **Browser Use** - UI automation framework for agents
+- **Bytebot** - UI automation framework for agents
+- **LaVague** - UI automation framework for agents
+- **AGI,inc** - UI automation framework for agents
+- **Notte** - UI automation framework for agents
+- **Os-Atlas** - UI automation framework for agents
+- **Open Interpreter** - UI automation framework for agents
+- **Hyper Write** - UI automation framework for agents
+- **Anthropic Computer Use** - UI automation framework for agents
+- **OpenAI Operator** - UI automation framework for agents
+- **Google Project Mariner** - UI automation framework for agents
+
+##### Payments
+- **Open Commerce** - Payment infrastructure for agents
+- <a href="https://paymanai.com/" target="_blank">Payman</a> (**Payman AI** · Latest) - Secure payment infrastructure for AI agents
+- **Protegee AI** - Payment infrastructure for agents
+- **Stripe Agent SDK** - Payment SDK for agents
+
+##### Secure Tool Usage
+- <a href="https://composio.dev/" target="_blank">Composio</a> (**Composio** · Latest) - Integration platform connecting LLMs with 250+ tools
+- **Paragon** - Secure tool usage platform for agents
+- **MCP.run** - Model Context Protocol runtime for secure tool usage
+- **Unified** - Secure tool usage platform for agents
+- **PromptQL** - Secure tool usage platform for agents
+- **Wildcard** - Secure tool usage platform for agents
+- **Toolhouse** - Secure tool usage platform for agents
+
+##### Authentication
+- **Auth0** - Authentication service for agents
+- **Anon** - Authentication service for agents
+- **Okta** - Authentication service for agents
+- **OpenFGA** - Fine-grained authorization for agents
+- **Outhzed** - Authentication service for agents
+
+##### Browser Infrastructure
+- **Anthor Browser** - Browser infrastructure for agents
+- **Lightpanda** - Browser infrastructure for agents
+- **APIFY** - Browser infrastructure and web scraping platform for agents
+- **Platform.sh** - Browser infrastructure platform for agents
+
+##### Sandboxes
+- **CodeSandbox** - Sandbox environment for agents
+- **Pig** - Sandbox environment for agents
+- **Scrapybara** - Sandbox environment for agents
+- **Riza** - Sandbox environment for agents
+- **WebContainers** - Sandbox environment for agents
+- **ForeverVM** - Sandbox environment for agents
+- **Daytona** - Sandbox environment for agents
+
+#### Agent Data Infrastructure
+
+_These platforms provide data storage, memory, and ETL services for AI agents._
+
+##### Memory
+- **Cognee** - Memory platform for agents
+- **Mem0** - Memory platform for agents
+- **Zap** - Memory platform for agents
+
+##### Storage
+- **Neon** - Database storage for agents
+- **Chroma** - Vector database storage for agents
+- **Weaviate** - Vector database storage for agents
+- **MongoDB** - Database storage for agents
+- **Fireproof** - Database storage for agents
+- **MotherDuck** - Database storage for agents
+- **Neo4j** - Graph database storage for agents
+- **Drant** - Vector database storage for agents
+- **Tinybird** - Database storage for agents
+
+##### ETL
+- **Unstructured** - ETL platform for agents
+- <a href="https://www.llamaindex.ai/" target="_blank">LlamaIndex</a> (**LlamaIndex** · Latest) - Data framework for building LLM applications with RAG capabilities
+- **Reducto** - ETL platform for agents
+- **DataVolo** - ETL platform for agents
+- **Needle** - ETL platform for agents
+- **Verodat** - ETL platform for agents
+
+#### Agent Orchestration
+
+_These platforms provide orchestration, routing, and workflow management for AI agents._
+
+##### Persistence
+- <a href="https://www.inngest.com/" target="_blank">Inngest</a> (**Inngest** · Latest) - Durable functions platform for AI workflows
+- **Hatchet** - Workflow orchestration platform for agents
+- **Trigger.dev** - Workflow orchestration platform for agents
+
+##### Agent Routing
+- **LangGraph** - Agent routing framework
+- **Crew AI** - Multi-agent orchestration framework
+- **Letta** - Agent routing framework
+
+##### Model Routing
+- **Martian** - Model routing platform for agents
+- **Arcee AI** - Model routing platform for agents
+- **Not Diamond** - Model routing platform for agents
+
+#### Agent Platform Infrastructure
+
+_These platforms provide PaaS/BaaS, logging, evaluation, and multi-agent framework infrastructure._
+
+##### PaaS/BaaS
+- **Fly.io** - Platform-as-a-Service for agents
+- **Railway** - Platform-as-a-Service for agents
+- **Netlify** - Platform-as-a-Service for agents
+- **Griptape** - Platform-as-a-Service for agents
+- **Render** - Platform-as-a-Service for agents
+- <a href="https://supabase.com/" target="_blank">Supabase</a> (**Supabase** · Latest) - Backend-as-a-Service platform
+- **Axiom** - Platform-as-a-Service for agents
+- **Vercel** - Platform-as-a-Service for agents
+
+##### Logging
+- **Grafana Labs** - Logging and monitoring platform for agents
+- **Raygun** - Logging and error tracking platform for agents
+
+##### Evaluation
+- **AgentOps** - Agent evaluation and monitoring platform
+- **langfuse** - LLM observability and evaluation platform
+- **patronus AI** - Agent evaluation platform
+- **Phoenix** - Agent evaluation and monitoring platform
+- **LangSmith** - Agent evaluation and monitoring platform
+- **Braintrust** - Agent evaluation platform
+- **Galileo** - Agent evaluation platform
+- **CovAl** - Agent evaluation platform
+- **opik** - Agent evaluation platform
+- **Metoro** - Agent evaluation platform
+
+##### Multi-Agent Frameworks
+- **LangGraph** - Multi-agent framework
+- **Crew AI** - Multi-agent orchestration framework
+- **Swarms.ai** - Multi-agent framework
+- **Boundary** - Multi-agent framework
+- **ControlFlow** - Multi-agent framework
+- **Ag2** - Multi-agent framework
+- **GenSX** - Multi-agent framework
+- **AgentStack** - Multi-agent framework
+- <a href="https://www.llamaindex.ai/" target="_blank">LlamaIndex</a> (**LlamaIndex** · Latest) - Data framework supporting multi-agent applications
+- **AutoGen** - Multi-agent framework
+- **Camel AI** - Multi-agent framework
+- **Praison AI** - Multi-agent framework
+- **Smolagents** - Multi-agent framework
+
+##### Foundation Model Infrastructure
+- **Models** - Foundation model infrastructure
+- **Silicon** - Foundation model infrastructure
+- **Core Science Innovations** - Foundation model infrastructure (test-time compute, long context, planning)
+
+## Authentication & Identity Services
+
+_These platforms provide authentication, authorization, and user management services for AI applications._
+
+- <a href="https://clerk.com/" target="_blank">Clerk</a> (**Clerk** · Latest) - Provides embeddable user authentication UI, API, and admin dashboard, simplifying identity verification and account management
+- <a href="https://www.authing.com/" target="_blank">Authing</a> (**Authing** · Latest) - Enterprise identity cloud (IDaaS), implementing unified login, authorization, and multi-tenant management through SDK/API
+
+## AI Agent Payment Infrastructure
+
+_These platforms provide payment infrastructure and services specifically designed for AI agents and autonomous transactions._
+
+- <a href="https://www.paid.ai/" target="_blank">Paid</a> (**Paid** · Latest) - AI-driven multi-gateway payment orchestration platform, intelligent routing to improve payment success rates
+- <a href="https://paymanai.com/" target="_blank">Payman AI</a> (**Payman AI** · Latest) - Secure payment infrastructure for AI agents, enabling AI to host transactions but requiring human approval
+- <a href="https://skyfire.xyz/" target="_blank">Skyfire</a> (**Skyfire** · Latest) - Financial infrastructure for the AI economy, supporting autonomous payments and identity verification for AI agents
+- <a href="https://nekuda.ai/" target="_blank">Nekuda</a> (**Nekuda** · Latest) - Building secure and compliant payment gateways for AI agents, enabling automatic payment on behalf and credential management
 
 ## AI 3D Model Generation
 
@@ -489,6 +886,8 @@ _These are AI chatbot platforms that support NSFW content and adult content for 
 
 _These are AI chatbots designed for specific use cases or audiences._
 
+- <a href="https://thecrosstalk.com/" target="_blank">Bible Chat AI</a> (**Bible Chat AI** · Latest) - Bible-based conversational AI assistant for interactive learning, indexing, and prayer communication
+
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> (**AutoResponder.ai** · Latest) - AI auto-reply chatbot generator supporting WhatsApp, Telegram, and other platforms
 - <a href="https://www.heeyo.ai/" target="_blank">Heeyo AI</a> (**Heeyo AI** · Latest) - Multilingual AI chat companion designed for children aged 3-11, featuring educational games and adaptive growth capabilities
 
@@ -547,6 +946,9 @@ _These are AI-powered tools designed to help recruiters and hiring managers stre
 - <a href="https://joinbrix.com/" target="_blank">Brix</a> (**Brix** · Latest) - AI platform that automatically generates job descriptions, screens candidates, and conducts pre-screening
 - <a href="https://www.carv.com/" target="_blank">Carv</a> (**Carv** · Latest) - Automatically processes recruitment workflows and updates ATS systems for recruiters
 - <a href="https://www.turing.com/" target="_blank">Turing</a> (**Turing** · Latest) - AI-driven remote developer platform that automatically matches and manages global software engineers
+- <a href="https://micro1.io/" target="_blank">Micro1</a> (**Micro1** · Latest) - AI voice-powered recruitment platform
+- <a href="https://apriora.ai/" target="_blank">Apriora</a> (**Apriora** · Latest) - AI voice-powered recruitment platform
+- <a href="https://lightscreen.ai/" target="_blank">Lightscreen</a> (**Lightscreen** · Latest) - AI voice-powered recruitment platform
 
 ### For Job Seekers
 
@@ -747,6 +1149,7 @@ _These tools help users capture, organize, and manage knowledge and information.
 - <a href="https://logseq.com/" target="_blank">Logseq</a> (**Logseq** · Latest) - Privacy-first local knowledge base built on Markdown and bidirectional linking
 - <a href="https://feather.so/" target="_blank">Feather</a> (**Feather** · Latest) - Lightweight collaborative note/document app emphasizing simplicity and multi-platform sync
 - <a href="https://flowith.io/" target="_blank">Flowith</a> (**Flowith** · Latest) - AI workspace for creators with multi-threaded canvas for knowledge management and creation
+- <a href="https://get.mem.ai/" target="_blank">Mem</a> (**Mem** · Latest) - AI-driven self-organizing workspace
 
 ### Forms & Surveys
 
@@ -762,6 +1165,7 @@ _These tools help manage schedules, appointments, and calendar events._
 
 - <a href="https://cal.com/" target="_blank">Cal.com</a> (**Cal.com** · Latest) - Self-hostable open-source scheduling infrastructure supporting highly customizable scheduling
 - <a href="https://calendly.com/" target="_blank">Calendly</a> (**Calendly** · Latest) - Automated scheduling management tool that arranges meetings with one click and eliminates unnecessary communication overhead
+- <a href="https://www.airtimetools.com/" target="_blank">Airtime</a> (**Airtime** · Latest) - Online meeting platform
 - <a href="https://www.usemotion.com/" target="_blank">Motion</a> (**Motion** · Latest) - AI project/time management assistant that automatically generates tasks and schedules
 
 ### PDF & Document Tools
@@ -792,6 +1196,88 @@ _These tools automate workflows, processes, and repetitive tasks._
 - <a href="https://www.induced.ai/" target="_blank">Induced</a> (**Induced** · Latest) - Human-in-the-loop RPA 3.0, AI-driven web task automation with real-time intelligent decision-making
 - <a href="https://www.stagehand.dev/" target="_blank">Stagehand</a> (**Stagehand** · Latest) - AI browser automation framework supporting mixed code and natural language control of browser operations
 - <a href="https://www.browserless.io/" target="_blank">Browserless</a> (**Browserless** · Latest) - Headless browser as a service supporting Docker deployment, automatically bypassing anti-scraping and enabling page automation
+- <a href="https://www.make.com/" target="_blank">Make</a> (**Make** · Latest) - Visual workflow automation platform connecting apps and services to automate business processes
+- <a href="https://zapier.com/" target="_blank">Zapier</a> (**Zapier** · Latest) - Workflow automation platform that connects thousands of apps to automate tasks and workflows
+
+### Meeting Notes & Transcription
+
+_These tools automatically transcribe meetings and generate notes, summaries, and action items._
+
+- <a href="https://www.read.ai/" target="_blank">Read</a> (**Read** · Latest) - AI meeting notes platform
+- <a href="https://rewatch.com/" target="_blank">Rewatch</a> (**Rewatch** · Latest) - Meeting recording and notes platform
+- <a href="https://www.granola.ai/" target="_blank">Granola</a> (**Granola** · Latest) - AI meeting notes tool with non-intrusive automatic transcription and enhanced handwritten notes, generating key points and action items
+- <a href="https://www.fathom.ai/" target="_blank">Fathom</a> (**Fathom** · Latest) - Meeting notes platform
+- <a href="https://www.supernormal.com/" target="_blank">Supernormal</a> (**Supernormal** · Latest) - Meeting notes platform
+- <a href="https://noty.ai/" target="_blank">Noty.ai</a> (**Noty.ai** · Latest) - Meeting notes platform
+- <a href="https://circleback.ai/" target="_blank">Circleback</a> (**Circleback** · Latest) - Meeting notes platform
+- <a href="https://tldv.io/" target="_blank">TL;DV</a> (**TL;DV** · Latest) - Meeting notes platform
+- <a href="https://krisp.ai/" target="_blank">Krisp</a> (**Krisp** · Latest) - Meeting notes and noise cancellation platform
+- <a href="https://www.sembly.ai/" target="_blank">Sembly</a> (**Sembly** · Latest) - Meeting notes platform
+- <a href="https://fellow.ai/" target="_blank">Fellow</a> (**Fellow** · Latest) - Meeting notes platform
+- <a href="https://www.notta.ai/en" target="_blank">Notta</a> (**Notta** · Latest) - Meeting notes platform
+- <a href="https://fireflies.ai/" target="_blank">Fireflies</a> (**Fireflies** · Latest) - Meeting notes platform
+- <a href="https://otter.ai/" target="_blank">Otter</a> (**Otter** · Latest) - AI meeting notes assistant with real-time transcription, automatic summaries, and action item identification
+- <a href="https://www.meetjamie.ai/" target="_blank">Jamie</a> (**Jamie** · Latest) - Meeting notes platform
+- <a href="https://meetgeek.ai/" target="_blank">MeetGeek</a> (**MeetGeek** · Latest) - Meeting notes platform
+- <a href="https://tactiq.io/" target="_blank">Tactiq</a> (**Tactiq** · Latest) - Meeting notes platform
+- <a href="https://www.fieldy.ai/" target="_blank">Fieldy</a> (**Fieldy** · Latest) - Meeting notes platform
+- <a href="https://www.leexi.ai/" target="_blank">Leexi</a> (**Leexi** · Latest) - Meeting notes platform
+- <a href="https://www.claap.io/" target="_blank">Claap</a> (**Claap** · Latest) - Meeting notes platform
+- <a href="https://myminutes.ai/" target="_blank">MyMinutes</a> (**MyMinutes** · Latest) - Meeting notes platform
+- <a href="https://www.recall.ai/" target="_blank">Recall.ai</a> (**Recall.ai** · Latest) - Unified API for accessing Zoom/Meet meeting recordings, real-time transcription, and metadata
+- <a href="https://cogram.com/" target="_blank">Cogram</a> (**Cogram** · Latest) - AI-powered meeting notes, action items, and summaries generation platform
+
+### Specialized Scribes
+
+_These tools provide automated documentation and note-taking for specialized professional fields._
+
+#### Recruiting
+- <a href="https://metaview.ai/" target="_blank">Metaview</a> (**Metaview** · Latest) - AI recruiting scribe platform
+- <a href="https://www.brighthire.com/" target="_blank">BrightHire</a> (**BrightHire** · Latest) - AI recruiting scribe platform
+- <a href="https://quil.ai/" target="_blank">Quil</a> (**Quil** · Latest) - AI recruiting scribe platform
+
+#### Sales
+- <a href="https://rilla.ai/" target="_blank">Rilla</a> (**Rilla** · Latest) - AI sales scribe platform
+- <a href="https://grain.com/" target="_blank">Grain</a> (**Grain** · Latest) - AI sales scribe platform
+- <a href="https://siro.ai/" target="_blank">Siro</a> (**Siro** · Latest) - AI sales scribe platform
+- <a href="https://leadbeam.ai/" target="_blank">Leadbeam</a> (**Leadbeam** · Latest) - AI sales scribe platform
+- <a href="https://winn.ai/" target="_blank">Winn AI</a> (**Winn AI** · Latest) - AI sales scribe platform
+- <a href="https://www.claap.io/" target="_blank">Claap</a> (**Claap** · Latest) - AI sales scribe platform
+
+#### Dictation
+- <a href="https://aqua.ai/" target="_blank">AQUA</a> (**AQUA** · Latest) - AI dictation platform
+- <a href="https://superwhisper.ai/" target="_blank">Superwhisper</a> (**Superwhisper** · Latest) - AI dictation platform
+- <a href="https://dasis.ai/" target="_blank">Dasis</a> (**Dasis** · Latest) - AI dictation platform
+- <a href="https://cleft.ai/" target="_blank">Cleft</a> (**Cleft** · Latest) - AI dictation platform
+- <a href="https://audiopen.ai/" target="_blank">AudioPen</a> (**AudioPen** · Latest) - AI dictation platform
+
+#### Education
+- <a href="https://echolabs.ai/" target="_blank">Echolabs</a> (**Echolabs** · Latest) - AI education scribe platform
+- <a href="https://www.notability.com/" target="_blank">Notability</a> (**Notability** · Latest) - AI education scribe platform
+- <a href="https://cconote.ai/" target="_blank">Cconote</a> (**Cconote** · Latest) - AI education scribe platform
+- <a href="https://glyph.ai/" target="_blank">Glyph AI</a> (**Glyph AI** · Latest) - AI education scribe platform
+
+#### Mobile-First
+- <a href="https://paxo.ai/" target="_blank">Paxo</a> (**Paxo** · Latest) - Mobile-first AI scribe platform
+
+#### Journal
+- <a href="https://mindsera.com/" target="_blank">mindsera</a> (**mindsera** · Latest) - AI journal platform
+- <a href="https://rosebud.ai/" target="_blank">Rosebud</a> (**Rosebud** · Latest) - AI journal platform
+
+### Data Visualization
+
+_These tools help create visual charts, diagrams, and data visualizations._
+
+- <a href="https://www.napkin.ai/" target="_blank">Napkin</a> (**Napkin** · Latest) - Text-to-editable visual chart tool, helping present business stories
+- <a href="https://flourish.studio/" target="_blank">Flourish</a> (**Flourish** · Latest) - Interactive data visualization platform, suitable for embedding in news and reports
+
+### Content Creation
+
+_These tools help create and manage digital content efficiently._
+
+- <a href="https://durable.co/" target="_blank">Durable</a> (**Durable** · Latest) - Efficient, high-quality digital content creation service platform
+- <a href="https://www.writer.com/" target="_blank">Writer</a> (**Writer** · Latest) - Enterprise generative AI platform for content creation and writing assistance
+- <a href="https://textcortex.com/" target="_blank">Text Cortex AI</a> (**Text Cortex AI** · Latest) - AI-powered digital content creation service providing comprehensive content solutions
 
 ### Enterprise AI Assistants
 
@@ -805,6 +1291,163 @@ _These are enterprise-grade AI assistants that automate business processes and h
 - <a href="https://momoai.co/" target="_blank">Momo</a> (**Momo** · Latest) - AI conversational assistant that integrates with business systems to enable automated customer Q&A and intelligent process handling
 - <a href="https://ushur.ai/" target="_blank">Ushur</a> (**Ushur** · Latest) - AI-driven customer experience automation platform achieving end-to-end service transformation through chat and process bots
 - <a href="https://contextual.ai/" target="_blank">Contextual AI</a> (**Contextual AI** · Latest) - Enterprise RAG platform building highly authentic knowledge-driven intelligent assistants
+- <a href="https://decagon.ai/" target="_blank">Decagon</a> (**Decagon** · Latest) - AI agent platform for customer support automation
+- <a href="https://www.tinyfish.ai/" target="_blank">Tinyfish</a> (**Tinyfish** · Latest) - Enterprise-focused AI agent platform for business automation
+- <a href="https://www.blinkops.com/" target="_blank">BlinkOps</a> (**BlinkOps** · Latest) - Security automation platform with AI-powered agents for cybersecurity operations
+
+## Customer Service Platforms
+
+_These platforms provide AI-powered customer service, support, and communication solutions._
+
+- <a href="https://www.intercom.com/" target="_blank">Intercom</a> (**Intercom** · Latest) - AI customer service and messaging platform integrating chatbots, automation, and ticketing to improve customer response efficiency
+- <a href="https://www.zendesk.com/" target="_blank">Zendesk</a> (**Zendesk** · Latest) - Omnichannel customer support system with AI-enhanced ticket management and automated workflows
+- <a href="https://www.salesforce.com/" target="_blank">Salesforce</a> (**Salesforce** · Latest) - Leading AI-driven CRM platform integrating sales, service, and marketing with autonomous AI agents
+- <a href="https://www.crescendo.ai/" target="_blank">Crescendo</a> (**Crescendo** · Latest) - Integrated customer service AI platform combining conversational AI with human experts to optimize customer support
+- <a href="https://www.chatbase.co/" target="_blank">Chatbase</a> (**Chatbase** · Latest) - Enterprise customer service AI platform for building custom intelligent customer interaction bots
+- <a href="https://meetmaya.world/" target="_blank">Maya AI</a> (**Maya AI** · Latest) - Omnichannel personalized recommendation service based on TasteGraph™ algorithm, improving customer loyalty
+- <a href="https://lavender.ai/" target="_blank">Lavender</a> (**Lavender** · Latest) - AI sales email training platform providing email scoring, personalized suggestions, and recipient research
+- <a href="https://www.chai-research.com/" target="_blank">Chai Research</a> (**Chai Research** · Latest) - Conversational AI providing engaging chat experiences, supporting user interactions with AI characters
+- <a href="https://cohere.ai/" target="_blank">Cohere</a> (**Cohere** · Latest) - NLP models optimizing content moderation, and chatbot functionality
+- <a href="https://kaizan.ai/" target="_blank">Kaizan</a> (**Kaizan** · Latest) - Conversation intelligence platform helping customers manage relationships, auto-filling workflows and integrating common tools
+- <a href="https://outplayhq.com/" target="_blank">Outplay</a> (**Outplay** · Latest) - Multi-channel sales automation platform supporting email, phone, LinkedIn communication with data analytics
+- <a href="https://www.edgetier.com/" target="_blank">Edge Tier</a> (**Edge Tier** · Latest) - NLP technology optimizing customer service conversation quality with anomaly detection and automated decision support
+- <a href="https://forethought.ai/" target="_blank">Forethought</a> (**Forethought** · Latest) - SupportGPT™ platform automatically responding to customer questions, prioritizing tickets, and routing through AI
+- <a href="https://smartly.ai/" target="_blank">Smartly.ai</a> (**Smartly.ai** · Latest) - Creating cross-device conversational applications supporting Messenger, Alexa, and other platforms, optimizing customer service
+- <a href="https://lighton.ai/" target="_blank">LightOn</a> (**LightOn** · Latest) - Optical processing units and large language models providing efficient text generation and data analysis
+- <a href="https://anyword.com/" target="_blank">Anyword</a> (**Anyword** · Latest) - AI marketing text generation tool supporting multilingual optimization and cross-channel analysis
+- <a href="https://yellow.ai/" target="_blank">Yellow.ai</a> (**Yellow.ai** · Latest) - Enterprise conversational AI platform providing omnichannel customer service chatbots with agentic AI capabilities
+- <a href="https://parloa.com/" target="_blank">Parloa</a> (**Parloa** · Latest) - AI agent management platform for contact centers, transforming customer conversations into lasting loyalty
+
+## AI Legal Tools
+
+_These platforms provide AI-powered legal research, document analysis, and legal assistance for law firms and legal professionals._
+
+- <a href="https://www.supio.com/" target="_blank">Supio</a> (**Supio** · Latest) - Legal AI platform designed specifically for plaintiff attorneys
+- <a href="https://www.harvey.ai/" target="_blank">Harvey</a> (**Harvey** · Latest) - Professional-grade AI platform serving top law firms
+- <a href="https://www.evenuplaw.com/" target="_blank">EvenupLaw</a> (**EvenupLaw** · Latest) - AI platform improving efficiency in personal injury cases
+- <a href="https://casetext.com/" target="_blank">Casetext</a> (**Casetext** · Latest) - Legal research platform and AI legal assistant company
+- <a href="https://legora.com/" target="_blank">Legora</a> (**Legora** · Latest) - AI workspace for lawyers, accelerating document drafting, research, and team collaboration
+
+## AI Healthcare Tools
+
+_These platforms provide AI-powered healthcare solutions, medical transcription, and health management tools._
+
+- <a href="https://www.calai.app/" target="_blank">Cal AI</a> (**Cal AI** · Latest) - Photo recognition of food portions, automatically analyzing calories and nutritional content
+- <a href="https://www.develophealth.ai/" target="_blank">Develop Health</a> (**Develop Health** · Latest) - AI automatic review and submission of medical insurance authorizations, improving approval efficiency by 83%
+- <a href="https://www.thoughtful.ai/" target="_blank">Thoughtful</a> (**Thoughtful** · Latest) - Medical revenue cycle automation platform with AI assistants leading review, billing, and collection processes
+- <a href="https://www.abridge.com/" target="_blank">Abridge</a> (**Abridge** · Latest) - AI conversation assistant for healthcare, real-time transcription of doctor-patient conversations and generating structured medical records
+- <a href="https://www.ambiencehealthcare.com/" target="_blank">Ambience Healthcare</a> (**Ambience Healthcare** · Latest) - Environment AI dictation assistant for healthcare professionals, automatically generating notes and billing codes
+- <a href="https://www.navina.ai/" target="_blank">Navina</a> (**Navina** · Latest) - AI-driven healthcare platform optimizing clinical decisions and inpatient resource allocation in real-time
+- <a href="https://www.xaira.com/" target="_blank">Xaira Therapeutics</a> (**Xaira Therapeutics** · Latest) - AI-driven biopharmaceutical company using generative models to design new drug candidate molecules
+- <a href="https://growtherapy.com/" target="_blank">Grow Therapy</a> (**Grow Therapy** · Latest) - Online/offline mental health therapy platform supporting insurance coverage and simplifying appointment processes
+- <a href="https://www.blinkhealth.com/" target="_blank">Blink Health</a> (**Blink Health** · Latest) - Digital prescription cloud platform providing low-cost medications, free delivery, and offline pickup services
+- <a href="https://flo.health/" target="_blank">Flo</a> (**Flo** · Latest) - Global women's health tracking app accurately recording menstrual cycles, ovulation, and pregnancy status
+- <a href="https://billiontoone.com/" target="_blank">BillionToOne</a> (**BillionToOne** · Latest) - Precision molecular diagnostics company developing single-base level prenatal and cancer screening technology
+- <a href="https://intrabio.com/" target="_blank">IntraBio</a> (**IntraBio** · Latest) - Focused on research and commercialization of treatments for rare neurodegenerative diseases
+- <a href="https://www.mdclone.com/" target="_blank">MDClone</a> (**MDClone** · Latest) - Medical data analysis platform generating synthetic data while protecting privacy
+
+## AI Defense & Military
+
+_These platforms develop AI-powered autonomous systems for defense and military applications._
+
+- <a href="https://helsing.ai/" target="_blank">Helsing</a> (**Helsing** · Latest) - Developing AI-driven autonomous military systems including combat and underwater drones for democratic nations
+- <a href="https://shield.ai/" target="_blank">Shield AI</a> (**Shield AI** · Latest) - Defense technology company developing autonomous AI flight systems (Nova, V-BAT) for tactical reconnaissance and operations
+
+## AI Emergency Response
+
+_These platforms provide AI-powered solutions for emergency response and public safety._
+
+- <a href="https://carbyne.com/" target="_blank">Carbyne</a> (**Carbyne** · Latest) - Cloud-native communication platform for emergency response centers with real-time location and video interaction to improve rescue efficiency
+
+## Vertical Domain Solutions
+
+_These platforms provide specialized AI-powered solutions for specific industries and vertical markets._
+
+### Construction & Facilities
+- <a href="https://www.servicetitan.com/" target="_blank">ServiceTitan</a> (**ServiceTitan** · Latest) - Management system for plumbing, HVAC, and electrical contractors including scheduling, CRM, and financial functions
+
+### Restaurant & Hospitality
+- <a href="https://pos.toasttab.com/" target="_blank">Toast</a> (**Toast** · Latest) - Cloud POS system for restaurants integrating ordering, payment, staff management, and AI analytics
+- <a href="https://www.spothopperapp.com/" target="_blank">SpotHopper</a> (**SpotHopper** · Latest) - Comprehensive marketing platform for restaurants covering website building, social media, email, and reservation management
+
+### Health & Wellness Services
+- <a href="https://www.mindbodyonline.com/" target="_blank">Mindbody</a> (**Mindbody** · Latest) - Integrated booking, payment, and marketing platform for fitness, spa, and wellness service industries
+
+### Property Management
+- <a href="https://www.appfolio.com/" target="_blank">AppFolio</a> (**AppFolio** · Latest) - Full-service property management SaaS automating leasing, accounting, and portfolio operations
+- <a href="https://www.homelight.com/" target="_blank">HomeLight</a> (**HomeLight** · Latest) - One-stop platform matching buyers and sellers with top real estate agents, providing cash purchases, buy-before-sell services
+
+### Pet Services
+- <a href="https://www.moego.pet/" target="_blank">MoeGo</a> (**MoeGo** · Latest) - Full-featured operations management software for pet boarding, grooming, and daycare industries
+
+### Healthcare & Hospitality
+- <a href="https://www.eliseai.com/" target="_blank">ELISE AI</a> (**ELISE AI** · Latest) - Conversational automation AI customer service and ticket processing system designed for healthcare and hospitality industries
+
+### Architecture & Design
+- <a href="https://www.gendo.ai/" target="_blank">Gendo</a> (**Gendo** · Latest) - Browser-based AI rendering platform for architects and designers, generating high-quality CGI images in minutes
+- <a href="https://monograph.com/" target="_blank">Monograph</a> (**Monograph** · Latest) - Integrated project budget, scheduling, and billing management platform for architecture and engineering teams
+
+### Infrastructure & Transportation
+- <a href="https://www.aidash.com/" target="_blank">AiDash</a> (**AiDash** · Latest) - Satellite + AI intelligent monitoring and remote asset inspection tools for power, water, and other infrastructure
+- <a href="https://waabi.ai/" target="_blank">Waabi</a> (**Waabi** · Latest) - Generative AI-based autonomous truck platform integrating simulator training to commercial deployment
+- <a href="https://miovision.com/" target="_blank">Miovision</a> (**Miovision** · Latest) - Intelligent transportation system providing real-time traffic monitoring and urban traffic insights through sensors + AI
+
+### Beauty & Personal Care
+- <a href="https://zoca.com/" target="_blank">Zoca</a> (**Zoca** · Latest) - AI-driven local beauty and hair salon marketing assistant platform automating customer acquisition to retention
+
+### Supply Chain & Logistics
+- <a href="https://altana.ai/" target="_blank">Altana</a> (**Altana** · Latest) - Global supply chain data platform with AI-driven risk visualization, compliance, and cost optimization
+
+### Location Analytics
+- <a href="https://www.placer.ai/" target="_blank">Placer.ai</a> (**Placer.ai** · Latest) - Location analytics platform providing offline foot traffic, business district, and competitive intelligence, visualizing visitor trends
+
+### Manufacturing
+- <a href="https://www.brightmachines.com/" target="_blank">Bright Machines</a> (**Bright Machines** · Latest) - Intelligent manufacturing automation platform combining robotics and AI software for efficient end-to-end management from product design to assembly
+
+## Link in Bio Tools
+
+_These platforms help users create personalized "Link in Bio" pages to aggregate multiple platform links._
+
+- <a href="https://linktr.ee/" target="_blank">Linktree</a> (**Linktree** · Latest) - Create personalized "Link in Bio" pages aggregating multiple platform links with analytics
+- <a href="https://beacons.ai/" target="_blank">Beacons</a> (**Beacons** · Latest) - One-stop "Link in Bio" platform for creators providing links, business, and fan monetization entry points
+- <a href="https://lit.link/" target="_blank">lit.link</a> (**lit.link** · Latest) - Free "Link in Bio" service integrating multiple social media links with diverse design options
+- <a href="https://campsite.bio/" target="_blank">Campsite.bio</a> (**Campsite.bio** · Latest) - Quickly create mobile-optimized "Link in Bio" pages organizing and tracking social media links
+- <a href="https://portaly.cc/" target="_blank">Portaly</a> (**Portaly** · Latest) - AI-driven social media traffic and content presentation platform, one-click brand showcase page generation
+- <a href="https://bento.me/" target="_blank">Bento</a> (**Bento** · Latest) - Beautiful personalized "Link in Bio" pages emphasizing visual richness and brand expression
+
+## AI Model Evaluation
+
+_These platforms provide evaluation, benchmarking, and comparison tools for AI models._
+
+- <a href="https://lmarena.ai/" target="_blank">LMArena.ai</a> (**LMArena.ai** · Latest) - Open-source AI model evaluation platform building rankings and comparisons based on user votes
+- <a href="https://outlier.ai/" target="_blank">Outlier.ai</a> (**Outlier.ai** · Latest) - Platform bringing together professionals to train and evaluate AI models, improving model accuracy and earning rewards
+- <a href="https://lmsys.org/" target="_blank">LMSYS</a> (**LMSYS** · Latest) - Open-source chat models fine-tuned based on LLaMA, achieving 90%+ ChatGPT quality
+
+## AI Travel Tools
+
+_These platforms provide AI-powered travel planning and booking assistance._
+
+- <a href="https://www.ottotheagent.com/" target="_blank">Otto</a> (**Otto** · Latest) - AI business travel assistant automatically learning habits and completing flight and hotel bookings
+
+## AI Gaming Tools
+
+_These platforms provide AI-powered gaming experiences and game development tools._
+
+- <a href="https://www.aidungeon.com/" target="_blank">AI Dungeon</a> (**AI Dungeon** · Latest) - AI-driven open-ended text adventure game where players can freely input and generate unlimited storylines
+- <a href="https://ego.ai/" target="_blank">Ego</a> (**Ego** · Latest) - AI gaming voice assistant platform
+- <a href="https://volley.com/" target="_blank">Volley</a> (**Volley** · Latest) - AI gaming voice assistant platform
+
+## AI Event Planning Tools
+
+_These platforms help plan and organize events, parties, and celebrations._
+
+- <a href="https://www.celebrateally.com/" target="_blank">CelebrateAlly</a> (**CelebrateAlly** · Latest) - AI celebration assistant providing custom speeches, card copy, and party planning tools
+
+## AI User Research Tools
+
+_These platforms provide AI-powered user research and feedback collection tools._
+
+- <a href="https://www.voicepanel.com/" target="_blank">Voicepanel</a> (**Voicepanel** · Latest) - AI-driven user research tool automatically conducting chat, voice, and video interviews and analyzing feedback
 
 ### AI Chat Assistants
 
@@ -817,6 +1460,78 @@ _These are AI-powered chat assistants for various productivity and communication
 - <a href="https://ai.quark.cn/" target="_blank">Quark</a> (**Alibaba** · Latest) - Alibaba's AI super assistant integrating search, notes, cloud storage, documents, and deep reasoning capabilities
 - <a href="https://novaapp.ai/" target="_blank">Nova A.I.</a> (**Nova A.I.** · Latest) - Cross-platform chat assistant based on GPT-4o and Gemini supporting writing, Q&A, recommendations, and multiple functions
 - <a href="https://manus.im/" target="_blank">manus</a> (**manus** · Latest) - China's first general-purpose autonomous AI agent that autonomously executes complex online tasks and generates output results
+- <a href="https://withmana.com/" target="_blank">mana</a> (**mana** · Latest) - Leading AI assistant company optimizing capabilities in sales, job search, learning, and entertainment through AI technology
+- <a href="https://inflection.ai/" target="_blank">Inflection AI</a> (**Inflection AI** · Latest) - Personal AI assistant Pi providing empathetic conversational AI experiences for planning, scheduling, and information gathering
+
+## AI Presentation Tools
+
+_These platforms use AI to automatically generate professional presentations and slides from text prompts or outlines._
+
+- <a href="https://gamma.app/" target="_blank">Gamma</a> (**Gamma** · Latest) - AI-powered presentation generator, instantly creating beautiful presentations from topic input
+- <a href="https://tome.app/" target="_blank">Tome</a> (**Tome** · Latest) - AI-driven narrative presentation tool supporting video, interactive content, and web elements
+- <a href="https://www.beautiful.ai/" target="_blank">Beautiful.ai</a> (**Beautiful.ai** · Latest) - Intelligent design presentation platform that automatically maintains layout and brand consistency
+- <a href="https://slidesgo.com/" target="_blank">Slidesgo</a> (**Slidesgo** · Latest) - Provides tens of thousands of free Google/PowerPoint templates for download
+- <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a> (**Presentations.AI** · Latest) - AI assistant for quickly generating charts, timelines, reports, and presentation slides
+- <a href="https://slidesgpt.com/" target="_blank">SlidesGPT AI</a> (**SlidesGPT AI** · Latest) - AI slide generator based on text prompts, outputting slides with notes and theme styles
+
+## AI Design Tools
+
+_These platforms use AI to assist in website design, UI/UX prototyping, and graphic design tasks._
+
+- <a href="https://codedesign.ai/" target="_blank">CodeDesign</a> (**CodeDesign** · Latest) - Generate and host complete responsive websites from text prompts with one click
+- <a href="https://www.relume.io/" target="_blank">Relume</a> (**Relume** · Latest) - AI-powered design tool for quickly generating sitemaps, wireframes, and style guides
+- <a href="https://wegic.ai/" target="_blank">Wegic</a> (**Wegic** · Latest) - First chat-based AI website design and development platform, producing high-quality web pages in seconds
+- <a href="https://www.visily.ai/" target="_blank">Visly</a> (**Visly** · Latest) - UI design platform that quickly converts text, sketches, or screenshots into editable prototypes and wireframes
+- <a href="https://uizard.io/" target="_blank">UIzard</a> (**UIzard** · Latest) - Website and app design tool that instantly generates interactive prototypes from text, sketches, or interface screenshots
+- <a href="https://uxpilot.ai/" target="_blank">UX Pilot</a> (**UX Pilot** · Latest) - Platform that automatically generates screen flow diagrams and high-fidelity UX/UI prototypes through AI
+- <a href="https://www.mymap.ai/cheat-sheet-maker" target="_blank">My Map AI</a> (**My Map AI** · Latest) - Generate well-organized AI learning cheat sheets and quick reference guides through chat interface
+- <a href="https://www.canva.com/" target="_blank">Canva</a> (**Canva** · Latest) - Drag-and-drop multifunctional design platform with AI smart templates for social graphics, presentations, and video creation
+- <a href="https://designs.ai/" target="_blank">Designs.ai</a> (**Designs.ai** · Latest) - One-stop AI creative suite that automatically generates logos, images, videos, and marketing materials
+- <a href="https://molypix.ai/" target="_blank">MolyPix</a> (**MolyPix** · Latest) - AI-driven graphic design, generating editable layered images from text prompts
+
+## AI Story & Book Generation
+
+_These platforms use AI to generate personalized children's stories, books, and interactive storytelling experiences._
+
+- <a href="https://www.childbook.ai/" target="_blank">Child Book</a> (**Child Book** · Latest) - AI children's story generation tool that quickly creates unique personalized children's books
+- <a href="https://www.ainia.ai/" target="_blank">Ainia</a> (**Ainia** · Latest) - Interactive emotional education platform, engaging with characters to inspire children's empathy and imagination
+- <a href="https://www.createbookai.com/" target="_blank">CreateBookAI</a> (**CreateBookAI** · Latest) - AI personalized children's book creation platform, generating illustrations and printing physical books with one click
+- <a href="https://www.scarlettpanda.com/" target="_blank">Scarlett Panda</a> (**Scarlett Panda** · Latest) - Generate customized illustrated bedtime stories in 30 seconds, suitable for family parent-child reading
+- <a href="https://www.bookbildr.com/" target="_blank">BookBildr</a> (**BookBildr** · Latest) - Online picture book editing platform with AI illustrations, layout, and PDF/print export
+- <a href="https://www.bedtimestory.ai/" target="_blank">Bedtimestory.ai</a> (**Bedtimestory.ai** · Latest) - Generate highly personalized bedtime stories instantly from prompts
+- <a href="https://storybee.app/" target="_blank">StoryBee</a> (**StoryBee** · Latest) - AI story and illustration generation platform that brings fairy tales to life instantly
+- <a href="https://fabled.ai/" target="_blank">Fabled AI</a> (**Fabled AI** · Latest) - Upload books and chat with characters, experiencing interactive literary adventures
+- <a href="https://www.storybooks.app/" target="_blank">Storybooks</a> (**Storybooks** · Latest) - AI platform that generates interactive children's stories and illustrations with one click
+- <a href="https://www.storywizard.ai/" target="_blank">Storywizard.ai</a> (**Storywizard.ai** · Latest) - AI educational tool that generates personalized children's learning stories
+- <a href="https://www.storiesforkids.ai/" target="_blank">StoriesForKids.ai</a> (**StoriesForKids.ai** · Latest) - AI platform that converts real situations into picture book stories and illustrations
+- <a href="https://fabularis.art/" target="_blank">Fabularis</a> (**Fabularis** · Latest) - Generate customized stories and multi-style illustrations for children aged 5-10
+- <a href="https://www.story.com/" target="_blank">Story.com</a> (**Story.com** · Latest) - Create AI stories with interactive options and AI animated videos
+- <a href="https://babystoryai.com/" target="_blank">BabyStoryAI</a> (**BabyStoryAI** · Latest) - Generate personalized baby audio stories with music and voiceovers
+- <a href="https://www.aistorygenerator.org/" target="_blank">AI Story Generator</a> (**AI Story Generator** · Latest) - General AI writing tool for quickly generating comprehensive stories
+- <a href="https://www.storybookai.app/" target="_blank">StoryBook AI</a> (**StoryBook AI** · Latest) - Generate magical interactive children's bedtime stories with one click
+- <a href="https://www.bedfables.com/" target="_blank">BedFables</a> (**BedFables** · Latest) - AI-generated personalized bedtime stories, supporting theme customization and saving to "children's book" library
+- <a href="https://storyspark.ai/" target="_blank">Story Spark</a> (**Story Spark** · Latest) - Unlimited-length AI story generator supporting continuation and memory
+- <a href="https://midreal.ai/" target="_blank">Story MidReal</a> (**MidReal** · Latest) - AI tool that expands a single sentence into a complete story
+- <a href="https://www.lumistory.ai/" target="_blank">Story Lumi</a> (**Lumi** · Latest) - Platform created by Colin Kaepernick, helping creators publish text and image content
+- <a href="https://www.squibler.io/" target="_blank">Squibler</a> (**Squibler** · Latest) - AI opening generator platform for quickly inspiring writing creativity
+
+## Conversation Intelligence
+
+_These platforms analyze and extract insights from conversations, calls, and communication data._
+
+- <a href="https://symbl.ai/" target="_blank">Symbl</a> (**Symbl** · Latest) - Real-time conversation intelligence platform extracting insights from voice, video, and chat conversations using advanced NLP
+
+## Sales & Marketing Content
+
+_These platforms help sales and marketing teams create content and automate communication._
+
+- <a href="https://regie.ai/" target="_blank">Regie</a> (**Regie** · Latest) - AI content platform for sales teams, generating personalized sales content and communications
+- <a href="https://11x.ai/" target="_blank">11X</a> (**11X** · Latest) - AI sales voice assistant platform
+- <a href="https://artisan.ai/" target="_blank">Artisan</a> (**Artisan** · Latest) - AI sales voice assistant platform
+- <a href="https://hyperbound.ai/" target="_blank">Hyperbound</a> (**Hyperbound** · Latest) - AI sales voice assistant platform
+- <a href="https://nooks.ai/" target="_blank">Nooks</a> (**Nooks** · Latest) - AI sales voice assistant platform
+- <a href="https://terrakotta.ai/" target="_blank">Terrakotta</a> (**Terrakotta** · Latest) - AI sales voice assistant platform
+- <a href="https://secondnature.ai/" target="_blank">Second Nature</a> (**Second Nature** · Latest) - AI sales voice assistant platform
 
 ## Screen Recording Tools
 
