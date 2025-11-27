@@ -6,24 +6,24 @@ Quick reference index of all products in this repository.
 
 | Product Name | Category | Link | Status |
 |-------------|----------|------|--------|
-| Gemini by Google | AI Image Tools | [Link](https://ai.studio/banana) | Active |
-| Tencent Hunyuan | AI Image Tools | [Link](https://hunyuan.tencent.com/image/en) | Active |
-| Imagen by Google | AI Image Tools | [Link](https://deepmind.google/models/imagen/) | Active |
-| Seedream by ByteDance | AI Image Tools | [Link](https://seed.bytedance.com/en/tech/seedream3_0) | Active |
-| WAN by Alibaba | AI Image Tools | [Link](https://modelstudio.console.alibabacloud.com/) | Active |
-| GPT Image by OpenAI | AI Image Tools | [Link](https://platform.openai.com/docs/models/gpt-image-1) | Active |
-| MAI Image by Microsoft AI | AI Image Tools | [Link](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/) | Active |
-| Qwen Image by Alibaba | AI Image Tools | [Link](https://qwenlm.github.io/blog/qwen-image/) | Active |
-| DALL-E 3 by OpenAI | AI Image Tools | [Link](https://openai.com/index/dall-e-3/) | Active |
-| Flux by Black Forest Labs | AI Image Tools | [Link](https://bfl.ai/) | Active |
-| Ideogram | AI Image Tools | [Link](https://ideogram.ai/) | Active |
-| Stability AI | AI Image Tools | [Link](https://stability.ai/) | Active |
-| Midjourney | AI Image Tools | [Link](https://www.midjourney.com/) | Active |
-| Reve | AI Image Tools | [Link](https://reve.art/) | Active |
-| Leonardo AI | AI Image Tools | [Link](https://leonardo.ai/) | Active |
-| Recraft | AI Image Tools | [Link](https://www.recraft.ai/) | Active |
-| Adobe Firefly | AI Image Tools | [Link](https://www.adobe.com/products/firefly.html) | Active |
-| Luma Photon | AI Image Tools | [Link](https://lumalabs.ai/photon) | Active |
+| Gemini by Google | AI Image Tools | <a href="https://ai.studio/banana" target="_blank">Link</a> | Active |
+| Tencent Hunyuan | AI Image Tools | <a href="https://hunyuan.tencent.com/image/en" target="_blank">Link</a> | Active |
+| Imagen by Google | AI Image Tools | <a href="https://deepmind.google/models/imagen/" target="_blank">Link</a> | Active |
+| Seedream by ByteDance | AI Image Tools | <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Link</a> | Active |
+| WAN by Alibaba | AI Image Tools | <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">Link</a> | Active |
+| GPT Image by OpenAI | AI Image Tools | <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">Link</a> | Active |
+| MAI Image by Microsoft AI | AI Image Tools | <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">Link</a> | Active |
+| Qwen Image by Alibaba | AI Image Tools | <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Link</a> | Active |
+| DALL-E 3 by OpenAI | AI Image Tools | <a href="https://openai.com/index/dall-e-3/" target="_blank">Link</a> | Active |
+| Flux by Black Forest Labs | AI Image Tools | <a href="https://bfl.ai/" target="_blank">Link</a> | Active |
+| Ideogram | AI Image Tools | <a href="https://ideogram.ai/" target="_blank">Link</a> | Active |
+| Stability AI | AI Image Tools | <a href="https://stability.ai/" target="_blank">Link</a> | Active |
+| Midjourney | AI Image Tools | <a href="https://www.midjourney.com/" target="_blank">Link</a> | Active |
+| Reve | AI Image Tools | <a href="https://reve.art/" target="_blank">Link</a> | Active |
+| Leonardo AI | AI Image Tools | <a href="https://leonardo.ai/" target="_blank">Link</a> | Active |
+| Recraft | AI Image Tools | <a href="https://www.recraft.ai/" target="_blank">Link</a> | Active |
+| Adobe Firefly | AI Image Tools | <a href="https://www.adobe.com/products/firefly.html" target="_blank">Link</a> | Active |
+| Luma Photon | AI Image Tools | <a href="https://lumalabs.ai/photon" target="_blank">Link</a> | Active |
 
 ## By Category
 
@@ -34,24 +34,37 @@ Quick reference index of all products in this repository.
 - _Coming soon_
 
 ### AI Image Tools
-- [Gemini by Google](https://ai.studio/banana)
-- [Tencent Hunyuan](https://hunyuan.tencent.com/image/en)
-- [Imagen by Google](https://deepmind.google/models/imagen/)
-- [Seedream by ByteDance](https://seed.bytedance.com/en/tech/seedream3_0)
-- [WAN by Alibaba](https://modelstudio.console.alibabacloud.com/)
-- [GPT Image by OpenAI](https://platform.openai.com/docs/models/gpt-image-1)
-- [MAI Image by Microsoft AI](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/)
-- [Qwen Image by Alibaba](https://qwenlm.github.io/blog/qwen-image/)
-- [DALL-E 3 by OpenAI](https://openai.com/index/dall-e-3/)
-- [Flux by Black Forest Labs](https://bfl.ai/)
-- [Ideogram](https://ideogram.ai/)
-- [Stability AI](https://stability.ai/)
-- [Midjourney](https://www.midjourney.com/)
-- [Reve](https://reve.art/)
-- [Leonardo AI](https://leonardo.ai/)
-- [Recraft](https://www.recraft.ai/)
-- [Adobe Firefly](https://www.adobe.com/products/firefly.html)
-- [Luma Photon](https://lumalabs.ai/photon)
+
+#### Text-to-Image Models
+- <a href="https://ai.studio/banana" target="_blank">Gemini by Google</a>
+- <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan</a>
+- <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen by Google</a>
+- <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream by ByteDance</a>
+- <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">WAN by Alibaba</a>
+- <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a>
+- <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">MAI Image by Microsoft AI</a>
+- <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image by Alibaba</a>
+- <a href="https://openai.com/index/dall-e-3/" target="_blank">DALL-E 3 by OpenAI</a>
+- <a href="https://bfl.ai/" target="_blank">Flux by Black Forest Labs</a>
+- <a href="https://ideogram.ai/" target="_blank">Ideogram</a>
+- <a href="https://stability.ai/" target="_blank">Stability AI</a>
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a>
+- <a href="https://reve.art/" target="_blank">Reve</a>
+- <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a>
+- <a href="https://www.recraft.ai/" target="_blank">Recraft</a>
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a>
+- <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a>
+
+#### Image Editing Models
+- <a href="https://ai.studio/banana" target="_blank">Gemini by Google</a>
+- <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream by ByteDance</a>
+- <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a>
+- <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit by Alibaba</a>
+- <a href="https://reve.art/" target="_blank">Reve</a>
+- <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext by Black Forest Labs</a>
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a>
+- <a href="https://www.hidream.ai/" target="_blank">HiDream</a>
+- <a href="https://www.stepfun.com/" target="_blank">StepFun</a>
 
 ### AI Video Tools
 - _Coming soon_
