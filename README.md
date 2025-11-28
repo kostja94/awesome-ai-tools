@@ -48,6 +48,7 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [AI-Powered Search Engines](#ai-powered-search-engines)
   - [E-commerce Search Assistants](#e-commerce-search-assistants)
   - [AI Shopping Tools](#ai-shopping-tools)
+  - [AI-Powered People & Company Search](#ai-powered-people--company-search)
   - [AI Browsers](#ai-browsers)
 - 🔬 [AI Content Detection Tools](#ai-content-detection-tools)
 - 👁️ [AI Recognition Tools](#ai-recognition-tools)
@@ -607,6 +608,9 @@ _These are foundational AI coding agents and IDEs that provide end-to-end code g
 - <a href="https://stackblitz.com/" target="_blank">StackBlitz</a> (**StackBlitz**) - Browser-based full-stack IDE using WebAssembly to run Node.js, ideal for instant building and collaborative development
 - <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a> (**Reflection AI**) - Creates autonomous "super-intelligent" programming AI that can simulate human development processes
 - <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware**) - Browser-based AI tool development IDE supporting natural language programming, LLM orchestration, and multimodal agent building
+- <a href="https://kiro.dev/" target="_blank">Kiro</a> (**Kiro**) - Agentic AI IDE and CLI with spec-driven development, helping developers go from prototype to production with structured requirements, architectural designs, and discrete task implementation
+- <a href="https://antigravity.google/" target="_blank">Google Antigravity</a> (**Google**) - AI IDE core with tab autocompletion, natural language code commands, configurable context-aware agents, and cross-surface agentic control across editor, terminal, and browser
+- <a href="https://labs.google.com/pomelli/about/" target="_blank">Pomelli</a> (**Google Labs**) - AI-powered content generation tool for businesses
 
 ### Code Completion Tools
 
@@ -629,6 +633,7 @@ _These platforms enable building applications with minimal or no coding through 
 - <a href="https://bolt.new/" target="_blank">Bolt</a> (**Bolt**) - Browser-based AI Agent that generates and deploys full-stack web applications through conversation
 - <a href="https://retool.com/" target="_blank">Retool</a> (**Retool**) - Low-code internal application builder that generates interfaces and business logic through natural language
 - <a href="https://lovable.dev/" target="_blank">Lovable</a> (**Lovable**) - Generates full-stack applications and website prototypes automatically through chat input
+- <a href="https://stitch.withgoogle.com/" target="_blank">Stitch</a> (**Google**) - AI agent for generating UI interfaces and on-brand content, similar to Lovable
 - <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle**) - No-code tool for building AI agents, websites, and forms, supporting screenshot search
 - <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel**) - Conversational IDE that generates and deploys React/Svelte frontend projects with one click
 - <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy**) - AI-driven design platform that creates production-ready UI and outputs code with one click
@@ -712,6 +717,16 @@ _These are AI-powered search assistants specifically designed for e-commerce and
 - <a href="https://www.shopencore.ai/" target="_blank">Encore</a> (**Encore** · Latest) - AI second-hand product search assistant, aggregating multiple platforms for conversational precision shopping
 - <a href="https://faircado.com/" target="_blank">Faircado</a> (**Faircado** · Latest) - AI-powered browser extension/app aggregating millions of second-hand product platforms, helping intelligent search and price comparison
 - <a href="https://onton.com/" target="_blank">Onton</a> (**Onton** · Latest) - Ad-free, spam-free AI shopping search engine
+
+### AI-Powered People & Company Search
+
+_These platforms provide AI-powered search capabilities to find people, influencers, talent, investors, and companies._
+
+- <a href="https://lessie.ai/" target="_blank">Lessie AI</a> (**Lessie AI**) - Agentic search engine to find influencers, clients, investors, talent, and partners instantly with AI-powered multi-source discovery and personalized outreach
+- <a href="https://juicebox.ai/" target="_blank">Juicebox</a> (**Juicebox**) - AI recruiting platform that understands who you're looking for, providing talent discovery across 800M+ global profiles with search, CRM, and agents
+- <a href="https://www.evalyze.ai/" target="_blank">Evalyze</a> (**Evalyze**) - AI-powered startup fundraising automation tool helping founders match investors and refine their pitch decks
+- <a href="https://harmonic.ai/" target="_blank">Harmonic</a> (**Harmonic**) - Complete startup database providing detailed information about startups to discover and track investment opportunities
+- <a href="https://www.openvc.app/" target="_blank">OpenVC</a> (**OpenVC**) - Free fundraising platform helping startup founders find investors, with tools for CRM, analytics, warm intros, and automated follow-ups
 
 ### AI Shopping Tools
 
@@ -1967,6 +1982,7 @@ _These platforms help sales and marketing teams create content and automate comm
 - <a href="https://terrakotta.ai/" target="_blank">Terrakotta</a> (**Terrakotta** · Latest) - AI sales voice assistant platform
 - <a href="https://secondnature.ai/" target="_blank">Second Nature</a> (**Second Nature** · Latest) - AI sales voice assistant platform
 - <a href="https://digitalfirst.ai/" target="_blank">Digital First AI</a> (**Digital First AI**) - Innovative marketing platform enabling users to create and execute marketing plans using AI
+- <a href="https://www.anoki.ai/" target="_blank">Anoki</a> (**Anoki**) - Multimodal AI platform for CTV advertising with scene-level contextual video intelligence, brand safety, and GenAI-powered ad creation and personalization
 
 ## Screen Recording Tools
 

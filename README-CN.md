@@ -33,6 +33,7 @@
   - [网页抓取工具](#网页抓取工具)
   - [AI 搜索引擎](#ai-搜索引擎)
   - [电商搜索助手](#电商搜索助手)
+  - [AI 人员与公司搜索](#ai-人员与公司搜索)
   - [AI 浏览器](#ai-浏览器)
 - 🔗 [AI 聚合平台](#ai-聚合平台)
   - [面向开发者](#面向开发者)
@@ -323,6 +324,7 @@ _这些平台通过 AI 驱动的自然语言界面，以最少或无需编码的
 - <a href="https://bolt.new/" target="_blank">Bolt</a> (**Bolt**) - 浏览器内 AI Agent，可对话生成并部署全栈 Web 应用
 - <a href="https://retool.com/" target="_blank">Retool</a> (**Retool**) - 低代码内部应用构建器，通过自然语言生成界面与业务逻辑
 - <a href="https://lovable.dev/" target="_blank">Lovable</a> (**Lovable**) - 通过聊天输入，AI 自动生成全栈应用与网站原型
+- <a href="https://stitch.withgoogle.com/" target="_blank">Stitch</a> (**Google**) - 生成 UI 界面的 AI 代理，用于创建符合品牌的内容，类似 Lovable
 - <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle**) - 无代码工具，构建 AI 代理、网站与表单，支持截图搜索
 - <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel**) - 对话式 IDE，一键生成 React/Svelte 等项目前端并部署
 - <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy**) - AI 驱动设计平台，一键打造生产级 UI 并输出代码
@@ -404,6 +406,16 @@ _这些是专门为电商和购物体验设计的 AI 搜索助手。_
 - <a href="https://www.shopencore.ai/" target="_blank">Encore</a> (**Encore** · 最新版) - AI 二手商品搜索助手，聚合多平台提供对话式精准淘货体验
 - <a href="https://faircado.com/" target="_blank">Faircado</a> (**Faircado** · 最新版) - AI 驱动的浏览器插件/应用，汇聚百万级二手商品平台，帮你智能搜索比价，省钱又环保
 - <a href="https://onton.com/" target="_blank">Onton</a> (**Onton** · 最新版) - 无广告、无垃圾信息的 AI 购物搜索引擎
+
+### AI 人员与公司搜索
+
+_这些平台提供 AI 驱动的人员、影响者、人才、投资者和公司搜索功能。_
+
+- <a href="https://lessie.ai/" target="_blank">Lessie AI</a> (**Lessie AI**) - 代理式搜索引擎，通过 AI 驱动的多源发现和个性化外联，即时找到影响者、客户、投资者、人才和合作伙伴
+- <a href="https://juicebox.ai/" target="_blank">Juicebox</a> (**Juicebox**) - AI 招聘平台，理解您要找的人才，提供覆盖 8 亿+全球档案的人才发现，配备搜索、CRM 和代理功能
+- <a href="https://www.evalyze.ai/" target="_blank">Evalyze</a> (**Evalyze**) - AI 驱动的初创公司融资自动化工具，帮助创始人匹配投资者并完善商业计划书
+- <a href="https://harmonic.ai/" target="_blank">Harmonic</a> (**Harmonic**) - 完整的初创公司数据库，提供详细的初创公司信息，用于发现和跟踪投资机会
+- <a href="https://www.openvc.app/" target="_blank">OpenVC</a> (**OpenVC**) - 免费融资平台，帮助初创公司创始人找投资者，提供 CRM、分析、介绍和自动跟进工具
 
 ### AI 浏览器
 
