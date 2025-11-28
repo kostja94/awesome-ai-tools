@@ -550,6 +550,16 @@ _这些平台使用 AI 生成个性化的儿童故事、书籍和互动故事体
 - <a href="https://www.createbookai.com/" target="_blank">CreateBookAI</a> (**CreateBookAI** · 最新版) - AI 个性化儿童书籍创作平台，一键生成插画并打印实体书籍
 - <a href="https://www.scarlettpanda.com/" target="_blank">Scarlett Panda</a> (**Scarlett Panda** · 最新版) - 30 秒内生成定制插画睡前故事，适合家庭亲子阅读
 - <a href="https://www.bookbildr.com/" target="_blank">BookBildr</a> (**BookBildr** · 最新版) - 在线图画书编辑平台，提供 AI 插画、布局和 PDF/打印导出功能
+- <a href="https://www.bedtimestory.ai/" target="_blank">Bedtimestory.ai</a> (**Bedtimestory.ai** · 最新版) - 从提示即时生成高度个性化的睡前故事
+- <a href="https://storybee.app/" target="_blank">StoryBee</a> (**StoryBee** · 最新版) - AI 故事和插画生成平台，即时将童话故事变为现实
+- <a href="https://fabled.ai/" target="_blank">Fabled AI</a> (**Fabled AI** · 最新版) - 上传书籍并与角色聊天，体验互动文学冒险
+- <a href="https://www.storybooks.app/" target="_blank">Storybooks</a> (**Storybooks** · 最新版) - AI 平台，一键生成互动儿童故事和插画
+- <a href="https://www.storywizard.ai/" target="_blank">Storywizard.ai</a> (**Storywizard.ai** · 最新版) - AI 教育工具，生成个性化儿童学习故事
+- <a href="https://www.storiesforkids.ai/" target="_blank">StoriesForKids.ai</a> (**StoriesForKids.ai** · 最新版) - AI 平台，将真实情境转换为图画书故事和插画
+- <a href="https://fabularis.art/" target="_blank">Fabularis</a> (**Fabularis** · 最新版) - 为 5-10 岁儿童生成定制故事和多风格插画
+- <a href="https://www.story.com/" target="_blank">Story.com</a> (**Story.com** · 最新版) - 创建带互动选项和 AI 动画视频的 AI 故事
+- <a href="https://babystoryai.com/" target="_blank">BabyStoryAI</a> (**BabyStoryAI** · 最新版) - 生成带音乐和配音的个性化婴儿音频故事
+- <a href="https://www.aistorygenerator.org/" target="_blank">AI Story Generator</a> (**AI Story Generator** · 最新版) - 通用 AI 写作工具，快速生成全面故事
 
 ## 对话智能
 
