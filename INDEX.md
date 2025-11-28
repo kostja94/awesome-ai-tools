@@ -343,6 +343,15 @@ Quick reference index of all products in this repository.
 - <a href="https://skyfire.xyz/" target="_blank">Skyfire</a>
 - <a href="https://nekuda.ai/" target="_blank">Nekuda</a>
 
+### AI Presentation Tools
+- <a href="https://gamma.app/" target="_blank">Gamma</a>
+- <a href="https://tome.app/" target="_blank">Tome</a>
+- <a href="https://www.beautiful.ai/" target="_blank">Beautiful.ai</a>
+- <a href="https://slidesgo.com/" target="_blank">Slidesgo</a>
+- <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a>
+- <a href="https://slidesgpt.com/" target="_blank">SlidesGPT AI</a>
+- <a href="https://www.prezent.ai/" target="_blank">Prezent</a>
+
 ### AI 3D Model Generation
 
 #### Text-to-3D Models
@@ -634,6 +643,11 @@ Quick reference index of all products in this repository.
 - <a href="https://screen.studio/" target="_blank">Screen Studio</a>
 - <a href="https://www.arcade.software/" target="_blank">Arcade</a>
 - <a href="https://cursorful.com/" target="_blank">Cursorful</a>
+
+### Vertical Domain Solutions
+
+#### Religious & Non-Profit Organizations
+- <a href="https://gloo.us/" target="_blank">Gloo</a>
 
 ### AI Spreadsheet Tools
 - <a href="https://endex.ai/" target="_blank">Endex.ai</a>

@@ -1,4 +1,4 @@
-[English](README.md) | [中文](README-CN.md)
+﻿[English](README.md) | [中文](README-CN.md)
 
 # Awesome AI Tools
 
@@ -336,6 +336,7 @@ _These tools enable real-time voice transformation and voice effects._
 
 _These platforms provide voice services, voice assistants, and voice-enabled applications._
 
+- <a href="https://research.google/blog/real-time-speech-to-speech-translation/" target="_blank">Google Real-time S2ST</a> (**Google** · Latest) - End-to-end speech-to-speech translation model enabling real-time translation in the original speaker's voice with only 2-second delay, available in Google Meet and Pixel 10 devices
 - <a href="https://elevenreader.io/" target="_blank">ElevenReader by ElevenLabs</a> (**ElevenLabs** · Latest) - High-quality AI voice reading for articles, PDFs, and ebooks
 - <a href="https://www.openai.fm/" target="_blank">OpenAI.fm</a> (**OpenAI** · Latest) - Interactive demo platform showcasing OpenAI's high-fidelity text-to-speech API
 - <a href="https://coqui.ai/" target="_blank">Coqui</a> (**Coqui** · Latest) - Providing emotional, generative virtual voice services
@@ -1404,6 +1405,9 @@ _These platforms provide specialized AI-powered solutions for specific industrie
 ### Manufacturing
 - <a href="https://www.brightmachines.com/" target="_blank">Bright Machines</a> (**Bright Machines** · Latest) - Intelligent manufacturing automation platform combining robotics and AI software for efficient end-to-end management from product design to assembly
 
+### Religious & Non-Profit Organizations
+- <a href="https://gloo.us/" target="_blank">Gloo</a> (**Gloo** · Latest) - Technology platform connecting the faith ecosystem, providing AI-driven content distribution and management tools for churches, religious organizations, and non-profit institutions, serving over 140,000 organizations
+
 ## Link in Bio Tools
 
 _These platforms help users create personalized "Link in Bio" pages to aggregate multiple platform links._
@@ -1473,6 +1477,7 @@ _These platforms use AI to automatically generate professional presentations and
 - <a href="https://slidesgo.com/" target="_blank">Slidesgo</a> (**Slidesgo** · Latest) - Provides tens of thousands of free Google/PowerPoint templates for download
 - <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a> (**Presentations.AI** · Latest) - AI assistant for quickly generating charts, timelines, reports, and presentation slides
 - <a href="https://slidesgpt.com/" target="_blank">SlidesGPT AI</a> (**SlidesGPT AI** · Latest) - AI slide generator based on text prompts, outputting slides with notes and theme styles
+- <a href="https://www.prezent.ai/" target="_blank">Prezent</a> (**Prezent**) - All-in-one AI presentation platform for Life Sciences and Technology enterprises, tailored to industry, company, and audience with AI agents, software, and expert services
 
 ## AI Design Tools
 

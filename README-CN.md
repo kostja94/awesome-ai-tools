@@ -105,6 +105,7 @@
   - [GEO (Google E-E-A-T 优化) 工具](#geo-google-e-e-a-t-优化-工具)
   - [SEO 优化工具](#seo-优化工具)
   - [SEO 本地化工具](#seo-本地化工具)
+- 🏢 [垂直领域解决方案](#垂直领域解决方案)
 - 🎥 [屏幕录制工具](#屏幕录制工具)
 - 📊 [AI 电子表格工具](#ai-电子表格工具)
 
@@ -444,6 +445,34 @@ _这些平台通过用户友好的界面提供对多个 AI 模型的便捷访问
 
 - <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · 最新版) - 通过统一界面访问多个 AI 模型的平台
 - <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · 最新版) - 集成多种 AI 模型的全能助手，支持 GPT-5.1、Claude 4.5、Gemini 3 Pro 等，提供聊天、搜索、写作、图像生成、视频生成和编码功能
+
+## 认证与身份服务
+
+_这些平台为 AI 应用提供认证、授权和用户管理服务。_
+
+- <a href="https://clerk.com/" target="_blank">Clerk</a> (**Clerk**) - 提供可嵌入的用户认证界面、API 和管理后台，简化身份验证与账户管理
+- <a href="https://www.authing.com/" target="_blank">Authing</a> (**Authing**) - 企业级身份云（IDaaS），通过 SDK/API 实现统一登录、授权及多租户管理
+
+## AI Agent 支付基础设施
+
+_这些平台为 AI 代理和自主交易提供支付基础设施和服务。_
+
+- <a href="https://www.paid.ai/" target="_blank">Paid</a> (**Paid**) - AI 驱动的多网关支付编排平台，智能路由提升支付成功率
+- <a href="https://paymanai.com/" target="_blank">Payman AI</a> (**Payman AI**) - 为 AI 代理提供安全支付基础设施，让 AI 可托管交易但需人工审核
+- <a href="https://skyfire.xyz/" target="_blank">Skyfire</a> (**Skyfire**) - AI 经济的财务基础设施，支持 AI 代理自主付款及身份验证
+- <a href="https://nekuda.ai/" target="_blank">Nekuda</a> (**Nekuda**) - 为 AI 代理构建安全合规支付网关，实现自动代付与凭证管理
+
+## AI 演示文稿工具
+
+_这些平台使用 AI 自动从文本提示或大纲生成专业演示文稿和幻灯片。_
+
+- <a href="https://gamma.app/" target="_blank">Gamma</a> (**Gamma**) - AI 驱动的演示文稿生成器，一键输入主题即刻生成精美演示文稿
+- <a href="https://tome.app/" target="_blank">Tome</a> (**Tome**) - AI 驱动叙事演示工具，支持视频、互动与网页内容
+- <a href="https://www.beautiful.ai/" target="_blank">Beautiful.ai</a> (**Beautiful.ai**) - 智能设计演示平台，自动保持排版与品牌一致
+- <a href="https://slidesgo.com/" target="_blank">Slidesgo</a> (**Slidesgo**) - 提供数万套免费 Google/PowerPoint 模板供下载使用
+- <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a> (**Presentations.AI**) - AI 助手快速生成图表、时间线、报告与演示幻灯片
+- <a href="https://slidesgpt.com/" target="_blank">SlidesGPT AI</a> (**SlidesGPT AI**) - 基于文本提示的 AI 幻灯片生成器，输出带备注与主题风格
+- <a href="https://www.prezent.ai/" target="_blank">Prezent</a> (**Prezent**) - 面向生命科学和技术企业的全功能 AI 演示文稿平台，针对行业、公司和受众定制，提供 AI 代理、软件和专家服务
 
 ## AI 3D 模型生成
 
@@ -867,6 +896,13 @@ _这些工具帮助捕获屏幕录制、创建演示并分享视觉内容。_
 - <a href="https://screen.studio/" target="_blank">Screen Studio</a> (**Screen Studio** · 最新版) - Mac 专用屏幕录像软件，自动平滑光标、放大重点并优化动态
 - <a href="https://www.arcade.software/" target="_blank">Arcade</a> (**Arcade** · 最新版) - 无代码互动演示平台，快速制作引人入胜的产品 demo 页面
 - <a href="https://cursorful.com/" target="_blank">Cursorful</a> (**Cursorful** · 最新版) - 浏览器录制插件，自动缩放光标焦点，实现专业级演示视频
+
+## 垂直领域解决方案
+
+_这些平台为特定行业和垂直市场提供专业的 AI 驱动解决方案。_
+
+### 宗教与非营利组织
+- <a href="https://gloo.us/" target="_blank">Gloo</a> (**Gloo** · 最新版) - 连接信仰生态系统的技术平台，为教会、宗教组织和非营利机构提供 AI 驱动的内容分发与管理工具，已服务超过 14 万个机构
 
 ## AI 电子表格工具
 
