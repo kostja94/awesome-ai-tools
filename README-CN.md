@@ -525,6 +525,52 @@ _这些平台使用 AI 自动从文本提示或大纲生成专业演示文稿和
 - <a href="https://slidesgpt.com/" target="_blank">SlidesGPT AI</a> (**SlidesGPT AI**) - 基于文本提示的 AI 幻灯片生成器，输出带备注与主题风格
 - <a href="https://www.prezent.ai/" target="_blank">Prezent</a> (**Prezent**) - 面向生命科学和技术企业的全功能 AI 演示文稿平台，针对行业、公司和受众定制，提供 AI 代理、软件和专家服务
 
+## AI 设计工具
+
+_这些平台使用 AI 辅助网站设计、UI/UX 原型设计和图形设计任务。_
+
+- <a href="https://codedesign.ai/" target="_blank">CodeDesign</a> (**CodeDesign** · 最新版) - 一键从文本提示生成并托管完整的响应式网站
+- <a href="https://www.relume.io/" target="_blank">Relume</a> (**Relume** · 最新版) - AI 驱动的设计工具，快速生成网站地图、线框图和样式指南
+- <a href="https://wegic.ai/" target="_blank">Wegic</a> (**Wegic** · 最新版) - 首个基于聊天的 AI 网站设计和开发平台，几秒钟内生成高质量网页
+- <a href="https://www.visily.ai/" target="_blank">Visly</a> (**Visly** · 最新版) - UI 设计平台，快速将文本、草图或截图转换为可编辑的原型和线框图
+- <a href="https://uizard.io/" target="_blank">UIzard</a> (**UIzard** · 最新版) - 网站和应用设计工具，从文本、草图或界面截图即时生成交互式原型
+- <a href="https://uxpilot.ai/" target="_blank">UX Pilot</a> (**UX Pilot** · 最新版) - 通过 AI 自动生成屏幕流程图和高保真 UX/UI 原型的平台
+- <a href="https://www.mymap.ai/cheat-sheet-maker" target="_blank">My Map AI</a> (**My Map AI** · 最新版) - 通过聊天界面生成组织良好的 AI 学习速查表和快速参考指南
+- <a href="https://www.canva.com/" target="_blank">Canva</a> (**Canva** · 最新版) - 拖放式多功能设计平台，提供 AI 智能模板，用于社交媒体图形、演示文稿和视频创作
+- <a href="https://designs.ai/" target="_blank">Designs.ai</a> (**Designs.ai** · 最新版) - 一站式 AI 创意套件，自动生成徽标、图像、视频和营销材料
+- <a href="https://molypix.ai/" target="_blank">MolyPix</a> (**MolyPix** · 最新版) - AI 驱动的图形设计，从文本提示生成可编辑的分层图像
+- <a href="https://labs.google.com/pomelli/about/" target="_blank">Pomelli</a> (**Google Labs**) - AI 设计工具，可分析网站 URL 并生成相应的符合品牌营销材料
+
+## AI 故事书生成
+
+_这些平台使用 AI 生成个性化的儿童故事、书籍和互动故事体验。_
+
+- <a href="https://www.childbook.ai/" target="_blank">Child Book</a> (**Child Book** · 最新版) - AI 儿童故事生成工具，快速创建独特的个性化儿童书籍
+- <a href="https://www.ainia.ai/" target="_blank">Ainia</a> (**Ainia** · 最新版) - 互动情感教育平台，通过与角色互动激发儿童的同理心和想象力
+- <a href="https://www.createbookai.com/" target="_blank">CreateBookAI</a> (**CreateBookAI** · 最新版) - AI 个性化儿童书籍创作平台，一键生成插画并打印实体书籍
+- <a href="https://www.scarlettpanda.com/" target="_blank">Scarlett Panda</a> (**Scarlett Panda** · 最新版) - 30 秒内生成定制插画睡前故事，适合家庭亲子阅读
+- <a href="https://www.bookbildr.com/" target="_blank">BookBildr</a> (**BookBildr** · 最新版) - 在线图画书编辑平台，提供 AI 插画、布局和 PDF/打印导出功能
+
+## 对话智能
+
+_这些平台分析和提取对话、通话和通信数据中的洞察。_
+
+- <a href="https://symbl.ai/" target="_blank">Symbl</a> (**Symbl** · 最新版) - 实时对话智能平台，使用高级 NLP 从语音、视频和聊天对话中提取洞察
+
+## 销售与营销内容
+
+_这些平台帮助销售和营销团队创建内容并自动化沟通。_
+
+- <a href="https://regie.ai/" target="_blank">Regie</a> (**Regie** · 最新版) - 面向销售团队的 AI 内容平台，生成个性化销售内容和沟通
+- <a href="https://11x.ai/" target="_blank">11X</a> (**11X** · 最新版) - AI 销售语音助手平台
+- <a href="https://artisan.ai/" target="_blank">Artisan</a> (**Artisan** · 最新版) - AI 销售语音助手平台
+- <a href="https://hyperbound.ai/" target="_blank">Hyperbound</a> (**Hyperbound** · 最新版) - AI 销售语音助手平台
+- <a href="https://nooks.ai/" target="_blank">Nooks</a> (**Nooks** · 最新版) - AI 销售语音助手平台
+- <a href="https://terrakotta.ai/" target="_blank">Terrakotta</a> (**Terrakotta** · 最新版) - AI 销售语音助手平台
+- <a href="https://secondnature.ai/" target="_blank">Second Nature</a> (**Second Nature** · 最新版) - AI 销售语音助手平台
+- <a href="https://digitalfirst.ai/" target="_blank">Digital First AI</a> (**Digital First AI**) - 创新的营销平台，使用户能够使用 AI 创建和执行营销计划
+- <a href="https://www.anoki.ai/" target="_blank">Anoki</a> (**Anoki**) - 用于 CTV 广告的多模态 AI 平台，提供场景级上下文视频智能、品牌安全和 GenAI 驱动的广告创建和个性化
+
 ## AI 3D 模型生成
 
 ### 文本到 3D 模型
