@@ -960,7 +960,7 @@ _这些是 AI 驱动的电子表格工具，提供智能数据分析和自动化
 
 ## 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
+本项目采用 MIT 许可证 - 详见 <a href="LICENSE" target="_blank">LICENSE</a> 文件。
 
 ## 致谢
 

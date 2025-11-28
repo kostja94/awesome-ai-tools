@@ -2013,7 +2013,7 @@ The information in this repository is compiled from multiple sources including L
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.
 
 ## Acknowledgments
 

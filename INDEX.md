@@ -678,5 +678,5 @@ Quick reference index of all products in this repository.
 
 ---
 
-**Note**: This index will be automatically updated as products are added. For detailed information about each product, please refer to the [README.md](README.md).
+**Note**: This index will be automatically updated as products are added. For detailed information about each product, please refer to the <a href="README.md" target="_blank">README.md</a>.
 
