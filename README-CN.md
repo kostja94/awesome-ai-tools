@@ -21,6 +21,7 @@
   - [文字转语音 (TTS) 大模型](#文字转语音-tts-大模型)
   - [语音转文字 (ASR) 大模型](#语音转文字-asr-大模型)
   - [音乐生成大模型](#音乐生成大模型)
+  - [播客托管平台](#播客托管平台)
 - 💻 [AI 编程工具](#ai-编程工具)
   - [AI 编程代理与 IDE](#ai-编程代理与-ide)
   - [代码补全工具](#代码补全工具)
@@ -277,6 +278,16 @@ _这些是基础的音乐生成大模型，可通过 API 调用。许多 AI 音�
 - <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.0) - 文本转音频生成模型，用于创建音乐和音效
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google 的音乐生成模型，与 YouTube 集成
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · 最新版) - Meta 的开源音乐生成模型
+
+### 播客托管平台
+
+_这些平台为播客创作者提供完整的播客托管、分发、分析和变现服务。_
+
+- <a href="https://fireside.fm/" target="_blank">Fireside</a> (**Fireside**) - 完整的播客托管平台，提供响应式网站、定时发布、嵌入播放器与分析；支持自定义域名和从其他平台一键导入
+- <a href="https://www.podbean.com/" target="_blank">Podbean</a> (**Podbean**) - 一体化播客平台，支持录制、发布、分发与变现；包括音频/视频托管和直播功能
+- <a href="https://rss.com/" target="_blank">RSS.com</a> (**RSS.com**) - 播客托管服务，提供无限存储、跨平台分析与动态广告；支持快速托管与推广
+- <a href="https://www.simplecast.com/" target="_blank">Simplecast</a> (**Simplecast**) - 企业级播客托管与分发平台，具备深度统计、自定义网站和广告投放控制功能
+- <a href="https://libsyn.com/" target="_blank">Libsyn</a> (**Libsyn**) - 最早期的播客托管服务之一，支持音/视频上传、定时发布、分析、分发和货币化工具
 
 ## AI 编程工具
 

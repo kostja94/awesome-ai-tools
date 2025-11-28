@@ -14,9 +14,15 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
 - 🖼️ [AI Image Tools](#ai-image-tools)
   - [Text-to-Image Models](#text-to-image-models)
   - [Image-to-Image Models](#image-to-image-models)
+  - [Image Editing Tools](#image-editing-tools)
 - 📽️ [AI Video Tools](#ai-video-tools)
   - [Text-to-Video Models](#text-to-video-models)
   - [Image-to-Video Models](#image-to-video-models)
+  - [Video Editing Tools](#video-editing-tools)
+  - [Virtual Human & Avatar Generation](#virtual-human--avatar-generation)
+  - [Video Translation & Localization Tools](#video-translation--localization-tools)
+  - [Filmmaking Tools](#filmmaking-tools)
+  - [Short Drama Platforms](#short-drama-platforms)
 - 🎶 [AI Audio Tools](#ai-audio-tools)
   - [Text-to-Speech (TTS) Models](#text-to-speech-tts-models)
   - [Speech-to-Text (ASR) Models](#speech-to-text-asr-models)
@@ -24,8 +30,12 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [Music Generation Tools](#music-generation-tools)
   - [Voice Changer Tools](#voice-changer-tools)
   - [Voice Services & Applications](#voice-services--applications)
+  - [Voice Agent Platforms](#voice-agent-platforms)
   - [Transcription Tools](#transcription-tools)
   - [Sound Design Tools](#sound-design-tools)
+  - [Audio Creation Tools](#audio-creation-tools)
+  - [Podcast Hosting Platforms](#podcast-hosting-platforms)
+  - [Podcast Tools](#podcast-tools)
 - 💻 [AI Coding Tools](#ai-coding-tools)
   - [AI Coding Agents & IDEs](#ai-coding-agents--ides)
   - [Code Completion Tools](#code-completion-tools)
@@ -37,6 +47,7 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [Web Scraping Tools](#web-scraping-tools)
   - [AI-Powered Search Engines](#ai-powered-search-engines)
   - [E-commerce Search Assistants](#e-commerce-search-assistants)
+  - [AI Shopping Tools](#ai-shopping-tools)
   - [AI Browsers](#ai-browsers)
 - 🔬 [AI Content Detection Tools](#ai-content-detection-tools)
 - 👁️ [AI Recognition Tools](#ai-recognition-tools)
@@ -63,6 +74,8 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
 - 📊 [AI Presentation Tools](#ai-presentation-tools)
 - 🎨 [AI Design Tools](#ai-design-tools)
 - 📚 [AI Story & Book Generation](#ai-story--book-generation)
+  - [Web Novel Platforms](#web-novel-platforms)
+  - [Book Summary Platforms](#book-summary-platforms)
 - 💬 [Conversation Intelligence](#conversation-intelligence)
 - 📈 [Sales & Marketing Content](#sales--marketing-content)
 - 🎨 [AI 3D Model Generation](#ai-3d-model-generation)
@@ -72,6 +85,7 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [No-Code 3D Creation Tools](#no-code-3d-creation-tools)
   - [3D CAD & Manufacturing Tools](#3d-cad--manufacturing-tools)
   - [Concept Art & Creative Tools](#concept-art--creative-tools)
+  - [Motion Capture Tools](#motion-capture-tools)
 - 💬 [AI Chatbots](#ai-chatbots)
   - [Character Chatbots](#character-chatbots)
   - [NSFW Chatbots](#nsfw-chatbots)
@@ -105,6 +119,7 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
   - [Specialized Scribes](#specialized-scribes)
   - [Data Visualization](#data-visualization)
   - [Content Creation](#content-creation)
+  - [Writing Assistants](#writing-assistants)
   - [Enterprise AI Assistants](#enterprise-ai-assistants)
   - [AI Chat Assistants](#ai-chat-assistants)
 - 💰 [AI Finance & Accounting Tools](#ai-finance--accounting-tools)
@@ -131,6 +146,8 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
 - 📊 [AI Model Evaluation](#ai-model-evaluation)
 - ✈️ [AI Travel Tools](#ai-travel-tools)
 - 🎮 [AI Gaming Tools](#ai-gaming-tools)
+  - [Game Development & Testing Tools](#game-development--testing-tools)
+  - [Metaverse Platforms](#metaverse-platforms)
 - 🎉 [AI Event Planning Tools](#ai-event-planning-tools)
 - 📋 [AI User Research Tools](#ai-user-research-tools)
 - 🎥 [Screen Recording Tools](#screen-recording-tools)
@@ -212,6 +229,44 @@ _These are foundational image-to-image generation and editing models that can be
 - <a href="https://www.hidream.ai/" target="_blank">HiDream</a> (**HiDream** · Latest) - Image editing model
 - <a href="https://www.stepfun.com/" target="_blank">StepFun</a> (**StepFun** · Latest) - Image editing model
 
+### Image Editing Tools
+
+_These platforms provide AI-powered image editing, enhancement, background removal, and creative editing capabilities._
+
+- <a href="https://www.remove.bg/" target="_blank">remove.bg</a> (**remove.bg**) - One-click automatic background removal, generating transparent or solid color background images within 5 seconds
+- <a href="https://clipdrop.co/" target="_blank">Clipdrop</a> (**Clipdrop**) - AI image editing suite integrating background removal, variant generation, and advanced restoration features
+- <a href="https://skylum.com/" target="_blank">Skylum</a> (**Skylum**) - AI-powered photo editor providing multi-functional enhancement, background removal, and lighting adjustment tools
+- <a href="https://www.fotor.com/" target="_blank">Fotor</a> (**Fotor**) - Online AI editing tool supporting one-click enhancement, batch processing, background removal, and text-to-image generation
+- <a href="https://www.cutout.pro/" target="_blank">Cutout.Pro</a> (**Cutout.Pro**) - AI image processing platform focusing on background removal, image restoration, and automatic design features
+- <a href="https://pixlr.com/" target="_blank">Pixlr</a> (**Pixlr**) - Cross-platform online AI image editor with generation, background removal, enhancement, and batch editing capabilities
+- <a href="https://www.photoroom.com/" target="_blank">Photoroom</a> (**Photoroom**) - AI tool focused on product image background removal and replacement, suitable for e-commerce and social media image creation
+- <a href="https://www.headshotpro.com/" target="_blank">HeadshotsPro</a> (**HeadshotsPro**) - AI professional portrait generation and photography service, quickly creating high-quality ID/business headshots
+- <a href="https://www.aragon.ai/" target="_blank">Aragon</a> (**Aragon**) - AI-generated professional-grade portrait headshots completed in minutes without a photography studio
+- <a href="https://www.florafauna.ai/" target="_blank">Flora</a> (**Flora**) - AI image editing platform
+- <a href="https://civitai.com/" target="_blank">Civitai</a> (**Civitai**) - Open-source Stable Diffusion model community for sharing and downloading various generation models
+- <a href="https://gencraft.com/" target="_blank">Gencraft</a> (**Gencraft**) - Multi-model AI art generator creating high-definition images and videos from text with one click
+- <a href="https://prequel.app/" target="_blank">Prequel</a> (**Prequel**) - AI beauty effects editor providing hundreds of photo and video filters and 3D effects
+- <a href="https://openart.ai/" target="_blank">OpenArt</a> (**OpenArt**) - Intuitive image generation editor supporting prompt-free AI drawing and iteration
+- <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> (**FaceApp**) - Mobile portrait AI editor that can change age, hairstyle, and makeup
+- <a href="https://airbrush.com/" target="_blank">Airbrush</a> (**Airbrush**) - Mobile/web AI beauty and image editing tool with background removal, beautification, and filter features
+- <a href="https://www.beautyplus.com/" target="_blank">BeautyPlus</a> (**BeautyPlus**) - Selfie and video processor with 50+ AI filters and one-click beauty tools
+- <a href="https://remini.ai/" target="_blank">Remini</a> (**Remini**) - One-click AI enhancement tool that upgrades old or blurry photos/videos to high-definition quality
+- <a href="https://www.pixelcut.ai/" target="_blank">Pixelcut</a> (**Pixelcut**) - AI-powered image editing app with one-click background removal, retouching, expansion, and super-resolution processing
+- <a href="https://www.facetuneapp.com/" target="_blank">Facetune</a> (**Facetune**) - Mobile image processing app providing AI retouching, filters, and beauty enhancement features
+- <a href="https://www.craiyon.com/" target="_blank">Craiyon</a> (**Craiyon**) - AI image generation platform using artificial intelligence technology
+- <a href="https://www.krea.ai/" target="_blank">KREA</a> (**KREA**) - AI image generation platform
+- <a href="https://zmo.ai/" target="_blank">ZMO</a> (**ZMO**) - Generate and edit images through natural language descriptions
+- <a href="https://picsart.com/" target="_blank">Picsart</a> (**Picsart**) - Integrated AI image generation and editing tools, all-in-one creative editing suite
+- <a href="https://www.basedlabs.ai/" target="_blank">BasedLabs</a> (**BasedLabs**) - Multimodal creation platform generating images, videos, and audio
+- <a href="https://vivago.ai/" target="_blank">Vivago AI</a> (**Vivago AI**) - Free AI creation platform supporting text/image-to-video and high-quality image editing
+- <a href="https://creator.nightcafe.studio/" target="_blank">Nightcafe Studio</a> (**Nightcafe Studio**) - AI art creation platform supporting multi-model generation and community sharing
+- <a href="http://vizcom.co/" target="_blank">Vizcom</a> (**Vizcom**) - AI creative tool for quickly generating high-quality renderings
+- <a href="https://spellbrush.com/" target="_blank">Spellbrush</a> (**Spellbrush**) - Illustration platform utilizing artificial intelligence and deep learning technology
+- <a href="https://prismalabs.ai/" target="_blank">Prisma Labs</a> (**Prisma Labs**) - Mobile technology company focused on deep learning-related products
+- <a href="https://kive.ai/" target="_blank">Kive</a> (**Kive**) - Creative platform enabling users to organize and search visual materials using artificial intelligence
+- <a href="https://nyx.gallery/" target="_blank">NyxAI</a> (**NyxAI**) - Platform utilizing artificial intelligence to generate photography works
+- <a href="https://www.photalabs.com/" target="_blank">Phota Labs</a> (**Phota Labs**) - Photography and photo consistency platform
+
 ## AI Video Tools
 
 ### Text-to-Video Models
@@ -249,6 +304,108 @@ _These are foundational image-to-video generation models that can be accessed vi
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · V1) - Image-to-video generation model
 - <a href="https://www.hidream.ai/" target="_blank">Vivago</a> (**HiDream** · 2.0) - HiDream's image-to-video generation model
 - <a href="https://runwayml.com/" target="_blank">Runway Gen</a> (**Runway** · Gen 4) - Runway's image-to-video generation model
+
+### Video Editing Tools
+
+_These platforms provide AI-powered video editing, generation, and enhancement capabilities for content creators._
+
+- <a href="https://www.descript.com/" target="_blank">Descript</a> (**Descript**) - AI-powered video and podcast editing platform with automatic transcription, text-based editing, screen recording, and AI voice cloning; edit video like editing a document
+- <a href="https://autoshorts.ai/" target="_blank">AutoShorts AI</a> (**AutoShorts AI**) - One-click generation and auto-publishing of faceless short videos, specifically designed for TikTok and YouTube Shorts
+- <a href="https://akool.com/" target="_blank">AKOOL</a> (**AKOOL**) - AI video ad and avatar generation platform supporting face swap, voice dubbing, and multilingual translation
+- <a href="https://www.submagic.co/" target="_blank">SubMagic</a> (**SubMagic**) - Automatic subtitle and B-roll generation tool for short videos with intelligent editing
+- <a href="https://www.arcads.ai/" target="_blank">Arcads</a> (**Arcads**) - Text-to-AI actor video ad generation platform, reducing production costs with one-click creation
+- <a href="https://icon.com/" target="_blank">Icon</a> (**Icon**) - AI CMO assistant that automatically generates and optimizes static or video advertisements
+- <a href="https://www.goenhance.ai/" target="_blank">Goenhance</a> (**Goenhance**) - AI video/image generation and stylization platform supporting character animation and shot composition
+- <a href="https://www.argil.ai/" target="_blank">Argil</a> (**Argil**) - Convert articles or single sentences into AI video content featuring people or brands
+- <a href="https://www.jogg.ai/" target="_blank">Jogg AI</a> (**Jogg AI**) - Hyper-realistic AI avatar generation for short videos with lip-sync and advertising applications
+- <a href="https://www.topview.ai/" target="_blank">Topview</a> (**Topview**) - AI video editor that converts links/materials into multilingual commercial/social short videos with one click
+- <a href="https://www.flexclip.com/" target="_blank">Flexclip</a> (**Flexclip**) - Online AI video creation and editing platform with drag-and-drop templates for marketing/educational videos
+- <a href="https://pictory.ai/" target="_blank">Pictory</a> (**Pictory**) - Automatically converts copy, blogs, or URLs into professional videos with AI voiceover
+- <a href="https://www.deepbrain.io/" target="_blank">DeepBrain AI</a> (**DeepBrain AI**) - AI human synthesis video platform generating scripted presentations with digital human anchors
+- <a href="https://elai.io/" target="_blank">Elai</a> (**Elai**) - Enterprise-grade AI video generation tool that quickly transforms text scripts into multilingual virtual presenter videos
+- <a href="https://creatify.ai/" target="_blank">Creatify</a> (**Creatify**) - Paste product webpage links to instantly generate 5-10 realistic short video ads
+- <a href="https://www.vidau.ai/" target="_blank">VidAU</a> (**VidAU**) - Convert product URLs into short video ads with AI avatars, subtitle removal, and multilingual dubbing
+- <a href="https://www.vmeg.pro/" target="_blank">VMEG</a> (**VMEG**) - AI video localization platform supporting 170+ language dubbing, translation, lip-sync, and short video generation
+- <a href="https://capsule.video/" target="_blank">Capsule</a> (**Capsule**) - Enterprise-grade AI video editor supporting template application, brand consistency, and one-click B-roll generation
+- <a href="https://www.gling.ai/" target="_blank">Gling</a> (**Gling**) - Automatic editing tool for "headshot videos" that intelligently removes silence, bad takes, and auto-adjusts framing
+- <a href="https://reface.ai/" target="_blank">Reface</a> (**Reface**) - Mobile/web face swap and AI avatar generator supporting photo/video face replacement and animation
+- <a href="https://invideo.io/" target="_blank">Invideo</a> (**Invideo**) - Online AI video creation platform that generates videos with media, subtitles, and voice from scripts
+- <a href="https://www.momentslab.com/" target="_blank">Moments Lab</a> (**Moments Lab**) - AI video indexing platform that automatically splits footage and generates edits and social short videos
+- <a href="https://www.hedra.com/" target="_blank">Hedra</a> (**Hedra**) - AI-powered video generation platform that converts text and images into rap-performing character videos with one click
+- <a href="https://www.heygen.com/" target="_blank">HeyGen</a> (**HeyGen**) - Text-to-AI avatar video platform providing multilingual dubbing and realistic lip-sync
+- <a href="https://www.veed.io/" target="_blank">VEED.IO</a> (**VEED.IO**) - Online video editing and generation platform providing AI scripts, captions, dubbing, text-to-video, and all-in-one functionality
+- <a href="https://www.d-id.com/" target="_blank">D-ID</a> (**D-ID**) - Generate realistic digital human videos through AI for marketing, training, and multilingual customer service interactions
+- <a href="https://www.videoleapapp.com/" target="_blank">Videoleap</a> (**Videoleap**) - Feature-rich AI video editor for editing, effects, infinite zoom, and template creation for social media content
+- <a href="https://www.opus.pro/" target="_blank">OpusClip</a> (**OpusClip**) - AI automatic editing of long videos into short-form content, generating viral clips and one-click publishing
+- <a href="https://www.captions.ai/" target="_blank">Captions</a> (**Captions**) - AI video editing and 3D virtual human tool with automatic captions, multilingual dubbing, and style synchronization
+- <a href="https://www.synthesia.io/" target="_blank">Synthesia</a> (**Synthesia**) - AI video generation platform creating professional videos with AI avatars and multilingual support
+- <a href="https://www.tavus.io/" target="_blank">Tavus</a> (**Tavus**) - Personalized video messaging platform using AI to create custom videos at scale
+- <a href="https://artlist.io/" target="_blank">Artlist</a> (**Artlist**) - Music and stock media platform providing high-quality audio and video assets for content creators
+
+### Virtual Human & Avatar Generation
+
+_These platforms provide AI-powered virtual human and avatar creation for video, presentations, and interactive experiences._
+
+- <a href="https://hourone.ai/" target="_blank">Hour One AI</a> (**Hour One AI**) - AI company specializing in virtual human development, creating high-quality digital characters from real people for training, sales, and customer service
+- <a href="https://www.prometheanai.com/" target="_blank">Promethean AI</a> (**Promethean AI**) - Virtual world building solutions platform
+- <a href="https://pinscreen.com/" target="_blank">Pinscreen</a> (**Pinscreen**) - AI-powered realistic virtual avatar generation platform providing virtual assistants and facial tracking solutions
+- <a href="https://in3d.io/" target="_blank">In3D</a> (**In3D**) - Generate high-quality 3D avatars through mobile camera, supporting AR, animation, and export to Unreal Engine and other platforms
+- <a href="https://readyplayer.me/" target="_blank">Ready Player Me</a> (**Ready Player Me**) - Cross-game avatar platform supporting NFT customization
+- <a href="https://mygemsouls.com/" target="_blank">Gemsouls</a> (**Gemsouls**) - Create highly interactive intelligent virtual humans using GPT-3 and other technologies, redefining human-AI relationships in the metaverse
+- <a href="https://circlelabs.xyz/" target="_blank">Circlelabs</a> (**Circlelabs**) - Create personalized virtual characters through generative AI, supporting interactions on Discord, Twitter, and other platforms
+
+_These platforms provide AI-powered virtual human and avatar creation for video, presentations, and interactive experiences._
+
+- <a href="https://hourone.ai/" target="_blank">Hour One AI</a> (**Hour One AI**) - AI company specializing in virtual human development, creating high-quality digital characters from real people for training, sales, and customer service
+- <a href="https://www.prometheanai.com/" target="_blank">Promethean AI</a> (**Promethean AI**) - Virtual world building solutions platform
+- <a href="https://pinscreen.com/" target="_blank">Pinscreen</a> (**Pinscreen**) - AI-powered realistic virtual avatar generation platform providing virtual assistants and facial tracking solutions
+- <a href="https://in3d.io/" target="_blank">In3D</a> (**In3D**) - Generate high-quality 3D avatars through mobile camera, supporting AR, animation, and export to Unreal Engine and other platforms
+- <a href="https://readyplayer.me/" target="_blank">Ready Player Me</a> (**Ready Player Me**) - Cross-game avatar platform supporting NFT customization
+- <a href="https://mygemsouls.com/" target="_blank">Gemsouls</a> (**Gemsouls**) - Create highly interactive intelligent virtual humans using GPT-3 and other technologies, redefining human-AI relationships in the metaverse
+- <a href="https://circlelabs.xyz/" target="_blank">Circlelabs</a> (**Circlelabs**) - Create personalized virtual characters through generative AI, supporting interactions on Discord, Twitter, and other platforms
+
+### Video Translation & Localization Tools
+
+_These platforms provide AI-powered video translation, dubbing, and localization services._
+
+- <a href="https://www.rask.ai/" target="_blank">Rask</a> (**Rask**) - AI video and audio localization platform supporting automatic translation and subtitles for 130+ languages
+- <a href="https://videotranslator.blipcut.com/" target="_blank">Blipcut</a> (**Blipcut**) - Free batch AI video translation tool with integrated dubbing, subtitles, and lip-sync
+- <a href="https://wavel.ai/" target="_blank">Wavel</a> (**Wavel**) - AI voice platform providing natural voice cloning, multilingual dubbing, and video editing
+- <a href="https://hei.io/" target="_blank">HeiTech (Hei.io)</a> (**HeiTech**) - AI video and audio dubbing company providing video/audio subtitle, translation, voice, and sound effects services
+
+### Filmmaking Tools
+
+_These platforms provide AI-powered filmmaking and video production capabilities for professional content creation._
+
+- <a href="https://labs.google/flow/about" target="_blank">Flow by Google</a> (**Google**) - Google AI filmmaking tool for easily creating cinematic short videos from text/images
+- <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> (**SOLO**) - AI filmmaking company producing high-quality short films and advertisements using AI
+- <a href="https://escape.ai/" target="_blank">Escape</a> (**Escape**) - AI art aggregation platform showcasing and promoting pioneering forms of digital entertainment
+- <a href="https://higgsfield.ai/" target="_blank">Higgsfield AI</a> (**Higgsfield AI**) - AI video production tool creating cinematic visuals through precise shot control
+- <a href="https://www.utopaistudios.com/" target="_blank">Utopia Studios</a> (**Utopia Studios**) - AI-powered video production studio
+- <a href="https://rotorvideos.com/" target="_blank">Rotor Videos</a> (**Rotor Videos**) - AI video editing platform
+- <a href="https://www.neuralframes.com/" target="_blank">NeuralFrames</a> (**NeuralFrames**) - AI video generation platform
+- <a href="https://www.revid.ai/" target="_blank">Revid</a> (**Revid**) - AI video generation tool
+- <a href="https://www.wonderdynamics.com/" target="_blank">Wonder Dynamics</a> (**Wonder Dynamics**) - AI-powered visual effects platform enabling independent filmmakers to achieve blockbuster-level VFX at low cost
+- <a href="https://fliki.ai/" target="_blank">Fliki</a> (**Fliki**) - AI platform converting text to video and voice using artificial intelligence
+- <a href="https://www.typeface.ai/" target="_blank">Typeface</a> (**Typeface**) - Generative content platform using GAN technology to provide customized images, videos, audio, and text content
+- <a href="https://rephrase.ai/" target="_blank">Rephrase.ai</a> (**Rephrase.ai**) - AI-driven synthetic video creation platform
+- <a href="https://contenda.co/" target="_blank">Contenda</a> (**Contenda**) - Platform enabling script writing from scratch and video generation based on scripts
+
+### Short Drama Platforms
+
+_These platforms provide AI-generated or curated short drama content for entertainment consumption._
+
+- <a href="https://www.skyreels.ai/" target="_blank">SkyReels</a> (**SkyReels**) - One-click generation of high-quality AI videos and animated scenes from text, images, and character settings
+- <a href="https://storeelapp.com/" target="_blank">StoReel</a> (**StoReel**) - Mobile app focused on 1-2 minute short dramas, offering Korean and Chinese dramas with pay-per-episode or ad-supported viewing
+- <a href="https://www.sereal.com/" target="_blank">Sereal+</a> (**Sereal+**) - Free short drama platform covering multi-country mini-series with AI-powered personalized recommendations
+- <a href="https://www.unireel.tv/" target="_blank">UniReel</a> (**UniReel**) - Global high-quality short drama platform providing various types of exclusive short films
+- <a href="https://www.dramaboxdb.com/" target="_blank">DramaBox</a> (**DramaBox**) - Thousands of hours of original short drama library supporting free viewing, pay-per-episode, and ad-unlock
+- <a href="https://free-reels.com/" target="_blank">FreeReels</a> (**Kunlun Wanwei**) - Completely free short drama platform with frequent updates and intelligent recommendation system
+- <a href="https://mydramawave.com/" target="_blank">DramaWave</a> (**DramaWave**) - Vertical short drama collection platform with HD streaming, covering multiple genres and languages
+- <a href="https://meloloweb.com/" target="_blank">Melolo</a> (**ByteDance**) - Free short drama app for Southeast Asia providing localized HD short dramas with automatic subtitles
+- <a href="https://www.goodshort.com/" target="_blank">GoodShort</a> (**Xinyue Times**) - Overseas short drama platform combining UK/US scripts and translated series with high-frequency short video content
+- <a href="https://flickreels.net/" target="_blank">FlickReels</a> (**FlickReels**) - Short drama plot app for 24/7 easy viewing of suspense, fantasy, and other micro-drama content
+- <a href="https://netshort.com/" target="_blank">NetShort</a> (**NetShort**) - HD streaming app focused on 1-minute vertical short dramas, perfect for watching anytime, anywhere
 
 ## AI Audio Tools
 
@@ -355,6 +512,42 @@ _These platforms provide voice services, voice assistants, and voice-enabled app
 - <a href="https://sonia.ai/" target="_blank">Sonia</a> (**Sonia**) - Consumer service voice AI platform
 - <a href="https://autio.com/" target="_blank">Autio</a> (**Autio**) - Consumer service voice AI platform
 
+### Voice Agent Platforms
+
+_These platforms provide infrastructure and tools for building and deploying voice AI agents._
+
+#### Developer Platforms
+
+- <a href="https://livekit.io/" target="_blank">LiveKit</a> (**LiveKit**) - Real-time communication infrastructure for building voice and video applications
+- <a href="https://vapi.ai/" target="_blank">Vapi</a> (**Vapi**) - Enterprise voice assistant API for deploying customizable phone AI agents
+- <a href="https://www.retellai.com/" target="_blank">Retell AI</a> (**Retell AI**) - No-code voice AI customer service platform for deploying phone bots in real-time
+- <a href="https://www.daily.co/" target="_blank">Daily</a> (**Daily**) - Video and voice infrastructure platform for developers
+- <a href="https://thoughtly.ai/" target="_blank">Thoughtly</a> (**Thoughtly**) - Voice agent development platform
+- <a href="https://www.bland.ai/" target="_blank">Bland AI</a> (**Bland AI**) - Voice agent development platform
+
+#### Low-Code/No-Code Platforms
+
+- <a href="https://cresta.com/" target="_blank">Cresta</a> (**Cresta**) - Low-code/no-code voice agent platform
+- <a href="https://boost.ai/" target="_blank">boost.ai</a> (**boost.ai**) - Low-code/no-code conversational AI platform
+- <a href="https://rasa.com/" target="_blank">RASA</a> (**RASA**) - Open-source conversational AI platform for building voice and text assistants
+- <a href="https://syllable.ai/" target="_blank">Syllable</a> (**Syllable**) - Low-code/no-code voice agent platform
+- <a href="https://marrlabs.com/" target="_blank">Marr Labs</a> (**Marr Labs**) - Low-code/no-code voice agent platform
+- <a href="https://synthflow.ai/" target="_blank">Synthflow</a> (**Synthflow**) - Low-code/no-code voice agent platform
+- <a href="https://goodcall.ai/" target="_blank">Goodcall</a> (**Goodcall**) - Low-code/no-code voice agent platform
+- <a href="https://www.replicant.ai/" target="_blank">Replicant</a> (**Replicant**) - Low-code/no-code voice agent platform
+- <a href="https://trillet.com/" target="_blank">Trillet</a> (**Trillet**) - Low-code/no-code voice agent platform
+- <a href="https://skit.ai/" target="_blank">Skit.ai</a> (**Skit.ai**) - Low-code/no-code voice agent platform
+- <a href="https://ada.support/" target="_blank">Ada</a> (**Ada**) - Low-code/no-code conversational AI platform
+- <a href="https://kore.ai/" target="_blank">Kore.ai</a> (**Kore.ai**) - Low-code/no-code conversational AI platform
+- <a href="https://voctiv.com/" target="_blank">Voctiv</a> (**Voctiv**) - Low-code/no-code voice agent platform
+
+#### Evaluation Platforms
+
+- <a href="https://coval.ai/" target="_blank">Coval</a> (**Coval**) - Voice agent evaluation and testing platform
+- <a href="https://www.vocera.com/" target="_blank">Vocera</a> (**Vocera**) - Voice agent evaluation platform
+- <a href="https://hamming.io/" target="_blank">Hamming</a> (**Hamming**) - Voice agent evaluation platform
+- <a href="https://canonical.ai/" target="_blank">Canonical AI</a> (**Canonical AI**) - Voice agent evaluation platform
+
 ### Transcription Tools
 
 _These tools provide transcription services for audio and video content._
@@ -369,6 +562,35 @@ _These tools provide transcription services for audio and video content._
 _These tools assist with sound design and audio effects creation._
 
 - <a href="https://krotosaudio.com/" target="_blank">Krotos</a> (**Krotos**) - Audio technology company focused on developing advanced sound design software and sound effect libraries
+
+### Audio Creation Tools
+
+_These platforms provide AI-powered audio creation and production capabilities._
+
+- <a href="https://altered.ai/" target="_blank">Altered</a> (**Altered**) - Professional digital audio content creation services
+- <a href="https://rct.ai/" target="_blank">RCT Studio</a> (**RCT Studio**) - New creative entertainment studio
+- <a href="https://www.wombo.ai/" target="_blank">WOMBO.ai</a> (**WOMBO.ai**) - AI entertainment company
+- <a href="https://www.you-ai.nl/" target="_blank">YouAI</a> (**YouAI**) - AI entertainment company
+
+### Podcast Hosting Platforms
+
+_These platforms provide comprehensive podcast hosting, distribution, analytics, and monetization services for podcast creators._
+
+- <a href="https://fireside.fm/" target="_blank">Fireside</a> (**Fireside**) - Complete podcast hosting platform providing responsive websites, scheduled publishing, embeddable players, and analytics; supports custom domains and one-click import from other platforms
+- <a href="https://www.podbean.com/" target="_blank">Podbean</a> (**Podbean**) - All-in-one podcast platform supporting recording, publishing, distribution, and monetization; includes audio/video hosting and live streaming capabilities
+- <a href="https://rss.com/" target="_blank">RSS.com</a> (**RSS.com**) - Podcast hosting service with unlimited storage, cross-platform analytics, and dynamic ads; supports fast hosting and promotion
+- <a href="https://www.simplecast.com/" target="_blank">Simplecast</a> (**Simplecast**) - Enterprise-grade podcast hosting and distribution platform with deep analytics, custom websites, and ad insertion controls
+- <a href="https://libsyn.com/" target="_blank">Libsyn</a> (**Libsyn**) - One of the earliest podcast hosting services, supporting audio/video uploads, scheduled publishing, analytics, distribution, and monetization tools
+
+### Podcast Tools
+
+_These platforms provide AI-powered podcast creation, editing, transcription, and learning tools._
+
+- <a href="https://podcastle.ai/" target="_blank">Podcastle</a> (**Podcastle**) - Browser-based record-and-publish platform with integrated AI audio/video editing, transcription, and summarization features
+- <a href="https://podwise.ai/" target="_blank">Podwise</a> (**Podwise**) - AI podcast learning platform that automatically transcribes, segments chapters, and generates structured summaries and mind maps
+- <a href="https://www.wellsaid.io/" target="_blank">Wellsaid</a> (**Wellsaid**) - Enterprise-grade AI voice platform providing 120+ high-quality human-like voiceover APIs and collaboration support
+- <a href="https://notebooklm.google/" target="_blank">NotebookLM</a> (**Google**) - Google's AI research assistant supporting note-taking, document analysis, and "podcast-style" audio overview generation
+- <a href="https://www.snipd.com/" target="_blank">Snipd</a> (**Snipd**) - AI podcast player enhancing post-listening learning through automatic transcription, AI excerpts, and keyword highlights
 
 ## AI Coding Tools
 
@@ -490,6 +712,67 @@ _These are AI-powered search assistants specifically designed for e-commerce and
 - <a href="https://www.shopencore.ai/" target="_blank">Encore</a> (**Encore** · Latest) - AI second-hand product search assistant, aggregating multiple platforms for conversational precision shopping
 - <a href="https://faircado.com/" target="_blank">Faircado</a> (**Faircado** · Latest) - AI-powered browser extension/app aggregating millions of second-hand product platforms, helping intelligent search and price comparison
 - <a href="https://onton.com/" target="_blank">Onton</a> (**Onton** · Latest) - Ad-free, spam-free AI shopping search engine
+
+### AI Shopping Tools
+
+_These platforms provide AI-powered shopping experiences including virtual try-on, styling, and product discovery._
+
+#### Virtual Try-On & AI Mirror
+
+- <a href="https://www.doji.com/" target="_blank">Doji</a> (**Doji**) - Create AI avatars for online virtual try-on of fashion clothing
+- <a href="https://www.altadaily.com/" target="_blank">Alta</a> (**Alta**) - Digital wardrobe platform recommending outfits
+- <a href="https://glam.ai/" target="_blank">Glam AI</a> (**Glam AI**) - AI mirror virtual try-on platform
+- <a href="https://mirrormirror.ai/" target="_blank">Mirror Mirror</a> (**Mirror Mirror**) - AI mirror virtual try-on platform
+- <a href="https://revery.ai/" target="_blank">Revery AI</a> (**Revery AI**) - AI mirror virtual try-on platform
+
+#### Digital Closet & Styling
+
+- <a href="https://acloset.ai/" target="_blank">Acloset</a> (**Acloset**) - AI stylist digital closet platform
+- <a href="https://cladwell.com/" target="_blank">Cladwell</a> (**Cladwell**) - AI stylist digital closet platform
+- <a href="https://indyx.ai/" target="_blank">Indyx</a> (**Indyx**) - AI stylist digital closet platform
+- <a href="https://openwardrobe.ai/" target="_blank">OpenWardrobe</a> (**OpenWardrobe**) - AI stylist digital closet platform
+- <a href="https://whering.com/" target="_blank">Whering</a> (**Whering**) - AI stylist digital closet platform
+
+#### Product Discovery & Search
+
+##### Text-Based Search
+
+- <a href="https://daydream.ai/" target="_blank">Daydream</a> (**Daydream**) - Text-based product discovery and search platform
+- <a href="https://fetchr.ai/" target="_blank">Fetchr</a> (**Fetchr**) - Text-based product discovery and search platform
+- <a href="https://plush.ai/" target="_blank">Plush</a> (**Plush**) - Text-based product discovery and search platform
+
+##### Image/Visual-Based Search
+
+- <a href="https://capsule.ai/" target="_blank">Capsule</a> (**Capsule**) - Image/visual-based product discovery and search platform
+- <a href="https://cherry.ai/" target="_blank">Cherry</a> (**Cherry**) - Image/visual-based product discovery and search platform
+- <a href="https://lookverse.ai/" target="_blank">Lookverse</a> (**Lookverse**) - Image/visual-based product discovery and search platform
+- <a href="https://onton.ai/" target="_blank">On Ton</a> (**On Ton**) - Image/visual-based product discovery and search platform
+
+##### Price-Based Search
+
+- <a href="https://dupe.ai/" target="_blank">Dupe</a> (**Dupe**) - Price-based product discovery and search platform
+- <a href="https://karma.ai/" target="_blank">Karma</a> (**Karma**) - Price-based product discovery and search platform
+- <a href="https://spoken.ai/" target="_blank">Spoken</a> (**Spoken**) - Price-based product discovery and search platform
+- <a href="https://yaw.ai/" target="_blank">YAW</a> (**YAW**) - Price-based product discovery and search platform
+
+##### Second-Hand Search
+
+- <a href="https://beni.ai/" target="_blank">Beni</a> (**Beni**) - Second-hand product discovery and search platform
+- <a href="https://gem.ai/" target="_blank">Gem</a> (**Gem**) - Second-hand product discovery and search platform
+- <a href="https://phia.ai/" target="_blank">Phia</a> (**Phia**) - Second-hand product discovery and search platform
+- <a href="https://retrofit.ai/" target="_blank">Retrofit</a> (**Retrofit**) - Second-hand product discovery and search platform
+
+#### Consumer Inventory & Brand Support
+
+- <a href="https://pixite.ai/" target="_blank">Pixite</a> (**Pixite**) - AI consumer inventory platform
+- <a href="https://printgen.ai/" target="_blank">PrintGen</a> (**PrintGen**) - AI consumer inventory platform
+- <a href="https://alhena.ai/" target="_blank">Alhena</a> (**Alhena**) - AI brand support platform
+- <a href="https://humind.ai/" target="_blank">Humind</a> (**Humind**) - AI brand support platform
+- <a href="https://manifest.ai/" target="_blank">Manifest AI</a> (**Manifest AI**) - AI brand support platform
+- <a href="https://pietra.ai/" target="_blank">Pietra</a> (**Pietra**) - AI brand support platform
+- <a href="https://raspberry.ai/" target="_blank">Raspberry AI</a> (**Raspberry AI**) - AI brand support platform
+- <a href="https://rep.ai/" target="_blank">REP</a> (**REP**) - AI brand support platform
+- <a href="https://yuma.ai/" target="_blank">Yuma</a> (**Yuma**) - AI brand support platform
 
 ### AI Browsers
 
@@ -875,6 +1158,12 @@ _These tools are designed for concept artists and creative professionals working
 
 - <a href="https://mirageml.com/" target="_blank">Mirage</a> (**Mirage** · Latest) - Creative tools for concept artists working with 3D content generation
 
+### Motion Capture Tools
+
+_These platforms provide AI-powered motion capture and animation capabilities._
+
+- <a href="https://deepmotion.com/" target="_blank">DeepMotion</a> (**DeepMotion**) - Company focused on motion intelligence, specializing in motion capture technology
+
 ## AI Chatbots
 
 ### Character Chatbots
@@ -1090,6 +1379,13 @@ _These tools are designed for teachers to create interactive lessons, quizzes, a
 - <a href="https://www.doctrina.ai/" target="_blank">Doctrina AI</a> (**Doctrina AI** · Latest) - Multi-functional AI education platform generating notes, quizzes, essays, and conversations
 - <a href="https://www.bohrium.com/" target="_blank">Bohrium</a> (**Bohrium** · Latest) - Academic platform for educational content and learning management
 
+### Academic Writing & Research Tools
+
+_These tools assist with academic writing, research, and paper management._
+
+- <a href="https://paperguide.ai/" target="_blank">Paperguide</a> (**Paperguide**) - AI research assistant that automatically retrieves literature, writes reviews, and manages citations
+- <a href="https://eduwriter.ai/" target="_blank">EduWriter</a> (**EduWriter**) - AI-assisted paper writing tool that generates downloadable paper drafts in real-time
+
 ## AI Finance & Accounting Tools
 
 ### Financial Operations & Accounting
@@ -1292,6 +1588,30 @@ _These tools help create and manage digital content efficiently._
 - <a href="https://durable.co/" target="_blank">Durable</a> (**Durable** · Latest) - Efficient, high-quality digital content creation service platform
 - <a href="https://www.writer.com/" target="_blank">Writer</a> (**Writer** · Latest) - Enterprise generative AI platform for content creation and writing assistance
 - <a href="https://textcortex.com/" target="_blank">Text Cortex AI</a> (**Text Cortex AI** · Latest) - AI-powered digital content creation service providing comprehensive content solutions
+- <a href="https://reccloud.com/" target="_blank">RecCloud</a> (**RecCloud**) - AI-driven audio/video toolset supporting transcription, dubbing, subtitles, and short video generation
+- <a href="https://simplified.com/" target="_blank">Simplified</a> (**Simplified**) - AI content creation platform providing all-in-one design, copywriting, video generation, and social media management tools
+- <a href="https://hypotenuse.ai/" target="_blank">Hypotenuse</a> (**Hypotenuse**) - AI content generator platform
+- <a href="https://www.contents.ai/" target="_blank">Contents</a> (**Contents**) - AI-powered content generation platform
+- <a href="https://www.peppercontent.in/" target="_blank">Pepper Content</a> (**Pepper Content**) - AI-powered content marketing platform and expert-guided talent marketplace
+- <a href="https://getmunch.com/" target="_blank">Munch</a> (**Munch**) - Cross-media building platform helping users quickly create and customize personal link pages
+
+### Writing Assistants
+
+_These platforms provide AI-powered writing assistance, grammar checking, and text generation capabilities._
+
+- <a href="https://rytr.me/" target="_blank">Rytr</a> (**Rytr**) - Efficient, high-quality digital content creation service
+- <a href="https://hyperwriteai.com/" target="_blank">HyperWrite</a> (**HyperWrite**) - AI writing companion and text generator
+- <a href="https://www.writewithlaika.com/" target="_blank">Write with LAIKA</a> (**LAIKA**) - AI writing assistant designed specifically for writers
+- <a href="https://bertha.ai/" target="_blank">Bertha AI</a> (**Bertha AI**) - AI-powered writing assistant
+- <a href="https://writesonic.com/" target="_blank">Writesonic</a> (**Writesonic**) - AI writing assistant
+- <a href="https://copymonkey.ai/" target="_blank">CopyMonkey.ai</a> (**CopyMonkey**) - AI writing assistant
+- <a href="https://www.copysmith.ai/" target="_blank">Copysmith</a> (**Copysmith**) - AI writing assistant
+- <a href="https://jenni.ai/" target="_blank">Jenni.ai</a> (**Jenni.ai**) - AI writing assistant helping with academic writing, research organization, and logic generation
+- <a href="https://www.grammarly.com/" target="_blank">Grammarly</a> (**Grammarly**) - Cross-platform AI writing assistant providing real-time grammar, style, tone checking, and text suggestions
+- <a href="https://www.gomoonbeam.com/" target="_blank">Go Moonbeam</a> (**Moonbeam**) - Text content generation service for various types of content
+- <a href="https://jasper.ai/" target="_blank">Jasper AI</a> (**Jasper AI**) - Rapid generation of human-like text
+- <a href="https://sudowrite.com/" target="_blank">Sudowrite</a> (**Sudowrite**) - Generate and edit novels, stories, blogs, and more through natural language descriptions
+- <a href="https://compose.ai/" target="_blank">Compose</a> (**Compose**) - Free Chrome extension helping automatically complete and generate text using AI technology
 
 ### Enterprise AI Assistants
 
@@ -1394,6 +1714,59 @@ _These platforms provide specialized AI-powered solutions for specific industrie
 ### Pet Services
 - <a href="https://www.moego.pet/" target="_blank">MoeGo</a> (**MoeGo** · Latest) - Full-featured operations management software for pet boarding, grooming, and daycare industries
 
+### Voice AI Agents
+
+_These platforms provide specialized voice AI agents for specific vertical industries._
+
+#### Financial Services
+
+- <a href="https://salient.ai/" target="_blank">Salient</a> (**Salient**) - Voice AI agent platform for financial services
+- <a href="https://kastle.ai/" target="_blank">Kastle AI</a> (**Kastle AI**) - Voice AI agent platform for financial services
+- <a href="https://liberate.ai/" target="_blank">Liberate</a> (**Liberate**) - Voice AI agent platform for financial services
+- <a href="https://aviary.ai/" target="_blank">Aviary AI</a> (**Aviary AI**) - Voice AI agent platform for financial services
+
+#### Automotive
+
+- <a href="https://toma.ai/" target="_blank">Toma</a> (**Toma**) - Voice AI agent platform for automotive industry
+- <a href="https://numa.ai/" target="_blank">Numa</a> (**Numa**) - Voice AI agent platform for automotive industry
+
+#### Restaurant & Food Service
+
+- <a href="https://kea.ai/" target="_blank">Kea</a> (**Kea**) - Voice AI agent platform for restaurants
+- <a href="https://voiceplug.ai/" target="_blank">Voiceplug</a> (**Voiceplug**) - Voice AI agent platform for restaurants
+- <a href="https://hiauto.ai/" target="_blank">Hi Auto</a> (**Hi Auto**) - Voice AI agent platform for restaurants
+- <a href="https://loman.ai/" target="_blank">Loman.ai</a> (**Loman.ai**) - Voice AI agent platform for restaurants
+- <a href="https://slang.ai/" target="_blank">slang.ai</a> (**slang.ai**) - Voice AI agent platform for restaurants
+
+#### Healthcare
+
+- <a href="https://www.hippocratic.ai/" target="_blank">Hippocratic AI</a> (**Hippocratic AI**) - Voice AI agent platform for healthcare
+- <a href="https://standardpractice.ai/" target="_blank">Standard Practice</a> (**Standard Practice**) - Voice AI agent platform for healthcare
+- <a href="https://hellopatient.ai/" target="_blank">Hello Patient</a> (**Hello Patient**) - Voice AI agent platform for healthcare
+- <a href="https://superdial.ai/" target="_blank">Super Dial</a> (**Super Dial**) - Voice AI agent platform for healthcare
+- <a href="https://arini.ai/" target="_blank">Arini</a> (**Arini**) - Voice AI agent platform for healthcare
+- <a href="https://hyro.ai/" target="_blank">Hyro</a> (**Hyro**) - Voice AI agent platform for healthcare
+- <a href="https://infinitus.ai/" target="_blank">Infinitus</a> (**Infinitus**) - Voice AI agent platform for healthcare
+- <a href="https://assorthealth.com/" target="_blank">Assort Health</a> (**Assort Health**) - Voice AI agent platform for healthcare
+- <a href="https://opkit.ai/" target="_blank">Opkit</a> (**Opkit**) - Voice AI agent platform for healthcare
+- <a href="https://clarion.ai/" target="_blank">Clarion</a> (**Clarion**) - Voice AI agent platform for healthcare
+- <a href="https://healthharbor.ai/" target="_blank">Health Harbor</a> (**Health Harbor**) - Voice AI agent platform for healthcare
+
+#### Hospitality
+
+- <a href="https://hostai.ai/" target="_blank">Host AI</a> (**Host AI**) - Voice AI agent platform for hospitality
+- <a href="https://www.eliseai.com/" target="_blank">Elise AI</a> (**ELISE AI** · Latest) - Conversational automation AI customer service and ticket processing system designed for healthcare and hospitality industries
+
+#### Logistics
+
+- <a href="https://happyrobot.ai/" target="_blank">HappyRobot</a> (**HappyRobot**) - Voice AI agent platform for logistics
+- <a href="https://fleetworks.ai/" target="_blank">Fleetworks</a> (**Fleetworks**) - Voice AI agent platform for logistics
+
+#### Home Services
+
+- <a href="https://sameday.ai/" target="_blank">Sameday AI</a> (**Sameday AI**) - Voice AI agent platform for home services
+- <a href="https://avoca.ai/" target="_blank">Avoca</a> (**Avoca**) - Voice AI agent platform for home services
+
 ### Healthcare & Hospitality
 - <a href="https://www.eliseai.com/" target="_blank">ELISE AI</a> (**ELISE AI** · Latest) - Conversational automation AI customer service and ticket processing system designed for healthcare and hospitality industries
 
@@ -1453,6 +1826,32 @@ _These platforms provide AI-powered gaming experiences and game development tool
 - <a href="https://www.aidungeon.com/" target="_blank">AI Dungeon</a> (**AI Dungeon** · Latest) - AI-driven open-ended text adventure game where players can freely input and generate unlimited storylines
 - <a href="https://ego.ai/" target="_blank">Ego</a> (**Ego** · Latest) - AI gaming voice assistant platform
 - <a href="https://volley.com/" target="_blank">Volley</a> (**Volley** · Latest) - AI gaming voice assistant platform
+
+### Game Development & Testing Tools
+
+_These platforms provide AI-powered tools for game development, testing, and quality assurance._
+
+- <a href="https://www.layer.ai/" target="_blank">Layer</a> (**Layer**) - AI game asset generation platform
+- <a href="https://agentic.xyz/" target="_blank">Agentic</a> (**Agentic**) - Virtual world creation platform supporting AI player training and deployment
+- <a href="https://epochml.com/" target="_blank">Epoch</a> (**Epoch**) - Game quality assurance testing tool supporting machine learning tasks
+- <a href="https://regression.gg/" target="_blank">Regression Games</a> (**Regression Games**) - AI gaming and esports platform where users can programmatically control characters
+- <a href="https://usejigger.com/" target="_blank">Jigger</a> (**Jigger**) - Anti-bot toolkit protecting games and blockchain assets
+- <a href="https://incymo.ai/" target="_blank">Incymo</a> (**Incymo**) - Game monetization platform optimizing ads and player behavior analysis
+- <a href="https://theculturedao.com/" target="_blank">The Culture DAO</a> (**The Culture DAO**) - Solana NFT and AI gaming/film platform
+- <a href="https://latitude.io/" target="_blank">Latitude</a> (**Latitude**) - AI-driven dynamic game world, creator of AI Dungeon
+- <a href="https://ggpredict.io/" target="_blank">GG Predict</a> (**GG Predict**) - CS:GO training platform with AI-customized challenges and feedback
+- <a href="https://modl.ai/" target="_blank">Modl.ai</a> (**Modl.ai**) - Game AI tools for automated testing and content generation
+- <a href="https://statespace.gg/" target="_blank">Statespace</a> (**Statespace**) - Game skill analysis platform (e.g., Aimlabs)
+- <a href="https://mobalytics.gg/" target="_blank">Mobalytics</a> (**Mobalytics**) - Game data analytics tool supporting multiple popular games
+
+### Metaverse Platforms
+
+_These platforms provide metaverse creation, virtual world building, and immersive experiences._
+
+- <a href="https://www.oneirocom.ai/" target="_blank">Oneirocom</a> (**Oneirocom**) - Metaverse platform combining AI and distributed immersive narrative technology to create a magical and imaginative metaverse
+- <a href="https://aukilabs.com/" target="_blank">Auki Labs</a> (**Auki Labs**) - Developing augmented reality technology to build persistent and privacy-protected metaverse, providing distributed positioning and spatial multiplayer solutions
+- <a href="https://mindtech.global/" target="_blank">Mindtech Global</a> (**Mindtech Global**) - Developing Chameleon platform to generate synthetic data for training visual AI systems, simulating real-world interactions
+- <a href="https://kinetix.tech/" target="_blank">Kinetix</a> (**Kinetix**) - Platform allowing users to create 3D animated avatars from videos and convert them to NFTs, supporting cross-virtual world usage
 
 ## AI Event Planning Tools
 
@@ -1533,6 +1932,23 @@ _These platforms use AI to generate personalized children's stories, books, and 
 - <a href="https://www.lumistory.ai/" target="_blank">Story Lumi</a> (**Lumi** · Latest) - Platform created by Colin Kaepernick, helping creators publish text and image content
 - <a href="https://www.squibler.io/" target="_blank">Squibler</a> (**Squibler** · Latest) - AI opening generator platform for quickly inspiring writing creativity
 
+### Web Novel Platforms
+
+_These platforms provide web novel reading and creation services with localized content._
+
+- <a href="https://fizzo.org/" target="_blank">Fizzo</a> (**ByteDance**) - Reading and entertainment platform integrating novels, comics, and short dramas with emphasis on localized content
+- <a href="https://www.goodnovel.com/" target="_blank">GoodNovel</a> (**Xinyue Times**) - Overseas web novel platform covering extensive genres, supporting creation and reading
+
+### Book Summary Platforms
+
+_These platforms provide AI-powered book summaries and reading insights._
+
+- <a href="https://www.shortform.com/" target="_blank">Shortform</a> (**Shortform**) - Expert-guided summaries and insights for 1000+ in-depth non-fiction books
+- <a href="https://makeheadway.com/" target="_blank">Headway</a> (**Headway**) - 15-minute text and audio book summaries with visual presentation and personalized recommendations
+- <a href="https://instaread.co/" target="_blank">Instaread</a> (**Instaread**) - Professionally written 15-minute book summaries covering popular bestsellers
+- <a href="https://www.blinkist.com/" target="_blank">Blinkist</a> (**Blinkist**) - 15-minute "blink" book summaries providing audio/text formats and personalized learning paths
+- <a href="https://sobrief.com/" target="_blank">Sobrief</a> (**Sobrief**) - World's largest book summary library with 10-minute AI audio/text summaries supporting 40 languages
+
 ## Conversation Intelligence
 
 _These platforms analyze and extract insights from conversations, calls, and communication data._
@@ -1550,6 +1966,7 @@ _These platforms help sales and marketing teams create content and automate comm
 - <a href="https://nooks.ai/" target="_blank">Nooks</a> (**Nooks** · Latest) - AI sales voice assistant platform
 - <a href="https://terrakotta.ai/" target="_blank">Terrakotta</a> (**Terrakotta** · Latest) - AI sales voice assistant platform
 - <a href="https://secondnature.ai/" target="_blank">Second Nature</a> (**Second Nature** · Latest) - AI sales voice assistant platform
+- <a href="https://digitalfirst.ai/" target="_blank">Digital First AI</a> (**Digital First AI**) - Innovative marketing platform enabling users to create and execute marketing plans using AI
 
 ## Screen Recording Tools
 

@@ -167,6 +167,13 @@ Quick reference index of all products in this repository.
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a>
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a>
 
+#### Podcast Hosting Platforms
+- <a href="https://fireside.fm/" target="_blank">Fireside</a>
+- <a href="https://www.podbean.com/" target="_blank">Podbean</a>
+- <a href="https://rss.com/" target="_blank">RSS.com</a>
+- <a href="https://www.simplecast.com/" target="_blank">Simplecast</a>
+- <a href="https://libsyn.com/" target="_blank">Libsyn</a>
+
 ### AI Coding Tools
 
 #### AI Coding Agents & IDEs
@@ -332,6 +339,22 @@ Quick reference index of all products in this repository.
 - <a href="https://www.llamaindex.ai/" target="_blank">LlamaIndex</a>
 - <a href="https://dify.ai/" target="_blank">Dify</a>
 - <a href="https://flowiseai.com/" target="_blank">Flowise</a>
+
+#### Infrastructure for AI Agents
+
+##### Agent Memory Systems
+- <a href="https://mem0.ai/" target="_blank">Mem0</a>
+- <a href="https://www.getzep.com/" target="_blank">Zep</a>
+- <a href="https://github.com/MemTensor/MemOS" target="_blank">MemOS</a>
+- <a href="https://github.com/NevaMind-AI/memU" target="_blank">MemU</a>
+- <a href="https://github.com/EverMind-AI/EverMemOS" target="_blank">EverMemOS</a>
+- <a href="https://mirix.io/" target="_blank">Mirix</a>
+- <a href="https://www.memobase.io/" target="_blank">Memobase</a>
+- <a href="https://github.com/letta-ai/letta" target="_blank">Letta</a>
+- <a href="https://memories.ai/" target="_blank">Memories.ai</a>
+- <a href="https://supermemory.ai/" target="_blank">Supermemory</a>
+- <a href="https://github.com/langchain-ai/langmem" target="_blank">LangMem</a>
+- <a href="https://www.cognee.ai/" target="_blank">Cognee</a>
 
 ### Authentication & Identity Services
 - <a href="https://clerk.com/" target="_blank">Clerk</a>
