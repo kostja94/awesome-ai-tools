@@ -284,47 +284,47 @@ _这些是基础的音乐生成大模型，可通过 API 调用。许多 AI 音�
 
 _这些是基础的 AI 编程代理和 IDE，提供端到端的代码生成和开发辅助功能。_
 
-- <a href="https://www.cursor.com/" target="_blank">Cursor</a> (**Cursor** · 最新版) - AI 驱动的 IDE，支持自然语言提示进行端到端代码生成与查询
-- <a href="https://devin.ai/" target="_blank">Devin</a> (**Devin** · 最新版) - AI 软件工程师，负责代码自动生成、调试与部署流程
-- <a href="https://replit.com/" target="_blank">Replit</a> (**Replit** · 最新版) - 云端 IDE 平台，AI Agent 根据自然语言生成并部署完整应用
-- <a href="https://www.trae.ai/" target="_blank">Trae</a> (**字节跳动** · 最新版) - ByteDance 出品的免费 AI IDE，通过 Builder 模式智能拆解任务并补全代码
-- <a href="https://stackblitz.com/" target="_blank">StackBlitz</a> (**StackBlitz** · 最新版) - 基于浏览器的一体化全栈 IDE，用 WebAssembly 启动 Node.js，适合即时构建和协作开发
-- <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a> (**Reflection AI** · 最新版) - 打造具自主决策能力的"超智能"编程 AI，可模拟人类开发过程
-- <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware** · 最新版) - 基于浏览器的 AI 工具开发 IDE，支持自然语言编程、LLM 编排与多模态 agent 构建
+- <a href="https://www.cursor.com/" target="_blank">Cursor</a> (**Cursor**) - AI 驱动的 IDE，支持自然语言提示进行端到端代码生成与查询
+- <a href="https://devin.ai/" target="_blank">Devin</a> (**Devin**) - AI 软件工程师，负责代码自动生成、调试与部署流程
+- <a href="https://replit.com/" target="_blank">Replit</a> (**Replit**) - 云端 IDE 平台，AI Agent 根据自然语言生成并部署完整应用
+- <a href="https://www.trae.ai/" target="_blank">Trae</a> (**字节跳动**) - ByteDance 出品的免费 AI IDE，通过 Builder 模式智能拆解任务并补全代码
+- <a href="https://stackblitz.com/" target="_blank">StackBlitz</a> (**StackBlitz**) - 基于浏览器的一体化全栈 IDE，用 WebAssembly 启动 Node.js，适合即时构建和协作开发
+- <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a> (**Reflection AI**) - 打造具自主决策能力的"超智能"编程 AI，可模拟人类开发过程
+- <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware**) - 基于浏览器的 AI 工具开发 IDE，支持自然语言编程、LLM 编排与多模态 agent 构建
 
 ### 代码补全工具
 
 _这些是 AI 驱动的代码补全工具，提供智能建议和自动补全功能。_
 
-- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> (**GitHub** · 最新版) - AI 对话式编程副驾，即时补全代码、修复 bug 与提交 PR
-- <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a> (**Codeium** · 最新版) - AI 编程助手，提供高质量代码补全
-- <a href="https://supermaven.com/" target="_blank">Supermaven</a> (**Supermaven** · 最新版) - 百万 token 上下文的极速 AI 编程助手，提供高质量代码补全
-- <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI** · 最新版) - AI 编程助手，实时提供智能补全、文档和调试建议，提高工程效率
-- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment** · 最新版) - AI 编码代理平台，在 IDE 中通过本地 + 云智能自动提升代码质量
-- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI** · 最新版) - AI 系统，将自然语言转换为代码，为编程助手提供支持
+- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> (**GitHub**) - AI 对话式编程副驾，即时补全代码、修复 bug 与提交 PR
+- <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a> (**Codeium**) - AI 编程助手，提供高质量代码补全
+- <a href="https://supermaven.com/" target="_blank">Supermaven</a> (**Supermaven**) - 百万 token 上下文的极速 AI 编程助手，提供高质量代码补全
+- <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI**) - AI 编程助手，实时提供智能补全、文档和调试建议，提高工程效率
+- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment**) - AI 编码代理平台，在 IDE 中通过本地 + 云智能自动提升代码质量
+- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI**) - AI 系统，将自然语言转换为代码，为编程助手提供支持
 
 ### 低代码/无代码平台
 
 _这些平台通过 AI 驱动的自然语言界面，以最少或无需编码的方式构建应用程序。_
 
-- <a href="https://www.fine.dev/" target="_blank">Fine</a> (**Fine** · 最新版) - AI 驱动的全栈开发平台，一键生成、部署并管理 SaaS 应用
-- <a href="https://magic.dev/" target="_blank">Magic</a> (**Magic** · 最新版) - Low‑Code 全栈生成平台，一句英文描述即可自动生成并部署 SaaS 应用
-- <a href="https://bolt.new/" target="_blank">Bolt</a> (**Bolt** · 最新版) - 浏览器内 AI Agent，可对话生成并部署全栈 Web 应用
-- <a href="https://retool.com/" target="_blank">Retool</a> (**Retool** · 最新版) - 低代码内部应用构建器，通过自然语言生成界面与业务逻辑
-- <a href="https://lovable.dev/" target="_blank">Lovable</a> (**Lovable** · 最新版) - 通过聊天输入，AI 自动生成全栈应用与网站原型
-- <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle** · 最新版) - 无代码工具，构建 AI 代理、网站与表单，支持截图搜索
-- <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel** · 最新版) - 对话式 IDE，一键生成 React/Svelte 等项目前端并部署
-- <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy** · 最新版) - AI 驱动设计平台，一键打造生产级 UI 并输出代码
-- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif** · 最新版) - 轻量生成器平台，制作 AI 小应用、图像/视频生成与漫画等
-- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a> (**Narrative BI** · 最新版) - 无代码生成式 BI 平台，将数据自动转化为自然语言洞察与异常警示
-- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside** · 最新版) - 专为软件工程设计的 AI 编码平台，利用自研模型自动补全与生成代码
+- <a href="https://www.fine.dev/" target="_blank">Fine</a> (**Fine**) - AI 驱动的全栈开发平台，一键生成、部署并管理 SaaS 应用
+- <a href="https://magic.dev/" target="_blank">Magic</a> (**Magic**) - Low‑Code 全栈生成平台，一句英文描述即可自动生成并部署 SaaS 应用
+- <a href="https://bolt.new/" target="_blank">Bolt</a> (**Bolt**) - 浏览器内 AI Agent，可对话生成并部署全栈 Web 应用
+- <a href="https://retool.com/" target="_blank">Retool</a> (**Retool**) - 低代码内部应用构建器，通过自然语言生成界面与业务逻辑
+- <a href="https://lovable.dev/" target="_blank">Lovable</a> (**Lovable**) - 通过聊天输入，AI 自动生成全栈应用与网站原型
+- <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle**) - 无代码工具，构建 AI 代理、网站与表单，支持截图搜索
+- <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel**) - 对话式 IDE，一键生成 React/Svelte 等项目前端并部署
+- <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy**) - AI 驱动设计平台，一键打造生产级 UI 并输出代码
+- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif**) - 轻量生成器平台，制作 AI 小应用、图像/视频生成与漫画等
+- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a> (**Narrative BI**) - 无代码生成式 BI 平台，将数据自动转化为自然语言洞察与异常警示
+- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside**) - 专为软件工程设计的 AI 编码平台，利用自研模型自动补全与生成代码
 
 ### 代码质量与安全工具
 
 _这些工具通过 AI 驱动的分析帮助提高代码质量、安全性和文档化。_
 
-- <a href="https://moderne.io/" target="_blank">Moderne</a> (**Moderne** · 最新版) - 专注于自动识别和修补代码中的安全漏洞
-- <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography** · 最新版) - 利用人工智能技术为代码生成自动文档
+- <a href="https://moderne.io/" target="_blank">Moderne</a> (**Moderne**) - 专注于自动识别和修补代码中的安全漏洞
+- <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography**) - 利用人工智能技术为代码生成自动文档
 - <a href="http://codiga.io/" target="_blank">Codiga</a> (**Codiga** · 最新版) - 创新的代码分析平台
 
 ## AI 搜索工具
@@ -445,6 +445,32 @@ _这些平台通过用户友好的界面提供对多个 AI 模型的便捷访问
 
 - <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · 最新版) - 通过统一界面访问多个 AI 模型的平台
 - <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · 最新版) - 集成多种 AI 模型的全能助手，支持 GPT-5.1、Claude 4.5、Gemini 3 Pro 等，提供聊天、搜索、写作、图像生成、视频生成和编码功能
+
+## AI Agent 基础设施
+
+_这些平台和服务、框架和基础设施专门用于构建、部署和管理 AI 代理。_
+
+### Agent 数据基础设施
+
+_这些平台为 AI 代理提供数据存储、记忆和 ETL 服务。_
+
+#### Memory
+
+_这些平台为 AI 代理提供长期记忆和认知架构，使其能够记住过去的交互、保持一致性，并随着时间的推移建立用户理解。_
+
+- <a href="https://mem0.ai/" target="_blank">Mem0</a> (**Mem0**) - AI 代理的通用记忆层，支持自动抽取、清洗和存储；混合向量+知识图谱架构；自改进记忆压缩引擎；LoCoMo 得分约 60-70%
+- <a href="https://www.getzep.com/" target="_blank">Zep</a> (**Zep**) - 企业级 Memory Server，使用时序知识图谱架构，支持 Docker 部署，企业级稳定性；系统化地从聊天历史和业务数据中构建相关上下文；LoCoMo 得分约 85%
+- <a href="https://github.com/MemTensor/MemOS" target="_blank">MemOS</a> (**MemOS**) - 记忆操作系统，采用神经张量记忆架构（MemCube）；三层系统架构（接口层、操作层、基础设施层）；代表神经记忆研究的前沿探索
+- <a href="https://github.com/NevaMind-AI/memU" target="_blank">MemU</a> (**MemU**) - 结构化记忆系统，采用层级化记忆树架构（根、枝、叶节点）；自动分类和动态扩展；在用户画像、档案管理和结构化任务方面表现优异
+- <a href="https://github.com/EverMind-AI/EverMemOS" target="_blank">EverMemOS</a> (**EverMind**) - 第二代 Memory OS，采用仿生四层记忆架构（分类提取、MemCell 原子化存储、事件边界、多跳召回）；LoCoMo SOTA 92.3%，首个超越 Full-context 基准的记忆系统
+- <a href="https://mirix.io/" target="_blank">Mirix</a> (**Mirix**) - 屏幕级多模态记忆系统，捕获屏幕 → 行为 → 事件；实时监控屏幕，构建个性化记忆库，LoCoMO 准确率 85.38%，存储减少 99.9%
+- <a href="https://www.memobase.io/" target="_blank">Memobase</a> (**Memobase**) - 基于 Profile 的长期记忆系统，适用于 AI 应用；处理用户画像、记忆事件和不断演化的上下文；非常适合聊天机器人、伴侣和以用户为中心的 AI 应用
+- <a href="https://github.com/letta-ai/letta" target="_blank">Letta</a> (**Letta**) - 文件系统式记忆架构，用于构建有状态的代理；为 LLM 添加状态以实现高级推理能力和透明的长期记忆；Agent File (.af) 格式用于序列化有状态的 AI 代理
+- <a href="https://memories.ai/" target="_blank">Memories.ai</a> (**Memories.ai**) - 视频级记忆 / LVMM（大型视觉记忆模型），用于长视频理解；构建可搜索、连接和推理的持久视觉记忆
+- <a href="https://supermemory.ai/" target="_blank">Supermemory</a> (**Supermemory**) - 基于知识图谱的超记忆系统，具备高级图谱推理能力；构建适应每个用户知识的持久学习图谱；在 LongMemEval 上达到最先进的性能
+- <a href="https://github.com/langchain-ai/langmem" target="_blank">LangMem</a> (**LangChain**) - LangChain 官方 Memory SDK，用于构建具备记忆能力的 LLM 应用；轻量级 Python 库，帮助代理通过长期记忆学习和改进
+- <a href="https://www.cognee.ai/" target="_blank">Cognee</a> (**Cognee**) - 开源 AI 记忆引擎，将原始数据转换为代理的持久和动态 AI 记忆；结合向量搜索和知识图谱；ECL（提取、认知化、链接）框架
+- **Zap** - 代理记忆平台
 
 ## 认证与身份服务
 

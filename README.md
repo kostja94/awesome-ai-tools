@@ -309,66 +309,66 @@ _These are foundational music generation models that can be accessed via API. Ma
 
 _These are AI-powered music generation platforms and applications that help users create music._
 
-- <a href="https://acestudio.ai/" target="_blank">Ace Studio</a> (**Ace Studio** · Latest) - AI music generation platform
-- <a href="https://soundraw.io/" target="_blank">Soundraw</a> (**Soundraw** · Latest) - AI music generator creating royalty-free music with customizable styles and lengths
-- <a href="https://www.beatoven.ai/" target="_blank">Beatoven AI</a> (**Beatoven AI** · Latest) - AI music generation technology for creating music for videos or podcasts
-- <a href="https://musicfy.lol/" target="_blank">Musicfy</a> (**Musicfy** · Latest) - AI music generation platform
-- <a href="https://boomy.com/" target="_blank">Boomy</a> (**Boomy** · Latest) - AI-powered generative music creation platform enabling users to create original songs
-- <a href="https://soundful.com/" target="_blank">Soundful</a> (**Soundful** · Latest) - Generate and download royalty-free background music
-- <a href="https://mubert.com/" target="_blank">Mubert</a> (**Mubert** · Latest) - Music technology company focused on AI and machine learning for music generation
-- <a href="https://www.aiva.ai/" target="_blank">Aiva Technologies</a> (**Aiva Technologies** · Latest) - AI company focused on creating music using artificial intelligence
-- <a href="https://loudly.com/" target="_blank">Loudly</a> (**Loudly** · Latest) - AI music platform providing music creation and licensing services
-- <a href="https://endel.io/" target="_blank">Endel</a> (**Endel** · Latest) - Music generation app creating personalized sound environments based on user activity and context
-- <a href="https://aimi.fm/" target="_blank">AiMi</a> (**AiMi** · Latest) - Music platform
-- <a href="https://musi-co.com/" target="_blank">Musico</a> (**Musico** · Latest) - Online music teaching platform
-- <a href="https://music.ai/" target="_blank">Music</a> (**Music** · Latest) - AI music platform
-- <a href="https://mozartai.app/" target="_blank">Mozartai</a> (**Mozartai** · Latest) - Image-to-music generation app
+- <a href="https://acestudio.ai/" target="_blank">Ace Studio</a> (**Ace Studio**) - AI music generation platform
+- <a href="https://soundraw.io/" target="_blank">Soundraw</a> (**Soundraw**) - AI music generator creating royalty-free music with customizable styles and lengths
+- <a href="https://www.beatoven.ai/" target="_blank">Beatoven AI</a> (**Beatoven AI**) - AI music generation technology for creating music for videos or podcasts
+- <a href="https://musicfy.lol/" target="_blank">Musicfy</a> (**Musicfy**) - AI music generation platform
+- <a href="https://boomy.com/" target="_blank">Boomy</a> (**Boomy**) - AI-powered generative music creation platform enabling users to create original songs
+- <a href="https://soundful.com/" target="_blank">Soundful</a> (**Soundful**) - Generate and download royalty-free background music
+- <a href="https://mubert.com/" target="_blank">Mubert</a> (**Mubert**) - Music technology company focused on AI and machine learning for music generation
+- <a href="https://www.aiva.ai/" target="_blank">Aiva Technologies</a> (**Aiva Technologies**) - AI company focused on creating music using artificial intelligence
+- <a href="https://loudly.com/" target="_blank">Loudly</a> (**Loudly**) - AI music platform providing music creation and licensing services
+- <a href="https://endel.io/" target="_blank">Endel</a> (**Endel**) - Music generation app creating personalized sound environments based on user activity and context
+- <a href="https://aimi.fm/" target="_blank">AiMi</a> (**AiMi**) - Music platform
+- <a href="https://musi-co.com/" target="_blank">Musico</a> (**Musico**) - Online music teaching platform
+- <a href="https://music.ai/" target="_blank">Music</a> (**Music**) - AI music platform
+- <a href="https://mozartai.app/" target="_blank">Mozartai</a> (**Mozartai**) - Image-to-music generation app
 
 ### Voice Changer Tools
 
 _These tools enable real-time voice transformation and voice effects._
 
-- <a href="https://www.voicemod.net/" target="_blank">Voicemod</a> (**Voicemod** · Latest) - Real-time AI voice changer and soundboard technology for voice transformation
-- <a href="https://voice.ai/" target="_blank">Voice.ai</a> (**Voice.ai** · Latest) - Real-time voice changer platform
-- <a href="https://dubbingai.io/" target="_blank">Dubbing AI</a> (**Dubbing AI** · Latest) - Real-time voice changer and dubbing platform
+- <a href="https://www.voicemod.net/" target="_blank">Voicemod</a> (**Voicemod**) - Real-time AI voice changer and soundboard technology for voice transformation
+- <a href="https://voice.ai/" target="_blank">Voice.ai</a> (**Voice.ai**) - Real-time voice changer platform
+- <a href="https://dubbingai.io/" target="_blank">Dubbing AI</a> (**Dubbing AI**) - Real-time voice changer and dubbing platform
 
 ### Voice Services & Applications
 
 _These platforms provide voice services, voice assistants, and voice-enabled applications._
 
 - <a href="https://research.google/blog/real-time-speech-to-speech-translation/" target="_blank">Google Real-time S2ST</a> (**Google** · Latest) - End-to-end speech-to-speech translation model enabling real-time translation in the original speaker's voice with only 2-second delay, available in Google Meet and Pixel 10 devices
-- <a href="https://elevenreader.io/" target="_blank">ElevenReader by ElevenLabs</a> (**ElevenLabs** · Latest) - High-quality AI voice reading for articles, PDFs, and ebooks
-- <a href="https://www.openai.fm/" target="_blank">OpenAI.fm</a> (**OpenAI** · Latest) - Interactive demo platform showcasing OpenAI's high-fidelity text-to-speech API
-- <a href="https://coqui.ai/" target="_blank">Coqui</a> (**Coqui** · Latest) - Providing emotional, generative virtual voice services
-- <a href="https://pirr.me/" target="_blank">Pirr</a> (**Pirr** · Latest) - Interact with AI through voice input and output
-- <a href="https://poly.ai/" target="_blank">PolyAI</a> (**PolyAI** · Latest) - Company focused on enterprise voice assistant solutions
-- <a href="https://www.retellai.com/" target="_blank">Retell AI</a> (**Retell AI** · Latest) - No-code voice AI customer service platform for deploying phone bots in real-time
-- <a href="https://vapi.ai/" target="_blank">Vapi</a> (**Vapi** · Latest) - Enterprise voice assistant API for deploying customizable phone AI agents
-- <a href="https://www.withdavid.ai/" target="_blank">David AI</a> (**David AI** · Latest) - Professional audio data foundation building high-quality voice training datasets for conversational AI
-- <a href="https://www.papercup.com/" target="_blank">Papercup</a> (**Papercup** · Latest) - End-to-end AI dubbing and video localization platform with human review for language quality
-- <a href="https://www.ribbon.ai/" target="_blank">Ribbon</a> (**Ribbon** · Latest) - Voice-based recruitment platform
-- <a href="https://willowvoice.com/" target="_blank">Willow Voice</a> (**Willow Voice** · Latest) - Voice-to-text typing tool
-- <a href="https://wisprflow.ai/" target="_blank">Wispr Flow</a> (**Wispr Flow** · Latest) - Voice-to-text typing tool
-- <a href="https://www.dialpad.com/" target="_blank">Dialpad</a> (**Dialpad** · Latest) - AI-driven cloud communication platform integrating calls, messaging, meetings, real-time summaries, and insights
-- <a href="https://delphi.ai/" target="_blank">Delphi</a> (**Delphi** · Latest) - Consumer service voice AI platform
-- <a href="https://tolvia.ai/" target="_blank">Tolvia</a> (**Tolvia** · Latest) - Consumer service voice AI platform
-- <a href="https://sonia.ai/" target="_blank">Sonia</a> (**Sonia** · Latest) - Consumer service voice AI platform
-- <a href="https://autio.com/" target="_blank">Autio</a> (**Autio** · Latest) - Consumer service voice AI platform
+- <a href="https://elevenreader.io/" target="_blank">ElevenReader by ElevenLabs</a> (**ElevenLabs**) - High-quality AI voice reading for articles, PDFs, and ebooks
+- <a href="https://www.openai.fm/" target="_blank">OpenAI.fm</a> (**OpenAI**) - Interactive demo platform showcasing OpenAI's high-fidelity text-to-speech API
+- <a href="https://coqui.ai/" target="_blank">Coqui</a> (**Coqui**) - Providing emotional, generative virtual voice services
+- <a href="https://pirr.me/" target="_blank">Pirr</a> (**Pirr**) - Interact with AI through voice input and output
+- <a href="https://poly.ai/" target="_blank">PolyAI</a> (**PolyAI**) - Company focused on enterprise voice assistant solutions
+- <a href="https://www.retellai.com/" target="_blank">Retell AI</a> (**Retell AI**) - No-code voice AI customer service platform for deploying phone bots in real-time
+- <a href="https://vapi.ai/" target="_blank">Vapi</a> (**Vapi**) - Enterprise voice assistant API for deploying customizable phone AI agents
+- <a href="https://www.withdavid.ai/" target="_blank">David AI</a> (**David AI**) - Professional audio data foundation building high-quality voice training datasets for conversational AI
+- <a href="https://www.papercup.com/" target="_blank">Papercup</a> (**Papercup**) - End-to-end AI dubbing and video localization platform with human review for language quality
+- <a href="https://www.ribbon.ai/" target="_blank">Ribbon</a> (**Ribbon**) - Voice-based recruitment platform
+- <a href="https://willowvoice.com/" target="_blank">Willow Voice</a> (**Willow Voice**) - Voice-to-text typing tool
+- <a href="https://wisprflow.ai/" target="_blank">Wispr Flow</a> (**Wispr Flow**) - Voice-to-text typing tool
+- <a href="https://www.dialpad.com/" target="_blank">Dialpad</a> (**Dialpad**) - AI-driven cloud communication platform integrating calls, messaging, meetings, real-time summaries, and insights
+- <a href="https://delphi.ai/" target="_blank">Delphi</a> (**Delphi**) - Consumer service voice AI platform
+- <a href="https://tolvia.ai/" target="_blank">Tolvia</a> (**Tolvia**) - Consumer service voice AI platform
+- <a href="https://sonia.ai/" target="_blank">Sonia</a> (**Sonia**) - Consumer service voice AI platform
+- <a href="https://autio.com/" target="_blank">Autio</a> (**Autio**) - Consumer service voice AI platform
 
 ### Transcription Tools
 
 _These tools provide transcription services for audio and video content._
 
-- <a href="https://www.plaud.ai/" target="_blank">PLAUD</a> (**PLAUD** · Latest) - AI voice recording and summarization tool, automatically transcribing multilingual conversations and generating key points/action items
-- <a href="https://www.clipto.com/" target="_blank">Clipto.AI</a> (**Clipto.AI** · Latest) - Locally running AI media assistant, automatically transcribing audio/video and providing subtitles, editing, and download tools
-- <a href="https://wave.co/" target="_blank">Wave AI</a> (**Wave AI** · Latest) - Meeting recording assistant, automatically transcribing, supporting multiple languages, and generating summaries
-- <a href="https://turboscribe.ai/" target="_blank">TurboScribe</a> (**TurboScribe** · Latest) - Unlimited AI audio transcription service supporting 98 languages and batch processing of long recordings
+- <a href="https://www.plaud.ai/" target="_blank">PLAUD</a> (**PLAUD**) - AI voice recording and summarization tool, automatically transcribing multilingual conversations and generating key points/action items
+- <a href="https://www.clipto.com/" target="_blank">Clipto.AI</a> (**Clipto.AI**) - Locally running AI media assistant, automatically transcribing audio/video and providing subtitles, editing, and download tools
+- <a href="https://wave.co/" target="_blank">Wave AI</a> (**Wave AI**) - Meeting recording assistant, automatically transcribing, supporting multiple languages, and generating summaries
+- <a href="https://turboscribe.ai/" target="_blank">TurboScribe</a> (**TurboScribe**) - Unlimited AI audio transcription service supporting 98 languages and batch processing of long recordings
 
 ### Sound Design Tools
 
 _These tools assist with sound design and audio effects creation._
 
-- <a href="https://krotosaudio.com/" target="_blank">Krotos</a> (**Krotos** · Latest) - Audio technology company focused on developing advanced sound design software and sound effect libraries
+- <a href="https://krotosaudio.com/" target="_blank">Krotos</a> (**Krotos**) - Audio technology company focused on developing advanced sound design software and sound effect libraries
 
 ## AI Coding Tools
 
@@ -376,50 +376,50 @@ _These tools assist with sound design and audio effects creation._
 
 _These are foundational AI coding agents and IDEs that provide end-to-end code generation and development assistance._
 
-- <a href="https://warp.dev/" target="_blank">Warp</a> (**Warp** · Latest) - Innovative terminal software dedicated to improving developer productivity, efficiency, and speed
+- <a href="https://warp.dev/" target="_blank">Warp</a> (**Warp**) - Innovative terminal software dedicated to improving developer productivity, efficiency, and speed
 
-- <a href="https://www.cursor.com/" target="_blank">Cursor</a> (**Cursor** · Latest) - AI-powered IDE with natural language prompts for end-to-end code generation and queries
-- <a href="https://devin.ai/" target="_blank">Devin</a> (**Devin** · Latest) - AI software engineer that handles code generation, debugging, and deployment workflows
-- <a href="https://replit.com/" target="_blank">Replit</a> (**Replit** · Latest) - Cloud-based IDE platform with AI Agent that generates and deploys complete applications from natural language
-- <a href="https://www.trae.ai/" target="_blank">Trae</a> (**ByteDance** · Latest) - Free AI IDE from ByteDance, intelligently breaks down tasks and completes code through Builder mode
-- <a href="https://stackblitz.com/" target="_blank">StackBlitz</a> (**StackBlitz** · Latest) - Browser-based full-stack IDE using WebAssembly to run Node.js, ideal for instant building and collaborative development
-- <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a> (**Reflection AI** · Latest) - Creates autonomous "super-intelligent" programming AI that can simulate human development processes
-- <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware** · Latest) - Browser-based AI tool development IDE supporting natural language programming, LLM orchestration, and multimodal agent building
+- <a href="https://www.cursor.com/" target="_blank">Cursor</a> (**Cursor**) - AI-powered IDE with natural language prompts for end-to-end code generation and queries
+- <a href="https://devin.ai/" target="_blank">Devin</a> (**Devin**) - AI software engineer that handles code generation, debugging, and deployment workflows
+- <a href="https://replit.com/" target="_blank">Replit</a> (**Replit**) - Cloud-based IDE platform with AI Agent that generates and deploys complete applications from natural language
+- <a href="https://www.trae.ai/" target="_blank">Trae</a> (**ByteDance**) - Free AI IDE from ByteDance, intelligently breaks down tasks and completes code through Builder mode
+- <a href="https://stackblitz.com/" target="_blank">StackBlitz</a> (**StackBlitz**) - Browser-based full-stack IDE using WebAssembly to run Node.js, ideal for instant building and collaborative development
+- <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a> (**Reflection AI**) - Creates autonomous "super-intelligent" programming AI that can simulate human development processes
+- <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware**) - Browser-based AI tool development IDE supporting natural language programming, LLM orchestration, and multimodal agent building
 
 ### Code Completion Tools
 
 _These are AI-powered code completion tools that provide intelligent suggestions and autocomplete functionality._
 
-- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> (**GitHub** · Latest) - AI pair programmer providing instant code completion, bug fixes, and PR submissions
-- <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a> (**Codeium** · Latest) - AI coding assistant with million-token context for high-quality code completion
-- <a href="https://supermaven.com/" target="_blank">Supermaven</a> (**Supermaven** · Latest) - Ultra-fast AI programming assistant with million-token context providing high-quality code completion
-- <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI** · Latest) - AI programming assistant providing real-time intelligent completion, documentation, and debugging suggestions
-- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment** · Latest) - AI coding agent platform that automatically improves code quality through local + cloud intelligence in IDE
-- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI** · Latest) - AI system that translates natural language into code, powering coding assistants
-- <a href="https://mutable.ai/" target="_blank">MutableAI</a> (**MutableAI** · Latest) - AI tools accelerating software development with auto-completion, documentation generation, and code refactoring
+- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> (**GitHub**) - AI pair programmer providing instant code completion, bug fixes, and PR submissions
+- <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a> (**Codeium**) - AI coding assistant with million-token context for high-quality code completion
+- <a href="https://supermaven.com/" target="_blank">Supermaven</a> (**Supermaven**) - Ultra-fast AI programming assistant with million-token context providing high-quality code completion
+- <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI**) - AI programming assistant providing real-time intelligent completion, documentation, and debugging suggestions
+- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment**) - AI coding agent platform that automatically improves code quality through local + cloud intelligence in IDE
+- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI**) - AI system that translates natural language into code, powering coding assistants
+- <a href="https://mutable.ai/" target="_blank">MutableAI</a> (**MutableAI**) - AI tools accelerating software development with auto-completion, documentation generation, and code refactoring
 
 ### Low-Code/No-Code Platforms
 
 _These platforms enable building applications with minimal or no coding through AI-powered natural language interfaces._
 
-- <a href="https://www.fine.dev/" target="_blank">Fine</a> (**Fine** · Latest) - AI-driven full-stack development platform that generates, deploys, and manages SaaS applications with one click
-- <a href="https://magic.dev/" target="_blank">Magic</a> (**Magic** · Latest) - Low-code full-stack generation platform that automatically generates and deploys SaaS applications from English descriptions
-- <a href="https://bolt.new/" target="_blank">Bolt</a> (**Bolt** · Latest) - Browser-based AI Agent that generates and deploys full-stack web applications through conversation
-- <a href="https://retool.com/" target="_blank">Retool</a> (**Retool** · Latest) - Low-code internal application builder that generates interfaces and business logic through natural language
-- <a href="https://lovable.dev/" target="_blank">Lovable</a> (**Lovable** · Latest) - Generates full-stack applications and website prototypes automatically through chat input
-- <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle** · Latest) - No-code tool for building AI agents, websites, and forms, supporting screenshot search
-- <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel** · Latest) - Conversational IDE that generates and deploys React/Svelte frontend projects with one click
-- <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy** · Latest) - AI-driven design platform that creates production-ready UI and outputs code with one click
-- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif** · Latest) - Lightweight generator platform for creating AI mini-apps, image/video generation, and comics
-- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a> (**Narrative BI** · Latest) - No-code generative BI platform that automatically converts data into natural language insights and anomaly alerts
-- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside** · Latest) - AI coding platform designed specifically for software engineering, using proprietary models for automatic code completion and generation
+- <a href="https://www.fine.dev/" target="_blank">Fine</a> (**Fine**) - AI-driven full-stack development platform that generates, deploys, and manages SaaS applications with one click
+- <a href="https://magic.dev/" target="_blank">Magic</a> (**Magic**) - Low-code full-stack generation platform that automatically generates and deploys SaaS applications from English descriptions
+- <a href="https://bolt.new/" target="_blank">Bolt</a> (**Bolt**) - Browser-based AI Agent that generates and deploys full-stack web applications through conversation
+- <a href="https://retool.com/" target="_blank">Retool</a> (**Retool**) - Low-code internal application builder that generates interfaces and business logic through natural language
+- <a href="https://lovable.dev/" target="_blank">Lovable</a> (**Lovable**) - Generates full-stack applications and website prototypes automatically through chat input
+- <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle**) - No-code tool for building AI agents, websites, and forms, supporting screenshot search
+- <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel**) - Conversational IDE that generates and deploys React/Svelte frontend projects with one click
+- <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy**) - AI-driven design platform that creates production-ready UI and outputs code with one click
+- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif**) - Lightweight generator platform for creating AI mini-apps, image/video generation, and comics
+- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a> (**Narrative BI**) - No-code generative BI platform that automatically converts data into natural language insights and anomaly alerts
+- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside**) - AI coding platform designed specifically for software engineering, using proprietary models for automatic code completion and generation
 
 ### Code Quality & Security Tools
 
 _These tools help improve code quality, security, and documentation through AI-powered analysis._
 
-- <a href="https://moderne.io/" target="_blank">Moderne</a> (**Moderne** · Latest) - Focuses on automatically identifying and patching security vulnerabilities in code
-- <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography** · Latest) - Uses AI technology to automatically generate documentation for code
+- <a href="https://moderne.io/" target="_blank">Moderne</a> (**Moderne**) - Focuses on automatically identifying and patching security vulnerabilities in code
+- <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography**) - Uses AI technology to automatically generate documentation for code
 - <a href="http://codiga.io/" target="_blank">Codiga</a> (**Codiga** · Latest) - Innovative code analysis platform for code quality improvement
 
 ## AI Search Tools
@@ -702,8 +702,21 @@ _These tools provide specialized services for AI agents including search, data e
 _These platforms provide data storage, memory, and ETL services for AI agents._
 
 ##### Memory
-- **Cognee** - Memory platform for agents
-- **Mem0** - Memory platform for agents
+
+_These platforms provide long-term memory and cognitive architecture for AI agents, enabling them to remember past interactions, maintain consistency, and build user understanding over time._
+
+- <a href="https://mem0.ai/" target="_blank">Mem0</a> (**Mem0**) - Universal memory layer for AI agents with automatic extraction, cleaning, and storage; hybrid vector+knowledge graph architecture; self-improving memory compression engine; LoCoMo score ~60-70%
+- <a href="https://www.getzep.com/" target="_blank">Zep</a> (**Zep**) - Enterprise-grade Memory Server with temporal knowledge graph architecture, Docker deployment, and enterprise-ready stability; systematically engineers relevant context from chat history and business data; LoCoMo score ~85%
+- <a href="https://github.com/MemTensor/MemOS" target="_blank">MemOS</a> (**MemOS**) - Memory operating system with neural tensor memory architecture (MemCube); three-layer system architecture (interface, operation, infrastructure); represents cutting-edge neural memory research
+- <a href="https://github.com/NevaMind-AI/memU" target="_blank">MemU</a> (**MemU**) - Structured memory system with hierarchical Memory Tree architecture (root, branch, leaf nodes); automatic classification and dynamic expansion; excels in user profiling, archival management, and structured tasks
+- <a href="https://github.com/EverMind-AI/EverMemOS" target="_blank">EverMemOS</a> (**EverMind**) - Second-generation Memory OS with bio-inspired four-layer memory architecture (classification extraction, MemCell atomic storage, event boundaries, multi-hop recall); LoCoMo SOTA 92.3%, first to exceed Full-context baseline
+- <a href="https://mirix.io/" target="_blank">Mirix</a> (**Mirix**) - Screen-level multimodal memory system capturing screen → behavior → events; monitors screen in real-time, builds personalized memory base with 85.38% LoCoMO accuracy and 99.9% storage reduction
+- <a href="https://www.memobase.io/" target="_blank">Memobase</a> (**Memobase**) - Profile-based long-term memory system for AI applications; handles user profiles, memory events, and evolving context; perfect for chatbots, companions, and user-centric AI apps
+- <a href="https://github.com/letta-ai/letta" target="_blank">Letta</a> (**Letta**) - Filesystem-style memory architecture for stateful agents; adds state to LLMs for advanced reasoning capabilities and transparent long-term memory; Agent File (.af) format for serializing stateful AI agents
+- <a href="https://memories.ai/" target="_blank">Memories.ai</a> (**Memories.ai**) - Video-level memory / LVMM (Large Visual Memory Model) for long-form video understanding; builds persistent visual memories that can be searched, connected, and reasoned about
+- <a href="https://supermemory.ai/" target="_blank">Supermemory</a> (**Supermemory**) - Knowledge graph-based hypermemory system with advanced graph reasoning; builds persistent learning graph that adapts to each user's knowledge; state-of-the-art performance on LongMemEval
+- <a href="https://github.com/langchain-ai/langmem" target="_blank">LangMem</a> (**LangChain**) - Official LangChain Memory SDK for building memory-enabled LLM applications; lightweight Python library that helps agents learn and improve through long-term memory
+- <a href="https://www.cognee.ai/" target="_blank">Cognee</a> (**Cognee**) - Open-source AI memory engine that transforms raw data into persistent and dynamic AI memory for agents; combines vector search with knowledge graphs; ECL (Extract, Cognify, Link) framework
 - **Zap** - Memory platform for agents
 
 ##### Storage
