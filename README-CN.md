@@ -1,4 +1,4 @@
-[English](README.md) | 中文
+<a href="README.md" target="_blank">English</a> | 中文
 
 # Awesome AI Tools
 
@@ -952,7 +952,7 @@ _这些是 AI 驱动的电子表格工具，提供智能数据分析和自动化
 
 ## 关于
 
-由 **<a href="https://alignify.co" target="_blank">Kostja</a>** 精心整理和维护。欢迎通过 [GitHub Issues](https://github.com/kostja94/awesome-ai-tools/issues) 或邮件 **zyjstc@gmail.com** 贡献
+由 **<a href="https://alignify.co" target="_blank">Kostja</a>** 精心整理和维护。欢迎通过 <a href="https://github.com/kostja94/awesome-ai-tools/issues" target="_blank">GitHub Issues</a> 或邮件 **zyjstc@gmail.com** 贡献
 
 ### 数据来源
 

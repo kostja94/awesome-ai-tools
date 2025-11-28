@@ -1,4 +1,4 @@
-﻿[English](README.md) | [中文](README-CN.md)
+﻿<a href="README.md" target="_blank">English</a> | <a href="README-CN.md" target="_blank">中文</a>
 
 # Awesome AI Tools
 
@@ -2005,7 +2005,7 @@ _These tools use AI to identify plants from photos and provide care guidance._
 
 ## About
 
-Curated and maintained by **<a href="https://alignify.co" target="_blank">Kostja</a>**. Contributions welcome via [GitHub Issues](https://github.com/kostja94/awesome-ai-tools/issues) or email: **zyjstc@gmail.com**
+Curated and maintained by **<a href="https://alignify.co" target="_blank">Kostja</a>**. Contributions welcome via <a href="https://github.com/kostja94/awesome-ai-tools/issues" target="_blank">GitHub Issues</a> or email: **zyjstc@gmail.com**
 
 ### Data Sources
 
