@@ -1919,7 +1919,7 @@ _These platforms use AI to assist in website design, UI/UX prototyping, and grap
 - <a href="https://www.canva.com/" target="_blank">Canva</a> (**Canva** · Latest) - Drag-and-drop multifunctional design platform with AI smart templates for social graphics, presentations, and video creation
 - <a href="https://designs.ai/" target="_blank">Designs.ai</a> (**Designs.ai** · Latest) - One-stop AI creative suite that automatically generates logos, images, videos, and marketing materials
 - <a href="https://molypix.ai/" target="_blank">MolyPix</a> (**MolyPix** · Latest) - AI-driven graphic design, generating editable layered images from text prompts
-- <a href="https://labs.google.com/pomelli/about/" target="_blank">Pomelli</a> (**Google Labs**) - AI design tool that analyzes website URLs and generates corresponding marketing materials for businesses
+- <a href="https://labs.google.com/pomelli/about/" target="_blank">Pomelli</a> (**Google Labs**) - AI design tool that analyzes website URLs and generates corresponding on-brand marketing materials for businesses
 
 ## AI Story & Book Generation
 
