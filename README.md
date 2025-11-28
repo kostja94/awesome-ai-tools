@@ -610,7 +610,6 @@ _These are foundational AI coding agents and IDEs that provide end-to-end code g
 - <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware**) - Browser-based AI tool development IDE supporting natural language programming, LLM orchestration, and multimodal agent building
 - <a href="https://kiro.dev/" target="_blank">Kiro</a> (**Kiro**) - Agentic AI IDE and CLI with spec-driven development, helping developers go from prototype to production with structured requirements, architectural designs, and discrete task implementation
 - <a href="https://antigravity.google/" target="_blank">Google Antigravity</a> (**Google**) - AI IDE core with tab autocompletion, natural language code commands, configurable context-aware agents, and cross-surface agentic control across editor, terminal, and browser
-- <a href="https://labs.google.com/pomelli/about/" target="_blank">Pomelli</a> (**Google Labs**) - AI-powered content generation tool for businesses
 
 ### Code Completion Tools
 
@@ -1920,6 +1919,7 @@ _These platforms use AI to assist in website design, UI/UX prototyping, and grap
 - <a href="https://www.canva.com/" target="_blank">Canva</a> (**Canva** · Latest) - Drag-and-drop multifunctional design platform with AI smart templates for social graphics, presentations, and video creation
 - <a href="https://designs.ai/" target="_blank">Designs.ai</a> (**Designs.ai** · Latest) - One-stop AI creative suite that automatically generates logos, images, videos, and marketing materials
 - <a href="https://molypix.ai/" target="_blank">MolyPix</a> (**MolyPix** · Latest) - AI-driven graphic design, generating editable layered images from text prompts
+- <a href="https://labs.google.com/pomelli/about/" target="_blank">Pomelli</a> (**Google Labs**) - AI design tool that analyzes website URLs and generates corresponding marketing materials for businesses
 
 ## AI Story & Book Generation
 

@@ -303,6 +303,8 @@ _这些是基础的 AI 编程代理和 IDE，提供端到端的代码生成和�
 - <a href="https://stackblitz.com/" target="_blank">StackBlitz</a> (**StackBlitz**) - 基于浏览器的一体化全栈 IDE，用 WebAssembly 启动 Node.js，适合即时构建和协作开发
 - <a href="https://www.reflection.ai/" target="_blank">Reflection AI</a> (**Reflection AI**) - 打造具自主决策能力的"超智能"编程 AI，可模拟人类开发过程
 - <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware**) - 基于浏览器的 AI 工具开发 IDE，支持自然语言编程、LLM 编排与多模态 agent 构建
+- <a href="https://kiro.dev/" target="_blank">Kiro</a> (**Kiro**) - 代理式 AI IDE 和 CLI，支持规范驱动开发，帮助开发者从原型到生产，提供结构化需求、架构设计和离散任务实现
+- <a href="https://antigravity.google/" target="_blank">Google Antigravity</a> (**Google**) - AI IDE 核心，提供标签自动补全、自然语言代码命令、可配置的上下文感知代理，以及跨编辑器、终端和浏览器的代理控制
 
 ### 代码补全工具
 
