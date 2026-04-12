@@ -1442,6 +1442,7 @@ _These tools help optimize website content, keywords, and SEO performance._
 - <a href="https://www.clearscope.io/" target="_blank">Clearscope</a> (**Clearscope** · Latest) - Content-first AI SEO tool with keyword optimization and competitive analysis to drive traffic growth
 - <a href="https://byword.ai/" target="_blank">Byword</a> (**Byword** · Latest) - AI SEO writing assistant that generates high-quality, structured, and ranking-optimized copy with one click
 - <a href="https://frase.io/" target="_blank">Frase</a> (**Frase** · Latest) - SEO content optimization and AI writing tool combining expert strategies with automated content generation
+- <a href="https://github.com/nowork-studio/toprank" target="_blank">Toprank</a> (**Toprank** · Latest) - Open-source Claude Code plugin connecting Search Console, PageSpeed Insights, and Google Ads to automate SEO fixes, schema markup, bid updates, and CMS publishing
 
 ### SEO Localization Tools
 
