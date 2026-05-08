@@ -164,16 +164,16 @@ _These are foundational large language models that can be accessed via API. Many
 - <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 2 / 3) - AI company founded by Elon Musk, developing Grok chat model and exploring explainable intelligence
 - <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · 3.5 Sonnet / 3 Opus) - LLM developer focused on safety and controllability, with Claude series as representative products
 - <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 4o / 4.5 / o3 / o1) - AI research and deployment pioneer, committed to making AGI benefit all humanity
-- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · 3 Max) - Large language model
-- <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> (**Moonshot AI** · K2) - Large language model with strong article summarization capabilities
-- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM</a> (**Z.ai** · 4 / 4-Plus) - Large language model
+- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba**) - Large language model
+- <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> (**Moonshot AI** · K2.6) - Large language model with strong article summarization capabilities
+- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM</a> (**Z.ai** · 5.1) - Large language model
 - <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · V3 / R1) - Large language model
-- <a href="https://llama.meta.com/" target="_blank">Llama</a> (**Meta** · Latest) - Meta's open-source large language model series, lightweight and efficient with multimodal capabilities
-- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> (**MiniMax** · Latest) - Large language model
+- <a href="https://llama.meta.com/" target="_blank">Llama</a> (**Meta**) - Meta's open-source large language model series, lightweight and efficient with multimodal capabilities
+- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> (**MiniMax** · M2.7) - Large language model
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · Latest) - Large language model
-- <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI** · Latest) - French open-source LLM innovator, Mistral models enhance chain-of-thought reasoning
-- <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> (**Google** · Latest) - Large language model
-- <a href="https://aleph-alpha.com" target="_blank">Luminous</a> (**Aleph Alpha** · Latest) - Strong AI technology research, supporting multilingual text and image analysis
+- <a href="https://mistral.ai/" target="_blank">Mistral</a> (**Mistral AI**) - French open-source LLM innovator, Mistral models enhance chain-of-thought reasoning
+- <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> (**Google**) - Large language model
+- <a href="https://aleph-alpha.com" target="_blank">Luminous</a> (**Aleph Alpha**) - Strong AI technology research, supporting multilingual text and image analysis
 
 ### Web Development LLMs
 
@@ -184,10 +184,10 @@ _These are large language models optimized for web development tasks that can be
 - <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · Latest) - Optimized for web development tasks
 - <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a> (**Anthropic** · Latest) - Optimized for web development with thinking capabilities
 - <a href="https://openai.com/index/gpt-4o/" target="_blank">GPT-4o</a> (**OpenAI** · Latest) - Advanced model for web development
-- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM-4</a> (**Z.ai** · Latest) - Open-source MIT licensed model optimized for coding
-- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - Optimized for web development tasks
+- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM-5.1</a> (**Z.ai** · Latest) - Open-source MIT licensed model optimized for coding
+- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2.6 Thinking</a> (**MoonshotAI** · Turbo) - Optimized for web development tasks
 - <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · Latest) - Specialized code generation model
-- <a href="https://www.minimax.io/" target="_blank">MiniMax-Text-01</a> (**MiniMax** · Latest) - Open-source Apache 2.0 licensed model
+- <a href="https://www.minimax.io/" target="_blank">MiniMax M2.7</a> (**MiniMax** · Latest) - Open-source Apache 2.0 licensed model
 - <a href="https://api-docs.deepseek.com/" target="_blank">DeepSeek-V3</a> (**DeepSeek AI** · Latest) - Open-source MIT licensed model
 - <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> (**Alibaba** · 32B) - Specialized coding model with Apache 2.0 license
 
@@ -634,17 +634,11 @@ _These tools help improve code quality, security, and documentation through AI-p
 
 _These are large language models with integrated web search capabilities, providing real-time information retrieval, external knowledge, and grounded citations._
 
-- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a> (**xAI** · Latest) - Search-enhanced LLM providing fast and accurate search results
 - <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM combining search engine with LLM for real-time web retrieval
 - <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a> (**Google** · Latest) - Search-enhanced LLM providing real-time information with grounded citations
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM providing real-time information retrieval and external knowledge
-- <a href="https://docs.x.ai/developers/tools/web-search" target="_blank">Grok-4-Search</a> (**xAI** · Latest) - Search-enhanced LLM providing fast search capabilities
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM providing real-time information retrieval
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM providing real-time information with external knowledge
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a> (**Anthropic** · Latest) - Search-enhanced LLM providing high-quality search results
 - <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a> (**Perplexity** · Latest) - Search-enhanced LLM combining reasoning with search capabilities
 - <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a> (**Diffbot** · Latest) - Search-enhanced LLM, open-source Apache 2.0 licensed model
-- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a> (**OpenAI** · Latest) - Search-enhanced LLM providing search capabilities via API
+- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o Search Preview</a> (**OpenAI** · Latest) - Search-enhanced LLM providing search capabilities via API
 
 ### AI Search APIs & Infrastructure
 
@@ -818,7 +812,7 @@ _These platforms provide enterprise-grade AI infrastructure and multi-model API 
 _These platforms provide easy access to multiple AI models through user-friendly interfaces._
 
 - <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · Latest) - Platform providing access to multiple AI models through a unified interface
-- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · Latest) - All-in-one AI assistant integrating multiple AI models, supporting GPT-5.1, Claude 4.5, Gemini 3 Pro, and more, providing chat, search, writing, image generation, video generation, and coding features
+- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · Latest) - All-in-one AI assistant integrating multiple AI models, supporting GPT-4o, Claude 3.5, Gemini 2.5 Pro, and more, providing chat, search, writing, image generation, video generation, and coding features
 - <a href="http://generativeai.net/" target="_blank">Generative AI</a> (**Generative AI** · Latest) - Online courses and information platform for generative AI education and resources
 
 ## AI Infrastructure & GPU Cloud

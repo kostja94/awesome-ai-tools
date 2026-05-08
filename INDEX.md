@@ -214,17 +214,11 @@ Quick reference index of all products in this repository.
 ### AI Search Tools
 
 #### Search-Enhanced LLMs
-- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a>
 - <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a>
 - <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a>
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a>
-- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a>
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a>
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a>
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a>
 - <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a>
 - <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a>
-- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a>
+- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o Search Preview</a>
 
 #### AI Search APIs & Infrastructure
 - <a href="https://exa.ai/" target="_blank">Exa.ai</a>

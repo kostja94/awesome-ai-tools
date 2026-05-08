@@ -641,17 +641,11 @@ _这些工具通过 AI 驱动的分析帮助提高代码质量、安全性和文
 
 _这些是集成网络搜索功能的大语言模型，提供实时信息检索、外部知识和引用来源。_
 
-- <a href="https://x.ai/news/grok-4-fast" target="_blank">Grok-4-Fast-Search</a> (**xAI** · 最新版) - 搜索增强型 LLM，提供快速准确的搜索结果
 - <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Pro High</a> (**Perplexity** · 最新版) - 搜索增强型 LLM，结合搜索引擎与 LLM 实现实时网络检索
 - <a href="https://ai.google.dev/gemini-api/docs/google-search" target="_blank">Gemini 2.5 Pro Grounding</a> (**Google** · 最新版) - 搜索增强型 LLM，提供带引用来源的实时信息
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">O3-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，提供实时信息检索和外部知识
-- <a href="https://docs.x.ai/docs/guides/live-search" target="_blank">Grok-4-Search</a> (**xAI** · 最新版) - 搜索增强型 LLM，提供快速搜索功能
-- <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses" target="_blank">GPT-5-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，提供实时信息检索
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4.1 Search</a> (**Anthropic** · 最新版) - 搜索增强型 LLM，提供带外部知识的实时信息
-- <a href="https://www.anthropic.com/news/claude-opus-4-1" target="_blank">Claude Opus 4 Search</a> (**Anthropic** · 最新版) - 搜索增强型 LLM，提供高质量搜索结果
 - <a href="https://docs.perplexity.ai/getting-started/overview" target="_blank">Perplexity Sonar Reasoning Pro High</a> (**Perplexity** · 最新版) - 搜索增强型 LLM，结合推理与搜索功能
 - <a href="https://github.com/diffbot/diffbot-llm-inference" target="_blank">Diffbot Small XL</a> (**Diffbot** · 最新版) - 搜索增强型 LLM，开源 Apache 2.0 许可模型
-- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o-Search</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，通过 API 提供搜索功能
+- <a href="https://platform.openai.com/docs/models/gpt-4o-search-preview" target="_blank">GPT-4o Search Preview</a> (**OpenAI** · 最新版) - 搜索增强型 LLM，通过 API 提供搜索功能
 
 ### AI 搜索 API 与基础设施
 
@@ -773,7 +767,7 @@ _这些平台提供企业级 AI 基础设施和多模型 API 访问，适用于�
 _这些平台通过用户友好的界面提供对多个 AI 模型的便捷访问。_
 
 - <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · 最新版) - 通过统一界面访问多个 AI 模型的平台
-- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · 最新版) - 集成多种 AI 模型的全能助手，支持 GPT-5.1、Claude 4.5、Gemini 3 Pro 等，提供聊天、搜索、写作、图像生成、视频生成和编码功能
+- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · 最新版) - 集成多种 AI 模型的全能助手，支持 GPT-4o、Claude 3.5、Gemini 2.5 Pro 等，提供聊天、搜索、写作、图像生成、视频生成和编码功能
 
 ## AI Agent 基础设施
 
