@@ -6,7 +6,7 @@ Quick reference index of all products in this repository.
 
 | Product Name | Category | Link | Status |
 |-------------|----------|------|--------|
-| Gemini by Google | AI Image Tools | <a href="https://ai.studio/banana" target="_blank">Link</a> | Active |
+| Gemini by Google | AI Image Tools | <a href="https://aistudio.google.com/" target="_blank">Link</a> | Active |
 | Tencent Hunyuan | AI Image Tools | <a href="https://hunyuan.tencent.com/image/en" target="_blank">Link</a> | Active |
 | Imagen by Google | AI Image Tools | <a href="https://deepmind.google/models/imagen/" target="_blank">Link</a> | Active |
 | Seedream by ByteDance | AI Image Tools | <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Link</a> | Active |
@@ -19,7 +19,7 @@ Quick reference index of all products in this repository.
 | Ideogram | AI Image Tools | <a href="https://ideogram.ai/" target="_blank">Link</a> | Active |
 | Stability AI | AI Image Tools | <a href="https://stability.ai/" target="_blank">Link</a> | Active |
 | Midjourney | AI Image Tools | <a href="https://www.midjourney.com/" target="_blank">Link</a> | Active |
-| Reve | AI Image Tools | <a href="https://reve.art/" target="_blank">Link</a> | Active |
+| Reve | AI Image Tools | <a href="https://reve.com/" target="_blank">Link</a> | Active |
 | Leonardo AI | AI Image Tools | <a href="https://leonardo.ai/" target="_blank">Link</a> | Active |
 | Recraft | AI Image Tools | <a href="https://www.recraft.ai/" target="_blank">Link</a> | Active |
 | Adobe Firefly | AI Image Tools | <a href="https://www.adobe.com/products/firefly.html" target="_blank">Link</a> | Active |
@@ -30,17 +30,17 @@ Quick reference index of all products in this repository.
 ### Large Language Models (LLMs)
 
 #### Web Development LLMs
-- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a>
-- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a>
-- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a>
-- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a>
-- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a>
-- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a>
+- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a>
+- <a href="https://aistudio.google.com/app/apps/drive/1aKtDr0KS2rR-zK3U30lz1WopLUOzQK1A?showPreview=true&showAssistant=true&fullscreenApplet=true" target="_blank">Gemini 2.5 Pro</a>
+- <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a>
+- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a>
+- <a href="https://openai.com/index/gpt-4o/" target="_blank">GPT-4o</a>
+- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM-4</a>
 - <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a>
-- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a>
-- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a>
-- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a>
-- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a>
+- <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a>
+- <a href="https://www.minimax.io/" target="_blank">MiniMax-Text-01</a>
+- <a href="https://api-docs.deepseek.com/" target="_blank">DeepSeek-V3</a>
+- <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a>
 
 #### General Purpose LLMs
 - <a href="https://gemini.google.com/" target="_blank">Gemini</a>
@@ -49,7 +49,7 @@ Quick reference index of all products in this repository.
 - <a href="https://openai.com/" target="_blank">GPT</a>
 - <a href="https://chat.qwen.ai/" target="_blank">Qwen</a>
 - <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a>
-- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM</a>
+- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM</a>
 - <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a>
 - <a href="https://llama.meta.com/" target="_blank">Llama</a>
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a>
@@ -61,7 +61,7 @@ Quick reference index of all products in this repository.
 ### AI Image Tools
 
 #### Text-to-Image Models
-- <a href="https://ai.studio/banana" target="_blank">Gemini by Google</a>
+- <a href="https://aistudio.google.com/" target="_blank">Gemini by Google</a>
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan</a>
 - <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen by Google</a>
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream by ByteDance</a>
@@ -74,18 +74,18 @@ Quick reference index of all products in this repository.
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a>
 - <a href="https://stability.ai/" target="_blank">Stability AI</a>
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a>
-- <a href="https://reve.art/" target="_blank">Reve</a>
+- <a href="https://reve.com/" target="_blank">Reve</a>
 - <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a>
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a>
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a>
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a>
 
 #### Image-to-Image Models
-- <a href="https://ai.studio/banana" target="_blank">Gemini by Google</a>
+- <a href="https://aistudio.google.com/" target="_blank">Gemini by Google</a>
 - <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream by ByteDance</a>
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a>
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit by Alibaba</a>
-- <a href="https://reve.art/" target="_blank">Reve</a>
+- <a href="https://reve.com/" target="_blank">Reve</a>
 - <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext by Black Forest Labs</a>
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a>
 - <a href="https://www.hidream.ai/" target="_blank">HiDream</a>
@@ -101,7 +101,7 @@ Quick reference index of all products in this repository.
 - <a href="https://hailuoai.video/" target="_blank">Hailuo by MiniMax</a>
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance</a>
 - <a href="https://wan.video/" target="_blank">WAN by Alibaba</a>
-- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a>
+- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan by Tencent</a>
 - <a href="https://pika.art/" target="_blank">Pika</a>
 - <a href="https://www.genmo.ai/" target="_blank">Mochi by Genmo AI</a>
 
@@ -117,7 +117,7 @@ Quick reference index of all products in this repository.
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance by ByteDance Seed</a>
 - <a href="https://wan.video/" target="_blank">WAN by Alibaba</a>
 - <a href="https://lumalabs.ai/ray" target="_blank">Ray by Luma Labs</a>
-- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan by Tencent</a>
+- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan by Tencent</a>
 - <a href="https://www.animon.ai/" target="_blank">Animon</a>
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a>
 - <a href="https://www.hidream.ai/" target="_blank">Vivago by HiDream</a>
@@ -142,7 +142,7 @@ Quick reference index of all products in this repository.
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a>
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a>
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a>
-- <a href="https://stepfun.com/" target="_blank">StepFun TTS</a>
+- <a href="https://www.stepfun.com/" target="_blank">StepFun TTS</a>
 
 #### Speech-to-Text (ASR) Models
 - <a href="https://aws.amazon.com/transcribe/" target="_blank">Amazon Transcribe</a>
@@ -162,7 +162,7 @@ Quick reference index of all products in this repository.
 #### Music Generation Models
 - <a href="https://suno.ai/" target="_blank">Suno</a>
 - <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a>
-- <a href="https://udio.com/" target="_blank">Udio</a>
+- <a href="https://www.udio.com/" target="_blank">Udio</a>
 - <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a>
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a>
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a>
@@ -177,7 +177,7 @@ Quick reference index of all products in this repository.
 ### AI Coding Tools
 
 #### AI Coding Agents & IDEs
-- <a href="https://www.cursor.com/" target="_blank">Cursor</a>
+- <a href="https://cursor.com/" target="_blank">Cursor</a>
 - <a href="https://devin.ai/" target="_blank">Devin</a>
 - <a href="https://replit.com/" target="_blank">Replit</a>
 - <a href="https://www.trae.ai/" target="_blank">Trae</a>
@@ -207,7 +207,7 @@ Quick reference index of all products in this repository.
 - <a href="https://poolside.ai/" target="_blank">Poolside</a>
 
 #### Code Quality & Security Tools
-- <a href="https://moderne.io/" target="_blank">Moderne</a>
+- <a href="https://www.moderne.io/" target="_blank">Moderne</a>
 - <a href="https://stenography.dev/" target="_blank">Stenography</a>
 - <a href="http://codiga.io/" target="_blank">Codiga</a>
 
@@ -276,7 +276,7 @@ Quick reference index of all products in this repository.
 - <a href="https://replicate.com/" target="_blank">Replicate</a>
 - <a href="https://huggingface.co/" target="_blank">Hugging Face</a>
 - <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a>
-- <a href="https://requesty.ai/" target="_blank">Requesty</a>
+- <a href="https://www.requesty.ai/" target="_blank">Requesty</a>
 - <a href="https://www.edenai.co/" target="_blank">Eden AI</a>
 
 #### For Enterprises
@@ -322,7 +322,7 @@ Quick reference index of all products in this repository.
 
 #### AI Training & Billing Tools
 - <a href="https://metronome.com/" target="_blank">Metronome</a>
-- <a href="https://neptune.ai/" target="_blank">Neptune.ai</a>
+- <a href="https://openai.com/index/openai-to-acquire-neptune/" target="_blank">Neptune.ai</a>
 - <a href="https://arize.com/" target="_blank">Arize AI</a>
 
 #### Backend-as-a-Service
@@ -368,7 +368,7 @@ Quick reference index of all products in this repository.
 
 ### AI Presentation Tools
 - <a href="https://gamma.app/" target="_blank">Gamma</a>
-- <a href="https://tome.app/" target="_blank">Tome</a>
+- ~~Tome~~ [已下线]
 - <a href="https://www.beautiful.ai/" target="_blank">Beautiful.ai</a>
 - <a href="https://slidesgo.com/" target="_blank">Slidesgo</a>
 - <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a>
@@ -378,7 +378,7 @@ Quick reference index of all products in this repository.
 ### AI 3D Model Generation
 
 #### Text-to-3D Models
-- <a href="https://lumalabs.ai/genie" target="_blank">Luma Genie</a>
+- <a href="https://lumalabs.ai/" target="_blank">Luma Genie</a>
 - <a href="https://csm.ai/" target="_blank">CSM AI</a>
 - <a href="https://spline.design/" target="_blank">Spline AI</a>
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a>
@@ -426,7 +426,7 @@ Quick reference index of all products in this repository.
 
 #### Specialized Chatbots
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a>
-- <a href="https://www.heeyo.ai/" target="_blank">Heeyo AI</a>
+- ~~Heeyo AI~~ [已下线]
 
 ### AI Agents
 
@@ -500,7 +500,7 @@ Quick reference index of all products in this repository.
 - <a href="https://datasquirrel.ai/" target="_blank">DataSquirrel</a>
 - <a href="https://datachat.ai/" target="_blank">DataChat</a>
 - <a href="https://vizly.fyi/" target="_blank">Vizly</a>
-- <a href="https://www.morphdb.io/" target="_blank">Morph</a>
+- <a href="https://www.morph-data.io/" target="_blank">Morph</a>
 - <a href="https://datagpt.com/" target="_blank">DataGPT</a>
 - <a href="https://www.kater.ai/" target="_blank">Kater</a>
 - <a href="https://deepnote.com/" target="_blank">Deepnote</a>
@@ -508,7 +508,7 @@ Quick reference index of all products in this repository.
 
 #### Synthetic Data
 - <a href="https://aindo.com" target="_blank">Aindo</a>
-- <a href="https://gretel.ai" target="_blank">Gretel AI</a>
+- <a href="https://www.gretel.ai/" target="_blank">Gretel AI</a>
 - <a href="https://www.syntho.ai" target="_blank">Syntho</a>
 - <a href="https://mostly.ai" target="_blank">Mostly AI</a>
 - <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a>
@@ -588,7 +588,7 @@ Quick reference index of all products in this repository.
 - <a href="https://www.airops.com/" target="_blank">Airops</a>
 - <a href="https://www.clearscope.io/" target="_blank">Clearscope</a>
 - <a href="https://byword.ai/" target="_blank">Byword</a>
-- <a href="https://frase.io/" target="_blank">Frase</a>
+- <a href="https://www.frase.io/" target="_blank">Frase</a>
 
 #### SEO Localization Tools
 - <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a>
@@ -639,7 +639,7 @@ Quick reference index of all products in this repository.
 - <a href="https://composio.dev/" target="_blank">Composio.dev</a>
 - <a href="https://www.uipath.com/" target="_blank">UiPath</a>
 - <a href="https://www.induced.ai/" target="_blank">Induced</a>
-- <a href="https://www.stagehand.dev/" target="_blank">Stagehand</a>
+- <a href="https://www.browserbase.com/stagehand" target="_blank">Stagehand</a>
 - <a href="https://www.browserless.io/" target="_blank">Browserless</a>
 
 #### Enterprise AI Assistants

@@ -14,14 +14,28 @@
 - 🖼️ [AI 图像工具](#ai-图像工具)
   - [文生图大模型](#文生图大模型)
   - [图生图大模型](#图生图大模型)
+  - [图像编辑工具](#图像编辑工具)
 - 📽️ [AI 视频工具](#ai-视频工具)
   - [文生视频大模型](#文生视频大模型)
   - [图生视频大模型](#图生视频大模型)
+  - [视频编辑工具](#视频编辑工具)
+  - [虚拟人与形象生成](#虚拟人与形象生成)
+  - [视频翻译与本地化工具](#视频翻译与本地化工具)
+  - [电影制作工具](#电影制作工具)
+  - [短剧平台](#短剧平台)
 - 🎶 [AI 音频工具](#ai-音频工具)
   - [文字转语音 (TTS) 大模型](#文字转语音-tts-大模型)
   - [语音转文字 (ASR) 大模型](#语音转文字-asr-大模型)
   - [音乐生成大模型](#音乐生成大模型)
+  - [音乐生成工具](#音乐生成工具)
+  - [变声工具](#变声工具)
+  - [语音服务与应用](#语音服务与应用)
+  - [语音代理平台](#语音代理平台)
+  - [转录工具](#转录工具)
+  - [声音设计工具](#声音设计工具)
+  - [音频创作工具](#音频创作工具)
   - [播客托管平台](#播客托管平台)
+  - [播客工具](#播客工具)
 - 💻 [AI 编程工具](#ai-编程工具)
   - [AI 编程代理与 IDE](#ai-编程代理与-ide)
   - [代码补全工具](#代码补全工具)
@@ -35,6 +49,10 @@
   - [电商搜索助手](#电商搜索助手)
   - [AI 人员与公司搜索](#ai-人员与公司搜索)
   - [AI 浏览器](#ai-浏览器)
+  - [AI 购物工具](#ai-购物工具)
+- 🔬 [AI 内容检测工具](#ai-内容检测工具)
+- 👁️ [AI 识别工具](#ai-识别工具)
+  - [植物识别](#植物识别)
 - 🔗 [AI 聚合平台](#ai-聚合平台)
   - [面向开发者](#面向开发者)
   - [面向企业](#面向企业)
@@ -57,6 +75,8 @@
 - 📊 [AI 演示文稿工具](#ai-演示文稿工具)
 - 🎨 [AI 设计工具](#ai-设计工具)
 - 📚 [AI 故事书生成](#ai-故事书生成)
+  - [网络小说平台](#网络小说平台)
+  - [书籍摘要平台](#书籍摘要平台)
 - 💬 [对话智能](#对话智能)
 - 📈 [销售与营销内容](#销售与营销内容)
 - 🎨 [AI 3D 模型生成](#ai-3d-模型生成)
@@ -66,6 +86,7 @@
   - [无代码 3D 创作工具](#无代码-3d-创作工具)
   - [3D CAD 与制造工具](#3d-cad-与制造工具)
   - [概念艺术与创意工具](#概念艺术与创意工具)
+  - [动作捕捉工具](#动作捕捉工具)
 - 💬 [AI 聊天机器人](#ai-聊天机器人)
   - [角色聊天机器人](#角色聊天机器人)
   - [NSFW 聊天机器人](#nsfw-聊天机器人)
@@ -97,8 +118,11 @@
   - [工作流自动化](#工作流自动化)
   - [数据可视化](#数据可视化)
   - [内容创作](#内容创作)
+  - [写作助手](#写作助手)
   - [企业 AI 助手](#企业-ai-助手)
   - [AI 聊天助手](#ai-聊天助手)
+  - [会议记录与转录](#会议记录与转录)
+  - [专业速记工具](#专业速记工具)
 - 💰 [AI 金融与会计工具](#ai-金融与会计工具)
   - [财务运营与会计](#财务运营与会计)
   - [金融分析与情报](#金融分析与情报)
@@ -107,6 +131,25 @@
   - [GEO (Google E-E-A-T 优化) 工具](#geo-google-e-e-a-t-优化-工具)
   - [SEO 优化工具](#seo-优化工具)
   - [SEO 本地化工具](#seo-本地化工具)
+- 🏥 [AI 医疗速记工具](#ai-医疗速记工具)
+  - [通用医疗](#通用医疗)
+  - [心理健康](#心理健康)
+  - [兽医](#兽医)
+  - [居家护理](#居家护理)
+  - [物理治疗](#物理治疗)
+- 💬 [客服平台](#客服平台)
+- ⚖️ [AI 法律工具](#ai-法律工具)
+- 🏥 [AI 医疗保健工具](#ai-医疗保健工具)
+- 🛡️ [AI 国防与军事](#ai-国防与军事)
+- 🚨 [AI 应急响应](#ai-应急响应)
+- 🔗 [个人主页链接工具](#个人主页链接工具)
+- 📊 [AI 模型评估](#ai-模型评估)
+- ✈️ [AI 旅游工具](#ai-旅游工具)
+- 🎮 [AI 游戏工具](#ai-游戏工具)
+  - [游戏开发与测试工具](#游戏开发与测试工具)
+  - [元宇宙平台](#元宇宙平台)
+- 🎉 [AI 活动策划工具](#ai-活动策划工具)
+- 📋 [AI 用户研究工具](#ai-用户研究工具)
 - 🏢 [垂直领域解决方案](#垂直领域解决方案)
 - 🎥 [屏幕录制工具](#屏幕录制工具)
 - 📊 [AI 电子表格工具](#ai-电子表格工具)
@@ -117,14 +160,14 @@
 
 _这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都是基于这些模型构建的。_
 
-- <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 3.0 Pro / 2.5 Pro) - Google DeepMind 的多模态大模型，支持文字、图像、音频甚至视频输入
-- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 4.1) - 埃隆·马斯克创办的 AI 公司，开发 Grok 聊天模型并探索解释型智能
-- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · Opus 4.5 / Sonnet 4.5 / Opus 4.1) - 主打安全与可控性的 LLM 开发商，其 Claude 系列也是代表产品
-- <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 5.1 / 5 / 4.5 / 4o) - AI 研究和部署先锋，致力于让通用人工智能造福全人类
+- <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 2.5 Pro / 2.5 Flash) - Google DeepMind 的多模态大模型，支持文字、图像、音频甚至视频输入
+- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 2 / 3) - 埃隆·马斯克创办的 AI 公司，开发 Grok 聊天模型并探索解释型智能
+- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · 3.5 Sonnet / 3 Opus) - 主打安全与可控性的 LLM 开发商，其 Claude 系列也是代表产品
+- <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 4o / 4.5 / o3 / o1) - AI 研究和部署先锋，致力于让通用人工智能造福全人类
 - <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · 3 Max) - 大语言模型
 - <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> (**Moonshot AI** · K2) - 大语言模型，文章总结能力较强
-- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM</a> (**Z.ai** · 4.6) - 大语言模型
-- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · v3.2) - 大语言模型
+- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM</a> (**Z.ai** · 4 / 4-Plus) - 大语言模型
+- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · V3 / R1) - 大语言模型
 - <a href="https://llama.meta.com/" target="_blank">Llama</a> (**Meta** · 最新版) - Meta 推出的开源大语言模型系列，轻量高效覆盖多模态功能
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> (**MiniMax** · 最新版) - 大语言模型
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 大语言模型
@@ -136,17 +179,17 @@ _这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都�
 
 _这些是针对 Web 开发任务优化的大语言模型，可通过 API 调用。许多 AI 编程应用都是基于这些模型构建的。_
 
-- <a href="https://www.anthropic.com/news/claude-opus-4-5" target="_blank">Claude Opus 4.5</a> (**Anthropic** · 20251101) - 针对 Web 开发任务优化，具备思考能力
-- <a href="https://aistudio.google.com/app/prompts/new_chat?model=gemini-3-pro-preview" target="_blank">Gemini 3 Pro</a> (**Google** · 最新版) - 针对 Web 开发优化的多模态模型
-- <a href="https://platform.openai.com/docs/models/gpt-5" target="_blank">GPT-5 Medium</a> (**OpenAI** · 最新版) - 针对 Web 开发任务优化
-- <a href="https://www.anthropic.com/news/claude-sonnet-4-5" target="_blank">Claude Sonnet 4.5</a> (**Anthropic** · 20250929) - 针对 Web 开发优化，具备思考能力
-- <a href="https://openai.com/index/gpt-5-1/" target="_blank">GPT-5.1</a> (**OpenAI** · 最新版) - 先进的 Web 开发模型
-- <a href="https://docs.z.ai/guides/llm/glm-4.6" target="_blank">GLM-4.6</a> (**Z.ai** · 最新版) - 开源 MIT 许可模型，针对编码优化
+- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a> (**Anthropic** · 最新版) - 针对 Web 开发任务优化，具备思考能力
+- <a href="https://aistudio.google.com/app/apps/drive/1aKtDr0KS2rR-zK3U30lz1WopLUOzQK1A?showPreview=true&showAssistant=true&fullscreenApplet=true" target="_blank">Gemini 2.5 Pro</a> (**Google** · 最新版) - 针对 Web 开发优化的多模态模型
+- <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · 最新版) - 针对 Web 开发任务优化
+- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a> (**Anthropic** · 最新版) - 针对 Web 开发优化，具备思考能力
+- <a href="https://openai.com/index/gpt-4o/" target="_blank">GPT-4o</a> (**OpenAI** · 最新版) - 先进的 Web 开发模型
+- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM-4</a> (**Z.ai** · 最新版) - 开源 MIT 许可模型，针对编码优化
 - <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - 针对 Web 开发任务优化
-- <a href="https://platform.openai.com/docs/models/gpt-5.1-codex" target="_blank">GPT-5.1 Codex</a> (**OpenAI** · 最新版) - 专门的代码生成模型
-- <a href="https://www.minimax.io/news/minimax-m2" target="_blank">MiniMax M2</a> (**MiniMax** · 最新版) - 开源 Apache 2.0 许可模型
-- <a href="https://api-docs.deepseek.com/news/news250929" target="_blank">DeepSeek V3.2</a> (**DeepSeek AI** · Exp) - 开源 MIT 许可模型
-- <a href="https://qwenlm.github.io/blog/qwen3-coder" target="_blank">Qwen3 Coder</a> (**Alibaba** · 480B) - 专门的编码模型，Apache 2.0 许可
+- <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · 最新版) - 专门的代码生成模型
+- <a href="https://www.minimax.io/" target="_blank">MiniMax-Text-01</a> (**MiniMax** · 最新版) - 开源 Apache 2.0 许可模型
+- <a href="https://api-docs.deepseek.com/" target="_blank">DeepSeek-V3</a> (**DeepSeek AI** · 最新版) - 开源 MIT 许可模型
+- <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> (**Alibaba** · 32B) - 专门的编码模型，Apache 2.0 许可
 
 ## AI 图像工具
 
@@ -154,7 +197,7 @@ _这些是针对 Web 开发任务优化的大语言模型，可通过 API 调用
 
 _这些是基础的文生图大模型，可通过 API 调用。许多 AI 图像应用都是基于这些模型构建的。_
 
-- <a href="https://ai.studio/banana" target="_blank">Gemini</a> (**Google** · 3.0 Pro / 2.5 Flash) - Google 开发的文生图大模型
+- <a href="https://aistudio.google.com/" target="_blank">Gemini</a> (**Google** · 2.5 Pro / 2.5 Flash) - Google 开发的文生图大模型
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">腾讯混元</a> (**Tencent** · 3.0) - 腾讯开发的文生图大模型
 - <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen</a> (**Google** · 4.0 Ultra / 4.0) - Google DeepMind 开发的文生图大模型
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - 字节跳动开发的文生图大模型
@@ -167,7 +210,7 @@ _这些是基础的文生图大模型，可通过 API 调用。许多 AI 图像�
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> (**Stability AI** · v3.5) - 开源文生图大模型（Stable Diffusion），提供 API 访问
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> (**Ideogram** · v3) - 文生图大模型，擅长文字渲染
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · 最新版) - 以艺术性著称的文生图大模型
-- <a href="https://reve.art/" target="_blank">Reve</a> (**Reve** · v1) - 文生图大模型
+- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1) - 文生图大模型
 - <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> (**Leonardo AI** · Lucid Origin) - 文生图和视频生成大模型
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> (**Recraft** · v3) - 支持矢量和 mockups 的文生图大模型
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 最新版) - Adobe 开发的文生图大模型，与 Creative Cloud 集成
@@ -177,15 +220,53 @@ _这些是基础的文生图大模型，可通过 API 调用。许多 AI 图像�
 
 _这些是基础的图生图生成和编辑大模型，可通过 API 调用。许多 AI 图片编辑应用都是基于这些模型构建的。_
 
-- <a href="https://ai.studio/banana" target="_blank">Gemini</a> (**Google** · 3.0 Pro) - Google 开发的图片编辑大模型
+- <a href="https://aistudio.google.com/" target="_blank">Gemini</a> (**Google** · 2.5 Pro) - Google 开发的图片编辑大模型
 - <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - 字节跳动开发的图片编辑大模型
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image</a> (**OpenAI** · 1) - OpenAI 开发的图片编辑大模型
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit</a> (**Alibaba** · 最新版) - 阿里巴巴开发的图片编辑大模型
-- <a href="https://reve.art/" target="_blank">Reve</a> (**Reve** · v1) - 图片编辑大模型
+- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1) - 图片编辑大模型
 - <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext</a> (**Black Forest Labs** · 1 Kontext) - Black Forest Labs 开发的图片编辑大模型
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 5 Preview) - Adobe 开发的图片编辑大模型，与 Creative Cloud 集成
 - <a href="https://www.hidream.ai/" target="_blank">HiDream</a> (**HiDream** · 最新版) - 图片编辑大模型
 - <a href="https://www.stepfun.com/" target="_blank">StepFun</a> (**StepFun** · 最新版) - 图片编辑大模型
+
+### 图像编辑工具
+
+_这些平台提供 AI 驱动的图像编辑、增强、背景去除和创意编辑功能。_
+
+- <a href="https://www.remove.bg/" target="_blank">remove.bg</a> (**remove.bg**) - 一键自动去除背景，5 秒内生成透明或纯色背景图片
+- <a href="https://clipdrop.co/" target="_blank">Clipdrop</a> (**Clipdrop**) - AI 图像编辑套件，集成背景去除、变体生成和高级修复功能
+- <a href="https://skylum.com/" target="_blank">Skylum</a> (**Skylum**) - AI 照片编辑器，提供多功能增强、背景去除和灯光调整工具
+- <a href="https://www.fotor.com/" target="_blank">Fotor</a> (**Fotor**) - 在线 AI 编辑工具，支持一键增强、批量处理、背景去除和文生图
+- <a href="https://www.cutout.pro/" target="_blank">Cutout.Pro</a> (**Cutout.Pro**) - AI 图像处理平台，专注背景去除、图像修复和自动设计功能
+- <a href="https://pixlr.com/" target="_blank">Pixlr</a> (**Pixlr**) - 跨平台在线 AI 图像编辑器，支持生成、背景去除、增强和批量编辑
+- <a href="https://www.photoroom.com/" target="_blank">Photoroom</a> (**Photoroom**) - 专注产品图像背景去除和替换的 AI 工具，适用于电商和社交媒体图像创作
+- <a href="https://www.headshotpro.com/" target="_blank">HeadshotsPro</a> (**HeadshotsPro**) - AI 专业肖像生成和摄影服务，快速创建高质量证件照/商务头像
+- <a href="https://www.aragon.ai/" target="_blank">Aragon</a> (**Aragon**) - AI 生成专业级肖像头像，几分钟完成，无需摄影棚
+- <a href="https://www.florafauna.ai/" target="_blank">Flora</a> (**Flora**) - AI 图像编辑平台
+- <a href="https://civitai.com/" target="_blank">Civitai</a> (**Civitai**) - 开源 Stable Diffusion 模型社区，分享和下载各种生成模型
+- <a href="https://gencraft.com/" target="_blank">Gencraft</a> (**Gencraft**) - 多模型 AI 艺术生成器，一键从文本创建高清图像和视频
+- <a href="https://prequel.app/" target="_blank">Prequel</a> (**Prequel**) - AI 美颜效果编辑器，提供数百种照片和视频滤镜及 3D 效果
+- <a href="https://openart.ai/" target="_blank">OpenArt</a> (**OpenArt**) - 直观的图像生成编辑器，支持免提示词 AI 绘画和迭代
+- <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> (**FaceApp**) - 移动肖像 AI 编辑器，可改变年龄、发型和妆容
+- <a href="https://airbrush.com/" target="_blank">Airbrush</a> (**Airbrush**) - 移动/网页 AI 美颜和图像编辑工具，支持背景去除、美颜和滤镜功能
+- <a href="https://www.beautyplus.com/" target="_blank">BeautyPlus</a> (**BeautyPlus**) - 自拍和视频处理器，拥有 50+ AI 滤镜和一键美颜工具
+- <a href="https://remini.ai/" target="_blank">Remini</a> (**Remini**) - 一键 AI 增强工具，将旧照片或模糊照片/视频升级为高清质量
+- <a href="https://www.pixelcut.ai/" target="_blank">Pixelcut</a> (**Pixelcut**) - AI 图像编辑应用，支持一键背景去除、修饰、扩展和超分辨率处理
+- <a href="https://www.facetuneapp.com/" target="_blank">Facetune</a> (**Facetune**) - 移动图像处理应用，提供 AI 修饰、滤镜和美颜增强功能
+- <a href="https://www.craiyon.com/" target="_blank">Craiyon</a> (**Craiyon**) - 使用人工智能技术的 AI 图像生成平台
+- <a href="https://www.krea.ai/" target="_blank">KREA</a> (**KREA**) - AI 图像生成平台
+- <a href="https://zmo.ai/" target="_blank">ZMO</a> (**ZMO**) - 通过自然语言描述生成和编辑图像
+- <a href="https://picsart.com/" target="_blank">Picsart</a> (**Picsart**) - 集成 AI 图像生成和编辑工具，一体化创意编辑套件
+- <a href="https://www.basedlabs.ai/" target="_blank">BasedLabs</a> (**BasedLabs**) - 多模态创作平台，生成图像、视频和音频
+- <a href="https://vivago.ai/" target="_blank">Vivago AI</a> (**Vivago AI**) - 免费 AI 创作平台，支持文/图生视频和高质量图像编辑
+- <a href="https://creator.nightcafe.studio/" target="_blank">Nightcafe Studio</a> (**Nightcafe Studio**) - AI 艺术创作平台，支持多模型生成和社区分享
+- <a href="https://vizcom.ai/" target="_blank">Vizcom</a> (**Vizcom**) - AI 创意工具，快速生成高质量渲染图
+- <a href="https://spellbrush.com/" target="_blank">Spellbrush</a> (**Spellbrush**) - 利用人工智能和深度学习技术的插画平台
+- <a href="https://prismalabs.ai/" target="_blank">Prisma Labs</a> (**Prisma Labs**) - 专注深度学习相关产品的移动技术公司
+- <a href="https://kive.ai/" target="_blank">Kive</a> (**Kive**) - 创意平台，使用人工智能帮助用户组织和搜索视觉素材
+- <a href="https://nyx.gallery/" target="_blank">NyxAI</a> (**NyxAI**) - 利用人工智能生成摄影作品的平台
+- <a href="https://www.photalabs.com/" target="_blank">Phota Labs</a> (**Phota Labs**) - 摄影和照片一致性平台
 
 ## AI 视频工具
 
@@ -200,7 +281,7 @@ _这些是基础的文生视频大模型，可通过 API 调用。许多 AI 视�
 - <a href="https://hailuoai.video/" target="_blank">Hailuo</a> (**MiniMax** · 2.3) - MiniMax 开发的文生视频大模型
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance** · 1.0 Pro) - 字节跳动开发的文生视频大模型
 - <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的文生视频大模型
-- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的文生视频大模型
+- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的文生视频大模型
 - <a href="https://pika.art/" target="_blank">Pika</a> (**Pika** · 2.2) - 文生视频大模型
 - <a href="https://www.genmo.ai/" target="_blank">Mochi</a> (**Genmo AI** · 1) - Genmo AI 开发的文生视频大模型
 
@@ -219,11 +300,103 @@ _这些是基础的图生视频大模型，可通过 API 调用。许多 AI 视�
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance Seed** · 1.0) - 字节跳动 Seed 开发的图生视频大模型
 - <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的图生视频大模型
 - <a href="https://lumalabs.ai/ray" target="_blank">Ray</a> (**Luma Labs** · 3) - Luma Labs 开发的图生视频大模型
-- <a href="https://hunyuanvideoai.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的图生视频大模型
+- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的图生视频大模型
 - <a href="https://www.animon.ai/" target="_blank">Animon</a> (**Animon** · AniCut Pro 1.6) - 图生视频大模型
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · V1) - 图生视频大模型
 - <a href="https://www.hidream.ai/" target="_blank">Vivago</a> (**HiDream** · 2.0) - HiDream 开发的图生视频大模型
 - <a href="https://runwayml.com/" target="_blank">Runway Gen</a> (**Runway** · Gen 4) - Runway 开发的图生视频大模型
+
+### 视频编辑工具
+
+_这些平台为内容创作者提供 AI 驱动的视频编辑、生成和增强功能。_
+
+- <a href="https://www.descript.com/" target="_blank">Descript</a> (**Descript**) - AI 视频和播客编辑平台，支持自动转录、基于文本的编辑、屏幕录制和 AI 语音克隆；像编辑文档一样编辑视频
+- <a href="https://autoshorts.ai/" target="_blank">AutoShorts AI</a> (**AutoShorts AI**) - 一键生成和自动发布无脸短视频，专为 TikTok 和 YouTube Shorts 设计
+- <a href="https://akool.com/" target="_blank">AKOOL</a> (**AKOOL**) - AI 视频广告和头像生成平台，支持换脸、配音和多语言翻译
+- <a href="https://www.submagic.co/" target="_blank">SubMagic</a> (**SubMagic**) - 短视频自动字幕和 B-roll 生成工具，智能编辑
+- <a href="https://www.arcads.ai/" target="_blank">Arcads</a> (**Arcads**) - 文本到 AI 演员视频广告生成平台，一键创作降低制作成本
+- <a href="https://icon.com/" target="_blank">Icon</a> (**Icon**) - AI CMO 助手，自动生成和优化静态或视频广告
+- <a href="https://www.goenhance.ai/" target="_blank">Goenhance</a> (**Goenhance**) - AI 视频/图像生成和风格化平台，支持角色动画和镜头构图
+- <a href="https://www.argil.ai/" target="_blank">Argil</a> (**Argil**) - 将文章或单句转换为以人物或品牌为特色的 AI 视频内容
+- <a href="https://www.jogg.ai/" target="_blank">Jogg AI</a> (**Jogg AI**) - 超逼真 AI 头像生成，适用于短视频，支持唇同步和广告应用
+- <a href="https://www.topview.ai/" target="_blank">Topview</a> (**Topview**) - AI 视频编辑器，一键将链接/素材转换为多语言商业/社交短视频
+- <a href="https://www.flexclip.com/" target="_blank">Flexclip</a> (**Flexclip**) - 在线 AI 视频创作和编辑平台，提供营销/教育视频的拖放模板
+- <a href="https://pictory.ai/" target="_blank">Pictory</a> (**Pictory**) - 自动将文案、博客或 URL 转换为带有 AI 配音的专业视频
+- <a href="https://aistudios.com/" target="_blank">DeepBrain AI</a> (**DeepBrain AI**) - AI 人体合成视频平台，生成带有数字人主持人的脚本演示
+- <a href="https://elai.io/" target="_blank">Elai</a> (**Elai**) - 企业级 AI 视频生成工具，快速将文本脚本转换为多语言虚拟主持人视频
+- <a href="https://creatify.ai/" target="_blank">Creatify</a> (**Creatify**) - 粘贴产品网页链接，即时生成 5-10 个逼真的短视频广告
+- <a href="https://www.vidau.ai/" target="_blank">VidAU</a> (**VidAU**) - 将产品 URL 转换为带有 AI 头像、字幕去除和多语言配音的短视频广告
+- <a href="https://www.vmeg.pro/" target="_blank">VMEG</a> (**VMEG**) - AI 视频本地化平台，支持 170+ 语言配音、翻译、唇同步和短视频生成
+- <a href="https://capsule.video/" target="_blank">Capsule</a> (**Capsule**) - 企业级 AI 视频编辑器，支持模板应用、品牌一致性和一键 B-roll 生成
+- <a href="https://www.gling.ai/" target="_blank">Gling</a> (**Gling**) - "头像视频"自动编辑工具，智能去除沉默、坏镜头和自动调整构图
+- <a href="https://reface.ai/" target="_blank">Reface</a> (**Reface**) - 移动/网页换脸和 AI 头像生成器，支持照片/视频换脸和动画
+- <a href="https://invideo.io/" target="_blank">Invideo</a> (**Invideo**) - 在线 AI 视频创作平台，从脚本生成带有媒体、字幕和语音的视频
+- <a href="https://www.momentslab.com/" target="_blank">Moments Lab</a> (**Moments Lab**) - AI 视频索引平台，自动分割素材并生成编辑和社交短视频
+- <a href="https://www.hedra.com/" target="_blank">Hedra</a> (**Hedra**) - AI 视频生成平台，一键将文本和图像转换为说唱表演角色视频
+- <a href="https://www.heygen.com/" target="_blank">HeyGen</a> (**HeyGen**) - 文本到 AI 头像视频平台，提供多语言配音和逼真唇同步
+- <a href="https://www.veed.io/" target="_blank">VEED.IO</a> (**VEED.IO**) - 在线视频编辑和生成平台，提供 AI 脚本、字幕、配音、文生视频和一体化功能
+- <a href="https://www.d-id.com/" target="_blank">D-ID</a> (**D-ID**) - 通过 AI 生成逼真数字人视频，用于营销、培训和多语言客户服务交互
+- <a href="https://www.videoleapapp.com/" target="_blank">Videoleap</a> (**Videoleap**) - 功能丰富的 AI 视频编辑器，用于编辑、效果、无限缩放和社交媒体内容的模板创建
+- <a href="https://www.opus.pro/" target="_blank">OpusClip</a> (**OpusClip**) - AI 自动将长视频剪辑为短视频内容，生成病毒式剪辑和一键发布
+- <a href="https://www.captions.ai/" target="_blank">Captions</a> (**Captions**) - AI 视频编辑和 3D 虚拟人工具，支持自动字幕、多语言配音和风格同步
+- <a href="https://www.synthesia.io/" target="_blank">Synthesia</a> (**Synthesia**) - AI 视频生成平台，创建带有 AI 头像和多语言支持的专业视频
+- <a href="https://www.tavus.io/" target="_blank">Tavus</a> (**Tavus**) - 个性化视频消息平台，使用 AI 大规模创建自定义视频
+- <a href="https://artlist.io/" target="_blank">Artlist</a> (**Artlist**) - 音乐和库存媒体平台，为内容创作者提供高质量的音频和视频素材
+
+### 虚拟人与形象生成
+
+_这些平台提供 AI 驱动的虚拟人和头像创建，用于视频、演示和交互体验。_
+
+- <a href="https://hourone.ai/" target="_blank">Hour One AI</a> (**Hour One AI**) - 专注虚拟人开发的 AI 公司，从真人创建高质量数字角色，用于培训、销售及客服
+- <a href="https://www.prometheanai.com/" target="_blank">Promethean AI</a> (**Promethean AI**) - 虚拟世界构建解决方案平台
+- <a href="https://pinscreen.com/" target="_blank">Pinscreen</a> (**Pinscreen**) - AI 驱动的逼真虚拟头像生成平台，提供虚拟助手和面部追踪解决方案
+- <a href="https://in3d.io/" target="_blank">In3D</a> (**In3D**) - 通过手机摄像头生成高质量 3D 头像，支持 AR、动画和导出到虚幻引擎等平台
+- <a href="https://readyplayer.me/" target="_blank">Ready Player Me</a> (**Ready Player Me**) - 跨游戏头像平台，支持 NFT 定制
+- <a href="https://mygemsouls.com/" target="_blank">Gemsouls</a> (**Gemsouls**) - 使用 GPT-3 等技术创建高度交互的智能虚拟人，在元宇宙中重新定义人机关系
+- <a href="https://circlelabs.xyz/" target="_blank">Circlelabs</a> (**Circlelabs**) - 通过生成式 AI 创建个性化虚拟角色，支持在 Discord、Twitter 等平台交互
+
+### 视频翻译与本地化工具
+
+_这些平台提供 AI 驱动的视频翻译、配音和本地化服务。_
+
+- <a href="https://www.rask.ai/" target="_blank">Rask</a> (**Rask**) - AI 视频和音频本地化平台，支持 130+ 语言的自动翻译和字幕
+- <a href="https://videotranslator.blipcut.com/" target="_blank">Blipcut</a> (**Blipcut**) - 免费批量 AI 视频翻译工具，集成配音、字幕和唇同步
+- <a href="https://wavel.ai/" target="_blank">Wavel</a> (**Wavel**) - AI 语音平台，提供自然语音克隆、多语言配音和视频编辑
+- <a href="https://hei.io/" target="_blank">HeiTech (Hei.io)</a> (**HeiTech**) - AI 视频和音频配音公司，提供视频/音频字幕、翻译、语音和音效服务
+
+### 电影制作工具
+
+_这些平台为专业内容创作提供 AI 驱动的电影制作和视频制作功能。_
+
+- <a href="https://labs.google/flow/about" target="_blank">Flow by Google</a> (**Google**) - Google AI 电影制作工具，轻松从文本/图像创建电影级短视频
+- <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> (**SOLO**) - AI 电影制作公司，使用 AI 制作高质量短片和广告
+- <a href="https://escape.ai/" target="_blank">Escape</a> (**Escape**) - AI 艺术聚合平台，展示和推广先锋数字娱乐形式
+- <a href="https://higgsfield.ai/" target="_blank">Higgsfield AI</a> (**Higgsfield AI**) - AI 视频制作工具，通过精确的镜头控制创建电影级视觉效果
+- <a href="https://www.utopaistudios.com/" target="_blank">Utopia Studios</a> (**Utopia Studios**) - AI 驱动的视频制作工作室
+- <a href="https://rotorvideos.com/" target="_blank">Rotor Videos</a> (**Rotor Videos**) - AI 视频编辑平台
+- <a href="https://www.neuralframes.com/" target="_blank">NeuralFrames</a> (**NeuralFrames**) - AI 视频生成平台
+- <a href="https://www.revid.ai/" target="_blank">Revid</a> (**Revid**) - AI 视频生成工具
+- <a href="https://www.autodesk.com/products/flow-studio" target="_blank">Wonder Dynamics</a> (**Wonder Dynamics**) - AI 驱动的视觉特效平台，让独立电影制作人以低成本实现大片级 VFX
+- <a href="https://fliki.ai/" target="_blank">Fliki</a> (**Fliki**) - 使用人工智能将文本转换为视频和语音的 AI 平台
+- <a href="https://www.typeface.ai/" target="_blank">Typeface</a> (**Typeface**) - 使用 GAN 技术的生成式内容平台，提供定制化的图像、视频、音频和文本内容
+- <a href="https://rephrase.ai/" target="_blank">Rephrase.ai</a> (**Rephrase.ai**) - AI 驱动的合成视频创建平台
+- <a href="https://contenda.co/" target="_blank">Contenda</a> (**Contenda**) - 支持从零开始编写脚本并基于脚本生成视频的平台
+
+### 短剧平台
+
+_这些平台提供 AI 生成或精选的短剧内容供娱乐消费。_
+
+- <a href="https://www.skyreels.ai/" target="_blank">SkyReels</a> (**SkyReels**) - 一键从文本、图像和角色设置生成高质量 AI 视频和动画场景
+- <a href="https://storeelapp.com/" target="_blank">StoReel</a> (**StoReel**) - 专注 1-2 分钟短剧的手机应用，提供韩剧和中剧，按集付费或广告支持观看
+- <a href="https://www.sereal.com/" target="_blank">Sereal+</a> (**Sereal+**) - 免费短剧平台，涵盖多国迷你剧，AI 驱动的个性化推荐
+- <a href="https://www.unireel.tv/" target="_blank">UniReel</a> (**UniReel**) - 全球高质量短剧平台，提供各种类型的独家短片
+- <a href="https://www.dramaboxdb.com/" target="_blank">DramaBox</a> (**DramaBox**) - 数千小时原创短剧库，支持免费观看、按集付费和广告解锁
+- <a href="https://free-reels.com/" target="_blank">FreeReels</a> (**Kunlun Wanwei**) - 完全免费的短剧平台，频繁更新和智能推荐系统
+- <a href="https://mydramawave.com/" target="_blank">DramaWave</a> (**DramaWave**) - 竖屏短剧合集平台，高清流媒体，涵盖多种类型和语言
+- <a href="https://meloloweb.com/" target="_blank">Melolo</a> (**ByteDance**) - 面向东南亚的免费短剧应用，提供本地化高清短剧和自动字幕
+- <a href="https://www.goodshort.com/" target="_blank">GoodShort</a> (**Xinyue Times**) - 海外短剧平台，结合英美剧本和翻译剧集的高频短视频内容
+- <a href="https://flickreels.net/" target="_blank">FlickReels</a> (**FlickReels**) - 短剧情节应用，24/7 轻松观看悬疑、奇幻等微剧内容
+- <a href="https://netshort.com/" target="_blank">NetShort</a> (**NetShort**) - 专注 1 分钟竖屏短剧的高清流媒体应用，随时随地观看
 
 ## AI 音频工具
 
@@ -247,7 +420,7 @@ _这些是基础的文字转语音大模型，可通过 API 调用。许多 AI �
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> (**Amazon** · 最新版) - 文字转语音大模型
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> (**Google** · 最新版) - Google Cloud 的文字转语音服务，提供 Chirp 3: HD、WaveNet 和 Studio 等模型，支持 380+ 种语音和 75+ 种语言
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> (**Inworld** · 最新版) - 实时多模态 AI，支持丰富的多语言功能
-- <a href="https://stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · 最新版) - 文字转语音大模型
+- <a href="https://www.stepfun.com/" target="_blank">StepFun TTS</a> (**StepFun** · 最新版) - 文字转语音大模型
 - <a href="https://wellsaidlabs.com/" target="_blank">WellSaid Labs</a> (**WellSaid Labs** · 最新版) - AI 文本转语音技术公司，开发自然语音合成技术，提供120+真实AI语音
 - <a href="https://amai.io/" target="_blank">AMAI</a> (**AMAI** · 最新版) - 语音AI解决方案，提供语音合成技术
 
@@ -275,10 +448,130 @@ _这些是基础的音乐生成大模型，可通过 API 调用。许多 AI 音�
 
 - <a href="https://suno.ai/" target="_blank">Suno</a> (**Suno** · V4.5) - AI 音乐生成器，从文本提示创建高质量歌曲，支持人声和多种流派
 - <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a> (**ElevenLabs** · 最新版) - 录音室级 AI 音乐生成器，可即时创建任何流派或风格的音乐，支持有/无人声
-- <a href="https://udio.com/" target="_blank">Udio</a> (**Udio** · v1.5 Allegro) - AI 音乐生成器，为任何时刻创建个性化音乐，支持扩展、混音和音轨提取
+- <a href="https://www.udio.com/" target="_blank">Udio</a> (**Udio** · v1.5 Allegro) - AI 音乐生成器，为任何时刻创建个性化音乐，支持扩展、混音和音轨提取
 - <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.0) - 文本转音频生成模型，用于创建音乐和音效
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google 的音乐生成模型，与 YouTube 集成
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · 最新版) - Meta 的开源音乐生成模型
+
+### 音乐生成工具
+
+_这些是 AI 驱动的音乐生成平台和应用，帮助用户创作音乐。_
+
+- <a href="https://acestudio.ai/" target="_blank">Ace Studio</a> (**Ace Studio**) - AI 音乐生成平台
+- <a href="https://soundraw.io/" target="_blank">Soundraw</a> (**Soundraw**) - AI 音乐生成器，创建可定制风格和时长的免版税音乐
+- <a href="https://www.beatoven.ai/" target="_blank">Beatoven AI</a> (**Beatoven AI**) - 为视频或播客创作音乐的 AI 音乐生成技术
+- <a href="https://musicfy.lol/" target="_blank">Musicfy</a> (**Musicfy**) - AI 音乐生成平台
+- <a href="https://boomy.com/" target="_blank">Boomy</a> (**Boomy**) - AI 驱动的生成式音乐创作平台，让用户创作原创歌曲
+- <a href="https://soundful.com/" target="_blank">Soundful</a> (**Soundful**) - 生成和下载免版税背景音乐
+- <a href="https://mubert.com/" target="_blank">Mubert</a> (**Mubert**) - 专注 AI 和机器学习音乐生成的音乐技术公司
+- <a href="https://www.aiva.ai/" target="_blank">Aiva Technologies</a> (**Aiva Technologies**) - 专注使用人工智能创作音乐的 AI 公司
+- <a href="https://loudly.com/" target="_blank">Loudly</a> (**Loudly**) - 提供音乐创作和授权服务的 AI 音乐平台
+- <a href="https://endel.io/" target="_blank">Endel</a> (**Endel**) - 根据用户活动和场景创建个性化声音环境的音乐生成应用
+- <a href="https://aimi.fm/" target="_blank">AiMi</a> (**AiMi**) - 音乐平台
+- <a href="https://musi-co.com/" target="_blank">Musico</a> (**Musico**) - 在线音乐教学平台
+- <a href="https://music.ai/" target="_blank">Music</a> (**Music**) - AI 音乐平台
+- <a href="https://mozartai.app/" target="_blank">Mozartai</a> (**Mozartai**) - 图像到音乐生成应用
+
+### 变声工具
+
+_这些工具支持实时语音转换和语音效果。_
+
+- <a href="https://www.voicemod.net/" target="_blank">Voicemod</a> (**Voicemod**) - 实时 AI 变声器和音效板技术，用于语音转换
+- <a href="https://voice.ai/" target="_blank">Voice.ai</a> (**Voice.ai**) - 实时变声平台
+- <a href="https://dubbingai.io/" target="_blank">Dubbing AI</a> (**Dubbing AI**) - 实时变声和配音平台
+
+### 语音服务与应用
+
+_这些平台提供语音服务、语音助手和语音应用。_
+
+- <a href="https://research.google/blog/real-time-speech-to-speech-translation/" target="_blank">Google Real-time S2ST</a> (**Google** · 最新版) - 端到端语音到语音翻译模型，以原说话人声音实现实时翻译，仅 2 秒延迟，可在 Google Meet 和 Pixel 10 设备上使用
+- <a href="https://elevenreader.io/" target="_blank">ElevenReader by ElevenLabs</a> (**ElevenLabs**) - 为文章、PDF 和电子书提供高质量 AI 语音朗读
+- <a href="https://www.openai.fm/" target="_blank">OpenAI.fm</a> (**OpenAI**) - 展示 OpenAI 高保真文本到语音 API 的交互式演示平台
+- <a href="https://coqui.ai/" target="_blank">Coqui</a> (**Coqui**) - 提供情感化、生成式虚拟语音服务
+- <a href="https://pirr.me/" target="_blank">Pirr</a> (**Pirr**) - 通过语音输入和输出与 AI 交互
+- <a href="https://poly.ai/en" target="_blank">PolyAI</a> (**PolyAI**) - 专注企业语音助手解决方案的公司
+- <a href="https://www.retellai.com/" target="_blank">Retell AI</a> (**Retell AI**) - 无代码语音 AI 客服平台，实时部署电话机器人
+- <a href="https://vapi.ai/" target="_blank">Vapi</a> (**Vapi**) - 企业语音助手 API，用于部署可定制的电话 AI 代理
+- <a href="https://www.withdavid.ai/" target="_blank">David AI</a> (**David AI**) - 专业音频数据基础，构建用于对话 AI 的高质量语音训练数据集
+- <a href="https://www.papercup.com/" target="_blank">Papercup</a> (**Papercup**) - 端到端 AI 配音和视频本地化平台，有人工审核语言质量
+- <a href="https://www.ribbon.ai/" target="_blank">Ribbon</a> (**Ribbon**) - 基于语音的招聘平台
+- <a href="https://willowvoice.com/" target="_blank">Willow Voice</a> (**Willow Voice**) - 语音转文本打字工具
+- <a href="https://wisprflow.ai/" target="_blank">Wispr Flow</a> (**Wispr Flow**) - 语音转文本打字工具
+- <a href="https://www.dialpad.com/" target="_blank">Dialpad</a> (**Dialpad**) - AI 驱动的云通信平台，集成通话、消息、会议、实时摘要和洞察
+- <a href="https://www.delphi.ai/" target="_blank">Delphi</a> (**Delphi**) - 消费服务语音 AI 平台
+- <a href="https://tolvia.ai/" target="_blank">Tolvia</a> (**Tolvia**) - 消费服务语音 AI 平台
+- <a href="https://sonia.ai/" target="_blank">Sonia</a> (**Sonia**) - 消费服务语音 AI 平台
+- <a href="https://autio.com/" target="_blank">Autio</a> (**Autio**) - 消费服务语音 AI 平台
+
+### 语音代理平台
+
+_这些平台提供构建和部署语音 AI 代理的基础设施和工具。_
+
+#### 开发者平台
+
+- <a href="https://livekit.com/" target="_blank">LiveKit</a> (**LiveKit**) - 用于构建语音和视频应用的实时通信基础设施
+- <a href="https://vapi.ai/" target="_blank">Vapi</a> (**Vapi**) - 企业语音助手 API，用于部署可定制的电话 AI 代理
+- <a href="https://www.retellai.com/" target="_blank">Retell AI</a> (**Retell AI**) - 无代码语音 AI 客服平台，实时部署电话机器人
+- <a href="https://www.daily.co/" target="_blank">Daily</a> (**Daily**) - 面向开发者的视频和语音基础设施平台
+- <a href="https://thoughtly.ai/" target="_blank">Thoughtly</a> (**Thoughtly**) - 语音代理开发平台
+- <a href="https://www.bland.ai/" target="_blank">Bland AI</a> (**Bland AI**) - 语音代理开发平台
+
+#### 低代码/无代码平台
+
+- <a href="https://cresta.com/" target="_blank">Cresta</a> (**Cresta**) - 低代码/无代码语音代理平台
+- <a href="https://boost.ai/" target="_blank">boost.ai</a> (**boost.ai**) - 低代码/无代码对话式 AI 平台
+- <a href="https://rasa.com/" target="_blank">RASA</a> (**RASA**) - 用于构建语音和文本助手的开源对话式 AI 平台
+- <a href="https://syllable.ai/" target="_blank">Syllable</a> (**Syllable**) - 低代码/无代码语音代理平台
+- <a href="https://marrlabs.com/" target="_blank">Marr Labs</a> (**Marr Labs**) - 低代码/无代码语音代理平台
+- <a href="https://synthflow.ai/" target="_blank">Synthflow</a> (**Synthflow**) - 低代码/无代码语音代理平台
+- <a href="https://goodcall.ai/" target="_blank">Goodcall</a> (**Goodcall**) - 低代码/无代码语音代理平台
+- <a href="https://www.replicant.ai/" target="_blank">Replicant</a> (**Replicant**) - 低代码/无代码语音代理平台
+- <a href="https://trillet.com/" target="_blank">Trillet</a> (**Trillet**) - 低代码/无代码语音代理平台
+- <a href="https://skit.ai/" target="_blank">Skit.ai</a> (**Skit.ai**) - 低代码/无代码语音代理平台
+- <a href="https://www.ada.support/" target="_blank">Ada</a> (**Ada**) - 低代码/无代码对话式 AI 平台
+- <a href="https://kore.ai/" target="_blank">Kore.ai</a> (**Kore.ai**) - 低代码/无代码对话式 AI 平台
+- <a href="https://voctiv.com/" target="_blank">Voctiv</a> (**Voctiv**) - 低代码/无代码语音代理平台
+
+#### 评估平台
+
+- <a href="https://www.coval.ai/" target="_blank">Coval</a> (**Coval**) - 语音代理评估和测试平台
+- <a href="https://www.stryker.com/us/en/portfolios/medical-surgical-equipment/clinical-communication-and-workflow.html" target="_blank">Vocera</a> (**Vocera**) - 语音代理评估平台
+- <a href="https://hamming.io/" target="_blank">Hamming</a> (**Hamming**) - 语音代理评估平台
+- <a href="https://canonical.ai/" target="_blank">Canonical AI</a> (**Canonical AI**) - 语音代理评估平台
+
+### 转录工具
+
+_这些工具为音频和视频内容提供转录服务。_
+
+- <a href="https://www.plaud.ai/" target="_blank">PLAUD</a> (**PLAUD**) - AI 语音录制和总结工具，自动转录多语言对话并生成要点/行动项
+- <a href="https://www.clipto.com/" target="_blank">Clipto.AI</a> (**Clipto.AI**) - 本地运行的 AI 媒体助手，自动转录音频/视频并提供字幕、编辑和下载工具
+- <a href="https://wave.co/" target="_blank">Wave AI</a> (**Wave AI**) - 会议录音助手，自动转录，支持多语言并生成摘要
+- <a href="https://turboscribe.ai/" target="_blank">TurboScribe</a> (**TurboScribe**) - 无限 AI 音频转录服务，支持 98 种语言和批量处理长录音
+
+### 声音设计工具
+
+_这些工具辅助声音设计和音效创建。_
+
+- <a href="https://krotosaudio.com/" target="_blank">Krotos</a> (**Krotos**) - 专注于开发高级声音设计软件和音效库的音频技术公司
+
+### 音频创作工具
+
+_这些平台提供 AI 驱动的音频创作和制作功能。_
+
+- <a href="https://altered.ai/" target="_blank">Altered</a> (**Altered**) - 专业数字音频内容创作服务
+- <a href="https://www.rct.ai/" target="_blank">RCT Studio</a> (**RCT Studio**) - 新创意娱乐工作室
+- <a href="https://www.wombo.ai/" target="_blank">WOMBO.ai</a> (**WOMBO.ai**) - AI 娱乐公司
+- <a href="https://www.you-ai.nl/" target="_blank">YouAI</a> (**YouAI**) - AI 娱乐公司
+
+### 播客工具
+
+_这些平台提供 AI 驱动的播客创作、编辑、转录和学习工具。_
+
+- <a href="https://async.com/" target="_blank">Podcastle</a> (**Podcastle**) - 基于浏览器的录制和发布平台，集成 AI 音频/视频编辑、转录和总结功能
+- <a href="https://podwise.ai/" target="_blank">Podwise</a> (**Podwise**) - AI 播客学习平台，自动转录、分段章节并生成结构化摘要和思维导图
+- <a href="https://www.wellsaid.io/" target="_blank">Wellsaid</a> (**Wellsaid**) - 企业级 AI 语音平台，提供 120+ 高质量类人配音 API 和协作支持
+- <a href="https://notebooklm.google/" target="_blank">NotebookLM</a> (**Google**) - Google 的 AI 研究助手，支持笔记、文档分析和"播客式"音频概述生成
+- <a href="https://www.snipd.com/" target="_blank">Snipd</a> (**Snipd**) - AI 播客播放器，通过自动转录、AI 摘录和关键词高亮增强听后学习
 
 ### 播客托管平台
 
@@ -296,7 +589,7 @@ _这些平台为播客创作者提供完整的播客托管、分发、分析和�
 
 _这些是基础的 AI 编程代理和 IDE，提供端到端的代码生成和开发辅助功能。_
 
-- <a href="https://www.cursor.com/" target="_blank">Cursor</a> (**Cursor**) - AI 驱动的 IDE，支持自然语言提示进行端到端代码生成与查询
+- <a href="https://cursor.com/" target="_blank">Cursor</a> (**Cursor**) - AI 驱动的 IDE，支持自然语言提示进行端到端代码生成与查询
 - <a href="https://devin.ai/" target="_blank">Devin</a> (**Devin**) - AI 软件工程师，负责代码自动生成、调试与部署流程
 - <a href="https://replit.com/" target="_blank">Replit</a> (**Replit**) - 云端 IDE 平台，AI Agent 根据自然语言生成并部署完整应用
 - <a href="https://www.trae.ai/" target="_blank">Trae</a> (**字节跳动**) - ByteDance 出品的免费 AI IDE，通过 Builder 模式智能拆解任务并补全代码
@@ -338,7 +631,7 @@ _这些平台通过 AI 驱动的自然语言界面，以最少或无需编码的
 
 _这些工具通过 AI 驱动的分析帮助提高代码质量、安全性和文档化。_
 
-- <a href="https://moderne.io/" target="_blank">Moderne</a> (**Moderne**) - 专注于自动识别和修补代码中的安全漏洞
+- <a href="https://www.moderne.io/" target="_blank">Moderne</a> (**Moderne**) - 专注于自动识别和修补代码中的安全漏洞
 - <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography**) - 利用人工智能技术为代码生成自动文档
 - <a href="http://codiga.io/" target="_blank">Codiga</a> (**Codiga** · 最新版) - 创新的代码分析平台
 
@@ -428,6 +721,17 @@ _这些是集成 AI 助手的浏览器，通过智能功能增强浏览体验。
 - <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a> (**Strawberry** · 最新版) - 内置 AI 助手，自动化研究、撰写与日常任务
 - <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a> (**Perplexity** · 最新版) - 集成 Perplexity 搜索侧边栏并能自动组织标签、屏蔽广告等
 
+### AI 购物工具
+
+_这些平台提供 AI 驱动的购物体验，包括虚拟试穿、造型搭配和产品发现。_
+
+#### 虚拟试穿与 AI 镜子
+
+- <a href="https://www.doji.com/" target="_blank">Doji</a> (**Doji**) - 创建 AI 头像用于在线虚拟试穿衣服
+- <a href="https://www.altadaily.com/" target="_blank">Alta</a> (**Alta**) - 推荐搭配的数字衣橱平台
+- <a href="https://glam.ai/" target="_blank">Glam AI</a> (**Glam AI**) - AI 镜子虚拟试穿平台
+- <a href="https://mirrormirror.ai/" target="_blank">Mirror Mirror</a> (**Mirror Mirror**) - AI 镜子虚拟试穿平台
+
 ## AI 聚合平台
 
 ### 面向开发者
@@ -439,7 +743,7 @@ _这些平台提供统一的 API 访问多个 AI 模型，方便开发者集成�
 - <a href="https://replicate.com/" target="_blank">Replicate</a> (**Replicate** · 最新版) - 一行代码运行或微调开源模型，托管自定义 AI 推理服务
 - <a href="https://huggingface.co/" target="_blank">Hugging Face</a> (**Hugging Face** · 最新版) - 一站式 AI 模型平台与 API，提供 Transformers 库、Hub 与推理服务
 - <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a> (**EachLabs** · 最新版) - 提供 150+ AI 模型与可视化工作流，一键构建安全、可扩展的 AI 后端
-- <a href="https://requesty.ai/" target="_blank">Requesty</a> (**Requesty** · 最新版) - AI 模型市场与 API 聚合平台
+- <a href="https://www.requesty.ai/" target="_blank">Requesty</a> (**Requesty** · 最新版) - AI 模型市场与 API 聚合平台
 - <a href="https://www.edenai.co/" target="_blank">Eden AI</a> (**Eden AI** · 最新版) - AI 模型市场与统一 API 平台
 - <a href="https://fireworks.ai/" target="_blank">Fireworks</a> (**Fireworks** · 最新版) - 高性能生成式 AI 推理引擎 API，支持函数调用与多模式集成
 - <a href="https://groq.com/" target="_blank">Groq API</a> (**Groq** · 最新版) - 专为 AI 推理打造的高性能 LPU 芯片与云端/本地计算平台，实现极速、低成本的 AI 模型部署
@@ -518,7 +822,7 @@ _这些平台为 AI 代理和自主交易提供支付基础设施和服务。_
 _这些平台使用 AI 自动从文本提示或大纲生成专业演示文稿和幻灯片。_
 
 - <a href="https://gamma.app/" target="_blank">Gamma</a> (**Gamma**) - AI 驱动的演示文稿生成器，一键输入主题即刻生成精美演示文稿
-- <a href="https://tome.app/" target="_blank">Tome</a> (**Tome**) - AI 驱动叙事演示工具，支持视频、互动与网页内容
+- ~~Tome~~ (**Tome**) - [已下线] AI 驱动叙事演示工具，支持视频、互动与网页内容
 - <a href="https://www.beautiful.ai/" target="_blank">Beautiful.ai</a> (**Beautiful.ai**) - 智能设计演示平台，自动保持排版与品牌一致
 - <a href="https://slidesgo.com/" target="_blank">Slidesgo</a> (**Slidesgo**) - 提供数万套免费 Google/PowerPoint 模板供下载使用
 - <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a> (**Presentations.AI**) - AI 助手快速生成图表、时间线、报告与演示幻灯片
@@ -560,6 +864,29 @@ _这些平台使用 AI 生成个性化的儿童故事、书籍和互动故事体
 - <a href="https://www.story.com/" target="_blank">Story.com</a> (**Story.com** · 最新版) - 创建带互动选项和 AI 动画视频的 AI 故事
 - <a href="https://babystoryai.com/" target="_blank">BabyStoryAI</a> (**BabyStoryAI** · 最新版) - 生成带音乐和配音的个性化婴儿音频故事
 - <a href="https://www.aistorygenerator.org/" target="_blank">AI Story Generator</a> (**AI Story Generator** · 最新版) - 通用 AI 写作工具，快速生成全面故事
+- <a href="https://www.storybookai.app/" target="_blank">StoryBook AI</a> (**StoryBook AI** · 最新版) - 一键生成神奇的互动儿童睡前故事
+- <a href="https://www.bedfables.com/" target="_blank">BedFables</a> (**BedFables** · 最新版) - AI 生成个性化睡前故事，支持主题定制并保存到"儿童书"库
+- <a href="https://storyspark.ai/" target="_blank">Story Spark</a> (**Story Spark** · 最新版) - 无限长度的 AI 故事生成器，支持续写和记忆
+- <a href="https://midreal.ai/en/a-letter-to-our-midreal-community" target="_blank">Story MidReal</a> (**MidReal** · 最新版) - 将单句扩展为完整故事的 AI 工具
+- <a href="https://www.lumistory.ai/" target="_blank">Story Lumi</a> (**Lumi** · 最新版) - Colin Kaepernick 创建的平台，帮助创作者发布文本和图像内容
+- <a href="https://www.squibler.io/" target="_blank">Squibler</a> (**Squibler** · 最新版) - AI 开头生成平台，快速激发写作创意
+
+### 网络小说平台
+
+_这些平台提供网络小说阅读和创作服务，内容本地化。_
+
+- <a href="https://fizzo.org/" target="_blank">Fizzo</a> (**ByteDance**) - 整合小说、漫画和短剧的阅读娱乐平台，强调本地化内容
+- <a href="https://www.goodnovel.com/" target="_blank">GoodNovel</a> (**Xinyue Times**) - 海外网络小说平台，涵盖广泛类型，支持创作和阅读
+
+### 书籍摘要平台
+
+_这些平台提供 AI 驱动的书籍摘要和阅读洞察。_
+
+- <a href="https://www.shortform.com/" target="_blank">Shortform</a> (**Shortform**) - 1000+ 深度非虚构书籍的专家引导摘要和洞察
+- <a href="https://makeheadway.com/" target="_blank">Headway</a> (**Headway**) - 15 分钟文本和音频书籍摘要，带视觉展示和个性化推荐
+- <a href="https://instaread.co/" target="_blank">Instaread</a> (**Instaread**) - 专业撰写的 15 分钟书籍摘要，涵盖畅销热门书籍
+- <a href="https://www.blinkist.com/" target="_blank">Blinkist</a> (**Blinkist**) - 15 分钟"眨眼"书籍摘要，提供音频/文本格式和个性化学习路径
+- <a href="https://sobrief.com/" target="_blank">Sobrief</a> (**Sobrief**) - 世界最大的书籍摘要库，10 分钟 AI 音频/文本摘要支持 40 种语言
 
 ## 对话智能
 
@@ -587,7 +914,7 @@ _这些平台帮助销售和营销团队创建内容并自动化沟通。_
 
 _这些是基础的 AI 3D 模型生成工具，可以从文本提示生成 3D 模型。许多 3D 应用都是基于这些模型构建的。_
 
-- <a href="https://lumalabs.ai/genie" target="_blank">Luma Genie</a> (**Luma Labs** · 最新版) - 从文本提示创建详细的 3D 网格，适用于快速概念设计，提供基本的 PBR 纹理和可导出格式
+- <a href="https://lumalabs.ai/" target="_blank">Luma Genie</a> (**Luma Labs** · 最新版) - 从文本提示创建详细的 3D 网格，适用于快速概念设计，提供基本的 PBR 纹理和可导出格式
 - <a href="https://csm.ai/" target="_blank">CSM AI</a> (**CSM** · 最新版) - AI 驱动的 3D 模型生成工具，能够根据文本描述自动生成高质量的 3D 模型
 - <a href="https://spline.design/" target="_blank">Spline AI</a> (**Spline** · 最新版) - 从文本提示生成 3D 对象，专注于交互式 3D 场景创建，适用于网页和应用设计
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · 最新版) - AI 驱动的 3D 模型生成，支持文本到 3D、图像到 3D 以及自动 PBR 纹理生成
@@ -627,6 +954,12 @@ _这些工具专注于将 3D 扫描转换为 CAD 模型，并集成 3D 打印和
 - <a href="https://www.backflip.ai/" target="_blank">Backflip</a> (**Backflip** · 最新版) - AI 一键将 3D 扫描转为 CAD 模型
 - <a href="https://ai-build.com/" target="_blank">AI Build</a> (**AI Build** · 最新版) - 融合 3D 打印与 CNC 的制造平台
 
+### 动作捕捉工具
+
+_这些平台提供 AI 驱动的动作捕捉和动画功能。_
+
+- <a href="https://deepmotion.com/" target="_blank">DeepMotion</a> (**DeepMotion**) - 专注运动智能的公司，专门从事动作捕捉技术
+
 ### 概念艺术与创意工具
 
 _这些工具专为概念艺术家和从事 3D 内容创作的创意专业人士设计。_
@@ -659,7 +992,7 @@ _这些是支持 NSFW 内容和成人内容的虚拟陪伴 AI 聊天机器人平
 _这些是为特定用途或受众设计的 AI 聊天机器人。_
 
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> (**AutoResponder.ai** · 最新版) - 支持 WhatsApp、Telegram 等平台的 AI 自动回复机器人生成器
-- <a href="https://www.heeyo.ai/" target="_blank">Heeyo AI</a> (**Heeyo AI** · 最新版) - 为 3-11 岁儿童打造的多语言 AI 聊伴，具教育游戏与成长适应能力
+- ~~Heeyo AI~~ (**Heeyo AI** · 最新版) - [已下线] 为 3-11 岁儿童打造的多语言 AI 聊伴，具教育游戏与成长适应能力
 
 ## AI 代理
 
@@ -740,6 +1073,79 @@ _这些平台同时为招聘者和求职者提供全面的招聘和求职解决�
 
 - <a href="https://clado.ai/" target="_blank">Clado AI</a> (**Clado AI** · 最新版) - AI 驱动的招聘和求职平台
 
+## AI 医疗速记工具
+
+### 通用医疗
+
+- <a href="https://www.abridge.com/" target="_blank">Abridge</a> (**Abridge** · 最新版) - 医疗 AI 对话助手，实时转录医患对话并生成结构化病历
+- <a href="https://www.ambiencehealthcare.com/" target="_blank">Ambience Healthcare</a> (**Ambience Healthcare** · 最新版) - 医疗专业人员的环境 AI 听写助手，自动生成笔记和计费代码
+- <a href="https://www.tldr.com/" target="_blank">TL;DR</a> (**TL;DR** · 最新版) - 医疗 AI 速记工具
+
+### 心理健康
+
+- <a href="https://www.growtherapy.com/" target="_blank">Grow Therapy</a> (**Grow Therapy** · 最新版) - 心理健康 AI 辅助平台
+
+### 兽医
+
+- <a href="https://www.moego.pet/" target="_blank">Moego</a> (**Moego** · 最新版) - 兽医 AI 助手
+
+### 居家护理
+
+- <a href="https://flo.health/" target="_blank">Flo Health</a> (**Flo Health** · 最新版) - 女性健康和经期追踪 AI 应用
+
+### 物理治疗
+
+- <a href="https://www.mdclone.com/" target="_blank">MDClone</a> (**MDClone** · 最新版) - 医疗数据分析和物理治疗 AI 平台
+
+## 客服平台
+
+_这些平台提供 AI 驱动的客户服务、支持和通信解决方案。_
+
+- <a href="https://www.intercom.com/" target="_blank">Intercom</a> (**Intercom** · 最新版) - AI 客户服务和消息平台，集成聊天机器人、自动化和工单系统，提高客户响应效率
+- <a href="https://www.zendesk.com/" target="_blank">Zendesk</a> (**Zendesk** · 最新版) - 全渠道客户支持系统，AI 增强工单管理和自动化工作流
+- <a href="https://www.salesforce.com/" target="_blank">Salesforce</a> (**Salesforce** · 最新版) - 领先的 AI 驱动 CRM 平台，集成销售、服务和营销与自主 AI 代理
+- <a href="https://www.crescendo.ai/" target="_blank">Crescendo</a> (**Crescendo** · 最新版) - 集成对话式 AI 与人类专家的客户服务 AI 平台，优化客户支持
+- <a href="https://www.chatbase.co/" target="_blank">Chatbase</a> (**Chatbase** · 最新版) - 企业客户服务 AI 平台，用于构建自定义智能客户交互机器人
+- <a href="https://lavender.ai/" target="_blank">Lavender</a> (**Lavender** · 最新版) - AI 销售邮件培训平台，提供邮件评分、个性化建议和收件人研究
+- <a href="https://www.chai-research.com/" target="_blank">Chai Research</a> (**Chai Research** · 最新版) - 对话式 AI，提供引人入胜的聊天体验，支持用户与 AI 角色交互
+- <a href="https://cohere.com/" target="_blank">Cohere</a> (**Cohere** · 最新版) - NLP 模型，优化内容审核和聊天机器人功能
+- <a href="https://kaizan.ai/" target="_blank">Kaizan</a> (**Kaizan** · 最新版) - 对话智能平台，帮助客户管理关系、自动填充工作流并集成常用工具
+- <a href="https://yellow.ai/" target="_blank">Yellow.ai</a> (**Yellow.ai** · 最新版) - 企业对话式 AI 平台，提供全渠道客户服务聊天机器人，具备代理式 AI 能力
+- <a href="https://parloa.com/" target="_blank">Parloa</a> (**Parloa** · 最新版) - 呼叫中心 AI 代理管理平台，将客户对话转化为持久忠诚度
+
+## AI 法律工具
+
+_这些平台为律师事务所和法律专业人士提供 AI 驱动的法律研究、文件分析和法律辅助。_
+
+- <a href="https://www.supio.com/" target="_blank">Supio</a> (**Supio** · 最新版) - 专为原告律师设计的法律 AI 平台
+- <a href="https://www.harvey.ai/" target="_blank">Harvey</a> (**Harvey** · 最新版) - 服务顶级律师事务所的专业级 AI 平台
+- <a href="https://www.evenuplaw.com/" target="_blank">EvenupLaw</a> (**EvenupLaw** · 最新版) - 提高人身伤害案件效率的 AI 平台
+- <a href="https://casetext.com/" target="_blank">Casetext</a> (**Casetext** · 最新版) - 法律研究平台和 AI 法律助手公司
+- <a href="https://legora.com/" target="_blank">Legora</a> (**Legora** · 最新版) - 律师的 AI 工作空间，加速文件起草、研究和团队协作
+
+## AI 医疗保健工具
+
+_这些平台提供 AI 驱动的医疗保健解决方案、医疗转录和健康管理工具。_
+
+- <a href="https://www.calai.app/" target="_blank">Cal AI</a> (**Cal AI** · 最新版) - 照片识别食物分量，自动分析卡路里和营养成分
+- <a href="https://www.develophealth.ai/" target="_blank">Develop Health</a> (**Develop Health** · 最新版) - AI 自动审查和提交医疗保险授权，将批准效率提高 83%
+- <a href="https://www.thoughtful.ai/" target="_blank">Thoughtful</a> (**Thoughtful** · 最新版) - 医疗收入周期自动化平台，AI 助手主导审查、计费和收款流程
+- <a href="https://www.navina.ai/" target="_blank">Navina</a> (**Navina** · 最新版) - AI 驱动的医疗保健平台，实时优化临床决策和住院资源分配
+- <a href="https://www.xaira.com/" target="_blank">Xaira Therapeutics</a> (**Xaira Therapeutics** · 最新版) - AI 驱动的生物制药公司，使用生成模型设计新药物候选分子
+
+## AI 国防与军事
+
+_这些平台开发用于国防和军事应用的 AI 驱动自主系统。_
+
+- <a href="https://helsing.ai/" target="_blank">Helsing</a> (**Helsing** · 最新版) - 开发用于民主国家的 AI 驱动自主军事系统，包括战斗和水下无人机
+- <a href="https://shield.ai/" target="_blank">Shield AI</a> (**Shield AI** · 最新版) - 国防技术公司，开发自主 AI 飞行系统（Nova、V-BAT），用于战术侦察和行动
+
+## AI 应急响应
+
+_这些平台为应急响应和公共安全提供 AI 驱动的解决方案。_
+
+- <a href="https://carbyne.com/" target="_blank">Carbyne</a> (**Carbyne** · 最新版) - 面向应急响应中心的云原生通信平台，具备实时位置和视频交互功能，提高救援效率
+
 ## AI 数据工具
 
 ### 数据标注
@@ -763,7 +1169,7 @@ _这些是通过对话界面和自动化洞察进行数据分析、商业智能�
 - <a href="https://datasquirrel.ai/" target="_blank">DataSquirrel</a> (**DataSquirrel** · 最新版) - 无代码 BI 工具，自动清洗、分析并可视化数据
 - <a href="https://datachat.ai/" target="_blank">DataChat</a> (**DataChat** · 最新版) - 无需编码即能通过聊天查询并洞察数据的生成式分析平台
 - <a href="https://vizly.fyi/" target="_blank">Vizly</a> (**Vizly** · 最新版) - AI 数据分析师，支持聊天查询并自动生成可视化报告
-- <a href="https://www.morphdb.io/" target="_blank">Morph</a> (**Morph** · 最新版) - 一体化 No‑Code 数据工作室，结合表格、数据库与 AI 分析
+- <a href="https://www.morph-data.io/" target="_blank">Morph</a> (**Morph** · 最新版) - 一体化 No‑Code 数据工作室，结合表格、数据库与 AI 分析
 - <a href="https://datagpt.com/" target="_blank">DataGPT</a> (**DataGPT** · 最新版) - 对话式 AI 数据分析师，实时提供业务数据洞察
 - <a href="https://www.kater.ai/" target="_blank">Kater</a> (**Kater** · 最新版) - 企业 AI 报告平台，一问直达决策洞察与分析流程
 - <a href="https://deepnote.com/" target="_blank">Deepnote</a> (**Deepnote** · 最新版) - 云端协作数据科学笔记本，AI 驱动代码、查询与可视化
@@ -774,7 +1180,7 @@ _这些是通过对话界面和自动化洞察进行数据分析、商业智能�
 _这些平台生成合成数据用于训练 AI 模型，同时保护隐私并解决数据稀缺挑战。_
 
 - <a href="https://aindo.com" target="_blank">Aindo</a> (**Aindo** · 最新版) - 数据科技公司，利用人工智能技术生成合成数据
-- <a href="https://gretel.ai" target="_blank">Gretel AI</a> (**Gretel AI** · 最新版) - 提供合成数据平台的企业，专注于隐私保护的数据生成解决方案
+- <a href="https://www.gretel.ai/" target="_blank">Gretel AI</a> (**Gretel AI** · 最新版) - 提供合成数据平台的企业，专注于隐私保护的数据生成解决方案
 - <a href="https://www.syntho.ai" target="_blank">Syntho</a> (**Syntho** · 最新版) - 数据技术公司，专注于利用人工智能生成合成数据
 - <a href="https://mostly.ai" target="_blank">Mostly AI</a> (**Mostly AI** · 最新版) - 合成数据生成器和知识中心，专注于隐私保护的数据生成
 - <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a> (**Tonic.ai** · 最新版) - 数据技术公司，专注于利用人工智能和机器学习生成合成数据
@@ -912,8 +1318,91 @@ _这些工具自动化工作流、流程和重复性任务。_
 - <a href="https://composio.dev/" target="_blank">Composio.dev</a> (**Composio** · 最新版) - 连接 LLM 与 250+ 工具的集成平台，轻松构建具代理能力的 AI 应用
 - <a href="https://www.uipath.com/" target="_blank">UiPath</a> (**UiPath** · 最新版) - 企业级 RPA 平台，结合 AI 与机器人流程自动化，智能执行重复任务
 - <a href="https://www.induced.ai/" target="_blank">Induced</a> (**Induced** · 最新版) - Human-in-the-loop RPA 3.0，AI 驱动网页任务自动化，实现实时智能判断
-- <a href="https://www.stagehand.dev/" target="_blank">Stagehand</a> (**Stagehand** · 最新版) - AI 浏览器自动化框架，支持代码与自然语言混合控制浏览器操作
+- <a href="https://www.browserbase.com/stagehand" target="_blank">Stagehand</a> (**Stagehand** · 最新版) - AI 浏览器自动化框架，支持代码与自然语言混合控制浏览器操作
 - <a href="https://www.browserless.io/" target="_blank">Browserless</a> (**Browserless** · 最新版) - 无头浏览器即服务，支持 Docker 部署，自动避开反爬虫并实现页面自动化
+
+### 写作助手
+
+_这些平台提供 AI 驱动的写作辅助、语法检查和文本生成功能。_
+
+- <a href="https://rytr.me/" target="_blank">Rytr</a> (**Rytr**) - 高效、高质量的数字内容创作服务
+- <a href="https://hyperwriteai.com/" target="_blank">HyperWrite</a> (**HyperWrite**) - AI 写作伴侣和文本生成器
+- <a href="https://www.writewithlaika.com/" target="_blank">Write with LAIKA</a> (**LAIKA**) - 专为作家设计的 AI 写作助手
+- <a href="https://bertha.ai/" target="_blank">Bertha AI</a> (**Bertha AI**) - AI 驱动的写作助手
+- <a href="https://writesonic.com/" target="_blank">Writesonic</a> (**Writesonic**) - AI 写作助手
+- <a href="https://copymonkey.ai/" target="_blank">CopyMonkey.ai</a> (**CopyMonkey**) - AI 写作助手
+- <a href="https://www.copysmith.ai/" target="_blank">Copysmith</a> (**Copysmith**) - AI 写作助手
+- <a href="https://jenni.ai/" target="_blank">Jenni.ai</a> (**Jenni.ai**) - AI 写作助手，帮助学术写作、研究组织和逻辑生成
+- <a href="https://www.grammarly.com/" target="_blank">Grammarly</a> (**Grammarly**) - 跨平台 AI 写作助手，提供实时语法、风格、语气检查和文本建议
+- <a href="https://www.gomoonbeam.com/" target="_blank">Go Moonbeam</a> (**Moonbeam**) - 各类文本内容生成服务
+- <a href="https://jasper.ai/" target="_blank">Jasper AI</a> (**Jasper AI**) - 快速生成类人文本
+- <a href="https://sudowrite.com/" target="_blank">Sudowrite</a> (**Sudowrite**) - 通过自然语言描述生成和编辑小说、故事、博客等
+- <a href="https://www.compose.ai/" target="_blank">Compose</a> (**Compose**) - 免费 Chrome 扩展，帮助使用 AI 技术自动完成和生成文本
+
+### 会议记录与转录
+
+_这些工具自动转录会议并生成笔记、摘要和行动项。_
+
+- <a href="https://www.read.ai/" target="_blank">Read</a> (**Read** · 最新版) - AI 会议笔记平台
+- <a href="https://rewatch.com/" target="_blank">Rewatch</a> (**Rewatch** · 最新版) - 会议录制和笔记平台
+- <a href="https://www.granola.ai/" target="_blank">Granola</a> (**Granola** · 最新版) - AI 会议笔记工具，非侵入式自动转录和增强手写笔记，生成要点和行动项
+- <a href="https://www.fathom.ai/" target="_blank">Fathom</a> (**Fathom** · 最新版) - 会议笔记平台
+- <a href="https://www.supernormal.com/" target="_blank">Supernormal</a> (**Supernormal** · 最新版) - 会议笔记平台
+- <a href="https://noty.ai/" target="_blank">Noty.ai</a> (**Noty.ai** · 最新版) - 会议笔记平台
+- <a href="https://circleback.ai/" target="_blank">Circleback</a> (**Circleback** · 最新版) - 会议笔记平台
+- <a href="https://tldv.io/" target="_blank">TL;DV</a> (**TL;DV** · 最新版) - 会议笔记平台
+- <a href="https://krisp.ai/" target="_blank">Krisp</a> (**Krisp** · 最新版) - 会议笔记和降噪平台
+- <a href="https://www.sembly.ai/" target="_blank">Sembly</a> (**Sembly** · 最新版) - 会议笔记平台
+- <a href="https://fellow.ai/" target="_blank">Fellow</a> (**Fellow** · 最新版) - 会议笔记平台
+- <a href="https://www.notta.ai/en" target="_blank">Notta</a> (**Notta** · 最新版) - 会议笔记平台
+- <a href="https://fireflies.ai/" target="_blank">Fireflies</a> (**Fireflies** · 最新版) - 会议笔记平台
+- <a href="https://otter.ai/" target="_blank">Otter</a> (**Otter** · 最新版) - AI 会议笔记助手，实时转录、自动摘要和行动项识别
+- <a href="https://www.meetjamie.ai/" target="_blank">Jamie</a> (**Jamie** · 最新版) - 会议笔记平台
+- <a href="https://meetgeek.ai/" target="_blank">MeetGeek</a> (**MeetGeek** · 最新版) - 会议笔记平台
+- <a href="https://tactiq.io/" target="_blank">Tactiq</a> (**Tactiq** · 最新版) - 会议笔记平台
+- <a href="https://www.fieldy.ai/" target="_blank">Fieldy</a> (**Fieldy** · 最新版) - 会议笔记平台
+- <a href="https://www.leexi.ai/" target="_blank">Leexi</a> (**Leexi** · 最新版) - 会议笔记平台
+- <a href="https://www.claap.io/" target="_blank">Claap</a> (**Claap** · 最新版) - 会议笔记平台
+- <a href="https://myminutes.ai/" target="_blank">MyMinutes</a> (**MyMinutes** · 最新版) - 会议笔记平台
+- <a href="https://www.recall.ai/" target="_blank">Recall.ai</a> (**Recall.ai** · 最新版) - 统一 API，用于访问 Zoom/Meet 会议录制、实时转录和元数据
+- <a href="https://cogram.com/" target="_blank">Cogram</a> (**Cogram** · 最新版) - AI 驱动的会议笔记、行动项和摘要生成平台
+
+### 专业速记工具
+
+_这些工具为专业领域提供自动化文档和笔记记录。_
+
+#### 招聘
+- <a href="https://www.metaview.ai/" target="_blank">Metaview</a> (**Metaview** · 最新版) - AI 招聘速记平台
+- <a href="https://www.brighthire.com/" target="_blank">BrightHire</a> (**BrightHire** · 最新版) - AI 招聘速记平台
+- <a href="https://quil.ai/" target="_blank">Quil</a> (**Quil** · 最新版) - AI 招聘速记平台
+
+#### 销售
+- <a href="https://rilla.ai/" target="_blank">Rilla</a> (**Rilla** · 最新版) - AI 销售速记平台
+- <a href="https://grain.com/" target="_blank">Grain</a> (**Grain** · 最新版) - AI 销售速记平台
+- <a href="https://siro.ai/" target="_blank">Siro</a> (**Siro** · 最新版) - AI 销售速记平台
+- <a href="https://leadbeam.ai/" target="_blank">Leadbeam</a> (**Leadbeam** · 最新版) - AI 销售速记平台
+- <a href="https://winn.ai/" target="_blank">Winn AI</a> (**Winn AI** · 最新版) - AI 销售速记平台
+- <a href="https://www.claap.io/" target="_blank">Claap</a> (**Claap** · 最新版) - AI 销售速记平台
+
+#### 听写
+- <a href="https://aqua.ai/" target="_blank">AQUA</a> (**AQUA** · 最新版) - AI 听写平台
+- <a href="https://superwhisper.ai/" target="_blank">Superwhisper</a> (**Superwhisper** · 最新版) - AI 听写平台
+- <a href="https://www.dasis.ai/" target="_blank">Dasis</a> (**Dasis** · 最新版) - AI 听写平台
+- <a href="https://cleft.ai/" target="_blank">Cleft</a> (**Cleft** · 最新版) - AI 听写平台
+- <a href="https://audiopen.ai/" target="_blank">AudioPen</a> (**AudioPen** · 最新版) - AI 听写平台
+
+#### 教育
+- <a href="https://echolabs.ai/" target="_blank">Echolabs</a> (**Echolabs** · 最新版) - AI 教育速记平台
+- <a href="https://notability.com/" target="_blank">Notability</a> (**Notability** · 最新版) - AI 教育速记平台
+- <a href="https://cconote.ai/" target="_blank">Cconote</a> (**Cconote** · 最新版) - AI 教育速记平台
+- <a href="https://glyph.ai/" target="_blank">Glyph AI</a> (**Glyph AI** · 最新版) - AI 教育速记平台
+
+#### 移动优先
+- <a href="https://paxo.ai/" target="_blank">Paxo</a> (**Paxo** · 最新版) - 移动优先 AI 速记平台
+
+#### 日记
+- <a href="https://mindsera.com/" target="_blank">mindsera</a> (**mindsera** · 最新版) - AI 日记平台
+- <a href="https://rosebud.ai/" target="_blank">Rosebud</a> (**Rosebud** · 最新版) - AI 日记平台
 
 ### 企业 AI 助手
 
@@ -982,18 +1471,33 @@ _这些工具帮助优化网站内容、关键词和 SEO 性能。_
 - <a href="https://www.airops.com/" target="_blank">Airops</a> (**Airops** · 最新版) - 内容运营 AI 平台，结合专家策略与 SEO 自动生成优化内容
 - <a href="https://www.clearscope.io/" target="_blank">Clearscope</a> (**Clearscope** · 最新版) - 内容优先的 AI SEO 工具，关键词优化与竞争分析助流量增长
 - <a href="https://byword.ai/" target="_blank">Byword</a> (**Byword** · 最新版) - AI SEO 写作助手，一键生成高质量、结构化并优化排名文案
-- <a href="https://frase.io/" target="_blank">Frase</a> (**Frase** · 最新版) - SEO 内容优化与 AI 写作工具，结合专家策略与自动化内容生成
+- <a href="https://www.frase.io/" target="_blank">Frase</a> (**Frase** · 最新版) - SEO 内容优化与 AI 写作工具，结合专家策略与自动化内容生成
 
 ### SEO 本地化工具
 
 _这些工具帮助创建针对国际 SEO 优化的多语言网站。_
 
 - <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a> (**GlobalSEO** · 最新版) - AI 驱动网站多语言自动翻译，提升国际有机搜索流量
-
-_这些工具帮助创建针对国际 SEO 优化的多语言网站。_
-
-- <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a> (**GlobalSEO** · 最新版) - AI 驱动网站多语言自动翻译，提升国际有机搜索流量
 - <a href="https://www.weglot.com/" target="_blank">Weglot</a> (**Weglot** · 最新版) - 无代码多语言网站翻译平台，支持 SEO 优化与内容编辑
+
+## 个人主页链接工具
+
+_这些平台帮助用户创建个性化的"Link in Bio"页面，聚合多个平台链接。_
+
+- <a href="https://linktr.ee/" target="_blank">Linktree</a> (**Linktree** · 最新版) - 创建个性化"Link in Bio"页面，聚合多个平台链接并带分析功能
+- <a href="https://beacons.ai/" target="_blank">Beacons</a> (**Beacons** · 最新版) - 一站式创作者"Link in Bio"平台，提供链接、商业和粉丝变现入口
+- <a href="https://lit.link/" target="_blank">lit.link</a> (**lit.link** · 最新版) - 免费"Link in Bio"服务，集成多个社交媒体链接，设计选项多样
+- <a href="https://campsite.bio/" target="_blank">Campsite.bio</a> (**Campsite.bio** · 最新版) - 快速创建移动优化的"Link in Bio"页面，组织和跟踪社交媒体链接
+- <a href="https://portaly.cc/" target="_blank">Portaly</a> (**Portaly** · 最新版) - AI 驱动的社交媒体流量和内容展示平台，一键生成品牌展示页面
+- <a href="https://bento.me/" target="_blank">Bento</a> (**Bento** · 最新版) - 精美的个性化"Link in Bio"页面，强调视觉丰富性和品牌表达
+
+## AI 模型评估
+
+_这些平台提供 AI 模型的评估、基准测试和比较工具。_
+
+- <a href="https://lmarena.ai/" target="_blank">LMArena.ai</a> (**LMArena.ai** · 最新版) - 开源 AI 模型评估平台，基于用户投票构建排名和比较
+- <a href="https://outlier.ai/" target="_blank">Outlier.ai</a> (**Outlier.ai** · 最新版) - 聚集专业人士训练和评估 AI 模型的平台，提高模型准确性并获得奖励
+- <a href="https://lmsys.org/" target="_blank">LMSYS</a> (**LMSYS** · 最新版) - 基于 LLaMA 微调的开源聊天模型，达到 90%+ ChatGPT 质量
 
 ## 屏幕录制工具
 
@@ -1003,6 +1507,59 @@ _这些工具帮助捕获屏幕录制、创建演示并分享视觉内容。_
 - <a href="https://screen.studio/" target="_blank">Screen Studio</a> (**Screen Studio** · 最新版) - Mac 专用屏幕录像软件，自动平滑光标、放大重点并优化动态
 - <a href="https://www.arcade.software/" target="_blank">Arcade</a> (**Arcade** · 最新版) - 无代码互动演示平台，快速制作引人入胜的产品 demo 页面
 - <a href="https://cursorful.com/" target="_blank">Cursorful</a> (**Cursorful** · 最新版) - 浏览器录制插件，自动缩放光标焦点，实现专业级演示视频
+
+## AI 旅游工具
+
+_这些平台提供 AI 驱动的旅行规划和预订辅助。_
+
+- <a href="https://www.ottotheagent.com/" target="_blank">Otto</a> (**Otto** · 最新版) - AI 商务旅行助手，自动学习习惯并完成航班和酒店预订
+
+## AI 游戏工具
+
+_这些平台提供 AI 驱动的游戏体验和游戏开发工具。_
+
+- <a href="https://www.aidungeon.com/" target="_blank">AI Dungeon</a> (**AI Dungeon** · 最新版) - AI 驱动的开放式文字冒险游戏，玩家可自由输入并生成无限故事情节
+- <a href="https://ego.ai/" target="_blank">Ego</a> (**Ego** · 最新版) - AI 游戏语音助手平台
+- <a href="https://volley.com/" target="_blank">Volley</a> (**Volley** · 最新版) - AI 游戏语音助手平台
+
+### 游戏开发与测试工具
+
+_这些平台提供 AI 驱动的游戏开发、测试和质量保证工具。_
+
+- <a href="https://www.layer.ai/" target="_blank">Layer</a> (**Layer**) - AI 游戏资产生成平台
+- <a href="https://agentic.xyz/" target="_blank">Agentic</a> (**Agentic**) - 虚拟世界创建平台，支持 AI 玩家训练和部署
+- <a href="https://epochml.com/" target="_blank">Epoch</a> (**Epoch**) - 游戏质量保证测试工具，支持机器学习任务
+- <a href="https://regression.gg/" target="_blank">Regression Games</a> (**Regression Games**) - AI 游戏和电竞平台，用户可以编程控制角色
+- <a href="https://usejigger.com/" target="_blank">Jigger</a> (**Jigger**) - 反机器人工具包，保护游戏和区块链资产
+- <a href="https://incymo.ai/" target="_blank">Incymo</a> (**Incymo**) - 游戏变现平台，优化广告和玩家行为分析
+- <a href="https://theculturedao.com/" target="_blank">The Culture DAO</a> (**The Culture DAO**) - Solana NFT 和 AI 游戏/电影平台
+- <a href="https://latitude.io/" target="_blank">Latitude</a> (**Latitude**) - AI 驱动的动态游戏世界，AI Dungeon 的创造者
+- <a href="https://www.ggpredict.io/" target="_blank">GG Predict</a> (**GG Predict**) - 带 AI 定制挑战和反馈的 CS:GO 训练平台
+- <a href="https://modl.ai/" target="_blank">Modl.ai</a> (**Modl.ai**) - 用于自动化测试和内容生成的游戏 AI 工具
+- <a href="https://statespace.gg/" target="_blank">Statespace</a> (**Statespace**) - 游戏技能分析平台（如 Aimlabs）
+- <a href="https://mobalytics.gg/" target="_blank">Mobalytics</a> (**Mobalytics**) - 支持多款热门游戏的游戏数据分析工具
+
+### 元宇宙平台
+
+_这些平台提供元宇宙创建、虚拟世界构建和沉浸式体验。_
+
+- <a href="https://www.oneirocom.ai/" target="_blank">Oneirocom</a> (**Oneirocom**) - 结合 AI 和分布式沉浸式叙事技术的元宇宙平台，创造魔幻和想象的元宇宙
+- <a href="https://aukilabs.com/" target="_blank">Auki Labs</a> (**Auki Labs**) - 开发增强现实技术以构建持久和隐私保护的元宇宙，提供分布式定位和空间多人解决方案
+- <a href="https://mindtech.global/" target="_blank">Mindtech Global</a> (**Mindtech Global**) - 开发 Chameleon 平台生成合成数据以训练视觉 AI 系统，模拟真实世界交互
+- <a href="https://kinetix.tech/" target="_blank">Kinetix</a> (**Kinetix**) - 允许用户从视频创建 3D 动画头像并转换为 NFT，支持跨虚拟世界使用
+
+## AI 活动策划工具
+
+_这些平台帮助策划和组织活动、派对和庆祝活动。_
+
+- <a href="https://www.celebrateally.com/" target="_blank">CelebrateAlly</a> (**CelebrateAlly** · 最新版) - AI 庆祝助手，提供自定义演讲、贺卡文案和派对规划工具
+
+## AI 用户研究工具
+
+_这些平台提供 AI 驱动的用户研究和反馈收集工具。_
+
+- <a href="https://www.questionai.com/" target="_blank">QuestionAI</a> (**QuestionAI**) - AI 用户研究平台，自动化调研流程
+- <a href="https://datacrunch.io/" target="_blank">DataCrunch</a> (**DataCrunch**) - AI 驱动的数据分析和用户洞察平台
 
 ## 垂直领域解决方案
 
@@ -1017,6 +1574,23 @@ _这些是 AI 驱动的电子表格工具，提供智能数据分析和自动化
 
 - <a href="https://endex.ai/" target="_blank">Endex.ai</a> (**Endex.ai** · 最新版) - AI 电子表格工具，提供智能数据分析和可视化功能
 - <a href="https://www.paradigmai.com/" target="_blank">Paradigm</a> (**Paradigm** · 最新版) - AI 电子表格平台，支持自动化数据处理和高级分析
+
+## AI 内容检测工具
+
+_这些工具检测 AI 生成的内容、检查抄袭并验证内容真实性。_
+
+- <a href="https://originality.ai/" target="_blank">Originality AI</a> (**Originality AI** · 最新版) - 专业内容质量工具，集成 AI 检测、抄袭检查、事实验证和可读性评估
+- <a href="https://gptzero.me/" target="_blank">GPTZero</a> (**GPTZero** · 最新版) - 免费 AI 文本检测器，逐句分析 AI 生成内容
+- <a href="https://undetectable.ai/" target="_blank">Undetectable.ai</a> (**Undetectable.ai** · 最新版) - 聚合多个 AI 检测器结果并提供 AI 内容重写以规避检测
+
+## AI 识别工具
+
+### 植物识别
+
+_这些工具使用 AI 从照片中识别植物并提供养护指导。_
+
+- <a href="https://myplantin.com/" target="_blank">Plantin</a> (**Plantin** · 最新版) - AI 植物识别和养护助手，从照片识别植物并提供定制化养护计划和疾病诊断
+- <a href="https://www.picturethisai.com/" target="_blank">PictureThis</a> (**PictureThis** · 最新版) - 植物识别应用，即时识别 400,000+ 植物物种并提供养护指导
 
 ---
 
