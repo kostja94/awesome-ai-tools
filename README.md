@@ -161,12 +161,12 @@ A curated collection of AI and SaaS products, regularly updated with the latest 
 _These are foundational large language models that can be accessed via API. Many AI applications are built on top of these models._
 
 - <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 2.5 Pro / 2.5 Flash) - Google DeepMind's multimodal large model supporting text, image, audio, and video inputs
-- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 2 / 3) - AI company founded by Elon Musk, developing Grok chat model and exploring explainable intelligence
-- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · 3.5 Sonnet / 3 Opus) - LLM developer focused on safety and controllability, with Claude series as representative products
+- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 4.3) - AI company founded by Elon Musk, developing Grok chat model and exploring explainable intelligence
+- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · Opus 4.7 / Sonnet 4.6) - LLM developer focused on safety and controllability, with Claude series as representative products
 - <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 4o / 4.5 / o3 / o1) - AI research and deployment pioneer, committed to making AGI benefit all humanity
 - <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba**) - Large language model
 - <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> (**Moonshot AI** · K2.6) - Large language model with strong article summarization capabilities
-- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM</a> (**Z.ai** · 5.1) - Large language model
+- <a href="https://docs.z.ai/" target="_blank">GLM</a> (**Z.ai** · 5.1) - Large language model
 - <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> (**DeepSeek** · V3 / R1) - Large language model
 - <a href="https://llama.meta.com/" target="_blank">Llama</a> (**Meta**) - Meta's open-source large language model series, lightweight and efficient with multimodal capabilities
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> (**MiniMax** · M2.7) - Large language model
@@ -179,14 +179,11 @@ _These are foundational large language models that can be accessed via API. Many
 
 _These are large language models optimized for web development tasks that can be accessed via API. Many AI coding applications are built on top of these models._
 
-- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a> (**Anthropic** · Latest) - Optimized for web development tasks with thinking capabilities
+- <a href="https://www.anthropic.com/claude" target="_blank">Claude Opus 4.7</a> (**Anthropic** · Latest) - Optimized for web development tasks with thinking capabilities
 - <a href="https://aistudio.google.com/app/apps/drive/1aKtDr0KS2rR-zK3U30lz1WopLUOzQK1A?showPreview=true&showAssistant=true&fullscreenApplet=true" target="_blank">Gemini 2.5 Pro</a> (**Google** · Latest) - Multimodal model optimized for web development
 - <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · Latest) - Optimized for web development tasks
-- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a> (**Anthropic** · Latest) - Optimized for web development with thinking capabilities
-- <a href="https://openai.com/index/gpt-4o/" target="_blank">GPT-4o</a> (**OpenAI** · Latest) - Advanced model for web development
-- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM-5.1</a> (**Z.ai** · Latest) - Open-source MIT licensed model optimized for coding
+- <a href="https://docs.z.ai/" target="_blank">GLM-5.1</a> (**Z.ai** · Latest) - Open-source MIT licensed model optimized for coding
 - <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2.6 Thinking</a> (**MoonshotAI** · Turbo) - Optimized for web development tasks
-- <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · Latest) - Specialized code generation model
 - <a href="https://www.minimax.io/" target="_blank">MiniMax M2.7</a> (**MiniMax** · Latest) - Open-source Apache 2.0 licensed model
 - <a href="https://api-docs.deepseek.com/" target="_blank">DeepSeek-V3</a> (**DeepSeek AI** · Latest) - Open-source MIT licensed model
 - <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> (**Alibaba** · 32B) - Specialized coding model with Apache 2.0 license
@@ -201,18 +198,18 @@ _These are foundational text-to-image generation models that can be accessed via
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan</a> (**Tencent** · 3.0) - Tencent's text-to-image generation model
 - <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen</a> (**Google** · 4.0 Ultra / 4.0) - Google DeepMind's text-to-image generation model
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - ByteDance's text-to-image generation model
-- <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">WAN</a> (**Alibaba** · 2.5) - Alibaba's text-to-image generation model
+- <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">WAN</a> (**Alibaba** · 2.7) - Alibaba's text-to-image generation model
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image</a> (**OpenAI** · 1) - OpenAI's text-to-image generation model
-- <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">MAI Image</a> (**Microsoft AI** · 1) - Microsoft AI's text-to-image generation model
+- <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> (**Microsoft AI** · 2) - Microsoft AI's text-to-image generation model
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image</a> (**Alibaba** · Open Source) - Alibaba's open-source text-to-image generation model
 - <a href="https://openai.com/index/dall-e-3/" target="_blank">DALL-E</a> (**OpenAI** · 3) - OpenAI's text-to-image generation model
-- <a href="https://bfl.ai/" target="_blank">Flux</a> (**Black Forest Labs** · 1.1 Pro / 1 Kontext) - Black Forest Labs' text-to-image generation model
+- <a href="https://bfl.ai/" target="_blank">Flux</a> (**Black Forest Labs** · 1.1 Pro / 1 Context) - Black Forest Labs' text-to-image generation model
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> (**Stability AI** · v3.5) - Open-source text-to-image models with API access
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> (**Ideogram** · v3) - Text-to-image generation model with exceptional text rendering capabilities
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · Latest) - Text-to-image generation model known for artistic quality
-- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1) - Text-to-image generation model
+- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1.5) - Text-to-image generation model
 - <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> (**Leonardo AI** · Lucid Origin) - Text-to-image and video generation model
-- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> (**Recraft** · v3) - Text-to-image generation model supporting vectors and mockups
+- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> (**Recraft** · v4) - Text-to-image generation model supporting vectors and mockups
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · Latest) - Adobe's text-to-image generation model integrated with Creative Cloud
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> (**Luma Labs** · Latest) - Luma Labs' text-to-image generation model
 
@@ -224,9 +221,9 @@ _These are foundational image-to-image generation and editing models that can be
 - <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - ByteDance's image editing model
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image</a> (**OpenAI** · 1) - OpenAI's image editing model
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit</a> (**Alibaba** · Latest) - Alibaba's image editing model
-- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1) - Image editing model
-- <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext</a> (**Black Forest Labs** · 1 Kontext) - Black Forest Labs' image editing model
-- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 5 Preview) - Adobe's image editing model integrated with Creative Cloud
+- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1.5) - Image editing model
+- <a href="https://bfl.ai/" target="_blank">Flux Context</a> (**Black Forest Labs** · 1 Context) - Black Forest Labs' image editing model
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 5) - Adobe's image editing model integrated with Creative Cloud
 - <a href="https://www.hidream.ai/" target="_blank">HiDream</a> (**HiDream** · Latest) - Image editing model
 - <a href="https://www.stepfun.com/" target="_blank">StepFun</a> (**StepFun** · Latest) - Image editing model
 
@@ -436,11 +433,11 @@ _These are foundational speech-to-text (automatic speech recognition) models tha
 
 _These are foundational music generation models that can be accessed via API. Many AI music applications are built on top of these models._
 
-- <a href="https://suno.ai/" target="_blank">Suno</a> (**Suno** · V4.5) - AI music generator that creates high-quality songs from text prompts, supporting vocals and multiple genres
+- <a href="https://suno.ai/" target="_blank">Suno</a> (**Suno** · V5.5) - AI music generator that creates high-quality songs from text prompts, supporting vocals and multiple genres
 - <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a> (**ElevenLabs** · Latest) - Studio-quality AI music generator that creates tracks instantly in any genre or style, with or without vocals
 - <a href="https://www.udio.com/" target="_blank">Udio</a> (**Udio** · v1.5 Allegro) - AI music generator that creates personalized music for any moment, supporting extension, remixing, and stem extraction
-- <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.0) - Text-to-audio generation model for creating music and sound effects
-- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google's music generation model integrated with YouTube
+- <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.5) - Text-to-audio generation model for creating music and sound effects
+- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 3) - Google's music generation model integrated with YouTube
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · Latest) - Meta's open-source music generation model
 
 ### Music Generation Tools
@@ -597,7 +594,7 @@ _These are AI-powered code completion tools that provide intelligent suggestions
 
 - <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> (**GitHub**) - AI pair programmer providing instant code completion, bug fixes, and PR submissions
 - <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a> (**Codeium**) - AI coding assistant with million-token context for high-quality code completion
-- <a href="https://supermaven.com/" target="_blank">Supermaven</a> (**Supermaven**) - Ultra-fast AI programming assistant with million-token context providing high-quality code completion
+- ~~Supermaven~~ (**Supermaven**) - [已被 Cursor 收购] Ultra-fast AI programming assistant, technology folded into Cursor Tab
 - <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI**) - AI programming assistant providing real-time intelligent completion, documentation, and debugging suggestions
 - <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment**) - AI coding agent platform that automatically improves code quality through local + cloud intelligence in IDE
 - <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI**) - AI system that translates natural language into code, powering coding assistants
@@ -616,9 +613,9 @@ _These platforms enable building applications with minimal or no coding through 
 - <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle**) - No-code tool for building AI agents, websites, and forms, supporting screenshot search
 - <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel**) - Conversational IDE that generates and deploys React/Svelte frontend projects with one click
 - <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy**) - AI-driven design platform that creates production-ready UI and outputs code with one click
-- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif**) - Lightweight generator platform for creating AI mini-apps, image/video generation, and comics
-- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a> (**Narrative BI**) - No-code generative BI platform that automatically converts data into natural language insights and anomaly alerts
-- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside**) - AI coding platform designed specifically for software engineering, using proprietary models for automatic code completion and generation
+- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif**) - AI creative platform for generating images, video, audio, and text with customizable workflows
+- ~~Narrative BI~~ (**Narrative BI**) - [已下线] No-code generative BI platform, team acqui-hired by Cube
+- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside**) - AI coding agent/IDE with proprietary foundation models (Malibu, Point) and CLI agent for software engineering
 
 ### Code Quality & Security Tools
 
@@ -626,7 +623,7 @@ _These tools help improve code quality, security, and documentation through AI-p
 
 - <a href="https://www.moderne.io/" target="_blank">Moderne</a> (**Moderne**) - Focuses on automatically identifying and patching security vulnerabilities in code
 - <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography**) - Uses AI technology to automatically generate documentation for code
-- <a href="http://codiga.io/" target="_blank">Codiga</a> (**Codiga** · Latest) - Innovative code analysis platform for code quality improvement
+- ~~Codiga~~ (**Codiga**) - [已被 Datadog 收购] Code analysis platform, absorbed into Datadog Code Analysis
 
 ## AI Search Tools
 
@@ -655,7 +652,7 @@ _These are foundational AI search APIs and infrastructure that can be accessed v
 - <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> (**Zeta Alpha** · Latest) - Neural search platform optimizing knowledge discovery and sharing
 - <a href="https://www.ai21.com/" target="_blank">AI21 Labs</a> (**AI21 Labs** · Latest) - Intelligent NLP platform known for powerful RAG capabilities, driving generative AI commercialization
 - <a href="https://www.glean.com/" target="_blank">Glean</a> (**Glean** · Latest) - Intelligent learning technology supporting learners with different abilities
-- <a href="https://samaya.ai/" target="_blank">Samaya AI</a> (**Samaya AI** · Latest) - Knowledge discovery platform leveraging AI and large language models for domain experts
+- <a href="https://samaya.ai/" target="_blank">Samaya AI</a> (**Samaya AI** · Latest) - AI-powered knowledge discovery platform for financial services and investment banking domain experts
 
 ### Web Scraping Tools
 
@@ -766,7 +763,7 @@ _These platforms provide AI-powered shopping experiences including virtual try-o
 
 _These are browsers with integrated AI assistants that enhance browsing experiences with intelligent features._
 
-- <a href="https://arc.net/" target="_blank">Arc</a> (**Arc** · Latest) - Reimagined browser interface with sidebar and customizable spaces to enhance productivity
+- <a href="https://arc.net/" target="_blank">Arc</a> (**Arc** · Maintenance mode) - Reimagined browser interface with sidebar and customizable spaces; The Browser Company shifted focus to Dia, Arc acquired by Atlassian Sep 2025
 - <a href="https://www.diabrowser.com/" target="_blank">Dia</a> (**Dia** · Latest) - AI browser that can converse with tabs and generate real-time assistants
 - <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a> (**Strawberry** · Latest) - Built-in AI assistant for automated research, writing, and daily tasks
 - <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a> (**Perplexity** · Latest) - Integrated Perplexity search sidebar with automatic tab organization and ad blocking
@@ -792,8 +789,8 @@ _These platforms provide unified API access to multiple AI models, making it eas
 - <a href="https://deepinfra.com/" target="_blank">Deep Infra</a> (**Deep Infra** · Latest) - Multi-model inference API covering text, image, speech, classification, and other rich features
 - <a href="https://apilayer.com/" target="_blank">APILayer</a> (**APILayer** · Latest) - High-quality micro API marketplace, low-latency integration for various developer needs
 - <a href="https://rapidapi.com/" target="_blank">Rapid API</a> (**Rapid API** · Latest) - World's largest API marketplace, integrating API discovery, testing, monetization, and management
-- <a href="https://apidog.com/" target="_blank">Apidog</a> (**Apidog** · Latest) - End-to-end API design and development platform, supporting design, debugging, and documentation synchronization
-- <a href="https://octo.ai/" target="_blank">OctoAI</a> (**OctoAI** · Latest) - One-stop generative AI infrastructure for developers, supporting model deployment, fine-tuning, and seamless scaling
+- ~~OctoAI~~ (**OctoAI**) - [已被 NVIDIA 收购] Generative AI infrastructure, commercial service shut down October 2024
+- <a href="https://apidog.com/" target="_blank">Apidog</a> (**Apidog** · Latest) - End-to-end API design and development platform (Postman alternative) with AI-assisted features
 - <a href="https://www.anyscale.com/" target="_blank">Anyscale</a> (**Anyscale** · Latest) - AI application platform based on Ray, enabling instant building, running, and scaling of large-scale AI workloads
 - <a href="https://mainfunc.ai/" target="_blank">MainFunc</a> (**MainFunc** · Latest) - AI-driven product innovation platform built by teams from major tech companies, building applications with generative AI
 
@@ -812,8 +809,8 @@ _These platforms provide enterprise-grade AI infrastructure and multi-model API 
 _These platforms provide easy access to multiple AI models through user-friendly interfaces._
 
 - <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · Latest) - Platform providing access to multiple AI models through a unified interface
-- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · Latest) - All-in-one AI assistant integrating multiple AI models, supporting GPT-4o, Claude 3.5, Gemini 2.5 Pro, and more, providing chat, search, writing, image generation, video generation, and coding features
-- <a href="http://generativeai.net/" target="_blank">Generative AI</a> (**Generative AI** · Latest) - Online courses and information platform for generative AI education and resources
+- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · Latest) - All-in-one AI assistant integrating multiple AI models including GPT, Claude, Gemini, DeepSeek, and more, providing chat, search, writing, image generation, video generation, and coding features
+- <a href="http://generativeai.net/" target="_blank">Generative AI</a> (**Martin Musiol** · Latest) - Independent blog and consultancy covering generative AI education and resources
 
 ## AI Infrastructure & GPU Cloud
 
@@ -831,10 +828,10 @@ _These platforms provide GPU cloud infrastructure and rental services for AI tra
 - <a href="https://vast.ai/" target="_blank">Vast.ai</a> (**Vast.ai** · Latest) - GPU rental platform with lower prices than mainstream clouds, convenient resource search and comparison
 - <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a> (**Jarvis Labs** · Latest) - One-click GPU cloud environment deployment, supporting instant use of deep learning frameworks
 - <a href="https://www.genesiscloud.com/" target="_blank">Genesis Cloud</a> (**Genesis Cloud** · Latest) - Enterprise GPU cloud, providing H100/H200/B200 high-performance training and inference services
-- <a href="https://www.leadergpu.com/" target="_blank">LeaderGPU</a> (**LeaderGPU** · Latest) - GPU server rental focused on deep learning, supporting high-performance training and image processing
+- <a href="https://www.leadergpu.it/" target="_blank">LeaderGPU</a> (**LeaderGPU** · Latest) - GPU server rental focused on deep learning, supporting high-performance training and image processing
 - <a href="https://irendering.net/" target="_blank">iRender</a> (**iRender** · Latest) - GPU rendering cloud for creators, supporting Blender/Unreal and other software acceleration
-- <a href="https://gpueater.com/" target="_blank">GPUEater</a> (**GPUEater** · Latest) - Japanese AMD GPU cloud, providing per-second billing for deep learning rental services
-- <a href="https://datacrunch.io/" target="_blank">DataCrunch</a> (**DataCrunch** · Latest) - European GPU cloud with on-demand clusters and serverless inference, supporting NVIDIA B/H series GPUs
+- ~~GPUEater~~ (**GPUEater**) - [服务疑似停滞] Japanese GPU cloud, minimal activity since 2020
+- <a href="https://datacrunch.io/" target="_blank">Verda (formerly DataCrunch)</a> (**Verda** · Latest) - European GPU cloud with on-demand clusters and serverless inference, supporting NVIDIA B/H series GPUs; rebranded from DataCrunch Nov 2025
 
 ### Data Infrastructure & OLAP Databases
 
@@ -855,7 +852,7 @@ _These are analytical databases and data infrastructure platforms optimized for 
 _These tools support AI model training monitoring and usage-based billing for AI services._
 
 - <a href="https://metronome.com/" target="_blank">Metronome</a> (**Metronome** · Latest) - Usage-based billing platform, automated billing models supporting real-time adjustments and growth-driven pricing
-- <a href="https://openai.com/index/openai-to-acquire-neptune/" target="_blank">Neptune.ai</a> (**Neptune.ai** · Latest) - Large model training monitoring platform, supporting real-time tracking and debugging of thousands of metric layers
+- ~~Neptune.ai~~ (**Neptune.ai**) - [已被 OpenAI 收购并下线，2026-03-05 停止服务] Large model training monitoring platform
 - <a href="https://arize.com/" target="_blank">Arize AI</a> (**Arize AI** · Latest) - Machine learning observability platform for monitoring, debugging, and improving ML models
 
 ### Backend-as-a-Service
@@ -1106,7 +1103,7 @@ _These are foundational AI 3D model generation tools that generate 3D models fro
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · Latest) - AI-powered 3D model generation supporting text-to-3D, image-to-3D, and automatic PBR texture generation
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
-- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
+- <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
 - <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> (**Alpha3D** · Latest) - Convert text or 2D images to game-ready 3D assets with Unity development support
 - <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> (**NVIDIA Research** · Latest) - High-resolution text-to-3D content generation model for graphics and visual technology research
 
@@ -1118,7 +1115,7 @@ _These are foundational AI 3D model generation tools that generate 3D models fro
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · Latest) - AI-powered 3D model generation supporting text-to-3D, image-to-3D, and automatic PBR texture generation
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
-- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
+- <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
 
 ### 3D E-commerce Platforms
 
@@ -1180,7 +1177,7 @@ _These are AI chatbots designed for specific use cases or audiences._
 - <a href="https://thecrosstalk.com/" target="_blank">Bible Chat AI</a> (**Bible Chat AI** · Latest) - Bible-based conversational AI assistant for interactive learning, indexing, and prayer communication
 
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> (**AutoResponder.ai** · Latest) - AI auto-reply chatbot generator supporting WhatsApp, Telegram, and other platforms
-- ~~Heeyo AI~~ (**Heeyo AI** · Latest) - [已下线] Multilingual AI chat companion designed for children aged 3-11, featuring educational games and adaptive growth capabilities
+- <a href="https://heeyo.ai/" target="_blank">Heeyo AI</a> (**Heeyo AI** · Latest) - Multilingual AI chat companion designed for children aged 3-11, featuring educational games and adaptive growth capabilities; backed by OpenAI Startup Fund and Amazon Alexa Fund
 
 ## AI Agents
 
@@ -1203,7 +1200,7 @@ _These are AI agents that assist with music creation, production, and editing th
 
 - <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a> (**MixAudio** · Latest) - All-in-one AI music agent for creating soundtracks, remixes, stem separation, and music analysis
 - <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a> (**MIDI Agent** · Latest) - AI VST & AU plugin that generates and transcribes MIDI using natural language and major AI models (ChatGPT, Claude, Gemini, Grok)
-- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a> (**Producer.ai** · Latest) - AI music agent for creating music from imagination
+- <a href="https://www.producer.ai/" target="_blank">Producer.ai / Google Flow Music</a> (**Google** · Latest) - AI music agent for creating music from imagination; acquired by Google Feb 2026, rebranded to Google Flow Music
 - <a href="https://www.wondera.ai/" target="_blank">Wondera</a> (**Wondera** · Latest) - AI music co-creator that helps bring musical ideas to life
 - <a href="https://tunee.ai/" target="_blank">Tunee</a> (**Tunee** · Latest) - Next-gen AI music agent that works through natural conversation to create customized music, understanding style preferences and creative patterns
 
@@ -1214,7 +1211,7 @@ _These are companies that operate as "app factories" or "product studios," build
 - <a href="https://www.lightricks.com/" target="_blank">Lightricks</a> (**Lightricks** · Latest) - Visual content creation factory built with popular apps like Facetune and Videoleap, integrating AI image and video generation and editing engines
 - <a href="https://bendingspoons.com/" target="_blank">Bending Spoons</a> (**Bending Spoons** · Latest) - Italian tech group that builds high-activity digital products like Evernote, Meetup, and Remini through acquisition and optimization model
 - <a href="https://www.freepikcompany.com/" target="_blank">Freepik</a> (**Freepik** · Latest) - Spanish AI visual platform providing billions of assets and image/video/audio generation tools, along with enterprise creative tools
-- <a href="https://www.kaleido.ai/" target="_blank">Kaleido</a> (**Canva** · Latest) - Visual AI editing and automation platform, now part of Canva Austria
+- <a href="https://www.kaleido.ai/" target="_blank">Kaleido</a> (**Canva** · Latest) - AI-powered background removal and visual editing tool, acquired by Canva and now part of Canva Austria
 - <a href="https://www.codeway.co/" target="_blank">Codeway</a> (**Codeway** · Latest) - AI-driven mobile app development factory that rapidly builds and operates high-download apps from creative concepts
 - <a href="https://www.pixerylabs.com/" target="_blank">Pixerylabs</a> (**Pixerylabs** · Latest) - Mobile video editing tool developer for content creators, supporting animation, effects, and AI generation
 - <a href="https://www.codeorgana.com/" target="_blank">Code (Organa)</a> (**Code Organa** · Latest) - Developer of mobile apps and visual effects tools for artistic creation, including Brushstroke and Animatix
@@ -1232,7 +1229,7 @@ _These are companies that operate as "app factories" or "product studios," build
 
 _These are AI-powered tools designed to help recruiters and hiring managers streamline the recruitment process, from job posting to candidate screening and management._
 
-- <a href="https://www.moonhub.ai/" target="_blank">Moonhub</a> (**Moonhub** · Latest) - AI recruitment assistant that automatically screens interviews and promotes fair matching
+- ~~Moonhub~~ (**Moonhub**) - [团队已并入 Salesforce] AI recruitment assistant, no longer operating independently
 - <a href="https://mercor.com/" target="_blank">Mercor</a> (**Mercor** · Latest) - AI-driven recruitment platform that generates matches, handles interviews, and manages payment processes
 - <a href="https://joinbrix.com/" target="_blank">Brix</a> (**Brix** · Latest) - AI platform that automatically generates job descriptions, screens candidates, and conducts pre-screening
 - <a href="https://www.carv.com/" target="_blank">Carv</a> (**Carv** · Latest) - Automatically processes recruitment workflows and updates ATS systems for recruiters
@@ -1394,7 +1391,7 @@ _These tools provide AI-powered financial analysis, market intelligence, and inv
 
 _These are infrastructure tools and databases designed for financial applications and high-performance financial data processing._
 
-- <a href="https://www.ibm.com/products/informix" target="_blank">Informix</a> (**IBM** · Latest) - IBM's multimodal relational database suitable for hybrid transactional and analytical scenarios in financial applications
+- <a href="https://www.ibm.com/products/informix" target="_blank">Informix</a> (**HCL/Actian** · Latest) - Legacy relational database (now managed by HCL/Actian) with vector search capabilities for financial applications
 
 ## AI SEO & Marketing Tools
 
@@ -2012,5 +2009,5 @@ Thank you to all contributors and the AI community for their support and feedbac
 
 ---
 
-**Maintained by <a href="https://alignify.co" target="_blank">Kostja</a>** | Last updated: 2025
+**Maintained by <a href="https://alignify.co" target="_blank">Kostja</a>** | Last updated: 2026-05-13
 

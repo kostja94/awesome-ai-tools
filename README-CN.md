@@ -126,7 +126,6 @@
 - 💰 [AI 金融与会计工具](#ai-金融与会计工具)
   - [财务运营与会计](#财务运营与会计)
   - [金融分析与情报](#金融分析与情报)
-  - [金融基础设施](#金融基础设施)
 - 📈 [AI SEO 与营销工具](#ai-seo-与营销工具)
   - [GEO (Google E-E-A-T 优化) 工具](#geo-google-e-e-a-t-优化-工具)
   - [SEO 优化工具](#seo-优化工具)
@@ -161,8 +160,8 @@
 _这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都是基于这些模型构建的。_
 
 - <a href="https://gemini.google.com/" target="_blank">Gemini</a> (**Google** · 2.5 Pro / 2.5 Flash) - Google DeepMind 的多模态大模型，支持文字、图像、音频甚至视频输入
-- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 2 / 3) - 埃隆·马斯克创办的 AI 公司，开发 Grok 聊天模型并探索解释型智能
-- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · 3.5 Sonnet / 3 Opus) - 主打安全与可控性的 LLM 开发商，其 Claude 系列也是代表产品
+- <a href="https://x.ai/" target="_blank">Grok</a> (**xAI** · 4.3) - 埃隆·马斯克创办的 AI 公司，开发 Grok 聊天模型并探索解释型智能
+- <a href="https://www.anthropic.com/" target="_blank">Claude</a> (**Anthropic** · Opus 4.7 / Sonnet 4.6) - 主打安全与可控性的 LLM 开发商，其 Claude 系列也是代表产品
 - <a href="https://openai.com/" target="_blank">GPT</a> (**OpenAI** · 4o / 4.5 / o3 / o1) - AI 研究和部署先锋，致力于让通用人工智能造福全人类
 - <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> (**Alibaba** · 3 Max) - 大语言模型
 - <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> (**Moonshot AI** · K2) - 大语言模型，文章总结能力较强
@@ -179,15 +178,12 @@ _这些是基础的大语言模型，可通过 API 调用。许多 AI 应用都�
 
 _这些是针对 Web 开发任务优化的大语言模型，可通过 API 调用。许多 AI 编程应用都是基于这些模型构建的。_
 
-- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a> (**Anthropic** · 最新版) - 针对 Web 开发任务优化，具备思考能力
+- <a href="https://www.anthropic.com/claude" target="_blank">Claude Opus 4.7</a> (**Anthropic** · 最新版) - 针对 Web 开发任务优化，具备思考能力
 - <a href="https://aistudio.google.com/app/apps/drive/1aKtDr0KS2rR-zK3U30lz1WopLUOzQK1A?showPreview=true&showAssistant=true&fullscreenApplet=true" target="_blank">Gemini 2.5 Pro</a> (**Google** · 最新版) - 针对 Web 开发优化的多模态模型
 - <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · 最新版) - 针对 Web 开发任务优化
-- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a> (**Anthropic** · 最新版) - 针对 Web 开发优化，具备思考能力
-- <a href="https://openai.com/index/gpt-4o/" target="_blank">GPT-4o</a> (**OpenAI** · 最新版) - 先进的 Web 开发模型
-- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM-4</a> (**Z.ai** · 最新版) - 开源 MIT 许可模型，针对编码优化
-- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a> (**MoonshotAI** · Turbo) - 针对 Web 开发任务优化
-- <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a> (**OpenAI** · 最新版) - 专门的代码生成模型
-- <a href="https://www.minimax.io/" target="_blank">MiniMax-Text-01</a> (**MiniMax** · 最新版) - 开源 Apache 2.0 许可模型
+- <a href="https://docs.z.ai/" target="_blank">GLM-5.1</a> (**Z.ai** · 最新版) - 开源 MIT 许可模型，针对编码优化
+- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2.6 Thinking</a> (**MoonshotAI** · Turbo) - 针对 Web 开发任务优化
+- <a href="https://www.minimax.io/" target="_blank">MiniMax M2.7</a> (**MiniMax** · 最新版) - 开源 Apache 2.0 许可模型
 - <a href="https://api-docs.deepseek.com/" target="_blank">DeepSeek-V3</a> (**DeepSeek AI** · 最新版) - 开源 MIT 许可模型
 - <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> (**Alibaba** · 32B) - 专门的编码模型，Apache 2.0 许可
 
@@ -201,19 +197,19 @@ _这些是基础的文生图大模型，可通过 API 调用。许多 AI 图像�
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">腾讯混元</a> (**Tencent** · 3.0) - 腾讯开发的文生图大模型
 - <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen</a> (**Google** · 4.0 Ultra / 4.0) - Google DeepMind 开发的文生图大模型
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - 字节跳动开发的文生图大模型
-- <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的文生图大模型
+- <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">WAN</a> (**Alibaba** · 2.7) - 阿里巴巴开发的文生图大模型
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image</a> (**OpenAI** · 1) - OpenAI 开发的文生图大模型
-- <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">MAI Image</a> (**Microsoft AI** · 1) - Microsoft AI 开发的文生图大模型
+- <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> (**Microsoft AI** · 2) - Microsoft AI 开发的文生图大模型
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image</a> (**Alibaba** · 开源) - 阿里巴巴开发的开源文生图大模型
 - <a href="https://openai.com/index/dall-e-3/" target="_blank">DALL-E</a> (**OpenAI** · 3) - OpenAI 开发的文生图大模型
-- <a href="https://bfl.ai/" target="_blank">Flux</a> (**Black Forest Labs** · 1.1 Pro / 1 Kontext) - Black Forest Labs 开发的文生图大模型
+- <a href="https://bfl.ai/" target="_blank">Flux</a> (**Black Forest Labs** · 1.1 Pro / 1 Context) - Black Forest Labs 开发的文生图大模型
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> (**Stability AI** · v3.5) - 开源文生图大模型（Stable Diffusion），提供 API 访问
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> (**Ideogram** · v3) - 文生图大模型，擅长文字渲染
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · 最新版) - 以艺术性著称的文生图大模型
-- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1) - 文生图大模型
+- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1.5) - 文生图大模型
 - <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> (**Leonardo AI** · Lucid Origin) - 文生图和视频生成大模型
-- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> (**Recraft** · v3) - 支持矢量和 mockups 的文生图大模型
-- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 最新版) - Adobe 开发的文生图大模型，与 Creative Cloud 集成
+- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> (**Recraft** · v4) - 支持矢量和 mockups 的文生图大模型
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 5) - Adobe 开发的文生图大模型，与 Creative Cloud 集成
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> (**Luma Labs** · 最新版) - Luma Labs 开发的文生图大模型
 
 ### 图生图大模型
@@ -224,9 +220,9 @@ _这些是基础的图生图生成和编辑大模型，可通过 API 调用。�
 - <a href="https://seed.bytedance.com/en/seedream4_0" target="_blank">Seedream</a> (**ByteDance** · 4.0) - 字节跳动开发的图片编辑大模型
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image</a> (**OpenAI** · 1) - OpenAI 开发的图片编辑大模型
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit</a> (**Alibaba** · 最新版) - 阿里巴巴开发的图片编辑大模型
-- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1) - 图片编辑大模型
-- <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext</a> (**Black Forest Labs** · 1 Kontext) - Black Forest Labs 开发的图片编辑大模型
-- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 5 Preview) - Adobe 开发的图片编辑大模型，与 Creative Cloud 集成
+- <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1.5) - 图片编辑大模型
+- <a href="https://bfl.ai/" target="_blank">Flux Context</a> (**Black Forest Labs** · 1 Context) - Black Forest Labs 开发的图片编辑大模型
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> (**Adobe** · 5) - Adobe 开发的图片编辑大模型，与 Creative Cloud 集成
 - <a href="https://www.hidream.ai/" target="_blank">HiDream</a> (**HiDream** · 最新版) - 图片编辑大模型
 - <a href="https://www.stepfun.com/" target="_blank">StepFun</a> (**StepFun** · 最新版) - 图片编辑大模型
 
@@ -250,6 +246,7 @@ _这些平台提供 AI 驱动的图像编辑、增强、背景去除和创意编
 - <a href="https://openart.ai/" target="_blank">OpenArt</a> (**OpenArt**) - 直观的图像生成编辑器，支持免提示词 AI 绘画和迭代
 - <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> (**FaceApp**) - 移动肖像 AI 编辑器，可改变年龄、发型和妆容
 - <a href="https://airbrush.com/" target="_blank">Airbrush</a> (**Airbrush**) - 移动/网页 AI 美颜和图像编辑工具，支持背景去除、美颜和滤镜功能
+- <a href="https://www.kaleido.ai/" target="_blank">Kaleido</a> (**Canva** · 最新版) - AI 背景移除与视觉编辑工具，已被 Canva 收购，现为 Canva Austria 旗下产品
 - <a href="https://www.beautyplus.com/" target="_blank">BeautyPlus</a> (**BeautyPlus**) - 自拍和视频处理器，拥有 50+ AI 滤镜和一键美颜工具
 - <a href="https://remini.ai/" target="_blank">Remini</a> (**Remini**) - 一键 AI 增强工具，将旧照片或模糊照片/视频升级为高清质量
 - <a href="https://www.pixelcut.ai/" target="_blank">Pixelcut</a> (**Pixelcut**) - AI 图像编辑应用，支持一键背景去除、修饰、扩展和超分辨率处理
@@ -280,7 +277,7 @@ _这些是基础的文生视频大模型，可通过 API 调用。许多 AI 视�
 - <a href="https://lumalabs.ai/ray" target="_blank">Ray</a> (**Luma AI** · 3) - Luma AI 开发的文生视频大模型
 - <a href="https://hailuoai.video/" target="_blank">Hailuo</a> (**MiniMax** · 2.3) - MiniMax 开发的文生视频大模型
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance** · 1.0 Pro) - 字节跳动开发的文生视频大模型
-- <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的文生视频大模型
+- <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.7) - 阿里巴巴开发的文生视频大模型
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的文生视频大模型
 - <a href="https://pika.art/" target="_blank">Pika</a> (**Pika** · 2.2) - 文生视频大模型
 - <a href="https://www.genmo.ai/" target="_blank">Mochi</a> (**Genmo AI** · 1) - Genmo AI 开发的文生视频大模型
@@ -298,7 +295,7 @@ _这些是基础的图生视频大模型，可通过 API 调用。许多 AI 视�
 - <a href="https://www.vidu.com/" target="_blank">Vidu</a> (**Vidu** · Q2 Turbo) - 图生视频大模型
 - <a href="https://ltx.studio/" target="_blank">LTX Studio</a> (**Lightricks** · 2 Pro) - 图生视频大模型
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance Seed** · 1.0) - 字节跳动 Seed 开发的图生视频大模型
-- <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.5) - 阿里巴巴开发的图生视频大模型
+- <a href="https://wan.video/" target="_blank">WAN</a> (**Alibaba** · 2.7) - 阿里巴巴开发的图生视频大模型
 - <a href="https://lumalabs.ai/ray" target="_blank">Ray</a> (**Luma Labs** · 3) - Luma Labs 开发的图生视频大模型
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> (**Tencent** · 最新版) - 腾讯开发的图生视频大模型
 - <a href="https://www.animon.ai/" target="_blank">Animon</a> (**Animon** · AniCut Pro 1.6) - 图生视频大模型
@@ -446,11 +443,11 @@ _这些是基础的语音转文字（自动语音识别）大模型，可通过 
 
 _这些是基础的音乐生成大模型，可通过 API 调用。许多 AI 音乐应用都是基于这些模型构建的。_
 
-- <a href="https://suno.ai/" target="_blank">Suno</a> (**Suno** · V4.5) - AI 音乐生成器，从文本提示创建高质量歌曲，支持人声和多种流派
+- <a href="https://suno.ai/" target="_blank">Suno</a> (**Suno** · V5.5) - AI 音乐生成器，从文本提示创建高质量歌曲，支持人声和多种流派
 - <a href="https://elevenlabs.io/music" target="_blank">Eleven Music</a> (**ElevenLabs** · 最新版) - 录音室级 AI 音乐生成器，可即时创建任何流派或风格的音乐，支持有/无人声
 - <a href="https://www.udio.com/" target="_blank">Udio</a> (**Udio** · v1.5 Allegro) - AI 音乐生成器，为任何时刻创建个性化音乐，支持扩展、混音和音轨提取
-- <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.0) - 文本转音频生成模型，用于创建音乐和音效
-- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 2) - Google 的音乐生成模型，与 YouTube 集成
+- <a href="https://stability.ai/stable-audio" target="_blank">Stable Audio</a> (**Stability AI** · 2.5) - 文本转音频生成模型，用于创建音乐和音效
+- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> (**Google** · 3) - Google 的音乐生成模型，与 YouTube 集成
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> (**Meta** · 最新版) - Meta 的开源音乐生成模型
 
 ### 音乐生成工具
@@ -598,6 +595,7 @@ _这些是基础的 AI 编程代理和 IDE，提供端到端的代码生成和�
 - <a href="https://www.wordware.ai/" target="_blank">Wordware</a> (**Wordware**) - 基于浏览器的 AI 工具开发 IDE，支持自然语言编程、LLM 编排与多模态 agent 构建
 - <a href="https://kiro.dev/" target="_blank">Kiro</a> (**Kiro**) - 代理式 AI IDE 和 CLI，支持规范驱动开发，帮助开发者从原型到生产，提供结构化需求、架构设计和离散任务实现
 - <a href="https://antigravity.google/" target="_blank">Google Antigravity</a> (**Google**) - AI IDE 核心，提供标签自动补全、自然语言代码命令、可配置的上下文感知代理，以及跨编辑器、终端和浏览器的代理控制
+- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside**) - AI 编码代理/IDE，拥有自研基础模型（Malibu、Point）和 CLI 代理，专为软件工程打造
 
 ### 代码补全工具
 
@@ -605,7 +603,7 @@ _这些是 AI 驱动的代码补全工具，提供智能建议和自动补全功
 
 - <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> (**GitHub**) - AI 对话式编程副驾，即时补全代码、修复 bug 与提交 PR
 - <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a> (**Codeium**) - AI 编程助手，提供高质量代码补全
-- <a href="https://supermaven.com/" target="_blank">Supermaven</a> (**Supermaven**) - 百万 token 上下文的极速 AI 编程助手，提供高质量代码补全
+- ~~Supermaven~~ (**Supermaven**) - [已被 Cursor 收购] 百万 token 上下文的极速 AI 编程助手，提供高质量代码补全
 - <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a> (**BlackBox AI**) - AI 编程助手，实时提供智能补全、文档和调试建议，提高工程效率
 - <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> (**Augment**) - AI 编码代理平台，在 IDE 中通过本地 + 云智能自动提升代码质量
 - <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> (**OpenAI**) - AI 系统，将自然语言转换为代码，为编程助手提供支持
@@ -623,9 +621,7 @@ _这些平台通过 AI 驱动的自然语言界面，以最少或无需编码的
 - <a href="https://www.trickle.so/" target="_blank">Trickle</a> (**Trickle**) - 无代码工具，构建 AI 代理、网站与表单，支持截图搜索
 - <a href="https://v0.dev/" target="_blank">V0 by Vercel</a> (**Vercel**) - 对话式 IDE，一键生成 React/Svelte 等项目前端并部署
 - <a href="https://readdy.ai/" target="_blank">Readdy</a> (**Readdy**) - AI 驱动设计平台，一键打造生产级 UI 并输出代码
-- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif**) - 轻量生成器平台，制作 AI 小应用、图像/视频生成与漫画等
-- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a> (**Narrative BI**) - 无代码生成式 BI 平台，将数据自动转化为自然语言洞察与异常警示
-- <a href="https://poolside.ai/" target="_blank">Poolside</a> (**Poolside**) - 专为软件工程设计的 AI 编码平台，利用自研模型自动补全与生成代码
+- ~~Narrative BI~~ (**Narrative BI**) - [已下线] 无代码生成式 BI 平台，团队被 Cube 收购
 
 ### 代码质量与安全工具
 
@@ -633,7 +629,7 @@ _这些工具通过 AI 驱动的分析帮助提高代码质量、安全性和文
 
 - <a href="https://www.moderne.io/" target="_blank">Moderne</a> (**Moderne**) - 专注于自动识别和修补代码中的安全漏洞
 - <a href="https://stenography.dev/" target="_blank">Stenography</a> (**Stenography**) - 利用人工智能技术为代码生成自动文档
-- <a href="http://codiga.io/" target="_blank">Codiga</a> (**Codiga** · 最新版) - 创新的代码分析平台
+- ~~Codiga~~ (**Codiga**) - [已被 Datadog 收购] 代码分析平台，已并入 Datadog Code Analysis
 
 ## AI 搜索工具
 
@@ -710,7 +706,7 @@ _这些平台提供 AI 驱动的人员、影响者、人才、投资者和公司
 
 _这些是集成 AI 助手的浏览器，通过智能功能增强浏览体验。_
 
-- <a href="https://arc.net/" target="_blank">Arc</a> (**Arc** · 最新版) - 重新构想浏览器界面，以侧边栏与可定制空间提升效率
+- <a href="https://arc.net/" target="_blank">Arc</a> (**Arc** · 维护模式) - 重新构想浏览器界面，以侧边栏与可定制空间提升效率；The Browser Company 转向 Dia，Arc 于 2025-09 被 Atlassian 收购
 - <a href="https://www.diabrowser.com/" target="_blank">Dia</a> (**Dia** · 最新版) - AI 浏览器，可与标签对话、实时生成助手
 - <a href="https://strawberrybrowser.com/" target="_blank">Strawberry</a> (**Strawberry** · 最新版) - 内置 AI 助手，自动化研究、撰写与日常任务
 - <a href="https://www.perplexity.ai/comet" target="_blank">Comet by Perplexity</a> (**Perplexity** · 最新版) - 集成 Perplexity 搜索侧边栏并能自动组织标签、屏蔽广告等
@@ -747,8 +743,7 @@ _这些平台提供统一的 API 访问多个 AI 模型，方便开发者集成�
 - <a href="https://deepinfra.com/" target="_blank">Deep Infra</a> (**Deep Infra** · 最新版) - 多模型推理 API，涵盖文本、图像、语音、分类等丰富功能
 - <a href="https://apilayer.com/" target="_blank">APILayer</a> (**APILayer** · 最新版) - 高质量微型 API 市场，低延迟集成各种开发者需求
 - <a href="https://rapidapi.com/" target="_blank">Rapid API</a> (**Rapid API** · 最新版) - 全球最大 API 市场，集 API 查找、集 API 查找、测试、盈利与管理于一体
-- <a href="https://apidog.com/" target="_blank">Apidog</a> (**Apidog** · 最新版) - 端到端 API 设计开发平台，支持设计、调试与文档同步
-- <a href="https://octo.ai/" target="_blank">OctoAI</a> (**OctoAI** · 最新版) - 开发者用的一站式生成式 AI 基础设施，支持模型部署、微调与无缝扩展
+- ~~OctoAI~~ (**OctoAI**) - [已被 NVIDIA 收购] 生成式 AI 基础设施，商业云服务已于 2024-10 关闭
 - <a href="https://www.anyscale.com/" target="_blank">Anyscale</a> (**Anyscale** · 最新版) - AI 应用平台，基于 Ray，可即时构建、运行并扩展大规模 AI 工作负载
 - <a href="https://mainfunc.ai/" target="_blank">MainFunc</a> (**MainFunc** · 最新版) - AI 驱动产品创新平台，由 Tech 大厂出身团队打造，用生成式 AI 构建应用
 
@@ -767,7 +762,7 @@ _这些平台提供企业级 AI 基础设施和多模型 API 访问，适用于�
 _这些平台通过用户友好的界面提供对多个 AI 模型的便捷访问。_
 
 - <a href="https://poe.com/" target="_blank">Poe</a> (**Poe** · 最新版) - 通过统一界面访问多个 AI 模型的平台
-- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · 最新版) - 集成多种 AI 模型的全能助手，支持 GPT-4o、Claude 3.5、Gemini 2.5 Pro 等，提供聊天、搜索、写作、图像生成、视频生成和编码功能
+- <a href="https://monica.im/" target="_blank">Monica</a> (**Monica** · 最新版) - 集成多种 AI 模型的全能助手，支持 GPT、Claude、Gemini、DeepSeek 等，提供聊天、搜索、写作、图像生成、视频生成和编码功能
 
 ## AI Agent 基础设施
 
@@ -914,7 +909,7 @@ _这些是基础的 AI 3D 模型生成工具，可以从文本提示生成 3D �
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · 最新版) - AI 驱动的 3D 模型生成，支持文本到 3D、图像到 3D 以及自动 PBR 纹理生成
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · 最新版) - 从文本提示和图像生成多样化的 3D 模型，适合快速原型设计和概念开发
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · 最新版) - 从文本提示和图像生成高质量 3D 模型，支持多种导出格式
-- <a href="https://hunyuan.tencent.com/3d" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
+- <a href="https://3d.hunyuan.tencent.com/" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
 - <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> (**Alpha3D** · 最新版) - 将文本或 2D 图像一键转成游戏级 3D 资产，含 Unity 开发支持
 - <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> (**NVIDIA Research** · 最新版) - 高分辨率文本到 3D 内容生成模型，用于图形和视觉技术研究
 
@@ -926,7 +921,7 @@ _这些是基础的 AI 3D 模型生成工具，可以从 2D 图像生成 3D 模�
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · 最新版) - AI 驱动的 3D 模型生成，支持文本到 3D、图像到 3D 以及自动 PBR 纹理生成
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · 最新版) - 从文本提示和图像生成多样化的 3D 模型，适合快速原型设计和概念开发
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · 最新版) - 从文本提示和图像生成高质量 3D 模型，支持多种导出格式
-- <a href="https://hunyuan.tencent.com/3d" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
+- <a href="https://3d.hunyuan.tencent.com/" target="_blank">混元 3D</a> (**腾讯** · 最新版) - 从文本和图像生成具有干净几何结构的逼真 3D 模型，特别擅长生成人物角色和光滑表面的物体
 
 ### 3D 电商平台
 
@@ -959,6 +954,7 @@ _这些平台提供 AI 驱动的动作捕捉和动画功能。_
 _这些工具专为概念艺术家和从事 3D 内容创作的创意专业人士设计。_
 
 - <a href="https://mirageml.com/" target="_blank">Mirage</a> (**Mirage** · 最新版) - 为概念艺术家提供创作工具，支持 3D 内容生成
+- <a href="https://glif.app/" target="_blank">Glif</a> (**Glif**) - AI 创意生成平台，制作图像/视频/音频等创意内容
 
 ## AI 聊天机器人
 
@@ -986,7 +982,7 @@ _这些是支持 NSFW 内容和成人内容的虚拟陪伴 AI 聊天机器人平
 _这些是为特定用途或受众设计的 AI 聊天机器人。_
 
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> (**AutoResponder.ai** · 最新版) - 支持 WhatsApp、Telegram 等平台的 AI 自动回复机器人生成器
-- ~~Heeyo AI~~ (**Heeyo AI** · 最新版) - [已下线] 为 3-11 岁儿童打造的多语言 AI 聊伴，具教育游戏与成长适应能力
+- <a href="https://heeyo.ai/" target="_blank">Heeyo AI</a> (**Heeyo AI** · 最新版) - 为 3-11 岁儿童打造的多语言 AI 聊伴，具教育游戏与成长适应能力；获 OpenAI Startup Fund 和 Amazon Alexa Fund 投资
 
 ## AI 代理
 
@@ -1009,7 +1005,7 @@ _这些是通过自然对话和智能自动化辅助音乐创作、制作和编�
 
 - <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a> (**MixAudio** · 最新版) - 一体化 AI 音乐代理，用于创建配乐、混音、音轨分离和音乐分析
 - <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a> (**MIDI Agent** · 最新版) - AI VST & AU 插件，使用自然语言和主流 AI 模型（ChatGPT、Claude、Gemini、Grok）生成和转录 MIDI
-- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a> (**Producer.ai** · 最新版) - 从想象中创作音乐的 AI 音乐代理
+- <a href="https://www.producer.ai/" target="_blank">Producer.ai / Google Flow Music</a> (**Google** · 最新版) - 从想象中创作音乐的 AI 音乐代理；2026-02 被 Google 收购，更名为 Google Flow Music
 - <a href="https://www.wondera.ai/" target="_blank">Wondera</a> (**Wondera** · 最新版) - 帮助实现音乐创意的 AI 音乐共创工具
 - <a href="https://tunee.ai/" target="_blank">Tunee</a> (**Tunee** · 最新版) - 下一代 AI 音乐代理，通过自然对话创建定制音乐，理解风格偏好和创作模式
 
@@ -1020,7 +1016,6 @@ _这些是作为"应用工厂"或"产品工作室"运营的公司，构建和运
 - <a href="https://www.lightricks.com/" target="_blank">Lightricks</a> (**Lightricks** · 最新版) - 以 Facetune、Videoleap 等热门应用构建的视觉内容"一体化创作工厂"，融合 AI 图像、视频生成与编辑引擎
 - <a href="https://bendingspoons.com/" target="_blank">Bending Spoons</a> (**Bending Spoons** · 最新版) - 意大利技术集团，通过收购+优化模式，构建 Evernote、Meetup、Remini 等多款高活跃数字产品
 - <a href="https://www.freepikcompany.com/" target="_blank">Freepik</a> (**Freepik** · 最新版) - 西班牙 AI 视觉平台，提供亿级素材库与图片/视频/音频生成及企业级创意工具
-- <a href="https://www.kaleido.ai/" target="_blank">Kaleido</a> (**Canva** · 最新版) - 专注视觉 AI 编辑与自动化处理的工具平台，现为 Canva 旗下产品
 - <a href="https://www.codeway.co/" target="_blank">Codeway</a> (**Codeway** · 最新版) - AI 驱动的移动应用开发工厂，从创意出发快速构建并运营高下载量 App
 - <a href="https://www.pixerylabs.com/" target="_blank">Pixerylabs</a> (**Pixerylabs** · 最新版) - 面向内容创作者的手机视频编辑工具开发者，支持动画、特效与 AI 生成
 - <a href="https://www.codeorgana.com/" target="_blank">Code (Organa)</a> (**Code Organa** · 最新版) - 开发支持艺术创作的手机 App 与视觉特效工具，包括 Brushstroke、Animatix 等
@@ -1038,7 +1033,7 @@ _这些是作为"应用工厂"或"产品工作室"运营的公司，构建和运
 
 _这些是专为招聘者和招聘经理设计的 AI 工具，帮助简化招聘流程，从职位发布到候选人筛选和管理。_
 
-- <a href="https://www.moonhub.ai/" target="_blank">Moonhub</a> (**Moonhub** · 最新版) - AI 招聘助手，自动筛选面试并促进公平匹配
+- ~~Moonhub~~ (**Moonhub**) - [团队已并入 Salesforce] AI 招聘助手，已不再独立运营
 - <a href="https://mercor.com/" target="_blank">Mercor</a> (**Mercor** · 最新版) - AI 驱动招聘平台，生成匹配、面试及支付流程
 - <a href="https://joinbrix.com/" target="_blank">Brix</a> (**Brix** · 最新版) - AI 自动生成 JD、筛选候选人及预审
 - <a href="https://www.carv.com/" target="_blank">Carv</a> (**Carv** · 最新版) - 为招聘者自动处理流程并更新 ATS 系统
@@ -1440,12 +1435,6 @@ _这些工具提供 AI 驱动的金融分析、市场情报和投资决策支持
 - <a href="https://rogo.ai/" target="_blank">Rogo AI</a> (**Rogo AI** · 最新版) - 面向金融机构的专属 AI 分析平台，自动研究数据、生成洞察并加速投资决策
 - <a href="https://www.alpha-sense.com/" target="_blank">AlphaSense</a> (**AlphaSense** · 最新版) - AI 企业搜索引擎，实时分析市场与财务情报
 
-### 金融基础设施
-
-_这些是专为金融应用和高性能金融数据处理设计的基础设施工具和数据库。_
-
-- <a href="https://www.ibm.com/products/informix" target="_blank">Informix</a> (**IBM** · 最新版) - IBM 的多模态关系数据库，适合混合事务与分析场景
-
 ## AI SEO 与营销工具
 
 ### GEO (Google E-E-A-T 优化) 工具
@@ -1553,7 +1542,7 @@ _这些平台帮助策划和组织活动、派对和庆祝活动。_
 _这些平台提供 AI 驱动的用户研究和反馈收集工具。_
 
 - <a href="https://www.questionai.com/" target="_blank">QuestionAI</a> (**QuestionAI**) - AI 用户研究平台，自动化调研流程
-- <a href="https://datacrunch.io/" target="_blank">DataCrunch</a> (**DataCrunch**) - AI 驱动的数据分析和用户洞察平台
+- <a href="https://datacrunch.io/" target="_blank">Verda（原 DataCrunch）</a> (**Verda** · 最新版) - 欧洲 GPU 云平台，支持按需集群和无服务器推理；2025-11 从 DataCrunch 更名
 
 ## 垂直领域解决方案
 
@@ -1607,5 +1596,5 @@ _这些工具使用 AI 从照片中识别植物并提供养护指导。_
 
 ---
 
-**维护者：<a href="https://alignify.co" target="_blank">Kostja</a>** | 最后更新：2025
+**维护者：<a href="https://alignify.co" target="_blank">Kostja</a>** | 最后更新：2026-05-13
 

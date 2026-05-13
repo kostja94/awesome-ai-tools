@@ -10,9 +10,9 @@ Quick reference index of all products in this repository.
 | Tencent Hunyuan | AI Image Tools | <a href="https://hunyuan.tencent.com/image/en" target="_blank">Link</a> | Active |
 | Imagen by Google | AI Image Tools | <a href="https://deepmind.google/models/imagen/" target="_blank">Link</a> | Active |
 | Seedream by ByteDance | AI Image Tools | <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Link</a> | Active |
-| WAN by Alibaba | AI Image Tools | <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">Link</a> | Active |
+| WAN by Alibaba | AI Image Tools | <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">Link</a> | Active |
 | GPT Image by OpenAI | AI Image Tools | <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">Link</a> | Active |
-| MAI Image by Microsoft AI | AI Image Tools | <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">Link</a> | Active |
+| MAI Image by Microsoft AI | AI Image Tools | <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">Link</a> | Active |
 | Qwen Image by Alibaba | AI Image Tools | <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Link</a> | Active |
 | DALL-E 3 by OpenAI | AI Image Tools | <a href="https://openai.com/index/dall-e-3/" target="_blank">Link</a> | Active |
 | Flux by Black Forest Labs | AI Image Tools | <a href="https://bfl.ai/" target="_blank">Link</a> | Active |
@@ -30,15 +30,12 @@ Quick reference index of all products in this repository.
 ### Large Language Models (LLMs)
 
 #### Web Development LLMs
-- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a>
+- <a href="https://www.anthropic.com/claude" target="_blank">Claude Opus 4.7</a>
 - <a href="https://aistudio.google.com/app/apps/drive/1aKtDr0KS2rR-zK3U30lz1WopLUOzQK1A?showPreview=true&showAssistant=true&fullscreenApplet=true" target="_blank">Gemini 2.5 Pro</a>
 - <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a>
-- <a href="https://www.anthropic.com/claude" target="_blank">Claude 3.5 Sonnet</a>
-- <a href="https://openai.com/index/gpt-4o/" target="_blank">GPT-4o</a>
-- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM-4</a>
-- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2 Thinking</a>
-- <a href="https://platform.openai.com/docs/models/gpt-4o" target="_blank">GPT-4o</a>
-- <a href="https://www.minimax.io/" target="_blank">MiniMax-Text-01</a>
+- <a href="https://docs.z.ai/" target="_blank">GLM-5.1</a>
+- <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking" target="_blank">Kimi K2.6 Thinking</a>
+- <a href="https://www.minimax.io/" target="_blank">MiniMax M2.7</a>
 - <a href="https://api-docs.deepseek.com/" target="_blank">DeepSeek-V3</a>
 - <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a>
 
@@ -49,7 +46,7 @@ Quick reference index of all products in this repository.
 - <a href="https://openai.com/" target="_blank">GPT</a>
 - <a href="https://chat.qwen.ai/" target="_blank">Qwen</a>
 - <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a>
-- <a href="https://docs.z.ai/guides/llm/glm-4" target="_blank">GLM</a>
+- <a href="https://docs.z.ai/" target="_blank">GLM</a>
 - <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a>
 - <a href="https://llama.meta.com/" target="_blank">Llama</a>
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a>
@@ -65,9 +62,9 @@ Quick reference index of all products in this repository.
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan</a>
 - <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen by Google</a>
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream by ByteDance</a>
-- <a href="https://modelstudio.console.alibabacloud.com/" target="_blank">WAN by Alibaba</a>
+- <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">WAN by Alibaba</a>
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a>
-- <a href="https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/" target="_blank">MAI Image by Microsoft AI</a>
+- <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image by Microsoft AI</a>
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image by Alibaba</a>
 - <a href="https://openai.com/index/dall-e-3/" target="_blank">DALL-E 3 by OpenAI</a>
 - <a href="https://bfl.ai/" target="_blank">Flux by Black Forest Labs</a>
@@ -86,7 +83,7 @@ Quick reference index of all products in this repository.
 - <a href="https://platform.openai.com/docs/models/gpt-image-1" target="_blank">GPT Image by OpenAI</a>
 - <a href="https://qwenlm.github.io/blog/qwen-image/" target="_blank">Qwen Image Edit by Alibaba</a>
 - <a href="https://reve.com/" target="_blank">Reve</a>
-- <a href="https://bfl.ai/announcements/flux-1-kontext" target="_blank">Flux Kontext by Black Forest Labs</a>
+- <a href="https://bfl.ai/" target="_blank">Flux Context by Black Forest Labs</a>
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a>
 - <a href="https://www.hidream.ai/" target="_blank">HiDream</a>
 - <a href="https://www.stepfun.com/" target="_blank">StepFun</a>
@@ -188,7 +185,7 @@ Quick reference index of all products in this repository.
 #### Code Completion Tools
 - <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a>
 - <a href="https://windsurf.com/" target="_blank">Codeium (Windsurf)</a>
-- <a href="https://supermaven.com/" target="_blank">Supermaven</a>
+- ~~Supermaven~~ (**Supermaven**) - [已被 Cursor 收购]
 - <a href="https://www.blackbox.ai/" target="_blank">BlackBox AI</a>
 - <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a>
 - <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a>
@@ -203,13 +200,13 @@ Quick reference index of all products in this repository.
 - <a href="https://v0.dev/" target="_blank">V0 by Vercel</a>
 - <a href="https://readdy.ai/" target="_blank">Readdy</a>
 - <a href="https://glif.app/" target="_blank">Glif</a>
-- <a href="https://www.narrative.bi/" target="_blank">Narrative BI</a>
+- ~~Narrative BI~~ (**Narrative BI**) - [已下线]
 - <a href="https://poolside.ai/" target="_blank">Poolside</a>
 
 #### Code Quality & Security Tools
 - <a href="https://www.moderne.io/" target="_blank">Moderne</a>
 - <a href="https://stenography.dev/" target="_blank">Stenography</a>
-- <a href="http://codiga.io/" target="_blank">Codiga</a>
+- ~~Codiga~~ (**Codiga**) - [已被 Datadog 收购]
 
 ### AI Search Tools
 
@@ -298,10 +295,10 @@ Quick reference index of all products in this repository.
 - <a href="https://vast.ai/" target="_blank">Vast.ai</a>
 - <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a>
 - <a href="https://www.genesiscloud.com/" target="_blank">Genesis Cloud</a>
-- <a href="https://www.leadergpu.com/" target="_blank">LeaderGPU</a>
+- <a href="https://www.leadergpu.it/" target="_blank">LeaderGPU</a>
 - <a href="https://irendering.net/" target="_blank">iRender</a>
-- <a href="https://gpueater.com/" target="_blank">GPUEater</a>
-- <a href="https://datacrunch.io/" target="_blank">DataCrunch</a>
+- ~~GPUEater~~ (**GPUEater**) - [服务疑似停滞]
+- <a href="https://datacrunch.io/" target="_blank">Verda (formerly DataCrunch)</a>
 
 #### Data Infrastructure & OLAP Databases
 - <a href="https://duckdb.org/" target="_blank">DuckDB</a>
@@ -316,7 +313,7 @@ Quick reference index of all products in this repository.
 
 #### AI Training & Billing Tools
 - <a href="https://metronome.com/" target="_blank">Metronome</a>
-- <a href="https://openai.com/index/openai-to-acquire-neptune/" target="_blank">Neptune.ai</a>
+- ~~Neptune.ai~~ (**Neptune.ai**) - [已被 OpenAI 收购并下线]
 - <a href="https://arize.com/" target="_blank">Arize AI</a>
 
 #### Backend-as-a-Service
@@ -378,7 +375,7 @@ Quick reference index of all products in this repository.
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a>
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a>
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a>
-- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a>
+- <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a>
 - <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a>
 - <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a>
 
@@ -387,7 +384,7 @@ Quick reference index of all products in this repository.
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a>
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a>
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a>
-- <a href="https://hunyuan.tencent.com/3d" target="_blank">Hunyuan3D</a>
+- <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a>
 
 #### 3D E-commerce Platforms
 - <a href="https://www.hexa3d.io/" target="_blank">Hexa</a>
@@ -420,7 +417,7 @@ Quick reference index of all products in this repository.
 
 #### Specialized Chatbots
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a>
-- ~~Heeyo AI~~ [已下线]
+- <a href="https://heeyo.ai/" target="_blank">Heeyo AI</a>
 
 ### AI Agents
 
@@ -434,7 +431,7 @@ Quick reference index of all products in this repository.
 #### Music Agents
 - <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a>
 - <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a>
-- <a href="https://www.producer.ai/" target="_blank">Producer.ai</a>
+- <a href="https://www.producer.ai/" target="_blank">Producer.ai / Google Flow Music</a>
 - <a href="https://www.wondera.ai/" target="_blank">Wondera</a>
 - <a href="https://tunee.ai/" target="_blank">Tunee</a>
 
@@ -457,7 +454,7 @@ Quick reference index of all products in this repository.
 ### AI Recruitment & Job Search
 
 #### For Recruiters
-- <a href="https://www.moonhub.ai/" target="_blank">Moonhub</a>
+- ~~Moonhub~~ (**Moonhub**) - [团队已并入 Salesforce]
 - <a href="https://mercor.com/" target="_blank">Mercor</a>
 - <a href="https://joinbrix.com/" target="_blank">Brix</a>
 - <a href="https://www.carv.com/" target="_blank">Carv</a>
