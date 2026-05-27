@@ -248,6 +248,7 @@ _These platforms provide AI-powered image editing, enhancement, background remov
 - <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> (**FaceApp**) - Mobile portrait AI editor that can change age, hairstyle, and makeup
 - <a href="https://airbrush.com/" target="_blank">Airbrush</a> (**Airbrush**) - Mobile/web AI beauty and image editing tool with background removal, beautification, and filter features
 - <a href="https://www.beautyplus.com/" target="_blank">BeautyPlus</a> (**BeautyPlus**) - Selfie and video processor with 50+ AI filters and one-click beauty tools
+- <a href="https://photorestore.ai" target="_blank">PhotoRestore.ai</a> (**PhotoRestore.ai**) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images
 - <a href="https://remini.ai/" target="_blank">Remini</a> (**Remini**) - One-click AI enhancement tool that upgrades old or blurry photos/videos to high-definition quality
 - <a href="https://www.pixelcut.ai/" target="_blank">Pixelcut</a> (**Pixelcut**) - AI-powered image editing app with one-click background removal, retouching, expansion, and super-resolution processing
 - <a href="https://www.facetuneapp.com/" target="_blank">Facetune</a> (**Facetune**) - Mobile image processing app providing AI retouching, filters, and beauty enhancement features
