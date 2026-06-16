@@ -256,6 +256,7 @@ _These platforms provide AI-powered image editing, enhancement, background remov
 - <a href="https://zmo.ai/" target="_blank">ZMO</a> (**ZMO**) - Generate and edit images through natural language descriptions
 - <a href="https://picsart.com/" target="_blank">Picsart</a> (**Picsart**) - Integrated AI image generation and editing tools, all-in-one creative editing suite
 - <a href="https://www.basedlabs.ai/" target="_blank">BasedLabs</a> (**BasedLabs**) - Multimodal creation platform generating images, videos, and audio
+- <a href="https://seedream4.video/" target="_blank">Seedream AI Studio</a> (**ByteDance**) - Multi-model AI image generation platform powered by Seedream 5.0/4.5/4.0, ranked #1 in AI Image Arena, supports up to 10 reference images and one-click Kling 2.1 video generation, free tier available
 - <a href="https://vivago.ai/" target="_blank">Vivago AI</a> (**Vivago AI**) - Free AI creation platform supporting text/image-to-video and high-quality image editing
 - <a href="https://creator.nightcafe.studio/" target="_blank">Nightcafe Studio</a> (**Nightcafe Studio**) - AI art creation platform supporting multi-model generation and community sharing
 - <a href="https://vizcom.ai/" target="_blank">Vizcom</a> (**Vizcom**) - AI creative tool for quickly generating high-quality renderings
