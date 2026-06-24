@@ -274,6 +274,7 @@ _These are foundational text-to-video generation models that can be accessed via
 - <a href="https://deepmind.google/models/veo/" target="_blank">Veo</a> (**Google** · 3.1) - Google's text-to-video generation model
 - <a href="https://openai.com/sora/" target="_blank">Sora</a> (**OpenAI** · 2 Pro / 2) - OpenAI's text-to-video generation model
 - <a href="https://www.klingai.com/" target="_blank">Kling</a> (**KlingAI** · 2.5 Turbo) - KlingAI's text-to-video generation model
+- <a href="https://imagineclip.com" target="_blank">ImagineClip</a> (**ImagineClip** · Web) - AI video generator for avatar clips, stylized scenes, and social-ready videos
 - <a href="https://lumalabs.ai/ray" target="_blank">Ray</a> (**Luma AI** · 3) - Luma AI's text-to-video generation model
 - <a href="https://hailuoai.video/" target="_blank">Hailuo</a> (**MiniMax** · 2.3) - MiniMax's text-to-video generation model
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance** · 1.0 Pro) - ByteDance's text-to-video generation model
@@ -2010,4 +2011,3 @@ Thank you to all contributors and the AI community for their support and feedbac
 ---
 
 **Maintained by <a href="https://alignify.co" target="_blank">Kostja</a>** | Last updated: 2026-05-13
-

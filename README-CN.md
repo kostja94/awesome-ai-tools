@@ -274,6 +274,7 @@ _这些是基础的文生视频大模型，可通过 API 调用。许多 AI 视�
 - <a href="https://deepmind.google/models/veo/" target="_blank">Veo</a> (**Google** · 3.1) - Google 开发的文生视频大模型
 - <a href="https://openai.com/sora/" target="_blank">Sora</a> (**OpenAI** · 2 Pro / 2) - OpenAI 开发的文生视频大模型
 - <a href="https://www.klingai.com/" target="_blank">Kling</a> (**KlingAI** · 2.5 Turbo) - KlingAI 开发的文生视频大模型
+- <a href="https://imagineclip.com" target="_blank">ImagineClip</a> (**ImagineClip** · Web) - 可从提示词、图片和效果生成头像短片、风格化场景和社交视频的 AI 视频工具
 - <a href="https://lumalabs.ai/ray" target="_blank">Ray</a> (**Luma AI** · 3) - Luma AI 开发的文生视频大模型
 - <a href="https://hailuoai.video/" target="_blank">Hailuo</a> (**MiniMax** · 2.3) - MiniMax 开发的文生视频大模型
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> (**ByteDance** · 1.0 Pro) - 字节跳动开发的文生视频大模型
@@ -1597,4 +1598,3 @@ _这些工具使用 AI 从照片中识别植物并提供养护指导。_
 ---
 
 **维护者：<a href="https://alignify.co" target="_blank">Kostja</a>** | 最后更新：2026-05-13
-
