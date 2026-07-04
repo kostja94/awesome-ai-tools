@@ -246,6 +246,7 @@ _These platforms provide AI-powered image editing, enhancement, background remov
 - <a href="https://prequel.app/" target="_blank">Prequel</a> (**Prequel**) - AI beauty effects editor providing hundreds of photo and video filters and 3D effects
 - <a href="https://openart.ai/" target="_blank">OpenArt</a> (**OpenArt**) - Intuitive image generation editor supporting prompt-free AI drawing and iteration
 - <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> (**FaceApp**) - Mobile portrait AI editor that can change age, hairstyle, and makeup
+- <a href="https://www.gohairwow.com/" target="_blank">HairWow</a> (**HairWow** · Latest) - AI hairstyle try-on and hair-care guidance tool for previewing haircuts, colors, beards, and salon-ready style directions on your own photo
 - <a href="https://airbrush.com/" target="_blank">Airbrush</a> (**Airbrush**) - Mobile/web AI beauty and image editing tool with background removal, beautification, and filter features
 - <a href="https://www.beautyplus.com/" target="_blank">BeautyPlus</a> (**BeautyPlus**) - Selfie and video processor with 50+ AI filters and one-click beauty tools
 - <a href="https://remini.ai/" target="_blank">Remini</a> (**Remini**) - One-click AI enhancement tool that upgrades old or blurry photos/videos to high-definition quality
@@ -2010,4 +2011,3 @@ Thank you to all contributors and the AI community for their support and feedbac
 ---
 
 **Maintained by <a href="https://alignify.co" target="_blank">Kostja</a>** | Last updated: 2026-05-13
-
