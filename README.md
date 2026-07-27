@@ -391,6 +391,7 @@ _These platforms provide AI-generated or curated short drama content for enterta
 
 _These are foundational text-to-speech models that can be accessed via API. Many AI audio applications are built on top of these models._
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - <a href="https://elevenlabs.io/" target="_blank">ElevenLabs</a> (**ElevenLabs** · Latest) - Industry-leading AI voice synthesis platform, generating natural voices for podcasts, dubbing, and more
 - <a href="https://fish.audio/" target="_blank">Fish Studio</a> (**Fish Studio** · Latest) - Text-to-speech model
 - <a href="https://www.sesame.com/" target="_blank">Sesame</a> (**Sesame** · Latest) - Text-to-speech model
