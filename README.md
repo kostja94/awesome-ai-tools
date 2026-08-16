@@ -1849,6 +1849,7 @@ _These platforms help plan and organize events, parties, and celebrations._
 _These platforms provide AI-powered user research and feedback collection tools._
 
 - <a href="https://www.voicepanel.com/" target="_blank">Voicepanel</a> (**Voicepanel** · Latest) - AI-driven user research tool automatically conducting chat, voice, and video interviews and analyzing feedback
+- <a href="https://ideahunter.today/" target="_blank">IdeaHunter</a> (**IdeaHunter** · Latest) - Demand-backed app and micro-SaaS idea research for solo founders using public market signals, buyer pain, MVP scope, and monetization paths
 
 ### AI Chat Assistants
 
