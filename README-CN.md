@@ -319,6 +319,7 @@ _这些平台为内容创作者提供 AI 驱动的视频编辑、生成和增强
 - <a href="https://www.topview.ai/" target="_blank">Topview</a> (**Topview**) - AI 视频编辑器，一键将链接/素材转换为多语言商业/社交短视频
 - <a href="https://www.flexclip.com/" target="_blank">Flexclip</a> (**Flexclip**) - 在线 AI 视频创作和编辑平台，提供营销/教育视频的拖放模板
 - <a href="https://pictory.ai/" target="_blank">Pictory</a> (**Pictory**) - 自动将文案、博客或 URL 转换为带有 AI 配音的专业视频
+- <a href="https://videos.social/?utm_source=kostja94-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d" target="_blank">videos.social</a> (**videos.social**) - 将博客、PDF 和提示词转为可编辑的无脸视频
 - <a href="https://aistudios.com/" target="_blank">DeepBrain AI</a> (**DeepBrain AI**) - AI 人体合成视频平台，生成带有数字人主持人的脚本演示
 - <a href="https://elai.io/" target="_blank">Elai</a> (**Elai**) - 企业级 AI 视频生成工具，快速将文本脚本转换为多语言虚拟主持人视频
 - <a href="https://creatify.ai/" target="_blank">Creatify</a> (**Creatify**) - 粘贴产品网页链接，即时生成 5-10 个逼真的短视频广告

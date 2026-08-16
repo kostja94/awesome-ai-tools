@@ -319,6 +319,7 @@ _These platforms provide AI-powered video editing, generation, and enhancement c
 - <a href="https://www.topview.ai/" target="_blank">Topview</a> (**Topview**) - AI video editor that converts links/materials into multilingual commercial/social short videos with one click
 - <a href="https://www.flexclip.com/" target="_blank">Flexclip</a> (**Flexclip**) - Online AI video creation and editing platform with drag-and-drop templates for marketing/educational videos
 - <a href="https://pictory.ai/" target="_blank">Pictory</a> (**Pictory**) - Automatically converts copy, blogs, or URLs into professional videos with AI voiceover
+- <a href="https://videos.social/?utm_source=kostja94-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d" target="_blank">videos.social</a> (**videos.social**) - Turn blog posts, PDFs, and prompts into editable faceless videos
 - <a href="https://aistudios.com/" target="_blank">DeepBrain AI</a> (**DeepBrain AI**) - AI human synthesis video platform generating scripted presentations with digital human anchors
 - <a href="https://elai.io/" target="_blank">Elai</a> (**Elai**) - Enterprise-grade AI video generation tool that quickly transforms text scripts into multilingual virtual presenter videos
 - <a href="https://creatify.ai/" target="_blank">Creatify</a> (**Creatify**) - Paste product webpage links to instantly generate 5-10 realistic short video ads
