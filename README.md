@@ -1101,6 +1101,7 @@ _These are foundational AI 3D model generation tools that generate 3D models fro
 - <a href="https://csm.ai/" target="_blank">CSM AI</a> (**CSM** · Latest) - AI-powered 3D model generation tool that automatically generates high-quality 3D models based on text descriptions
 - <a href="https://spline.design/" target="_blank">Spline AI</a> (**Spline** · Latest) - Generate 3D objects from text prompts, focused on interactive 3D scene creation for web and app design
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a> (**Meshy** · Latest) - AI-powered 3D model generation supporting text-to-3D, image-to-3D, and automatic PBR texture generation
+- <a href="https://www.luphra.com/" target="_blank">Luphra</a> (**Luphra** · Latest) - Prompt-to-matter: AI that turns prompts and sketches into editable 3D and manufactured physical products, starting with 3D printables
 - <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> (**Tripo** · Latest) - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> (**Hyper3D** · Latest) - High-quality 3D model generation from text prompts and images, supporting multiple export formats
 - <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> (**Tencent** · Latest) - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
@@ -1135,6 +1136,7 @@ _These are no-code platforms that enable users to create, edit, and collaborate 
 _These tools focus on converting 3D scans to CAD models and integrating 3D printing and manufacturing workflows._
 
 - <a href="https://www.backflip.ai/" target="_blank">Backflip</a> (**Backflip** · Latest) - AI-powered tool that converts 3D scans to CAD models with one click
+- <a href="https://www.luphra.com/" target="_blank">Luphra</a> (**Luphra** · Latest) - Prompt-to-matter platform that turns prompts and sketches into editable 3D models and 3D-printable manufactured products
 - <a href="https://ai-build.com/" target="_blank">AI Build</a> (**AI Build** · Latest) - Manufacturing platform combining 3D printing and CNC technologies for automated production
 
 ### Concept Art & Creative Tools
