@@ -1242,6 +1242,7 @@ _These are AI-powered tools designed to help recruiters and hiring managers stre
 
 _These are AI-powered tools designed to help job seekers find opportunities, optimize their applications, and prepare for interviews._
 
+- <a href="https://withresumeai.com/" target="_blank">ResumeAI</a> (**ResumeAI** · Latest) - Free ATS checker (3/day anonymous, 10/day free account), AI resume builder, State of ATS 2026 (738 employers / 704 portal-verified; Workday 37.9%), and a live job-seeker leaderboard for paid placement/visibility
 - <a href="https://www.thecorrelate.com" target="_blank">Correlate AI</a> (**Correlate AI** · Latest) - One-click automatic resume submission, customizing and applying to matching positions
 - <a href="https://helloboss.com/" target="_blank">Hello Boss</a> (**Hello Boss** · Latest) - AI job recommendation and one-click resume generation for Japanese-style recruitment applications
 - <a href="https://jobright.ai/" target="_blank">Jobright</a> (**Jobright** · Latest) - AI job search copilot that intelligently matches positions and enables one-click applications
