@@ -1156,6 +1156,7 @@ _These platforms provide AI-powered motion capture and animation capabilities._
 _These are AI chatbot platforms that allow users to create and interact with custom AI characters for conversation, roleplay, and companionship._
 
 - <a href="https://character.ai/" target="_blank">Character.ai</a> (**Character.ai** · Latest) - Customizable character chat platform providing deep, persistent memory conversation experiences
+- <a href="https://wsupai.app/" target="_blank">WSUP AI</a> (**WSUP AI** · Latest) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only
 - <a href="https://www.joyland.ai/" target="_blank">Joyland.AI</a> (**Joyland.AI** · Latest) - Generate anime-style AI characters for immersive character companionship and roleplay experiences
 - <a href="https://yodayo.com/" target="_blank">Yodayo</a> (**Yodayo** · Latest) - AI chat and image generation platform for anime enthusiasts, supporting character creation experiences
 - <a href="https://www.polybuzz.ai/" target="_blank">PolyBuzz</a> (**PolyBuzz** · Latest) - AI chat and roleplay platform with millions of virtual characters, supporting text and voice interactions
