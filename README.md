@@ -207,6 +207,7 @@ _These are foundational text-to-image generation models that can be accessed via
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> (**Stability AI** · v3.5) - Open-source text-to-image models with API access
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> (**Ideogram** · v3) - Text-to-image generation model with exceptional text rendering capabilities
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> (**Midjourney** · Latest) - Text-to-image generation model known for artistic quality
+- <a href="https://raphael.app" target="_blank">Raphael AI</a> (**Raphael AI**) - Free unlimited AI image generator from text prompts
 - <a href="https://reve.com/" target="_blank">Reve</a> (**Reve** · v1.5) - Text-to-image generation model
 - <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> (**Leonardo AI** · Lucid Origin) - Text-to-image and video generation model
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> (**Recraft** · v4) - Text-to-image generation model supporting vectors and mockups
