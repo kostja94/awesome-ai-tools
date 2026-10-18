@@ -236,10 +236,10 @@ def validate(selection: dict, entities: dict[str, dict]) -> tuple[list[str], lis
 
 def render_documents(selection: dict, selected: list[tuple[dict, dict]]) -> dict[str, str]:
     locale = load_locale()
-    # Unreviewed legacy Chinese descriptions stay in catalog/zh.yaml as
-    # candidates. They are never rendered; a link-only entry is safer than
-    # asserting an obsolete fact or silently substituting English prose.
-    locale_errors = validate_locale(selection, locale, strict=False)
+    # Every Chinese description must be reviewed and approved against the
+    # current Registry entity before it can render; unreviewed candidates
+    # block publication instead of degrading to a link-only entry.
+    locale_errors = validate_locale(selection, locale, strict=True)
     if locale_errors:
         raise ValueError(f"Chinese publication blocked: {len(locale_errors)} locale errors; first: {locale_errors[0]}")
     grouped: OrderedDict[tuple[str, str], list[dict]] = OrderedDict()
@@ -261,7 +261,7 @@ def render_documents(selection: dict, selected: list[tuple[dict, dict]]) -> dict
         return line
 
     body = ['<a href="README.md" target="_blank">English</a> | <a href="README-CN.md" target="_blank">中文</a>', "", "# Awesome AI Tools", "", "> A curated selection backed by AI Product Registry facts.", "", "## Contents", ""]
-    body_cn = ['<a href="README.md" target="_blank">English</a> | 中文', "", "# Awesome AI Tools", "", "> 由 AI Product Registry 客观事实驱动的精选 AI 工具目录。", "", "中文条目以名称和官网链接为主；仅在描述核实后展示中文说明。", "", "## 目录", ""]
+    body_cn = ['<a href="README.md" target="_blank">English</a> | 中文', "", "# Awesome AI Tools", "", "> 由 AI Product Registry 客观事实驱动的精选 AI 工具目录。", "", "## 目录", ""]
     index = ["# Product Index", "", "Quick reference index of selected products.", "", "| Product | Category | Status |", "|---|---|---|"]
     seen_groups: set[str] = set()
     for group, title in grouped:
@@ -368,7 +368,7 @@ def command_check(args: argparse.Namespace, render: bool = False, publish: bool 
         print("ERROR publish blocked until unresolved is empty")
         return 1
     if render or publish:
-        locale_errors = validate_locale(selection, load_locale(), strict=False)
+        locale_errors = validate_locale(selection, load_locale(), strict=True)
         if locale_errors:
             for message in locale_errors[:10]:
                 print(f"ERROR {message}")

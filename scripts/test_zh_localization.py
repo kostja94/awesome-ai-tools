@@ -39,7 +39,7 @@ class ChineseLocalizationTests(unittest.TestCase):
         errors = validate_locale(selection, load_locale(), strict=False)
         self.assertFalse([error for error in errors if "title missing" in error], errors[:10])
 
-    def test_candidate_renders_link_only_without_becoming_a_fact(self):
+    def test_candidate_blocks_render_and_approved_description_renders(self):
         from unittest.mock import patch
         import catalog
 
@@ -52,10 +52,16 @@ class ChineseLocalizationTests(unittest.TestCase):
             "status": "candidate", "text": "未经核实的旧事实", "source": "legacy README-CN.md"}
         with patch.object(catalog, "load_locale", return_value=self.locale), \
              patch.object(catalog, "load_guides", return_value={"sections": {}}):
+            with self.assertRaises(ValueError):
+                catalog.render_documents(selection, [(selection["sections"][0], entity)])
+
+        self.locale["descriptions"]["sample"] = {
+            "status": "approved", "text": "经核实的中文描述", "source": "registry entity facts, verified 2026-10-18"}
+        with patch.object(catalog, "load_locale", return_value=self.locale), \
+             patch.object(catalog, "load_guides", return_value={"sections": {}}):
             docs = catalog.render_documents(selection, [(selection["sections"][0], entity)])
         chinese = docs["README-CN.md"]
-        self.assertIn('href="https://example.com"', chinese)
-        self.assertNotIn("未经核实的旧事实", chinese)
+        self.assertIn("经核实的中文描述", chinese)
         self.assertNotIn("Current English fact.", chinese)
         self.assertIn("[语言模型](#section-language-models)", chinese)
         self.assertIn('id="section-language-models"', chinese)

@@ -92,21 +92,21 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://x.ai/" target="_blank">Grok</a> - Large language model family from xAI, spanning Grok 3, Grok 4 and Grok 4.1, that powers the Grok assistant on X and grok.com and is offered through the xAI API.
 - <a href="https://openai.com/" target="_blank">GPT</a> - OpenAI's flagship large language model family (GPT-4/4.5/5/6 series and variants).
 - <a href="https://www.anthropic.com/claude" target="_blank">Claude</a> - Large language model family developed by Anthropic, offered via API and in Claude assistant products.
-- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> - Qwen is a family of language models developed by Alibaba for text generation and language understanding.
-- <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> - Large language model with strong article summarization capabilities
-- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> - DeepSeek is a family of language models developed by DeepSeek for text generation, reasoning and coding tasks.
+- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> - Alibaba's open-weight language model family, from Qwen2.5 through Qwen3.7.
+- <a href="https://kimi.moonshot.cn/" target="_blank">Kimi</a> - Moonshot AI's language model family for text, code and reasoning tasks, including vision-capable and open-weight releases.
+- <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> - DeepSeek's open-weight language model family across V2, V3, V3.1, V4 Pro and R1 releases.
 - <a href="https://docs.z.ai/" target="_blank">GLM</a> - Large language model family from Zhipu AI (Z.ai), spanning GLM-4, GLM-4.5 and GLM-5, offered via the Z.ai API with open-weight releases under the MIT license since 2025.
-- <a href="https://llama.meta.com/" target="_blank">Llama</a> - Meta's open-source large language model series, lightweight and efficient with multimodal capabilities
-- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax is a family of language models for text generation, coding and tool-assisted workflows.
+- <a href="https://llama.meta.com/" target="_blank">Llama</a> - Meta's open-weight language model series, from Llama 3 through Llama 4.
+- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax's language model family with open weights, covering text generation, coding and tool-assisted workflows.
 - <a href="https://mistral.ai/" target="_blank">Mistral</a> - Mistral AI's general-purpose large language model family, organized in Small, Medium and Large tiers such as Mistral Large 2 and Mistral Medium 3, offered via la Plateforme API and enterprise deployments.
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Hunyuan is Tencent's family of AI models spanning language, image, video and three-dimensional content generation.
-- <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Strong AI technology research, supporting multilingual text and image analysis
+- <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Language model family from Aleph Alpha, supporting multilingual text and image analysis.
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> - Gemma is a family of open-weight models from Google built using research and technology from the Gemini model program.
 - <a href="https://ai.google.dev/gemini-api/docs/models/gemini-2.5-pro" target="_blank">Gemini 2.5 Pro</a> - Gemini model version first released as a public experimental preview, with thinking enabled by default.
 - <a href="https://huggingface.co/moonshotai/Kimi-K2.6" target="_blank">Kimi K2.6</a> - Open-weight mixture-of-experts language model from Moonshot AI; a native multimodal agentic release exposing Thinking and Instant inference modes through a single checkpoint.
-- <a href="https://api-docs.deepseek.com/news/news1226" target="_blank">DeepSeek-V3</a> - Open-weights mixture-of-experts model released under an MIT license.
+- <a href="https://api-docs.deepseek.com/news/news1226" target="_blank">DeepSeek-V3</a> - Open-weight mixture-of-experts model released under an MIT license.
 - <a href="https://www.minimax.io/news/minimax-m27-en" target="_blank">MiniMax M2.7</a> - MiniMax language model version for coding, agentic workflows and general text interaction.
-- <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> - Specialized coding model with Apache 2.0 license
+- <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> - Alibaba's specialized coding model family under the Apache 2.0 license.
 - <a href="https://docs.perplexity.ai/discuss/6603a518d684b200241a763a" target="_blank">Perplexity Sonar Pro High</a> - A Perplexity Sonar model variant for search-enhanced language model responses.
 - <a href="https://docs.perplexity.ai/discuss/6603a518d684b200241a763a" target="_blank">Perplexity Sonar</a> - Perplexity's API model family for web-grounded responses and reasoning with built-in search.
 
@@ -119,9 +119,9 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan model family for text-conditioned image generation.
 - <a href="https://deepmind.google/models/imagen/" target="_blank">Imagen 4</a> - Google image-generation model family available through the Gemini API and Google AI Studio.
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> - ByteDance's text-to-image generation model
-- <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - Text-to-image generation model with exceptional text rendering capabilities
+- <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - Text-to-image generation model with a focus on text rendering.
 - <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">gpt-image-2</a> - OpenAI image generation and editing model released in April 2026, with improved text rendering, multilingual text in images and visual reasoning.
-- <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> - Text-to-image and video generation model
+- <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> - Text-to-image generation model.
 - <a href="https://chat.qwen.ai" target="_blank">Qwen-Image-2.0</a> - Alibaba Qwen image generation model with bilingual Chinese-English text rendering in images, served via DashScope and Qwen Chat.
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - Text-to-image generation model supporting vectors and mockups
 - <a href="https://bfl.ai/" target="_blank">FLUX</a> - Black Forest Labs' text-to-image generation model
@@ -144,7 +144,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://hailuoai.video/" target="_blank">Hailuo</a> - MiniMax's text-to-video generation model
 - <a href="https://pika.art/" target="_blank">Pika</a> - Text-to-video generation model
 - <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">WAN</a> - Alibaba's Wan model family for text- and image-conditioned video generation.
-- <a href="https://aivideo.hunyuan.tencent.com/" target="_blank">Tencent Hunyuan Video</a> - Tencent Hunyuan model family for text- and image-conditioned video generation.
+- <a href="https://aivideo.hunyuan.tencent.com/" target="_blank">Tencent Hunyuan Video</a> - Tencent's video generation model family, producing video from both text and image inputs.
 - <a href="https://www.genmo.ai/" target="_blank">Mochi</a> - Genmo AI's text-to-video generation model
 - <a href="https://pixverse.ai/" target="_blank">PixVerse</a> - Image-to-video generation model
 - <a href="https://www.vidu.com/" target="_blank">Vidu</a> - Image-to-video generation model
@@ -161,40 +161,40 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.cartesia.ai/sonic" target="_blank">Sonic</a> - Cartesia family of streaming text-to-speech models for spoken output in real-time applications.
 - <a href="https://dev.hume.ai/voice/docs/text-to-speech-tts/overview" target="_blank">Octave</a> - Hume speech-language model family for expressive text-to-speech generation.
 - <a href="https://www.zyphra.com/models/zonos2" target="_blank">ZONOS</a> - Zyphra family of speech generation models with voice cloning and real-time text-to-speech variants.
-- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Realtime multimodal AI with rich multilingual support
-- <a href="https://amai.io/" target="_blank">AMAI</a> - Voice AI solutions providing speech synthesis technology
+- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Real-time text-to-speech model with multilingual support.
+- <a href="https://amai.io/" target="_blank">AMAI</a> - Provider of voice AI and speech synthesis (text-to-speech) technology.
 - <a href="https://github.com/openai/whisper" target="_blank">OpenAI Whisper</a> - Open-source speech recognition model from OpenAI covering 99 languages and deployable locally; community derivatives include WhisperX and faster-whisper.
-- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - High-precision speech-to-text API supporting long audio files, keyword detection, and sentiment analysis
-- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a> - Advanced speech recognition model transcribing 142 seconds of audio per second, providing high accuracy and low latency
-- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a> - High-performance transcription service, capable of transcribing 149 seconds of audio per second
-- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a> - High-performance transcription service, capable of transcribing 218 seconds of audio per second
-- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a> - Ultra-fast Whisper-based transcription service, capable of transcribing 353 seconds of audio per second
+- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - Speech-to-text API supporting long audio files, keyword detection and sentiment analysis.
+- <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a> - Speech recognition model that transcribes 142 seconds of audio per second.
+- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a> - Hosted Whisper transcription service with a throughput of 149 seconds of audio per second.
+- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a> - Transcription service capable of transcribing 218 seconds of audio per second.
+- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a> - Whisper-based transcription service processing 353 seconds of audio per second.
 - <a href="https://elevenlabs.io/speech-to-text" target="_blank">ElevenLabs Scribe v2</a> - Real-time speech-to-text model from ElevenLabs designed for low-latency streaming transcription in voice-agent applications.
 - <a href="https://cloud.google.com/speech-to-text/docs/chirp-3" target="_blank">Google Chirp 3</a> - Speech-to-text model in Google Cloud Speech-to-Text supporting 100+ languages on a Conformer architecture.
-- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a> - Fast hosted transcription of the Distil-Whisper speech-recognition model on GroqCloud.
-- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Global language coverage speech recognition service supporting multiple accents and dialects
+- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a> - Hosted transcription service for the Distil-Whisper speech-recognition model on GroqCloud, with usage-based pricing.
+- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Speech recognition service with global language coverage, supporting multiple accents and dialects.
 
 <a id="section-music-models"></a>
 
 ### Music Models
 
-- <a href="https://suno.com" target="_blank">Suno</a> - AI music generator that creates high-quality songs from text prompts, supporting vocals and multiple genres
-- <a href="https://www.udio.com/" target="_blank">Udio</a> - AI music generator that creates personalized music for any moment, supporting extension, remixing, and stem extraction
-- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> - Google's music generation model integrated with YouTube
-- <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> - Meta's open-source music generation model
+- <a href="https://suno.com" target="_blank">Suno</a> - AI music generator that creates songs with vocals in multiple genres from text prompts.
+- <a href="https://www.udio.com/" target="_blank">Udio</a> - AI music generator with support for track extension, remixing and stem extraction.
+- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> - Google's music generation model integrated with YouTube.
+- <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> - Meta's open-source music generation model, part of the AudioCraft repository.
 
 <a id="section-spatial-models"></a>
 
 ### 3D & Spatial Models
 
-- <a href="https://csm.ai/" target="_blank">CSM AI</a> - AI-powered 3D model generation tool that automatically generates high-quality 3D models based on text descriptions
-- <a href="https://spline.design/" target="_blank">Spline AI</a> - Generate 3D objects from text prompts, focused on interactive 3D scene creation for web and app design
-- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Convert text or 2D images to game-ready 3D assets with Unity development support
-- <a href="https://hyper3d.ai/" target="_blank">Rodin</a> - High-quality 3D model generation from text prompts and images, supporting multiple export formats
-- <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> - Generate realistic 3D models with clean geometric structures from text and images, especially skilled at character generation
-- <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> - High-resolution text-to-3D content generation model for graphics and visual technology research
-- <a href="https://www.meshy.ai/" target="_blank">Meshy</a> - AI-powered 3D model generation supporting text-to-3D, image-to-3D, and automatic PBR texture generation
-- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> - Generate diverse 3D models from text prompts and images, suitable for rapid prototyping and concept design
+- <a href="https://csm.ai/" target="_blank">CSM AI</a> - Tool that generates 3D models from text descriptions.
+- <a href="https://spline.design/" target="_blank">Spline AI</a> - Generates 3D objects from text prompts, focused on interactive 3D scene creation for web and app design.
+- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Converts text or 2D images into game-ready 3D assets, with Unity development support.
+- <a href="https://hyper3d.ai/" target="_blank">Rodin</a> - 3D model generation from text prompts and images, with support for multiple export formats.
+- <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> - Generates realistic 3D models with clean geometric structure from text and images, particularly for character generation.
+- <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> - High-resolution text-to-3D content generation model for graphics and visual technology research.
+- <a href="https://www.meshy.ai/" target="_blank">Meshy</a> - 3D model generation supporting text-to-3D, image-to-3D and automatic PBR texture generation.
+- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> - Generates 3D models from text prompts and images, aimed at rapid prototyping and concept design.
 
 <a id="group-agents"></a>
 
@@ -211,7 +211,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://lavague.ai" target="_blank">LaVague</a> - Open-source Large Action Model framework for building web agents that turn natural language into browser automation code with Selenium or Playwright.
 - <a href="https://notte.cc" target="_blank">Notte</a> - Browser platform for AI agents offering managed cloud browser sessions with persistent identities, a login vault and page extraction optimized for language models.
 - <a href="https://osatlas.github.io" target="_blank">OS-Atlas</a> - Open-source foundation action model for GUI grounding, trained on a large cross-platform dataset of interface elements for generalist GUI agents.
-- <a href="https://www.tinyfish.ai/" target="_blank">Tiny Fish</a> - Enterprise-focused AI agent platform
+- <a href="https://www.tinyfish.ai/" target="_blank">Tiny Fish</a> - Enterprise-focused AI agent platform.
 - <a href="https://www.openinterpreter.com" target="_blank">Open Interpreter</a> - Open-source coding agent that lets language models run code on a user's computer; developed as a fork of OpenAI's Codex focused on low-cost, open-weight models.
 - <a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool" target="_blank">Anthropic Computer Use</a> - Claude tool and reference implementation that lets AI agents interpret screenshots and control a computer's mouse and keyboard through the API.
 - <a href="https://labs.google.com/mariner/landing" target="_blank">Google Project Mariner</a> - Google DeepMind research agent that operates a Chrome browser to complete multi-step web tasks, offered as an early experiment.
@@ -223,13 +223,13 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://openfga.dev" target="_blank">OpenFGA</a> - Open-source fine-grained authorization engine modeled on Google Zanzibar, providing relationship-based access control for applications and AI agent systems.
 - <a href="https://composio.dev" target="_blank">Composio</a> - Integration platform for AI agents providing managed authentication, tool execution and triggers across a large catalog of third-party applications, with sandboxed execution and framework-agnostic SDKs.
 - <a href="https://riza.io" target="_blank">Riza</a> - Sandbox runtime that executes untrusted code generated by AI applications inside isolated WebAssembly environments, via an API.
-- <a href="https://mem0.ai/" target="_blank">Mem0</a> - Universal memory layer for AI agents with automatic extraction, cleaning, and storage; hybrid vector+knowledge graph architecture; self-improving memory compression engine.
-- <a href="https://www.getzep.com/" target="_blank">Zep</a> - Memory-layer service for AI agents and assistants.
-- <a href="https://mirix.io/" target="_blank">Mirix</a> - Screen-level multimodal memory system capturing screen, behavior and events; monitors the screen in real-time and builds a personalized memory base with reduced storage needs.
-- <a href="https://www.memobase.io/" target="_blank">Memobase</a> - Profile-based long-term memory system for AI applications; handles user profiles, memory events, and evolving context; perfect for chatbots, companions, and user-centric AI apps
+- <a href="https://mem0.ai/" target="_blank">Mem0</a> - Memory layer for AI agents with automatic extraction, cleaning and storage over a hybrid vector and knowledge-graph architecture; offered as a managed platform and as open source for self-hosting.
+- <a href="https://www.getzep.com/" target="_blank">Zep</a> - Managed memory and context service for AI agents and assistants; its companion open-source project Graphiti provides the temporal knowledge graph layer.
+- <a href="https://mirix.io/" target="_blank">Mirix</a> - Screen-level multimodal memory system that monitors the screen in real time, capturing screen, behavior and events into a personalized memory base with reduced storage needs.
+- <a href="https://www.memobase.io/" target="_blank">Memobase</a> - Profile-based long-term memory system for AI applications, handling user profiles, memory events and evolving context; suited to chatbots, companions and user-centric apps.
 - <a href="https://www.letta.com" target="_blank">Letta</a> - Open-source platform for stateful AI agents with persistent memory, formerly known as MemGPT, keeping context, identity and learned behavior across sessions.
 - <a href="https://memories.ai" target="_blank">Memories.ai</a> - Platform offering video intelligence APIs that index visual data into searchable memory for AI agents, based on a large visual memory model.
-- <a href="https://supermemory.ai" target="_blank">Supermemory</a> - Memory infrastructure for AI applications providing a knowledge-graph based persistent memory layer and APIs.
+- <a href="https://supermemory.ai" target="_blank">Supermemory</a> - Memory infrastructure for AI applications providing a knowledge-graph based persistent memory layer and APIs; open-source (MIT), with a managed API, MCP server and an end-user memory app.
 - <a href="https://www.cognee.ai/" target="_blank">Cognee</a> - Open-source AI memory engine that transforms raw data into persistent and dynamic AI memory for agents; combines vector search with knowledge graphs; ECL (Extract, Cognify, Link) framework
 - <a href="https://verodat.com" target="_blank">Verodat</a> - Data governance platform that supplies validated, lineage-tracked and context-enriched data for AI agents, analytics and automation.
 - <a href="https://github.com/MemTensor/MemOS" target="_blank">MemOS</a> - Open-source memory operating system for LLM agents unifying plaintext, activation/KV-cache and parametric memory through MemCube abstractions, with lifecycle scheduling, governance and multi-agent sharing.
@@ -250,7 +250,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://gensx.com" target="_blank">GenSX</a> - Open-source TypeScript framework for building AI agents and multi-step workflows as composable components.
 - <a href="https://agentstack.sh" target="_blank">AgentStack</a> - Open-source framework and CLI for scaffolding multi-agent LLM applications with tool integrations.
 - <a href="https://praison.ai" target="_blank">Praison AI</a> - Open-source low-code framework for building, managing and deploying multi-agent LLM applications.
-- <a href="https://langfuse.com" target="_blank">Langfuse</a> - Open-source LLM engineering platform for tracing, prompt management, evaluations and analytics, self-hostable or available as a cloud service.
+- <a href="https://langfuse.com" target="_blank">Langfuse</a> - Open-source LLM engineering platform for tracing, prompt management, evaluations and analytics, self-hostable or available as a cloud service; acquired by ClickHouse.
 - <a href="https://www.camel-ai.org" target="_blank">CAMEL-AI</a> - Open-source multi-agent framework for building and studying LLM-powered agent applications, including role-playing agent societies and tool use.
 - <a href="https://huggingface.co/docs/smolagents" target="_blank">Smolagents</a> - Minimalist open-source agent library from Hugging Face whose CodeAgent writes actions as Python code, working with any language model.
 - <a href="https://livekit.com/" target="_blank">LiveKit</a> - Real-time communication infrastructure for building voice and video applications
@@ -263,7 +263,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.authing.com/" target="_blank">Authing</a> - Enterprise identity cloud (IDaaS), implementing unified login, authorization, and multi-tenant management through SDK/API
 - <a href="https://paymanai.com/" target="_blank">Payman</a> - Secure payment infrastructure for AI agents
 - <a href="https://skyfire.xyz/" target="_blank">Skyfire</a> - Financial infrastructure for the AI economy, supporting autonomous payments and identity verification for AI agents
-- <a href="https://nekuda.ai/" target="_blank">Nekuda</a> - Building secure and compliant payment gateways for AI agents, enabling automatic payment on behalf and credential management
+- <a href="https://nekuda.ai/" target="_blank">Nekuda</a> - Building secure and compliant payment gateways for AI agents, enabling automated payments on a user's behalf and credential management.
 - <a href="https://protegee.ai" target="_blank">Protegee AI</a> - Startup building payment infrastructure for AI agents; the public site is limited to a login page.
 - <a href="https://docs.stripe.com/agents" target="_blank">Stripe Agent SDK</a> - Stripe toolkit that lets AI agents initiate payments, manage carts and checkout and use Link credentials; integrates with agent frameworks such as LangChain and the Vercel AI SDK.
 - <a href="https://auth0.com" target="_blank">Auth0</a> - Authentication and authorization platform for web and mobile applications, including identity and access controls for AI agents.
@@ -275,28 +275,28 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 [Model and application evaluation workflows](https://alignify.co/tools/evaluation) provide context for choosing benchmarks and testing tools.
 
 - <a href="https://lmarena.ai/" target="_blank">LMArena</a> - Platform for blind side-by-side comparison and community voting on LLM responses, producing crowdsourced model rankings.
-- <a href="https://outlier.ai/" target="_blank">Outlier.ai</a> - Platform bringing together professionals to train and evaluate AI models, improving model accuracy and earning rewards
-- <a href="https://hamming.io/" target="_blank">Hamming</a> - Voice agent evaluation platform
+- <a href="https://outlier.ai/" target="_blank">Outlier.ai</a> - Platform where professionals train and evaluate AI models to improve model accuracy and earn rewards.
+- <a href="https://hamming.io/" target="_blank">Hamming</a> - Testing and monitoring platform for voice AI agents.
 - <a href="https://www.coval.ai/" target="_blank">Coval</a> - Evaluation and testing platform for voice and conversational AI agents, providing scenario simulations and endpoint testing.
 - <a href="https://www.cekura.ai/" target="_blank">Cekura</a> - Testing, monitoring and evaluation platform for production voice and chat AI agents.
 - <a href="https://www.patronus.ai" target="_blank">Patronus AI</a> - Evaluation and testing platform for LLMs and AI agents, providing automated scoring benchmarks and agent simulation.
-- <a href="https://arize.com/phoenix" target="_blank">Phoenix</a> - Open-source LLM observability and agent evaluation platform from Arize, providing tracing, evaluation datasets and experiment tracking.
+- <a href="https://arize.com/phoenix" target="_blank">Phoenix</a> - LLM observability and agent evaluation platform from Arize, providing tracing, evaluation datasets and experiment tracking; source-available under the Elastic License 2.0.
 - <a href="https://www.braintrust.dev" target="_blank">Braintrust</a> - Platform for evaluating and observing AI agents and LLM applications, including tracing, evaluations, and experimentation.
 - <a href="https://galileo.ai/" target="_blank">Galileo</a> - Platform for evaluating and monitoring LLM and AI agent applications, covering hallucination, groundedness and agent-trajectory metrics.
-- <a href="https://canonical.ai/" target="_blank">Canonical AI</a> - Voice agent evaluation platform
+- <a href="https://canonical.ai/" target="_blank">Canonical AI</a> - Analytics and evaluation platform for voice agents.
 
 <a id="section-agent-builders"></a>
 
 ### Agent Development Platforms
 
-- <a href="https://thoughtly.com/" target="_blank">Thoughtly</a> - Voice agent development platform
-- <a href="https://www.bland.ai/" target="_blank">Bland AI</a> - Voice agent development platform
-- <a href="https://boost.ai/" target="_blank">boost.ai</a> - Low-code/no-code conversational AI platform
+- <a href="https://thoughtly.com/" target="_blank">Thoughtly</a> - Voice agent development platform with a sales-outreach focus.
+- <a href="https://www.bland.ai/" target="_blank">Bland AI</a> - Platform for building enterprise phone agents from Conversational Pathways branch-logic flows with guardrails; supports BYO carrier, SIP and dedicated infrastructure.
+- <a href="https://boost.ai/" target="_blank">boost.ai</a> - Low-code/no-code conversational AI platform for customer service.
 - <a href="https://rasa.com/" target="_blank">RASA</a> - Open-source conversational AI platform for building voice and text assistants
-- <a href="https://syllable.ai/" target="_blank">Syllable</a> - Syllable provides a platform for building, deploying and monitoring conversational AI systems across voice, messaging and web channels.
+- <a href="https://syllable.ai/" target="_blank">Syllable</a> - Platform for building, deploying and monitoring conversational AI systems across voice, messaging and web channels.
 - <a href="https://synthflow.ai/" target="_blank">Synthflow</a> - No-code voice AI platform for building and operating AI phone agents, with a flow designer, API, telephony integrations, simulations and call monitoring.
-- <a href="https://trillet.ai/" target="_blank">Trillet</a> - Trillet provides AI voice calling software for customer interactions and business workflows.
-- <a href="https://www.ada.support/" target="_blank">Ada</a> - Low-code/no-code conversational AI platform
+- <a href="https://trillet.ai/" target="_blank">Trillet</a> - AI voice calling software for customer interactions and business workflows.
+- <a href="https://www.ada.support/" target="_blank">Ada</a> - Conversational AI platform for customer service, built with low-code/no-code tools.
 - <a href="https://kore.ai/" target="_blank">Kore.ai</a> - Low-code/no-code conversational AI platform
 - <a href="https://happyrobot.ai/" target="_blank">HappyRobot</a> - Voice AI agent platform for logistics
 - <a href="https://www.retellai.com" target="_blank">Retell AI</a> - Platform for building, deploying and managing voice AI agents that conduct phone conversations for support and call-center use.
@@ -309,13 +309,13 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 ### LLM & Agent Frameworks
 
-- <a href="https://www.langchain.com/" target="_blank">LangChain</a> - Framework and platform for building LLM applications and agents, providing chaining abstractions, integrations and tooling for observability, evaluation and deployment.
+- <a href="https://www.langchain.com/" target="_blank">LangChain</a> - Framework for building LLM applications and agents, with chaining abstractions and integrations; RAG is a major use case, while agent orchestration (LangGraph) and observability (LangSmith) are separate products.
 - <a href="https://dify.ai" target="_blank">Dify</a> - Open-source platform for building LLM applications, with visual workflows, RAG pipelines, agent tools and model integrations.
 - <a href="https://www.llamaindex.ai" target="_blank">LlamaIndex</a> - Data framework for LLM applications, including the LlamaParse document parser, RAG components and agent workflows.
 - <a href="https://flowiseai.com/" target="_blank">Flowise</a> - Low-code AI workflow builder for creating LLM applications and automation workflows
 - <a href="https://www.griptape.ai" target="_blank">Griptape</a> - Open-source Python framework and cloud platform for building, running and governing enterprise AI agents and workflows.
 - <a href="https://microsoft.github.io/autogen/" target="_blank">AutoGen</a> - Open-source programming framework for building multi-agent conversational AI applications.
-- <a href="https://deepset.ai/" target="_blank">Deepset</a> - Natural language processing framework Haystack supporting semantic search, question answering, and RAG applications
+- <a href="https://deepset.ai/" target="_blank">Deepset</a> - Producer of the Haystack AI pipeline framework, which composes document stores, retrievers, rankers, generators and agents for semantic search, question answering and RAG applications.
 
 <a id="group-coding"></a>
 
@@ -334,13 +334,13 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.trae.ai" target="_blank">TRAE</a> - AI-native IDE from ByteDance that breaks down coding tasks into steps and implements them, including an autonomous mode for completing tasks end to end.
 - <a href="https://kiro.dev/" target="_blank">Kiro</a> - Agentic IDE from AWS built around spec-driven development, turning requirements and designs into structured tasks implemented by AI coding agents.
 - <a href="https://antigravity.google" target="_blank">Google Antigravity</a> - Agent-first development platform from Google that pairs an IDE, terminal and browser control with Gemini-based coding agents.
-- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> - AI pair programmer providing instant code completion, bug fixes, and PR submissions
+- <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> - GitHub's AI pair programmer, providing code completion and pull-request code review across GitHub.com, VS Code, JetBrains and other IDEs, GitHub CLI and GitHub Mobile.
 - <a href="https://windsurf.com/" target="_blank">Windsurf</a> - AI code editor with autocomplete and autonomous agents that plan and edit multi-file codebases; developed by the company formerly known as Codeium.
 - <a href="https://www.blackbox.ai" target="_blank">Blackbox AI</a> - AI coding assistant providing code completion, chat and code search across programming languages and IDEs.
-- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> - AI coding agent platform that automatically improves code quality through local + cloud intelligence in IDE
+- <a href="https://www.augmentcode.com/" target="_blank">Augment Code</a> - AI coding agent platform for the IDE, combining local and cloud intelligence.
 - <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> - OpenAI's coding agent that completes software engineering tasks end-to-end across the cloud, IDEs and terminal, supporting multi-agent workflows, custom skills and code-review automations.
-- <a href="https://mutable.ai/" target="_blank">MutableAI</a> - AI tools accelerating software development with auto-completion, documentation generation, and code refactoring
-- <a href="https://www.moderne.io/" target="_blank">Moderne</a> - Focuses on automatically identifying and patching security vulnerabilities in code
+- <a href="https://mutable.ai/" target="_blank">MutableAI</a> - AI development tools for auto-completion, documentation generation and code refactoring.
+- <a href="https://www.moderne.io/" target="_blank">Moderne</a> - Automatically identifies and patches security vulnerabilities in code.
 - <a href="https://cleric.ai/" target="_blank">Cleric</a> - AI SRE agent from Agentik that autonomously handles on-call engineering: dismissing false-positive alerts, investigating incidents, preparing fix pull requests and verifying that deployed fixes resolve the issue.
 
 <a id="section-app-builders"></a>
@@ -349,22 +349,22 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 [Application-building approaches](https://alignify.co/tools/app-builder) help distinguish visual builders from other development tools.
 
-- <a href="https://www.fine.dev/" target="_blank">Fine</a> - AI-driven full-stack development platform that generates, deploys, and manages SaaS applications with one click
+- <a href="https://www.fine.dev/" target="_blank">Fine</a> - AI-driven full-stack development platform that generates, deploys and manages SaaS applications.
 - <a href="https://bolt.new" target="_blank">Bolt</a> - Browser-based AI agent that generates, edits, and deploys full-stack web applications from natural language prompts.
 - <a href="https://retool.com" target="_blank">Retool</a> - Low-code platform for building internal business applications and workflows that connect to company data and systems.
 - <a href="https://lovable.dev/" target="_blank">Lovable</a> - AI app builder that generates full-stack web applications and prototypes from chat input.
 - <a href="https://stitch.withgoogle.com/" target="_blank">Google Stitch</a> - Free Google experiment that generates UI designs and front-end code from text and image prompts, with export to Figma and React.
 - <a href="https://www.trickle.so/" target="_blank">Trickle</a> - AI app-building platform whose Magic Canvas workspace builds and deploys full-stack apps and AI agents with a built-in database.
 - <a href="https://v0.app/" target="_blank">v0</a> - Generative UI tool from Vercel that produces React interfaces and web pages from text prompts, with iterative editing and code export.
-- <a href="https://readdy.ai/" target="_blank">Readdy</a> - AI-driven design platform that creates production-ready UI and outputs code with one click
+- <a href="https://readdy.ai/" target="_blank">Readdy</a> - AI-driven design platform that creates production-ready UI and outputs code.
 - <a href="https://durable.co/" target="_blank">Durable</a> - AI website builder and small-business software platform.
 
 <a id="section-developer-platforms"></a>
 
 ### Developer Platforms
 
-- <a href="https://apilayer.com/" target="_blank">APILayer</a> - High-quality micro API marketplace, low-latency integration for various developer needs
-- <a href="https://rapidapi.com/" target="_blank">Rapid API</a> - World's largest API marketplace, integrating API discovery, testing, monetization, and management
+- <a href="https://apilayer.com/" target="_blank">APILayer</a> - Marketplace of micro APIs for a range of developer needs.
+- <a href="https://rapidapi.com/" target="_blank">Rapid API</a> - API marketplace integrating API discovery, testing, monetization and management.
 - <a href="https://apidog.com/" target="_blank">Apidog</a> - End-to-end API design and development platform (Postman alternative) with AI-assisted features
 - <a href="https://www.daily.co/" target="_blank">Daily</a> - Video and voice infrastructure platform for developers
 
@@ -387,28 +387,28 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.photoroom.com" target="_blank">Photoroom</a> - AI photo editing application for product photography, offering background removal, AI backgrounds and batch editing for e-commerce listings.
 - <a href="https://www.headshotpro.com" target="_blank">HeadshotPro</a> - AI headshot generator that turns selfies into professional business portraits across selectable styles and backgrounds.
 - <a href="https://www.aragon.ai" target="_blank">Aragon</a> - AI headshot generator that turns user selfies into professional portrait photographs without a studio session.
-- <a href="https://gencraft.com/" target="_blank">Gencraft</a> - Multi-model AI art generator creating high-definition images and videos from text with one click
+- <a href="https://gencraft.com/" target="_blank">Gencraft</a> - AI art generator that creates images and videos from text prompts across multiple models.
 - <a href="https://prequel.app/" target="_blank">Prequel</a> - AI beauty effects editor providing hundreds of photo and video filters and 3D effects
-- <a href="https://openart.ai/" target="_blank">OpenArt</a> - Intuitive image generation editor supporting prompt-free AI drawing and iteration
+- <a href="https://openart.ai/" target="_blank">OpenArt</a> - AI art creation and work-discovery platform with community models, public galleries and a Discord community, supporting prompt-free AI drawing and iteration.
 - <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> - Mobile portrait AI editor that can change age, hairstyle, and makeup
 - <a href="https://airbrush.com/" target="_blank">Airbrush</a> - Mobile/web AI beauty and image editing tool with background removal, beautification, and filter features
 - <a href="https://www.beautyplus.com/" target="_blank">BeautyPlus</a> - Selfie and video processor with 50+ AI filters and one-click beauty tools
 - <a href="https://remini.ai" target="_blank">Remini</a> - Photo and video enhancement app that restores old or low-quality images and upscales media to higher definition.
 - <a href="https://pixa.com" target="_blank">Pixelcut</a> - AI-powered image editing app offering background removal, retouching, expansion and super-resolution, rebranded from Pixelcut to Pixa as a natural-language creative workspace.
 - <a href="https://www.facetuneapp.com/" target="_blank">Facetune</a> - Mobile image processing app providing AI retouching, filters, and beauty enhancement features
-- <a href="https://www.craiyon.com/" target="_blank">Craiyon</a> - AI image generation platform using artificial intelligence technology
-- <a href="https://zmo.ai/" target="_blank">ZMO</a> - Generate and edit images through natural language descriptions
+- <a href="https://www.craiyon.com/" target="_blank">Craiyon</a> - AI image generation platform.
+- <a href="https://zmo.ai/" target="_blank">ZMO</a> - Generates and edits images through natural language descriptions.
 - <a href="https://picsart.com" target="_blank">Picsart</a> - Creative platform for photo and video editing with AI image generation and editing tools, offered on web and mobile.
 - <a href="https://www.basedlabs.ai" target="_blank">BasedLabs</a> - Platform for generating and editing images, videos and audio using a catalog of AI models.
-- <a href="https://vivago.ai/" target="_blank">Vivago AI</a> - Free AI creation platform supporting text/image-to-video and high-quality image editing
-- <a href="https://creator.nightcafe.studio/" target="_blank">Nightcafe Studio</a> - AI art creation platform supporting multi-model generation and community sharing
-- <a href="https://vizcom.ai/" target="_blank">Vizcom</a> - AI creative tool for quickly generating high-quality renderings
-- <a href="https://spellbrush.com/" target="_blank">Spellbrush</a> - Illustration platform utilizing artificial intelligence and deep learning technology
+- <a href="https://vivago.ai/" target="_blank">Vivago AI</a> - Free AI creation platform supporting text-to-video, image-to-video, and image editing.
+- <a href="https://creator.nightcafe.studio/" target="_blank">Nightcafe Studio</a> - AI art generation platform with multiple models and a creator community built on public galleries, chat rooms and daily challenges.
+- <a href="https://vizcom.ai/" target="_blank">Vizcom</a> - AI creative tool for generating renderings.
+- <a href="https://spellbrush.com/" target="_blank">Spellbrush</a> - AI-powered illustration platform.
 - <a href="https://prismalabs.ai/" target="_blank">Prisma Labs</a> - Mobile technology company focused on deep learning-related products
-- <a href="https://kive.ai/" target="_blank">Kive</a> - Creative platform enabling users to organize and search visual materials using artificial intelligence
-- <a href="https://nyx.gallery/" target="_blank">NyxAI</a> - Platform utilizing artificial intelligence to generate photography works
+- <a href="https://kive.ai/" target="_blank">Kive</a> - Creative platform for organizing and searching visual materials with AI.
+- <a href="https://nyx.gallery/" target="_blank">NyxAI</a> - Platform for generating AI photography.
 - <a href="https://www.photalabs.com/" target="_blank">Phota Labs</a> - Photography and photo consistency platform
-- <a href="https://www.gendo.ai/" target="_blank">Gendo</a> - Browser-based AI rendering platform for architects and designers, generating high-quality CGI images in minutes
+- <a href="https://www.gendo.ai/" target="_blank">Gendo</a> - Browser-based AI rendering platform for architects and designers that generates CGI images.
 - <a href="https://momoai.co/" target="_blank">Momo</a> - Consumer AI photo and portrait application.
 
 <a id="section-design-tools"></a>
@@ -419,16 +419,16 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 - <a href="https://www.lovart.ai/" target="_blank">Lovart AI</a> - Design agent that automates design work from concept through images, video and 3D assets in a canvas workspace.
 - <a href="https://www.voicepanel.com/" target="_blank">Voicepanel</a> - AI-driven user research tool automatically conducting chat, voice, and video interviews and analyzing feedback
-- <a href="https://codedesign.ai/" target="_blank">CodeDesign</a> - Generate and host complete responsive websites from text prompts with one click
-- <a href="https://www.relume.io/" target="_blank">Relume</a> - AI-powered design tool for quickly generating sitemaps, wireframes, and style guides
-- <a href="https://wegic.ai/" target="_blank">Wegic</a> - First chat-based AI website design and development platform, producing high-quality web pages in seconds
-- <a href="https://www.visily.ai/" target="_blank">Visily</a> - UI design tool that generates editable wireframes and mockups from screenshots, sketches or text prompts for non-designers.
+- <a href="https://codedesign.ai/" target="_blank">CodeDesign</a> - Generates and hosts complete responsive websites from text prompts.
+- <a href="https://www.relume.io/" target="_blank">Relume</a> - AI design tool for generating sitemaps, wireframes, and style guides.
+- <a href="https://wegic.ai/" target="_blank">Wegic</a> - Chat-based AI platform for designing and developing websites.
+- <a href="https://www.visily.ai/" target="_blank">Visily</a> - UI design tool for non-designers that generates editable wireframes and mockups from screenshots, sketches or text prompts.
 - <a href="https://uizard.io" target="_blank">Uizard</a> - Design tool that generates editable wireframes, mockups and prototypes for apps and websites from text prompts, sketches or screenshots.
 - <a href="https://uxpilot.ai/" target="_blank">UX Pilot</a> - Platform that automatically generates screen flow diagrams and high-fidelity UX/UI prototypes through AI
 - <a href="https://www.mymap.ai/cheat-sheet-maker" target="_blank">My Map AI</a> - Generate well-organized AI learning cheat sheets and quick reference guides through chat interface
 - <a href="https://www.canva.com/" target="_blank">Canva</a> - Web-based design platform for creating graphics, presentations, videos, and documents, with integrated AI generation and editing tools.
 - <a href="https://designs.ai" target="_blank">Designs.ai</a> - Web-based creative suite that generates logos, images, videos, banners and marketing copy from text input.
-- <a href="https://molypix.ai/" target="_blank">MolyPix</a> - AI-driven graphic design, generating editable layered images from text prompts
+- <a href="https://molypix.ai/" target="_blank">MolyPix</a> - AI graphic design tool that generates editable layered images from text prompts.
 - <a href="https://labs.google.com/pomelli/about/" target="_blank">Pomelli</a> - AI design tool that analyzes website URLs and generates corresponding on-brand marketing materials for businesses
 - <a href="https://www.freepik.com" target="_blank">Freepik</a> - Stock content marketplace and creative suite; acquired Magnific AI in 2024 and rebranded as Magnific in 2026.
 
@@ -437,9 +437,9 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 ### Multimodal Creation
 
 - <a href="https://glif.app/" target="_blank">Glif</a> - AI creative platform for generating images, video, audio, and text with customizable workflows
-- <a href="https://textcortex.com/" target="_blank">Text Cortex AI</a> - AI-powered digital content creation service providing comprehensive content solutions
+- <a href="https://textcortex.com/" target="_blank">Text Cortex AI</a> - AI-powered digital content creation service.
 - <a href="https://reccloud.com/" target="_blank">RecCloud</a> - AI-driven audio/video toolset supporting transcription, dubbing, subtitles, and short video generation
-- <a href="https://simplified.com/" target="_blank">Simplified</a> - AI content creation platform providing all-in-one design, copywriting, video generation, and social media management tools
+- <a href="https://simplified.com/" target="_blank">Simplified</a> - AI content creation platform combining design, copywriting, video generation, and social media management tools.
 - <a href="https://hypotenuse.ai/" target="_blank">Hypotenuse</a> - AI content generator platform
 - <a href="https://www.contents.ai/" target="_blank">Contents</a> - AI-powered content generation platform
 
@@ -465,20 +465,20 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.flexclip.com/" target="_blank">Flexclip</a> - Online AI video creation and editing platform with drag-and-drop templates for marketing/educational videos
 - <a href="https://pictory.ai" target="_blank">Pictory</a> - Tool that automatically turns scripts, blog posts, URLs and presentations into edited videos with AI voiceover, captions and stock footage.
 - <a href="https://aistudios.com/" target="_blank">DeepBrain AI</a> - AI human synthesis video platform generating scripted presentations with digital human anchors
-- <a href="https://elai.io/" target="_blank">Elai</a> - Enterprise-grade AI video generation tool that quickly transforms text scripts into multilingual virtual presenter videos
+- <a href="https://elai.io/" target="_blank">Elai</a> - AI video generation tool that turns text scripts into multilingual virtual presenter videos.
 - <a href="https://creatify.ai" target="_blank">Creatify</a> - Platform that generates advertising videos from product page URLs using AI avatars, scripts and batch production tools.
 - <a href="https://www.vidau.ai/" target="_blank">VidAU</a> - Convert product URLs into short video ads with AI avatars, subtitle removal, and multilingual dubbing
 - <a href="https://www.vmeg.pro/" target="_blank">VMEG</a> - AI video localization platform supporting 170+ language dubbing, translation, lip-sync, and short video generation
 - <a href="https://www.gling.ai" target="_blank">Gling</a> - Video editing tool that removes bad takes, silences and filler words automatically, adds captions and generates YouTube titles and chapters.
-- <a href="https://capsule.video/" target="_blank">Capsule</a> - Enterprise-grade AI video editor supporting template application, brand consistency, and one-click B-roll generation
+- <a href="https://capsule.video/" target="_blank">Capsule</a> - AI video editor supporting template application, brand consistency, and one-click B-roll generation.
 - <a href="https://reface.ai/" target="_blank">Reface</a> - Mobile/web face swap and AI avatar generator supporting photo/video face replacement and animation
 - <a href="https://invideo.io" target="_blank">invideo</a> - Online AI video creation platform that generates videos from prompts or scripts with stock media, subtitles and voiceover.
 - <a href="https://www.momentslab.com/" target="_blank">Moments Lab</a> - AI video indexing platform that automatically splits footage and generates edits and social short videos
 - <a href="https://www.hedra.com/" target="_blank">Hedra</a> - AI video platform focused on character performance, generating videos of talking characters from images and text with its Character models and live avatars.
 - <a href="https://www.heygen.com" target="_blank">HeyGen</a> - AI video platform that generates videos from text using photorealistic avatars, with multilingual translation, dubbing and lip-sync.
 - <a href="https://www.veed.io" target="_blank">VEED</a> - Browser-based video editor with automatic captions across many languages, AI editing tools and team collaboration.
-- <a href="https://www.d-id.com/" target="_blank">D-ID</a> - Generate realistic digital human videos through AI for marketing, training, and multilingual customer service interactions
-- <a href="https://www.videoleapapp.com/" target="_blank">Videoleap</a> - Feature-rich AI video editor for editing, effects, infinite zoom, and template creation for social media content
+- <a href="https://www.d-id.com/" target="_blank">D-ID</a> - Platform for generating AI digital human videos used in marketing, training and multilingual customer service.
+- <a href="https://www.videoleapapp.com/" target="_blank">Videoleap</a> - AI video editor with effects, infinite zoom and templates for social media content.
 - <a href="https://www.synthesia.io/" target="_blank">Synthesia</a> - AI video generation platform creating professional videos with AI avatars and multilingual support
 - <a href="https://www.opus.pro/" target="_blank">OpusClip</a> - AI video tool that cuts long recordings into short clips, with automatic captions, reframing, silence removal and text-based editing.
 - <a href="https://captions.ai" target="_blank">Mirage</a> - AI video editing app that automates captions, dubbing, b-roll insertion, and corrections, and generates content with AI avatars.
@@ -486,10 +486,10 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://artlist.io" target="_blank">Artlist</a> - Subscription platform for licensed music and stock footage that also provides AI video, image and voice-over generation tools.
 - <a href="https://www.loom.com/" target="_blank">Loom</a> - One-click screen recording and sharing with AI video enhancement, text editing, and cross-platform collaboration features
 - <a href="https://screen.studio/" target="_blank">Screen Studio</a> - Mac-exclusive screen recording software that automatically smooths cursors, zooms highlights, and optimizes motion
-- <a href="https://www.arcade.software/" target="_blank">Arcade</a> - No-code interactive demo platform for quickly creating engaging product demo pages
-- <a href="https://cursorful.com/" target="_blank">Cursorful</a> - Browser recording plugin that automatically zooms cursor focus for professional-grade demo videos
+- <a href="https://www.arcade.software/" target="_blank">Arcade</a> - No-code platform for creating interactive product demo pages.
+- <a href="https://cursorful.com/" target="_blank">Cursorful</a> - Browser recording plugin that automatically zooms in on the cursor focus for demo videos.
 - <a href="https://higgsfield.ai" target="_blank">Higgsfield (platform)</a> - AI video and image generation platform operated by Higgsfield, focused on camera-motion video generation and editing tools.
-- <a href="https://rotorvideos.com/" target="_blank">Rotor Videos</a> - AI video editing platform
+- <a href="https://rotorvideos.com/" target="_blank">Rotor Videos</a> - AI video editing platform for artists, focused on generating music videos.
 - <a href="https://www.revid.ai" target="_blank">revid.ai</a> - AI video generation tool that creates short videos for TikTok, Instagram and YouTube from prompts or scripts.
 - <a href="https://fliki.ai" target="_blank">Fliki</a> - Text-to-video platform that converts scripts into videos with AI voiceovers, stock media, and virtual avatars.
 - <a href="https://rephrase.ai/" target="_blank">Rephrase.ai</a> - AI-driven synthetic video creation platform
@@ -505,23 +505,23 @@ For the filmmaking side of this section, [AI-assisted film production](https://a
 - <a href="https://videotranslator.blipcut.com/" target="_blank">Blipcut</a> - Free batch AI video translation tool with integrated dubbing, subtitles, and lip-sync
 - <a href="https://wavel.ai/" target="_blank">Wavel</a> - AI voice platform providing natural voice cloning, multilingual dubbing, and video editing
 - <a href="https://hei.io/" target="_blank">HeiTech (Hei.io)</a> - AI video and audio dubbing company providing video/audio subtitle, translation, voice, and sound effects services
-- <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> - AI filmmaking company producing high-quality short films and advertisements using AI
-- <a href="https://escape.ai/" target="_blank">Escape</a> - AI art aggregation platform showcasing and promoting pioneering forms of digital entertainment
+- <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> - AI filmmaking company producing short films and advertisements using AI.
+- <a href="https://escape.ai/" target="_blank">Escape</a> - AI art aggregation platform showcasing and promoting new forms of digital entertainment.
 - <a href="https://www.utopaistudios.com/" target="_blank">Utopia Studios</a> - AI-powered video production studio
-- <a href="https://www.neuralframes.com/" target="_blank">NeuralFrames</a> - AI video generation platform
-- <a href="https://www.autodesk.com/products/flow-studio" target="_blank">Autodesk Flow Studio</a> - AI tool that animates CG characters into live-action footage and generates 3D assets; formerly Wonder Studio by Wonder Dynamics.
-- <a href="https://contenda.co/" target="_blank">Contenda</a> - Platform enabling script writing from scratch and video generation based on scripts
+- <a href="https://www.neuralframes.com/" target="_blank">NeuralFrames</a> - AI video generation platform used by artists to create music videos, with over two million videos created to date (official claim).
+- <a href="https://www.autodesk.com/products/flow-studio" target="_blank">Autodesk Flow Studio</a> - AI tool that animates CG characters into live-action footage and generates 3D assets; formerly Wonder Studio by Wonder Dynamics, now part of Autodesk.
+- <a href="https://contenda.co/" target="_blank">Contenda</a> - Platform for writing scripts from scratch and generating videos based on them.
 - <a href="https://www.skyreels.ai" target="_blank">SkyReels</a> - AI video generation platform that produces cinematic videos from text, images and character references, used for short-drama and storytelling content.
 - <a href="https://storeelapp.com/" target="_blank">StoReel</a> - Mobile app focused on 1-2 minute short dramas, offering Korean and Chinese dramas with pay-per-episode or ad-supported viewing
 - <a href="https://www.sereal.com/" target="_blank">Sereal+</a> - Free short drama platform covering multi-country mini-series with AI-powered personalized recommendations
-- <a href="https://www.unireel.tv/" target="_blank">UniReel</a> - Global high-quality short drama platform providing various types of exclusive short films
-- <a href="https://www.dramaboxdb.com/" target="_blank">DramaBox</a> - Thousands of hours of original short drama library supporting free viewing, pay-per-episode, and ad-unlock
-- <a href="https://free-reels.com/" target="_blank">FreeReels</a> - Completely free short drama platform with frequent updates and intelligent recommendation system
+- <a href="https://www.unireel.tv/" target="_blank">UniReel</a> - Short drama platform offering exclusive series across a variety of genres, available worldwide.
+- <a href="https://www.dramaboxdb.com/" target="_blank">DramaBox</a> - Short drama app with thousands of hours of original series, supporting free viewing, pay-per-episode and ad-unlock.
+- <a href="https://free-reels.com/" target="_blank">FreeReels</a> - Completely free short drama platform with frequent updates and an intelligent recommendation system.
 - <a href="https://mydramawave.com/" target="_blank">DramaWave</a> - Vertical short drama collection platform with HD streaming, covering multiple genres and languages
 - <a href="https://meloloweb.com/" target="_blank">Melolo</a> - Free short drama app for Southeast Asia providing localized HD short dramas with automatic subtitles
 - <a href="https://www.goodshort.com/" target="_blank">GoodShort</a> - Overseas short drama platform combining UK/US scripts and translated series with high-frequency short video content
-- <a href="https://flickreels.net/" target="_blank">FlickReels</a> - Short drama plot app for 24/7 easy viewing of suspense, fantasy, and other micro-drama content
-- <a href="https://netshort.com/" target="_blank">NetShort</a> - HD streaming app focused on 1-minute vertical short dramas, perfect for watching anytime, anywhere
+- <a href="https://flickreels.net/" target="_blank">FlickReels</a> - Short drama plot app with suspense, fantasy and other micro-drama series available around the clock.
+- <a href="https://netshort.com/" target="_blank">NetShort</a> - HD streaming app focused on 1-minute vertical short dramas.
 - <a href="https://ltx.io/studio" target="_blank">LTX Studio</a> - AI filmmaking platform by Lightricks covering script development, storyboarding, shot planning, generation and editing within a single project workspace.
 - <a href="https://www.papercup.com/" target="_blank">Papercup</a> - End-to-end AI dubbing and video localization platform with human review for language quality
 
@@ -543,27 +543,27 @@ Speech applications include both [speech recognition and transcription](https://
 - <a href="https://murf.ai" target="_blank">Murf.ai</a> - AI text-to-speech platform providing voiceover generation, dubbing and a TTS API with a library of 200+ voices in more than 35 languages.
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> - Cloud text-to-speech API service from Google Cloud.
 - <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> - Cloud speech service (TTS/ASR) from Microsoft Azure.
-- <a href="https://wellsaidlabs.com/" target="_blank">Wellsaid</a> - Enterprise-grade AI voice platform providing 120+ high-quality human-like voiceover APIs and collaboration support
+- <a href="https://wellsaidlabs.com/" target="_blank">Wellsaid</a> - Enterprise AI voice platform providing 120+ human-like voiceover voices via API, with collaboration support.
 - <a href="https://www.rev.ai/" target="_blank">Rev AI</a> - Speech-to-text transcription service providing real-time and batch ASR APIs for audio and video content.
 - <a href="https://www.voicemod.net/" target="_blank">Voicemod</a> - Real-time AI voice changer and soundboard application for gaming, streaming and chat apps.
 - <a href="https://voice.ai/" target="_blank">Voice.ai</a> - Real-time voice changer platform
 - <a href="https://dubbingai.io" target="_blank">Dubbing AI</a> - Real-time AI voice changer with a library of AI voices and meme soundboards for gaming, streaming and meetings.
-- <a href="https://research.google/blog/real-time-speech-to-speech-translation/" target="_blank">Google Real-time S2ST</a> - End-to-end speech-to-speech translation model enabling real-time translation in the original speaker's voice with only 2-second delay, available in Google Meet and Pixel 10 devices
-- <a href="https://elevenreader.io/" target="_blank">ElevenReader by ElevenLabs</a> - High-quality AI voice reading for articles, PDFs, and ebooks
-- <a href="https://www.openai.fm/" target="_blank">OpenAI.fm</a> - Interactive demo platform showcasing OpenAI's high-fidelity text-to-speech API
+- <a href="https://research.google/blog/real-time-speech-to-speech-translation/" target="_blank">Google Real-time S2ST</a> - End-to-end speech-to-speech translation model enabling real-time translation in the original speaker's voice with only 2-second delay, available in Google Meet and Pixel 10 devices.
+- <a href="https://elevenreader.io/" target="_blank">ElevenReader by ElevenLabs</a> - AI voice reader for articles, PDFs, and ebooks
+- <a href="https://www.openai.fm/" target="_blank">OpenAI.fm</a> - Interactive demo platform for OpenAI's text-to-speech API
 - <a href="https://poly.ai/en" target="_blank">PolyAI</a> - Company focused on enterprise voice assistant solutions
 - <a href="https://willowvoice.com/" target="_blank">Willow Voice</a> - Voice-to-text typing tool
-- <a href="https://wisprflow.ai/" target="_blank">Wispr Flow</a> - AI voice dictation tool that transcribes speech into formatted text in any application, available on desktop and mobile.
+- <a href="https://wisprflow.ai/" target="_blank">Wispr Flow</a> - AI voice dictation tool that transcribes speech into formatted text in any desktop application.
 - <a href="https://www.dialpad.com/" target="_blank">Dialpad</a> - AI-driven cloud communication platform integrating calls, messaging, meetings, real-time summaries, and insights
 - <a href="https://www.delphi.ai/" target="_blank">Delphi</a> - Platform for creating digital clones ('Digital Minds') of experts and creators.
 - <a href="https://tolvia.ai/" target="_blank">Tolvia</a> - Consumer service voice AI platform
 - <a href="https://autio.com/" target="_blank">Autio</a> - Consumer service voice AI platform
 - <a href="https://www.plaud.ai/" target="_blank">PLAUD</a> - AI voice recording and summarization tool, automatically transcribing multilingual conversations and generating key points/action items
 - <a href="https://www.clipto.com/" target="_blank">Clipto.AI</a> - Locally running AI media assistant, automatically transcribing audio/video and providing subtitles, editing, and download tools
-- <a href="https://wave.co/" target="_blank">Wave AI</a> - Meeting recording assistant, automatically transcribing, supporting multiple languages, and generating summaries
+- <a href="https://wave.co/" target="_blank">Wave AI</a> - Meeting recording assistant that automatically transcribes in multiple languages and generates summaries
 - <a href="https://turboscribe.ai/" target="_blank">TurboScribe</a> - Unlimited AI audio transcription service supporting 98 languages and batch processing of long recordings
-- <a href="https://goodcall.ai/" target="_blank">Goodcall</a> - Goodcall provides AI phone answering for businesses, including call handling and appointment scheduling.
-- <a href="https://krisp.ai/" target="_blank">Krisp</a> - Company providing AI noise cancellation and accent conversion technology.
+- <a href="https://goodcall.ai/" target="_blank">Goodcall</a> - AI phone answering for businesses, including call handling and appointment scheduling.
+- <a href="https://krisp.ai/" target="_blank">Krisp</a> - AI noise cancellation and accent conversion technology, delivered as macOS and Windows desktop apps that act as virtual microphone and speaker devices in conferencing and contact-center tools.
 - <a href="https://superwhisper.com/" target="_blank">Superwhisper</a> - Voice dictation application that converts speech into formatted text across desktop and mobile applications.
 
 <a id="section-music-podcasts"></a>
@@ -576,7 +576,7 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://soundraw.io" target="_blank">Soundraw</a> - AI music generator that produces customizable royalty-free tracks with commercial licensing for creators.
 - <a href="https://www.beatoven.ai" target="_blank">Beatoven.ai</a> - AI music generator producing royalty-free music and sound effects for videos, podcasts and games, with track editing options.
 - <a href="https://musicfy.lol" target="_blank">Musicfy</a> - AI voice song generator that creates AI covers and original songs, with voice cloning, text-to-music generation and parody voices.
-- <a href="https://boomy.com/" target="_blank">Boomy</a> - AI-powered generative music creation platform enabling users to create original songs
+- <a href="https://boomy.com/" target="_blank">Boomy</a> - AI music creation platform that generates original songs
 - <a href="https://soundful.com" target="_blank">Soundful</a> - AI music generator that creates royalty-free original tracks across genres for video, podcast and brand use.
 - <a href="https://mubert.com" target="_blank">Mubert</a> - AI music generation platform producing royalty-free soundtracks for videos, podcasts and apps through a web generator, a developer API and an artist studio.
 - <a href="https://www.aiva.ai" target="_blank">AIVA</a> - AI music generation assistant that composes songs in over 250 styles, with editing and licensing options for generated music.
@@ -587,21 +587,21 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://music.ai/" target="_blank">Music</a> - AI music platform
 - <a href="https://mozartai.app/" target="_blank">Mozartai</a> - Image-to-music generation app
 - <a href="https://altered.ai/" target="_blank">Altered</a> - Professional AI voice changer software and services (Altered Studio) for voice-driven performances in media and post-production.
-- <a href="https://www.rct.ai/" target="_blank">RCT Studio</a> - New creative entertainment studio
+- <a href="https://www.rct.ai/" target="_blank">RCT Studio</a> - Creative entertainment studio
 - <a href="https://www.wombo.ai/" target="_blank">WOMBO.ai</a> - AI entertainment company
 - <a href="https://www.you-ai.nl/" target="_blank">YouAI</a> - AI entertainment company
-- <a href="https://fireside.fm/" target="_blank">Fireside</a> - Complete podcast hosting platform providing responsive websites, scheduled publishing, embeddable players, and analytics; supports custom domains and one-click import from other platforms
+- <a href="https://fireside.fm/" target="_blank">Fireside</a> - Podcast hosting platform providing responsive websites, scheduled publishing, embeddable players, and analytics; supports custom domains and one-click import from other platforms
 - <a href="https://www.podbean.com/" target="_blank">Podbean</a> - All-in-one podcast platform supporting recording, publishing, distribution, and monetization; includes audio/video hosting and live streaming capabilities
-- <a href="https://rss.com/" target="_blank">RSS.com</a> - Podcast hosting service with unlimited storage, cross-platform analytics, and dynamic ads; supports fast hosting and promotion
+- <a href="https://rss.com/" target="_blank">RSS.com</a> - Podcast hosting service with unlimited storage, cross-platform analytics, and dynamic ads
 - <a href="https://www.simplecast.com/" target="_blank">Simplecast</a> - Enterprise-grade podcast hosting and distribution platform with deep analytics, custom websites, and ad insertion controls
 - <a href="https://libsyn.com/" target="_blank">Libsyn</a> - One of the earliest podcast hosting services, supporting audio/video uploads, scheduled publishing, analytics, distribution, and monetization tools
 - <a href="https://podwise.ai" target="_blank">Podwise</a> - Podcast learning app that transcribes episodes and generates structured summaries, mind maps and notes.
 - <a href="https://www.snipd.com" target="_blank">Snipd</a> - AI podcast player that transcribes episodes automatically and lets listeners save highlights, chat with episodes and export notes.
-- <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a> - All-in-one AI music agent for creating soundtracks, remixes, stem separation, and music analysis
+- <a href="https://agent.mix.audio/" target="_blank">Mix Audio Agent</a> - AI music toolset for soundtracks, remixes, stem separation, and music analysis
 - <a href="https://www.midiagent.com/" target="_blank">MIDI Agent</a> - AI VST & AU plugin that generates and transcribes MIDI using natural language and major AI models (ChatGPT, Claude, Gemini, Grok)
-- <a href="https://www.wondera.ai/" target="_blank">Wondera</a> - AI music co-creator that helps bring musical ideas to life
+- <a href="https://www.wondera.ai/" target="_blank">Wondera</a> - AI music co-creation tool
 - <a href="https://www.flowmusic.app/" target="_blank">Google Flow Music</a> - Conversational AI music creation tool from Google that generates full-length songs with vocals using the Lyria model family; succeeded the acquired Producer.ai studio.
-- <a href="https://tunee.ai" target="_blank">Tunee</a> - Conversational AI music creation platform that generates songs from text, image, audio and video input, with built-in mastering, remixing, stem separation and music video tools.
+- <a href="https://tunee.ai" target="_blank">Tunee</a> - AI music creation platform that generates songs from text, image, audio or video input, with built-in mastering, remixing, stem separation and music video tools.
 
 <a id="group-search-web-data"></a>
 
@@ -612,17 +612,17 @@ For music creation within this section, [AI music-generation workflows](https://
 ### Search & Retrieval
 
 - <a href="https://jina.ai/" target="_blank">Jina AI</a> - Elastic-owned AI search model and API portfolio for multimodal and multilingual embeddings, reranking, retrieval and RAG systems.
-- <a href="https://www.algolia.com/" target="_blank">Algolia</a> - Instant, customizable, and high-performance in-site search and content discovery API services for enterprises and developers
-- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> - Neural search platform optimizing knowledge discovery and sharing
+- <a href="https://www.algolia.com/" target="_blank">Algolia</a> - Instant site search and content discovery API service for enterprises and developers
+- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> - Neural enterprise search platform for knowledge discovery and sharing
 - <a href="https://www.glean.com/" target="_blank">Glean</a> - Enterprise AI assistant and work search platform that connects to company tools to answer questions and run agents.
-- <a href="https://ambersearch.de/" target="_blank">AmberSearch</a> - Enterprise intelligent search engine supporting multimedia content search
+- <a href="https://ambersearch.de/" target="_blank">AmberSearch</a> - Enterprise search engine supporting multimedia content search
 - <a href="https://lessie.ai/" target="_blank">Lessie AI</a> - Agentic people search engine that finds influencers, leads, investors and talent by searching profiles across LinkedIn, X, GitHub and other sources from a natural-language description.
 - <a href="https://juicebox.ai" target="_blank">Juicebox</a> - AI recruiting platform whose PeopleGPT search scans a large global profile database in natural language, combined with a recruitment CRM and AI agents for sourcing and outreach.
 - <a href="https://harmonic.ai" target="_blank">Harmonic</a> - Startup intelligence database that maps private companies, funding and people for investors, combining proprietary data collection with AI.
 - <a href="https://www.openvc.app" target="_blank">OpenVC</a> - Free platform connecting startup founders with a large investor database, with pitch deck sharing, a CRM and automated follow-ups.
 - <a href="https://www.commonroom.io/" target="_blank">Common Room</a> - Go-to-market intelligence platform that unifies product usage, community, CRM and marketing signals into person-level buyer views, with contact enrichment and AI-driven prospecting and scoring.
 - <a href="https://www.meilisearch.com" target="_blank">Meilisearch</a> - Search engine with a REST API for fast, typo-tolerant search; available as open source and as a managed cloud service.
-- <a href="https://www.clado.ai" target="_blank">Clado</a> - AI people-search and profile-enrichment platform operated by Linkd Inc. for recruiting and sales teams, running agentic deep research over a large public-profile corpus to match natural-language criteria.
+- <a href="https://www.clado.ai" target="_blank">Clado</a> - AI people-search and profile-enrichment platform for recruiting and sales teams, running agentic deep research over a large public-profile corpus to match natural-language criteria.
 
 <a id="section-web-data-browsers"></a>
 
@@ -630,18 +630,18 @@ For music creation within this section, [AI music-generation workflows](https://
 
 [Web scraping and data extraction](https://alignify.co/tools/web-scraping) and [AI-assisted browsing](https://alignify.co/tools/browser) describe two distinct workflows in this section.
 
-- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a> - Simple web scraping REST API that bypasses anti-bot restrictions to quickly extract web data
+- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a> - Web scraping REST API that bypasses anti-bot restrictions to extract web data.
 - <a href="https://www.browse.ai/" target="_blank">Browse.ai</a> - No-code platform for configuring robots that scrape and monitor data from websites.
 - <a href="https://www.firecrawl.dev" target="_blank">Firecrawl</a> - API and open-source toolkit that crawls websites and converts pages into clean data formats such as Markdown and JSON for LLM use.
-- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a> - Managed scraping API that automatically handles proxies, CAPTCHA, and IP blocking issues
-- <a href="https://www.diabrowser.com" target="_blank">Dia Browser</a> - AI browser from the team behind Arc, with built-in writing assistance and a chat helper that learns from browsing.
+- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a> - Managed scraping API that automatically handles proxies, CAPTCHA and IP blocking.
+- <a href="https://www.diabrowser.com" target="_blank">Dia Browser</a> - AI browser from The Browser Company, with built-in writing assistance and a chat helper that learns from browsing.
 - <a href="https://strawberrybrowser.com" target="_blank">Strawberry</a> - Desktop browser with a built-in AI assistant that automates tasks across tabs, including actions behind logins, and generates documents from web sources.
 - <a href="https://www.perplexity.ai/comet" target="_blank">Perplexity Comet</a> - AI browser from Perplexity with an assistant that performs agentic browsing tasks on the user's behalf.
 - <a href="https://oxylabs.io" target="_blank">Oxylabs</a> - Web data extraction platform offering proxies, scraper APIs and a web search API used for AI agents and data collection.
 - <a href="https://browser-use.com" target="_blank">Browser-Use</a> - Cloud API and infrastructure for running AI browser agents, with an open-source Python library built on Playwright, for data extraction, web task automation and testing.
 - <a href="https://apify.com" target="_blank">Apify</a> - Platform for web scraping and browser automation, running serverless programs called Actors with proxies, storage and AI agent integrations.
 - <a href="https://lightpanda.io" target="_blank">Lightpanda</a> - Open-source headless browser written in Zig for web automation, scraping and AI agents, compatible with Puppeteer and Playwright, with a cloud service.
-- <a href="https://brightdata.com/" target="_blank">Bright Data</a> - Large-scale proxy and web scraping platform providing structured data and APIs
+- <a href="https://brightdata.com/" target="_blank">Bright Data</a> - Large-scale proxy and web scraping platform providing structured data and APIs.
 - <a href="https://www.browserbase.com" target="_blank">Browserbase</a> - Cloud infrastructure providing headless browser sessions for AI agents and web automation, with Fetch and Search APIs, serverless Functions and observability tooling.
 - <a href="https://www.browserless.io/" target="_blank">Browserless</a> - Headless browser as a service supporting Docker deployment, anti-bot capabilities, REST APIs and the BrowserQL query language for page automation and scraping.
 
@@ -651,14 +651,14 @@ For music creation within this section, [AI music-generation workflows](https://
 
 [End-user AI search applications](https://alignify.co/tools/search-engine) combine retrieval with answers and exploration.
 
-- <a href="https://andisearch.com/" target="_blank">Andi</a> - Natural language interactive search engine providing recommendations and knowledge discovery
+- <a href="https://andisearch.com/" target="_blank">Andi</a> - Natural-language conversational search engine for recommendations and knowledge discovery.
 - <a href="https://www.perplexity.ai" target="_blank">Perplexity</a> - AI answer engine that responds to questions with sourced answers built on its own web index, populated by the PerplexityBot crawler.
 - <a href="https://yep.com/" target="_blank">Yep</a> - Privacy-focused search engine that returns most of its ad revenue to creators.
-- <a href="https://www.phind.com/" target="_blank">Phind</a> - AI search engine built for developers, providing visual, interactive, and clearly cited code and technical answers
-- <a href="https://iask.ai/" target="_blank">iAsk</a> - Free AI Q&A search supporting natural language instant answers
+- <a href="https://www.phind.com/" target="_blank">Phind</a> - AI search engine built for developers, providing visual, interactive, and clearly cited code and technical answers.
+- <a href="https://iask.ai/" target="_blank">iAsk</a> - AI question-answering search engine that provides instant answers to natural-language questions.
 - <a href="https://consensus.app" target="_blank">Consensus</a> - AI search engine for academic research that answers research questions by extracting and summarizing findings from a corpus of millions of peer-reviewed papers.
-- <a href="https://komo.ai/" target="_blank">Komo</a> - Ad-free generative AI search platform supporting deep conversational exploration and community-driven discovery
-- <a href="https://brave.com/search/" target="_blank">Brave Search</a> - Independent, privacy-focused search engine with its own web index, no user tracking
+- <a href="https://komo.ai/" target="_blank">Komo</a> - Ad-free generative AI search platform with conversational search and community-driven discovery.
+- <a href="https://brave.com/search/" target="_blank">Brave Search</a> - Independent, privacy-focused search engine with its own web index and no user tracking.
 
 <a id="section-search-api-services"></a>
 
@@ -666,14 +666,14 @@ For music creation within this section, [AI music-generation workflows](https://
 
 [Web search APIs for applications](https://alignify.co/tools/web-search-api) provide programmatic retrieval rather than an end-user search interface.
 
-- <a href="https://serper.dev" target="_blank">Serper</a> - API service that returns structured Google search results for applications and AI agents, priced per thousand queries.
+- <a href="https://serper.dev" target="_blank">Serper</a> - API service that returns structured Google search results for applications and AI agents.
 - <a href="https://search1api.com" target="_blank">Search1 API</a> - Web access infrastructure for AI agents offering multi-engine web and news search, agentic search, crawling and sitemap APIs through REST, MCP and CLI interfaces.
-- <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Web infrastructure API for AI agents providing high-precision web search and evidence-based outputs for language models.
+- <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Web search API for AI agents that returns long, evidence-based content for LLMs, with asynchronous deep-research tasks and MCP support.
 - <a href="https://you.com" target="_blank">You.com</a> - AI search company providing a web search API for LLMs and enterprise applications; formerly a consumer AI search engine.
 - <a href="https://exa.ai" target="_blank">Exa</a> - Search API service for AI applications, offering web search, crawling, content extraction and structured results for LLM and agent use.
 - <a href="https://tavily.com" target="_blank">Tavily</a> - Search API built for AI agents and RAG pipelines, combining web search, content extraction and crawling in one interface.
 - <a href="https://serpapi.com" target="_blank">SerpApi</a> - API that scrapes Google and other search engines and returns structured results, handling proxies, captchas and parsing for applications.
-- <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a> - Multimodal search engine for AI applications, providing high-quality knowledge retrieval API for agents
+- <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a> - Multimodal search engine for AI applications, provided as a knowledge-retrieval API for agents.
 
 <a id="group-data-cloud"></a>
 
@@ -683,57 +683,57 @@ For music creation within this section, [AI music-generation workflows](https://
 
 ### Cloud & Model Infrastructure
 
-- <a href="https://www.coreweave.com/" target="_blank">CoreWeave</a> - GPU cloud platform designed for AI, providing high-performance, scalable NVIDIA infrastructure
-- <a href="https://www.gmicloud.ai/" target="_blank">GMI Cloud</a> - Global AI cloud platform with GPU instances, clusters, and high-throughput inference APIs
-- <a href="https://lambda.ai/" target="_blank">Lambda</a> - Cloud GPU platform for AI training and inference, providing H100/H200/B200 multi-GPU instances
-- <a href="https://www.runpod.io/" target="_blank">RunPod</a> - Cost-effective globally distributed GPU cloud, instant deployment of Llama and other models for training and inference
-- <a href="https://www.hyperstack.cloud/" target="_blank">Hyperstack</a> - European green GPU cloud, providing efficient, low-cost NVIDIA inference and training services
-- <a href="https://www.e2enetworks.com/" target="_blank">E2E Networks</a> - Indian cloud GPU platform, providing H100/H200 GPUs on-demand for AI/ML workloads
-- <a href="https://vast.ai/" target="_blank">Vast.ai</a> - GPU rental platform with lower prices than mainstream clouds, convenient resource search and comparison
-- <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a> - One-click GPU cloud environment deployment, supporting instant use of deep learning frameworks
-- <a href="https://www.genesiscloud.com/" target="_blank">Genesis Cloud</a> - Enterprise GPU cloud, providing H100/H200/B200 high-performance training and inference services
-- <a href="https://www.leadergpu.it/" target="_blank">LeaderGPU</a> - GPU server rental focused on deep learning, supporting high-performance training and image processing
-- <a href="https://irendering.net/" target="_blank">iRender</a> - GPU rendering cloud for creators, supporting Blender/Unreal and other software acceleration
-- <a href="https://datacrunch.io/" target="_blank">Verda (formerly DataCrunch)</a> - European GPU cloud with on-demand clusters and serverless inference, supporting NVIDIA B/H series GPUs; rebranded from DataCrunch Nov 2025
-- <a href="https://metronome.com/" target="_blank">Metronome</a> - Usage-based billing platform, automated billing models supporting real-time adjustments and growth-driven pricing
-- <a href="https://arize.com/" target="_blank">Arize AI</a> - Machine learning observability platform for monitoring, debugging, and improving ML models
-- <a href="https://e2b.dev/" target="_blank">E2B</a> - Open-source secure sandbox environment, allowing AI code snippets to execute in isolated cloud environments
+- <a href="https://www.coreweave.com/" target="_blank">CoreWeave</a> - GPU cloud platform for AI workloads, providing NVIDIA GPU infrastructure.
+- <a href="https://www.gmicloud.ai/" target="_blank">GMI Cloud</a> - Global AI cloud platform with GPU instances, clusters, and high-throughput inference APIs.
+- <a href="https://lambda.ai/" target="_blank">Lambda</a> - Cloud GPU platform for AI training and inference, providing H100/H200/B200 multi-GPU instances.
+- <a href="https://www.runpod.io/" target="_blank">RunPod</a> - Globally distributed GPU cloud with instant deployment of Llama and other models for training and inference.
+- <a href="https://www.hyperstack.cloud/" target="_blank">Hyperstack</a> - European green GPU cloud providing NVIDIA infrastructure for training and inference.
+- <a href="https://www.e2enetworks.com/" target="_blank">E2E Networks</a> - Indian cloud GPU platform, providing H100/H200 GPUs on-demand for AI/ML workloads.
+- <a href="https://vast.ai/" target="_blank">Vast.ai</a> - GPU rental platform for searching and comparing GPU offerings.
+- <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a> - GPU cloud platform with one-click environments that come with deep learning frameworks ready to use.
+- <a href="https://www.genesiscloud.com/" target="_blank">Genesis Cloud</a> - Enterprise GPU cloud with H100/H200/B200 instances for training and inference.
+- <a href="https://www.leadergpu.it/" target="_blank">LeaderGPU</a> - GPU server rental focused on deep learning workloads, including training and image processing.
+- <a href="https://irendering.net/" target="_blank">iRender</a> - GPU rendering cloud for creators that accelerates Blender, Unreal and other software.
+- <a href="https://datacrunch.io/" target="_blank">Verda (formerly DataCrunch)</a> - European GPU cloud with on-demand clusters and serverless inference, supporting NVIDIA B/H series GPUs; rebranded from DataCrunch in November 2025.
+- <a href="https://metronome.com/" target="_blank">Metronome</a> - Usage-based billing platform automating billing models with real-time pricing adjustments.
+- <a href="https://arize.com/" target="_blank">Arize AI</a> - Machine learning observability platform for monitoring, debugging, and improving ML models.
+- <a href="https://e2b.dev/" target="_blank">E2B</a> - Open-source sandbox for executing AI-generated code in isolated cloud microVMs, offered as a managed API with pause/resume and snapshot support.
 - <a href="https://codesandbox.io" target="_blank">CodeSandbox</a> - Cloud development platform providing microVM-based sandboxes that start in seconds, used for AI-agent code execution, development environments, CI pipelines and interactive playgrounds.
 - <a href="https://scrapybara.com" target="_blank">Scrapybara</a> - Infrastructure that provides instant cloud-hosted desktop environments for AI agents, letting them operate browsers and computers remotely.
 - <a href="https://webcontainers.io" target="_blank">WebContainers</a> - Browser-based runtime by StackBlitz that runs Node.js environments locally in the browser, used for in-browser IDEs and sandboxed agent execution.
 - <a href="https://www.daytona.io" target="_blank">Daytona</a> - Open-source infrastructure runtime that provisions fast, sandboxed environments for executing AI-generated code and agent workflows.
-- <a href="https://www.inngest.com/" target="_blank">Inngest</a> - Durable functions platform, simplifying AI workflow and background task execution with state management
+- <a href="https://www.inngest.com/" target="_blank">Inngest</a> - Durable-functions platform for AI workflows and background task execution, with built-in state management.
 - <a href="https://www.netlify.com" target="_blank">Netlify</a> - Web development platform for deploying sites and applications from git repositories, with a global CDN, serverless functions, deploy previews and AI-assisted features.
 - <a href="https://fal.ai/" target="_blank">fal.ai</a> - Developer platform providing API access to generative image, video and audio models, with serverless GPU inference and fine-tuning.
 - <a href="https://replicate.com" target="_blank">Replicate</a> - Cloud platform for running and fine-tuning open-source AI models via API, including deployment of custom models.
 - <a href="https://groq.com" target="_blank">Groq</a> - Inference cloud that runs open models on Groq's LPU processors, providing low-latency API access to language and speech models.
 - <a href="https://novita.ai" target="_blank">Novita AI</a> - Cloud platform providing API access to a large catalog of AI models plus elastic GPU capacity for training and inference.
-- <a href="https://www.anyscale.com/" target="_blank">Anyscale</a> - AI application platform based on Ray, enabling instant building, running, and scaling of large-scale AI workloads
+- <a href="https://www.anyscale.com/" target="_blank">Anyscale</a> - AI platform built on Ray for developing, running and scaling large-scale AI workloads, spanning model training and inference.
 - <a href="https://platform.sh" target="_blank">Platform.sh</a> - Cloud platform-as-a-service for building, deploying and scaling web applications in multiple languages; its newer product line is offered under the Upsun brand.
 - <a href="https://fly.io" target="_blank">Fly.io</a> - Cloud application hosting platform that deploys containerized apps and databases across global regions, also used to host AI agents.
 - <a href="https://railway.com" target="_blank">Railway</a> - Cloud platform for deploying applications, servers and databases with usage-based pricing, used as hosting infrastructure for AI agents.
 - <a href="https://render.com" target="_blank">Render</a> - Cloud platform for deploying web services, APIs, workers and databases directly from Git, used as infrastructure for AI applications.
-- <a href="https://temporal.io/" target="_blank">Temporal</a> - Durable execution platform, ensuring workflows don't lose state and automatically recovering failed processes
+- <a href="https://temporal.io/" target="_blank">Temporal</a> - Durable execution platform that keeps workflow state through failures and resumes crashed processes, with official SDK integrations for agent frameworks including LangGraph and the OpenAI Agents SDK.
 - <a href="https://supabase.com/" target="_blank">Supabase</a> - Open-source backend platform providing hosted PostgreSQL databases, authentication, instant APIs, edge functions, realtime subscriptions, storage and vector embeddings.
-- <a href="https://ai.azure.com/" target="_blank">Azure AI Foundry</a> - Enterprise AI platform providing unified access to multiple AI models and services
+- <a href="https://ai.azure.com/" target="_blank">Azure AI Foundry</a> - Enterprise AI platform providing API access to a range of AI models along with tooling for building and deploying agents.
 - <a href="https://cloud.google.com/vertex-ai" target="_blank">Vertex AI</a> - Google Cloud machine learning platform providing model training, MLOps tooling and hosted access to Gemini models through a unified API.
-- <a href="https://build.nvidia.com/" target="_blank">NVIDIA NIM</a> - Microservices-based GPU-accelerated inference platform, self-hosted or cloud deployment of latest AI models
-- <a href="https://developers.cloudflare.com/workers-ai/" target="_blank">Cloudflare Workers AI</a> - Cloudflare serverless edge GPU inference, integrated vector storage and API access
+- <a href="https://build.nvidia.com/" target="_blank">NVIDIA NIM</a> - Microservices-based GPU-accelerated inference platform for self-hosted or cloud deployment of AI models.
+- <a href="https://developers.cloudflare.com/workers-ai/" target="_blank">Cloudflare Workers AI</a> - Serverless GPU inference service that runs models on Cloudflare's edge network, with integrated vector storage and API access.
 
 <a id="section-data-platforms"></a>
 
 ### Data Platforms & Analytics
 
-- <a href="https://duckdb.org/" target="_blank">DuckDB</a> - Embedded columnar OLAP database, lightweight, efficient, supporting complex SQL analytics
-- <a href="https://doris.apache.org/" target="_blank">Doris</a> - Real-time analytical open-source database, focused on high concurrency and point queries
-- <a href="https://www.starrocks.io/" target="_blank">StarRocks</a> - High-performance distributed OLAP warehouse, supporting real-time analytics and data lake queries
-- <a href="https://www.elastic.co/" target="_blank">Elastic</a> - Open-source search and analytics engine, supporting full-text search, multi-model logging, and metrics analysis
-- <a href="https://tdengine.com/" target="_blank">TDengine</a> - High-performance distributed database designed for IoT and time-series data
-- <a href="https://www.weka.io/" target="_blank">Weka.IO</a> - High-performance cloud and on-premise AI data storage platform, supporting large-scale ML/HPC training and inference
-- <a href="https://www.pinecone.io/" target="_blank">Pinecone</a> - Enterprise vector database, providing fast, scalable semantic search and recommendation query APIs
+- <a href="https://duckdb.org/" target="_blank">DuckDB</a> - Lightweight embedded columnar OLAP database for complex SQL analytics.
+- <a href="https://doris.apache.org/" target="_blank">Doris</a> - Open-source real-time analytical database built for high concurrency and point queries.
+- <a href="https://www.starrocks.io/" target="_blank">StarRocks</a> - Distributed OLAP data warehouse supporting real-time analytics and data lake queries.
+- <a href="https://www.elastic.co/" target="_blank">Elastic</a> - Open-source search and analytics engine supporting full-text search, logging and metrics analysis.
+- <a href="https://tdengine.com/" target="_blank">TDengine</a> - Distributed database designed for IoT and time-series data.
+- <a href="https://www.weka.io/" target="_blank">Weka.IO</a> - Cloud and on-premise AI data storage platform for large-scale ML/HPC training and inference workloads.
+- <a href="https://www.pinecone.io/" target="_blank">Pinecone</a> - Fully managed, serverless vector database service with semantic search and recommendation APIs; no self-hosted offering.
 - <a href="https://scale.com/" target="_blank">Scale</a> - Platform providing data annotation, curation and model evaluation services for AI labs, enterprises and governments.
 - <a href="https://snorkel.ai" target="_blank">Snorkel AI</a> - Data-centric AI platform for programmatic training-data labeling and synthetic data generation to build and adapt machine learning models.
-- <a href="https://www.superannotate.com/" target="_blank">SuperAnnotate</a> - Efficient AI data annotation and management platform for model training
+- <a href="https://www.superannotate.com/" target="_blank">SuperAnnotate</a> - AI data annotation and management platform for preparing model training data.
 - <a href="https://www.coactive.ai/" target="_blank">Coactive</a> - Multimodal visual content platform with AI-powered automatic tagging, retrieval, and analysis of images/videos
 - <a href="https://www.appen.com/" target="_blank">Appen</a> - Enterprise AI data collection, cleaning, and annotation platform combining human and AI capabilities
 - <a href="https://www.surgehq.ai/" target="_blank">Surge</a> - Global high-skilled crowdsourcing annotation platform providing training data for generative AI
@@ -749,12 +749,12 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://deepnote.com/" target="_blank">Deepnote</a> - Cloud-based collaborative data science notebook with AI-powered code, queries, and visualizations
 - <a href="https://www.thoughtspot.com/" target="_blank">ThoughtSpot</a> - AI-powered analytics tool enabling natural language queries of enterprise data
 - <a href="https://aindo.com" target="_blank">Aindo</a> - Data technology company leveraging AI to generate synthetic data
-- <a href="https://www.gretel.ai/" target="_blank">Gretel AI</a> - Synthetic data platform providing privacy-preserving data generation solutions
-- <a href="https://www.syntho.ai" target="_blank">Syntho</a> - Data technology company specializing in AI-powered synthetic data generation
+- <a href="https://www.gretel.ai/" target="_blank">Gretel AI</a> - Synthetic data platform for privacy-preserving data generation.
+- <a href="https://www.syntho.ai" target="_blank">Syntho</a> - Company specializing in AI-powered synthetic data generation.
 - <a href="https://mostly.ai" target="_blank">Mostly AI</a> - Synthetic data generator and knowledge center for privacy-preserving data generation
-- <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a> - Data technology company specializing in AI and machine learning-powered synthetic data generation
+- <a href="https://www.tonic.ai" target="_blank">Tonic.ai</a> - Company generating synthetic data with AI and machine learning.
 - <a href="https://hazy.com" target="_blank">Hazy</a> - Company focused on synthetic data solutions for privacy-preserving data generation
-- <a href="https://www.napkin.ai/" target="_blank">Napkin</a> - Text-to-editable visual chart tool, helping present business stories
+- <a href="https://www.napkin.ai/" target="_blank">Napkin</a> - Tool that turns text into editable visuals for presenting business stories.
 - <a href="https://flourish.studio/" target="_blank">Flourish</a> - Interactive data visualization platform, suitable for embedding in news and reports
 - <a href="https://neon.com" target="_blank">Neon</a> - Serverless PostgreSQL platform with database branching, scale-to-zero compute and managed storage; operated by Databricks.
 - <a href="https://www.mongodb.com" target="_blank">MongoDB</a> - Document-oriented NoSQL database with a managed cloud service (Atlas), widely used for application data storage.
@@ -765,7 +765,7 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://www.trychroma.com/" target="_blank">Chroma</a> - Open-source (Apache-2.0) vector database with lexical, regex and metadata search, available self-hosted and as the serverless Chroma Cloud service for AI application and agent data storage.
 - <a href="https://weaviate.io" target="_blank">Weaviate</a> - Open-source vector database for storing and searching embeddings, available self-hosted and as a managed cloud service.
 - <a href="https://unstructured.io" target="_blank">Unstructured</a> - Document ETL platform that converts PDFs, tables, forms and scans into structured data and loads it into vector databases for RAG and LLM applications.
-- <a href="https://www.withdavid.ai/" target="_blank">David AI</a> - Professional audio data foundation building high-quality voice training datasets for conversational AI
+- <a href="https://www.withdavid.ai/" target="_blank">David AI</a> - Audio data service that builds voice training datasets for conversational AI
 - <a href="https://paradigmai.com" target="_blank">Paradigm</a> - Agentic research platform where spreadsheet cells can run AI agents that search, enrich and act on data in parallel.
 - <a href="https://www.ibm.com/products/informix" target="_blank">Informix</a> - Legacy relational database (now managed by HCL/Actian) with vector search capabilities for financial applications
 
@@ -774,18 +774,18 @@ For music creation within this section, [AI music-generation workflows](https://
 ### Model Access & Routing
 
 - <a href="https://openrouter.ai/" target="_blank">OpenRouter</a> - API platform offering unified access to a large catalog of language models from multiple providers through a single endpoint.
-- <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a> - Model marketplace providing 150+ AI models and visual workflows, one-click building of secure and scalable AI backends
-- <a href="https://www.requesty.ai/" target="_blank">Requesty</a> - AI model marketplace and API aggregation platform
-- <a href="https://www.edenai.co/" target="_blank">Eden AI</a> - AI model marketplace and unified API platform
+- <a href="https://www.eachlabs.ai/" target="_blank">EachLabs</a> - Model marketplace with 150+ AI models and visual workflows for building AI backends
+- <a href="https://www.requesty.ai/" target="_blank">Requesty</a> - AI model marketplace and API aggregation platform that routes requests across multiple providers
+- <a href="https://www.edenai.co/" target="_blank">Eden AI</a> - Unified API platform providing access to a marketplace of AI models
 - <a href="https://withmartian.com" target="_blank">Martian</a> - Model routing platform that automatically selects an LLM for each request to balance cost, latency and output quality.
-- <a href="https://www.notdiamond.ai" target="_blank">Not Diamond</a> - Model routing platform that automatically selects which large language model should handle each request, used by coding agents and LLM applications to optimize cost, latency and quality.
+- <a href="https://www.notdiamond.ai" target="_blank">Not Diamond</a> - Model router that selects which LLM should handle each request, used by coding agents and LLM applications to optimize cost, latency and quality.
 - <a href="https://aws.amazon.com/bedrock/" target="_blank">Amazon Bedrock</a> - Single API to access multiple foundation models, enabling text, image, and multimodal inference
 
 <a id="section-model-hubs"></a>
 
 ### Model Hubs & Communities
 
-- <a href="https://civitai.com/" target="_blank">Civitai</a> - Open-source Stable Diffusion model community for sharing and downloading various generation models
+- <a href="https://civitai.com/" target="_blank">Civitai</a> - Community platform for generative visual models, where creators publish checkpoints, LoRAs and generated images and videos with prompts and metadata
 - <a href="https://huggingface.co" target="_blank">Hugging Face Hub</a> - Platform for hosting, sharing and discovering machine learning models, datasets, Spaces demos and applications.
 
 <a id="section-model-runtime-tools"></a>
@@ -811,9 +811,9 @@ For knowledge management, [knowledge-base organization and retrieval](https://al
 - <a href="https://get.mem.ai/" target="_blank">Mem</a> - AI-driven self-organizing workspace
 - <a href="https://updf.com/" target="_blank">UPDF</a> - Cross-platform AI PDF editor with reading, editing, annotation, and chat capabilities
 - <a href="https://www.gitbook.com" target="_blank">GitBook</a> - Documentation platform for technical teams with a visual editor, Git synchronization and AI search.
-- <a href="https://scribe.com" target="_blank">Scribe</a> - Documentation platform that captures on-screen workflows and turns them into step-by-step guides with screenshots for training, support and process documentation.
+- <a href="https://scribe.com" target="_blank">Scribe</a> - Captures on-screen workflows and turns them into step-by-step guides with screenshots for training, support and process documentation.
 - <a href="https://www.mintlify.com" target="_blank">Mintlify</a> - Documentation platform that builds and hosts developer documentation from codebases, with AI-assisted writing, updates and user analytics.
-- <a href="https://stenography.dev/" target="_blank">Stenography</a> - Uses AI technology to automatically generate documentation for code
+- <a href="https://stenography.dev/" target="_blank">Stenography</a> - Automatically generates documentation for code using AI
 - <a href="https://notebooklm.google" target="_blank">Gemini Notebook</a> - Google's AI research notebook, formerly named NotebookLM, that grounds answers, summaries and audio overviews in user-uploaded sources.
 
 <a id="section-productivity-automation"></a>
@@ -824,12 +824,12 @@ For automation in this section, [workflow orchestration and integration](https:/
 
 - <a href="https://www.notion.com" target="_blank">Notion</a> - Collaborative workspace combining documents, wikis, databases and project management, with built-in AI features for search and writing.
 - <a href="https://miro.com" target="_blank">Miro</a> - Online collaborative whiteboard platform for diagramming, workshops and planning, with AI-assisted creation features.
-- <a href="https://clickup.com/" target="_blank">ClickUp</a> - Comprehensive project management platform combining tasks, documents, timelines, and AI features
-- <a href="https://trello.com/" target="_blank">Trello</a> - Kanban-style collaboration tool using cards and lists for intuitive project task management
+- <a href="https://clickup.com/" target="_blank">ClickUp</a> - Project management platform combining tasks, documents, timelines, and AI features
+- <a href="https://trello.com/" target="_blank">Trello</a> - Kanban-style collaboration tool using cards and lists for project task management
 - <a href="https://asana.com/" target="_blank">Asana</a> - Team task management platform supporting project planning, progress tracking, and real-time reporting
 - <a href="https://www.airtable.com/" target="_blank">Airtable</a> - Spreadsheet-database collaboration platform suitable for custom applications and data-driven workflows
 - <a href="https://quip.com/" target="_blank">Quip</a> - Real-time document collaboration embedded in Salesforce, integrating spreadsheets and chat features
-- <a href="https://tally.so/" target="_blank">Tally</a> - No-code form builder with Notion-style editing, free creation of diverse forms
+- <a href="https://tally.so/" target="_blank">Tally</a> - No-code form builder with Notion-style editing for creating a variety of forms for free
 - <a href="https://www.typeform.com/" target="_blank">Typeform</a> - Interactive form/questionnaire generator creating conversational user experiences to improve completion rates
 - <a href="https://www.surveymonkey.com" target="_blank">SurveyMonkey</a> - Online survey platform with AI-assisted survey creation, distribution and analysis of results.
 - <a href="https://cal.com" target="_blank">Cal.com</a> - Open-source, self-hostable scheduling infrastructure for booking meetings, aimed at individuals, teams, and developers.
@@ -837,9 +837,9 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://www.airtime.com/" target="_blank">Airtime</a> - Online meeting platform
 - <a href="https://www.usemotion.com/" target="_blank">Motion</a> - AI scheduling app that unifies task management and calendar automation, automatically planning tasks, meetings and focus time from prioritized task lists.
 - <a href="https://n8n.io" target="_blank">n8n</a> - Workflow automation platform for technical teams that connects apps and APIs with low-code logic and supports AI agent workflows; deployable in the cloud or self-hosted.
-- <a href="https://www.automationanywhere.com/" target="_blank">Automation Anywhere</a> - Enterprise-grade intelligent RPA automation platform for end-to-end processes
-- <a href="https://www.uipath.com/" target="_blank">UiPath</a> - Enterprise-grade RPA platform combining AI with robotic process automation to intelligently execute repetitive tasks
-- <a href="https://www.induced.ai/" target="_blank">Induced</a> - Human-in-the-loop RPA 3.0, AI-driven web task automation with real-time intelligent decision-making
+- <a href="https://www.automationanywhere.com/" target="_blank">Automation Anywhere</a> - RPA platform for automating end-to-end processes
+- <a href="https://www.uipath.com/" target="_blank">UiPath</a> - RPA platform combining AI with robotic process automation to execute repetitive tasks
+- <a href="https://www.induced.ai/" target="_blank">Induced</a> - Human-in-the-loop RPA that uses AI to automate web-based tasks
 - <a href="https://www.make.com" target="_blank">Make</a> - Visual workflow automation platform for connecting apps and building business process automations; formerly known as Integromat.
 - <a href="https://zapier.com" target="_blank">Zapier</a> - No-code workflow automation platform that connects thousands of apps via trigger-action workflows (Zaps) and includes tools for building AI agents, chatbots, and tables.
 - <a href="https://pig.dev" target="_blank">Pig</a> - Platform for automating Windows desktop applications with computer-use AI, offering a chat interface, an agent API and an SDK; self-hosted by default.
@@ -853,10 +853,10 @@ For automation in this section, [workflow orchestration and integration](https:/
 ### Enterprise Assistants
 
 - <a href="https://aisera.com/" target="_blank">Aisera</a> - Enterprise AI service desk assistant that automatically handles IT/HR requests and generates tickets and solutions
-- <a href="https://www.moveworks.com/" target="_blank">Moveworks</a> - Enterprise-grade intelligent AI assistant that automatically responds to employee requests and executes tasks
-- <a href="https://www.pryon.com/" target="_blank">Pryon</a> - Enterprise knowledge search and automated Q&A system improving information production efficiency through semantic understanding
-- <a href="https://ushur.ai/" target="_blank">Ushur</a> - AI-driven customer experience automation platform achieving end-to-end service transformation through chat and process bots
-- <a href="https://contextual.ai/" target="_blank">Contextual AI</a> - Enterprise RAG platform building highly authentic knowledge-driven intelligent assistants
+- <a href="https://www.moveworks.com/" target="_blank">Moveworks</a> - Enterprise AI assistant that automatically responds to employee requests and executes tasks; acquired by ServiceNow.
+- <a href="https://www.pryon.com/" target="_blank">Pryon</a> - Enterprise knowledge search and automated Q&A system built on semantic understanding
+- <a href="https://ushur.ai/" target="_blank">Ushur</a> - AI-driven customer experience automation platform combining chat and process bots for end-to-end customer service
+- <a href="https://contextual.ai/" target="_blank">Contextual AI</a> - RAG platform for building knowledge-driven enterprise assistants
 - <a href="https://www.blinkops.com/" target="_blank">BlinkOps</a> - Security automation platform with AI-powered agents for cybersecurity operations
 
 <a id="section-meeting-notes"></a>
@@ -884,10 +884,10 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://myminutes.ai/" target="_blank">MyMinutes</a> - Audio note-taking application that transcribes recordings and formats them into structured notes.
 - <a href="https://www.claap.io/" target="_blank">Claap</a> - Sales conversation platform that records meetings and organizes call data for coaching and follow-up.
 - <a href="https://www.recall.ai/" target="_blank">Recall.ai</a> - Unified API for accessing Zoom/Meet meeting recordings, real-time transcription, and metadata
-- <a href="https://cogram.com/" target="_blank">Cogram</a> - AI-powered meeting notes, action items, and summaries generation platform
+- <a href="https://cogram.com/" target="_blank">Cogram</a> - AI platform that generates meeting notes, action items, and summaries.
 - <a href="https://grain.com/" target="_blank">Grain</a> - Meeting recorder and note-taking platform that produces transcripts, summaries, and action items.
 - <a href="https://paxo.ai/" target="_blank">Paxo</a> - Mobile-first AI scribe platform
-- <a href="https://adot.ai" target="_blank">Adot</a> - Korean AI assistant that transcribes voice recordings and organizes them into structured, searchable notes for meetings, lectures, and brainstorming.
+- <a href="https://adot.ai" target="_blank">Adot</a> - Korean mobile AI assistant that transcribes voice recordings and organizes them into structured, searchable notes for meetings, lectures, and brainstorming.
 
 <a id="group-marketing-service"></a>
 
@@ -898,29 +898,29 @@ For automation in this section, [workflow orchestration and integration](https:/
 ### Marketing & Content
 
 - <a href="https://www.bluefishai.com/" target="_blank">Bluefish</a> - AI visibility analysis platform helping brands optimize their presence in AI search platforms
-- <a href="https://scrunch.com/" target="_blank">Scrunch AI</a> - Infrastructure layer for AI crawlers - Agent Experience Platform (AXP), helping brands provide compressed, structured content for AI agents and crawlers, creating machine-readable versions of brands optimized for how LLMs parse, interpret, and return content
+- <a href="https://scrunch.com/" target="_blank">Scrunch AI</a> - Agent Experience Platform (AXP) that provides brands' content to AI agents and crawlers in compressed, structured, machine-readable form, optimized for how LLMs parse, interpret and return it.
 - <a href="https://www.evertune.ai/" target="_blank">Evertune</a> - GEO optimization platform for brands to improve visibility in AI search results
-- <a href="https://www.airops.com/" target="_blank">Airops</a> - Content operations AI platform combining expert strategies with SEO to automatically generate optimized content
+- <a href="https://www.airops.com/" target="_blank">Airops</a> - Content operations AI platform that automatically generates SEO-optimized content.
 - <a href="https://www.clearscope.io/" target="_blank">Clearscope</a> - Content-first AI SEO tool with keyword optimization and competitive analysis to drive traffic growth
-- <a href="https://byword.ai/" target="_blank">Byword</a> - AI SEO writing assistant that generates high-quality, structured, and ranking-optimized copy with one click
-- <a href="https://www.frase.io/" target="_blank">Frase</a> - SEO content optimization and AI writing tool combining expert strategies with automated content generation
-- <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a> - AI-powered multilingual website automatic translation to boost international organic search traffic
+- <a href="https://byword.ai/" target="_blank">Byword</a> - AI SEO writing assistant that generates structured, ranking-optimized copy with one click.
+- <a href="https://www.frase.io/" target="_blank">Frase</a> - SEO content optimization and AI writing tool with automated content generation.
+- <a href="https://www.globalseo.ai/" target="_blank">GlobalSEO</a> - AI-powered automatic multilingual website translation to boost international organic search traffic.
 - <a href="https://www.weglot.com/" target="_blank">Weglot</a> - No-code multilingual website translation platform supporting SEO optimization and content editing
 - <a href="https://www.peppercontent.io/" target="_blank">Pepper Content</a> - AI-powered content marketing platform and expert-guided talent marketplace
 - <a href="https://getmunch.com/" target="_blank">Munch Studio</a> - AI platform that generates social media posts and content strategies from a business's own materials, with review workflows, one-click publishing and cross-platform analytics.
-- <a href="https://linktr.ee/" target="_blank">Linktree</a> - Create personalized "Link in Bio" pages aggregating multiple platform links with analytics
+- <a href="https://linktr.ee/" target="_blank">Linktree</a> - Personalized "Link in Bio" pages that aggregate links from multiple platforms, with analytics.
 - <a href="https://beacons.ai" target="_blank">Beacons</a> - Creator platform providing link-in-bio pages, media kits, store fronts and audience monetization tools.
 - <a href="https://lit.link/" target="_blank">lit.link</a> - Free "Link in Bio" service integrating multiple social media links with diverse design options
-- <a href="https://campsite.bio/" target="_blank">Campsite.bio</a> - Quickly create mobile-optimized "Link in Bio" pages organizing and tracking social media links
-- <a href="https://portaly.cc/" target="_blank">Portaly</a> - AI-driven social media traffic and content presentation platform, one-click brand showcase page generation
+- <a href="https://campsite.bio/" target="_blank">Campsite.bio</a> - Mobile-optimized "Link in Bio" pages for organizing and tracking social media links.
+- <a href="https://portaly.cc/" target="_blank">Portaly</a> - AI-driven platform that generates brand showcase pages from social media content in one click.
 - <a href="https://regie.ai/" target="_blank">Regie</a> - AI content platform for sales teams, generating personalized sales content and communications
 - <a href="https://hyperbound.ai/" target="_blank">Hyperbound</a> - Sales training platform that uses simulated buyer conversations for role-play practice and coaching.
 - <a href="https://nooks.ai/" target="_blank">Nooks</a> - Sales platform combining a dialer, conversation data, and tools for prospecting and coaching.
 - <a href="https://terrakotta.ai/" target="_blank">Terrakotta</a> - Commercial real estate prospecting platform that combines property data with calling workflows.
 - <a href="https://secondnature.ai/" target="_blank">Second Nature</a> - Sales training platform that uses AI role-play simulations to practice conversations and provide feedback.
-- <a href="https://digitalfirst.ai/" target="_blank">Digital First AI</a> - Innovative marketing platform enabling users to create and execute marketing plans using AI
+- <a href="https://digitalfirst.ai/" target="_blank">Digital First AI</a> - Marketing platform for creating and executing marketing plans with AI.
 - <a href="https://www.anoki.ai/" target="_blank">Anoki</a> - Multimodal AI platform for CTV advertising with scene-level contextual video intelligence, brand safety, and GenAI-powered ad creation and personalization
-- <a href="https://originality.ai/" target="_blank">Originality AI</a> - Professional content quality tool integrating AI detection, plagiarism checking, fact verification, and readability assessment
+- <a href="https://originality.ai/" target="_blank">Originality AI</a> - Content quality tool that combines AI detection, plagiarism checking, fact verification, and readability assessment.
 - <a href="https://gptzero.me/" target="_blank">GPTZero</a> - Free AI text detector analyzing AI-generated content sentence by sentence
 - <a href="https://undetectable.ai/" target="_blank">Undetectable.ai</a> - Aggregates results from multiple AI detectors and provides AI content rewriting to evade detection
 - <a href="https://icon.com" target="_blank">Icon</a> - UGC advertising platform producing creator-made video ads for brands, paired with campaign management software for tracking and iteration.
@@ -935,23 +935,23 @@ For automation in this section, [workflow orchestration and integration](https:/
 
 - <a href="https://www.intercom.com" target="_blank">Intercom</a> - Customer messaging platform combining a helpdesk and shared inbox with Fin, an AI agent that resolves customer support conversations.
 - <a href="https://www.zendesk.com/" target="_blank">Zendesk</a> - Omnichannel customer support system with AI-enhanced ticket management and automated workflows
-- <a href="https://www.crescendo.ai/" target="_blank">Crescendo</a> - Integrated customer service AI platform combining conversational AI with human experts to optimize customer support
+- <a href="https://www.crescendo.ai/" target="_blank">Crescendo</a> - Customer service platform that combines conversational AI with human experts.
 - <a href="https://www.chatbase.co" target="_blank">Chatbase</a> - Platform for building AI support agents grounded in a company's own data, with workflow automation, model comparison, and human handoff.
 - <a href="https://lavender.ai/" target="_blank">Lavender</a> - AI sales email training platform providing email scoring, personalized suggestions, and recipient research
-- <a href="https://kaizan.ai/" target="_blank">Kaizan</a> - Conversation intelligence platform helping customers manage relationships, auto-filling workflows and integrating common tools
-- <a href="https://outplayhq.com/" target="_blank">Outplay</a> - Multi-channel sales automation platform supporting email, phone, LinkedIn communication with data analytics
+- <a href="https://kaizan.ai/" target="_blank">Kaizan</a> - Conversation intelligence platform that helps manage customer relationships, auto-fills workflows, and integrates common tools.
+- <a href="https://outplayhq.com/" target="_blank">Outplay</a> - Multi-channel sales automation platform supporting email, phone, and LinkedIn communication, with data analytics.
 - <a href="https://www.edgetier.com/" target="_blank">Edge Tier</a> - NLP technology optimizing customer service conversation quality with anomaly detection and automated decision support
-- <a href="https://forethought.ai/" target="_blank">Forethought</a> - SupportGPT™ platform automatically responding to customer questions, prioritizing tickets, and routing through AI
-- <a href="https://smartly.ai/" target="_blank">Smartly.ai</a> - Creating cross-device conversational applications supporting Messenger, Alexa, and other platforms, optimizing customer service
+- <a href="https://forethought.ai/" target="_blank">Forethought</a> - SupportGPT™ platform that automatically responds to customer questions, prioritizes tickets, and routes them with AI.
+- <a href="https://smartly.ai/" target="_blank">Smartly.ai</a> - Platform for creating cross-device conversational applications that support Messenger, Alexa, and other platforms.
 - <a href="https://yellow.ai/" target="_blank">Yellow.ai</a> - Enterprise conversational AI platform providing omnichannel customer service chatbots with agentic AI capabilities
-- <a href="https://parloa.com/" target="_blank">Parloa</a> - AI agent management platform for contact centers, transforming customer conversations into lasting loyalty
-- <a href="https://symbl.ai/" target="_blank">Symbl</a> - Real-time conversation intelligence platform extracting insights from voice, video, and chat conversations using advanced NLP
-- <a href="https://replicant.com/" target="_blank">Replicant</a> - Replicant provides customer-service conversation automation and conversation analytics for contact centers.
-- <a href="https://voctiv.com/" target="_blank">Voctiv</a> - Voctiv provides AI voice and messaging software for customer communication and call handling.
+- <a href="https://parloa.com/" target="_blank">Parloa</a> - Enterprise AI agent management platform for contact centers, covering agent design, simulation, evaluation, deployment, and monitoring, with CCaaS/CRM integrations and human agent handoff.
+- <a href="https://symbl.ai/" target="_blank">Symbl</a> - Real-time conversation intelligence platform that extracts insights from voice, video, and chat conversations using NLP.
+- <a href="https://replicant.com/" target="_blank">Replicant</a> - Conversation automation and analytics platform for contact-center customer service.
+- <a href="https://voctiv.com/" target="_blank">Voctiv</a> - AI voice and messaging software for customer communication and call handling.
 - <a href="https://sierra.ai/" target="_blank">Sierra</a> - Enterprise platform for building and operating conversational AI agents that resolve customer service issues across channels.
 - <a href="https://decagon.ai" target="_blank">Decagon</a> - Platform for building and operating AI agents that automate customer support across chat, email and voice channels.
-- <a href="https://cresta.com/" target="_blank">Cresta</a> - Cresta provides contact-center software for automating customer conversations, assisting staff during interactions and analyzing conversation data.
-- <a href="https://marrlabs.com/" target="_blank">Marr Labs</a> - Marr Labs provides voice and chat automation for customer engagement, including qualification, transfers and workflow integrations.
+- <a href="https://cresta.com/" target="_blank">Cresta</a> - Contact-center software that automates customer conversations, assists staff during interactions, and analyzes conversation data.
+- <a href="https://marrlabs.com/" target="_blank">Marr Labs</a> - Voice and chat automation for customer engagement with qualification, transfers, and workflow integrations.
 - <a href="https://www.rilla.com/" target="_blank">Rilla</a> - Conversation intelligence platform that records in-person sales conversations and supports coaching.
 - <a href="https://siro.ai/" target="_blank">Siro</a> - Sales coaching platform that records and analyzes field conversations, calls, and meetings.
 - <a href="https://winn.ai/" target="_blank">Winn AI</a> - Sales execution assistant that captures calls, presents playbooks, and updates CRM records.
@@ -967,9 +967,9 @@ For automation in this section, [workflow orchestration and integration](https:/
 
 - <a href="https://www.amazon.com/Rufus/b?ie=UTF8&node=121214013011" target="_blank">Amazon Rufus</a> - Amazon's AI shopping assistant, being folded into Alexa experiences.
 - <a href="https://www.accio.com" target="_blank">Accio</a> - AI sourcing and procurement assistant for B2B buyers from Alibaba, matching suppliers to product ideas and providing market research.
-- <a href="https://www.shopencore.ai/" target="_blank">Encore</a> - AI second-hand product search assistant, aggregating multiple platforms for conversational precision shopping
-- <a href="https://faircado.com/" target="_blank">Faircado</a> - AI-powered browser extension/app aggregating millions of second-hand product platforms, helping intelligent search and price comparison
-- <a href="https://www.doji.com/" target="_blank">Doji</a> - Create AI avatars for online virtual try-on of fashion clothing
+- <a href="https://www.shopencore.ai/" target="_blank">Encore</a> - AI second-hand shopping assistant that aggregates multiple platforms for conversational product search.
+- <a href="https://faircado.com/" target="_blank">Faircado</a> - AI-powered browser extension and app that aggregates millions of second-hand product platforms for intelligent search and price comparison.
+- <a href="https://www.doji.com/" target="_blank">Doji</a> - Creates AI avatars for online virtual try-on of fashion clothing.
 - <a href="https://www.altadaily.com/" target="_blank">Alta</a> - Digital wardrobe platform recommending outfits
 - <a href="https://glam.ai/" target="_blank">Glam AI</a> - AI mirror virtual try-on platform
 - <a href="https://mirrormirror.ai/" target="_blank">Mirror Mirror</a> - AI mirror virtual try-on platform
@@ -1008,12 +1008,12 @@ For automation in this section, [workflow orchestration and integration](https:/
 
 ### Finance & Accounting
 
-- <a href="https://www.bill.com/" target="_blank">Bill</a> - Financial operations platform for small and medium businesses, automatically handling invoice generation, payments, billing, expense management, and budget control
-- <a href="https://www.rillet.com/" target="_blank">Rillet</a> - AI-native ERP system that automatically completes month-end closing, consolidation, GAAP reporting, and invoice processing
-- <a href="https://rogo.ai/" target="_blank">Rogo AI</a> - Exclusive AI analysis platform for financial institutions that automatically researches data, generates insights, and accelerates investment decisions
-- <a href="https://skit.ai/" target="_blank">Skit.ai</a> - Skit.ai provides voice and messaging automation for debt collection and accounts receivable teams.
-- <a href="https://www.kastle.ai/" target="_blank">Kastle AI</a> - Voice AI agent platform for financial services
-- <a href="https://www.aviaryai.co/" target="_blank">Aviary AI</a> - Voice AI agent platform for financial services
+- <a href="https://www.bill.com/" target="_blank">Bill</a> - Financial operations platform for small and medium businesses, automatically handling invoice generation, payments, billing, expense management, and budget control.
+- <a href="https://www.rillet.com/" target="_blank">Rillet</a> - AI-native ERP system that automatically completes month-end closing, consolidation, GAAP reporting, and invoice processing.
+- <a href="https://rogo.ai/" target="_blank">Rogo AI</a> - AI analysis platform for financial institutions that automatically researches data, generates insights, and accelerates investment decisions.
+- <a href="https://skit.ai/" target="_blank">Skit.ai</a> - Voice and messaging automation for debt collection and accounts receivable teams.
+- <a href="https://www.kastle.ai/" target="_blank">Kastle AI</a> - Voice AI agent platform for financial services, focused on mortgage operations.
+- <a href="https://www.aviaryai.co/" target="_blank">Aviary AI</a> - Voice AI agent platform for financial services operations.
 - <a href="https://samaya.ai/" target="_blank">Samaya AI</a> - AI-powered knowledge discovery platform for financial services and investment banking domain experts
 - <a href="https://www.evalyze.ai" target="_blank">Evalyze</a> - AI fundraising platform that reviews pitch decks, scores investor readiness and matches founders with investors.
 
@@ -1034,48 +1034,48 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://cameramath.com/" target="_blank">UpStudy</a> - Homework helper that solves problems across multiple subjects from photos and provides step-by-step explanations with tutor support.
 - <a href="https://quizlet.com" target="_blank">Quizlet</a> - Study platform offering digital flashcards, practice tests and AI-assisted study modes across academic subjects.
 - <a href="https://knowt.com" target="_blank">Knowt</a> - Study tool that turns notes, videos and PDFs into AI flashcards and practice quizzes, with spaced repetition and lecture note capture.
-- <a href="https://www.studyfetch.com/" target="_blank">Study Fetch</a> - Personalized learning assistant that converts audio recordings to AI notes and quizzes
-- <a href="https://www.mindgrasp.ai/" target="_blank">Mindgrasp</a> - AI learning platform that generates notes, flashcards, and quizzes from uploaded documents
+- <a href="https://www.studyfetch.com/" target="_blank">Study Fetch</a> - Learning assistant that converts audio recordings into AI notes and quizzes.
+- <a href="https://www.mindgrasp.ai/" target="_blank">Mindgrasp</a> - AI learning platform that generates notes, flashcards, and quizzes from uploaded documents.
 - <a href="https://www.scholarcy.com" target="_blank">Scholarcy</a> - Web tool that summarizes research papers, books and other documents into structured summaries, flashcards and citation extracts for literature review.
-- <a href="https://penseum.com/" target="_blank">Penseum</a> - AI learning platform that generates customized notes, flashcards, and quizzes from uploaded materials
-- <a href="https://www.boldvoice.com" target="_blank">BoldVoice</a> - Mobile app that trains English pronunciation and accent with video lessons from speech coaches and instant AI feedback.
+- <a href="https://penseum.com/" target="_blank">Penseum</a> - AI learning platform that generates customized notes, flashcards, and quizzes from uploaded materials.
+- <a href="https://www.boldvoice.com" target="_blank">BoldVoice</a> - Mobile app that trains American English pronunciation and accent with video lessons from speech coaches and instant AI feedback.
 - <a href="https://www.duolingo.com" target="_blank">Duolingo</a> - Language learning app with gamified bite-sized lessons across many languages, offered in free and subscription tiers.
-- <a href="https://www.apeuni.com/" target="_blank">APEUni</a> - Free AI-powered PTE exam practice platform assessing speaking and writing
-- <a href="https://praktika.ai/" target="_blank">Praktika.ai</a> - AI language tutor app that improves speaking through conversation practice
+- <a href="https://www.apeuni.com/" target="_blank">APEUni</a> - Free AI-powered PTE exam practice platform assessing speaking and writing.
+- <a href="https://praktika.ai/" target="_blank">Praktika.ai</a> - AI language tutor app that improves speaking through conversation practice.
 - <a href="https://www.speak.com" target="_blank">Speak</a> - AI language tutoring app focused on speaking practice, giving instant pronunciation and conversation feedback in English, Spanish, French, Korean, Italian and Japanese.
-- <a href="https://www.trancy.org/" target="_blank">Trancy</a> - Automatically generates bilingual subtitles for videos and creates learning cards
-- <a href="https://gliglish.com/" target="_blank">Gliglish</a> - Improves speaking and listening through voice practice with AI characters
-- <a href="https://lingokids.com/" target="_blank">Lingokids</a> - Language learning app for children aged 2-8, learning through interactive games and voice recognition
-- <a href="https://www.mondly.com/" target="_blank">Mondly</a> - Multi-language learning app providing conversational practice and voice recognition features
+- <a href="https://www.trancy.org/" target="_blank">Trancy</a> - Automatically generates bilingual subtitles for videos and creates learning cards.
+- <a href="https://gliglish.com/" target="_blank">Gliglish</a> - Improves speaking and listening through voice practice with AI characters.
+- <a href="https://lingokids.com/" target="_blank">Lingokids</a> - Language learning app for children aged 2-8 that teaches through interactive games and voice recognition.
+- <a href="https://www.mondly.com/" target="_blank">Mondly</a> - Multi-language learning app providing conversational practice and voice recognition.
 - <a href="https://www.mathgptpro.com" target="_blank">Mathos</a> - AI math solver that gives step-by-step solutions, interactive graphing and homework help for typed or uploaded problems.
-- <a href="https://math-gpt.org/" target="_blank">MathGPT</a> - Image-based math calculator providing video and animated solution tutorials
-- <a href="https://photomath.com/" target="_blank">Photomath</a> - Photo recognition math solver providing step-by-step explanations with multiple solution methods
-- <a href="https://www.mathway.com/" target="_blank">Mathway</a> - Multi-purpose math problem solver supporting photo input and manual entry
-- <a href="https://qanda.ai/" target="_blank">Quanda</a> - OCR-based AI math learning platform with one-step solutions, serving a large student user base.
-- <a href="https://www.chegg.com/" target="_blank">Chegg</a> - 24/7 online homework tutoring and textbook rental platform
+- <a href="https://math-gpt.org/" target="_blank">MathGPT</a> - Image-based math calculator providing video and animated solution tutorials.
+- <a href="https://photomath.com/" target="_blank">Photomath</a> - Photo recognition math solver providing step-by-step explanations with multiple solution methods.
+- <a href="https://www.mathway.com/" target="_blank">Mathway</a> - Multi-purpose math problem solver supporting photo input and manual entry.
+- <a href="https://qanda.ai/" target="_blank">Quanda</a> - OCR-based AI math learning platform with one-step solutions.
+- <a href="https://www.chegg.com/" target="_blank">Chegg</a> - 24/7 online homework tutoring and textbook rental platform.
 - <a href="https://www.coursehero.com/" target="_blank">Course Hero</a> - Online learning platform offering course-specific study materials, homework help and online tutoring.
-- <a href="https://www.khanmigo.ai" target="_blank">Khanmigo</a> - AI tutor and teaching assistant from Khan Academy that guides students through Khan Academy content step by step and helps teachers with lesson planning and grading.
-- <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> - Online learning platform for programming and data analysis, providing project-based courses and skill tracks
-- <a href="https://quizizz.com/" target="_blank">Wayground</a> - Online interactive quiz platform supporting classroom and remote gamified learning
-- <a href="https://curipod.com/" target="_blank">Curipod</a> - AI interactive classroom designed for K-12, generating polls and quizzes
-- <a href="https://classcompanion.com/" target="_blank">Class Companion</a> - Teacher tool providing instant AI grading feedback and student tutoring
-- <a href="https://www.doctrina.ai/" target="_blank">Doctrina AI</a> - Multi-functional AI education platform generating notes, quizzes, essays, and conversations
+- <a href="https://www.khanmigo.ai" target="_blank">Khanmigo</a> - AI tutor and teaching assistant from Khan Academy that guides students through its lessons step by step and helps teachers with lesson planning and grading.
+- <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> - Online learning platform for programming and data analysis, providing project-based courses and skill tracks.
+- <a href="https://quizizz.com/" target="_blank">Wayground</a> - Online interactive quiz platform supporting classroom and remote gamified learning.
+- <a href="https://curipod.com/" target="_blank">Curipod</a> - AI-powered interactive classroom tool for K-12 that generates polls and quizzes.
+- <a href="https://classcompanion.com/" target="_blank">Class Companion</a> - Teacher tool providing instant AI grading feedback and student tutoring.
+- <a href="https://www.doctrina.ai/" target="_blank">Doctrina AI</a> - AI education platform that generates notes, quizzes, essays and conversations.
 - <a href="https://www.bohrium.com/en" target="_blank">Bohrium</a> - Research platform for scientific computing with AI-assisted literature exploration, article search, and Q&A tools.
-- <a href="https://www.shortform.com/" target="_blank">Shortform</a> - Expert-guided summaries and insights for 1000+ in-depth non-fiction books
-- <a href="https://makeheadway.com/" target="_blank">Headway</a> - 15-minute text and audio book summaries with visual presentation and personalized recommendations
-- <a href="https://instaread.co/" target="_blank">Instaread</a> - Professionally written 15-minute book summaries covering popular bestsellers
-- <a href="https://www.blinkist.com/" target="_blank">Blinkist</a> - 15-minute "blink" book summaries providing audio/text formats and personalized learning paths
-- <a href="https://sobrief.com/" target="_blank">Sobrief</a> - World's largest book summary library with 10-minute AI audio/text summaries supporting 40 languages
-- <a href="https://echolabs.ai/" target="_blank">Echolabs</a> - AI education scribe platform
-- <a href="https://notability.com/" target="_blank">Notability</a> - AI education scribe platform
-- <a href="https://glyph.ai/" target="_blank">Glyph AI</a> - AI education scribe platform
+- <a href="https://www.shortform.com/" target="_blank">Shortform</a> - Expert-guided summaries and insights for 1000+ in-depth non-fiction books.
+- <a href="https://makeheadway.com/" target="_blank">Headway</a> - 15-minute text and audio book summaries with visual presentation and personalized recommendations.
+- <a href="https://instaread.co/" target="_blank">Instaread</a> - Professionally written 15-minute book summaries covering popular bestsellers.
+- <a href="https://www.blinkist.com/" target="_blank">Blinkist</a> - 15-minute "blink" book summaries providing audio/text formats and personalized learning paths.
+- <a href="https://sobrief.com/" target="_blank">Sobrief</a> - Book summary library with 10-minute AI audio/text summaries, supporting 40 languages.
+- <a href="https://echolabs.ai/" target="_blank">Echolabs</a> - AI education scribe platform.
+- <a href="https://notability.com/" target="_blank">Notability</a> - AI education scribe platform.
+- <a href="https://glyph.ai/" target="_blank">Glyph AI</a> - AI education scribe platform.
 - <a href="https://www.coconote.app/" target="_blank">Coconote</a> - AI note-taking and study app that turns recorded lectures, documents and videos into notes, transcripts, quizzes, flashcards and practice exams, with AI-generated podcast summaries from the material.
 
 <a id="section-research-writing"></a>
 
 ### Research & Academic Writing
 
-- <a href="https://paperguide.ai/" target="_blank">Paperguide</a> - AI research assistant that automatically retrieves literature, writes reviews, and manages citations
+- <a href="https://paperguide.ai/" target="_blank">Paperguide</a> - AI research assistant that automatically retrieves literature, writes reviews, and manages citations.
 - <a href="https://eduwriter.ai/" target="_blank">EduWriter</a> - AI-assisted paper writing tool that generates downloadable paper drafts in real-time
 
 <a id="group-hr-recruiting"></a>
@@ -1094,20 +1094,20 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://www.turing.com/" target="_blank">Turing</a> - AI-driven remote developer platform that automatically matches and manages global software engineers
 - <a href="https://www.micro1.ai" target="_blank">micro1</a> - AI recruitment platform featuring an AI voice interviewer (Zara) and a global workforce for data labeling and AI training data.
 - <a href="https://apriora.ai/" target="_blank">Apriora</a> - AI voice-powered recruitment platform
-- <a href="https://lightscreen.ai/" target="_blank">Lightscreen</a> - AI voice-powered recruitment platform
-- <a href="https://www.thecorrelate.com" target="_blank">Correlate AI</a> - One-click automatic resume submission, customizing and applying to matching positions
+- <a href="https://lightscreen.ai/" target="_blank">Lightscreen</a> - Voice-based AI recruitment platform
+- <a href="https://www.thecorrelate.com" target="_blank">Correlate AI</a> - Job-search tool that customizes resumes and applies to matching positions in one click
 - <a href="https://helloboss.com/" target="_blank">Hello Boss</a> - AI job recommendation and one-click resume generation for Japanese-style recruitment applications
 - <a href="https://jobright.ai/" target="_blank">Jobright AI</a> - AI job search copilot that matches users with job openings, auto-fills applications, optimizes resumes and generates cover letters.
-- <a href="https://himalayas.app/" target="_blank">Himalayas</a> - Remote/AI job platform that matches positions and generates resume cover letters
+- <a href="https://himalayas.app/" target="_blank">Himalayas</a> - Remote/AI job platform that matches users with positions and generates resume cover letters
 - <a href="https://nodeflair.com/" target="_blank">NODEFLAIR</a> - Southeast Asia tech careers platform with resume tools and transparent job/salary information
 - <a href="https://www.senseicopilot.com/" target="_blank">Sensei AI</a> - Browser interview companion that generates structured answers in real-time
 - <a href="https://www.finalroundai.com" target="_blank">Final Round AI</a> - Interview copilot that transcribes questions and suggests answers in real time during online interviews, with AI mock interview practice and resume tools.
 - <a href="https://www.lockedinai.com" target="_blank">LockedIn AI</a> - Real-time interview and meeting assistant offering answer suggestions, a coding copilot and automated job applications.
-- <a href="https://www.vervecopilot.com/" target="_blank">Verve AI</a> - AI interview practice assistant with real-time suggestions, cold email optimization, and resume optimization
+- <a href="https://www.vervecopilot.com/" target="_blank">Verve AI</a> - AI interview practice assistant with real-time suggestions, plus cold email and resume optimization
 - <a href="https://www.ribbon.ai/" target="_blank">Ribbon</a> - Voice-based recruitment platform
 - <a href="https://www.metaview.ai/" target="_blank">Metaview</a> - AI recruiting scribe platform
-- <a href="https://www.brighthire.com/" target="_blank">BrightHire</a> - AI recruiting scribe platform
-- <a href="https://quil.ai/" target="_blank">Quil</a> - AI recruiting scribe platform
+- <a href="https://www.brighthire.com/" target="_blank">BrightHire</a> - AI scribe platform for recruiters
+- <a href="https://quil.ai/" target="_blank">Quil</a> - AI recruiting scribe
 
 <a id="group-healthcare"></a>
 
@@ -1124,20 +1124,20 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://www.navina.ai/" target="_blank">Navina</a> - AI-driven healthcare platform optimizing clinical decisions and inpatient resource allocation in real-time
 - <a href="https://growtherapy.com/" target="_blank">Grow Therapy</a> - Online/offline mental health therapy platform supporting insurance coverage and simplifying appointment processes
 - <a href="https://www.blinkhealth.com/" target="_blank">Blink Health</a> - Digital prescription cloud platform providing low-cost medications, free delivery, and offline pickup services
-- <a href="https://flo.health/" target="_blank">Flo</a> - Global women's health tracking app accurately recording menstrual cycles, ovulation, and pregnancy status
+- <a href="https://flo.health/" target="_blank">Flo</a> - Global women's health tracking app that records menstrual cycles, ovulation and pregnancy status
 - <a href="https://billiontoone.com/" target="_blank">BillionToOne</a> - Precision molecular diagnostics company developing single-base level prenatal and cancer screening technology
 - <a href="https://www.mdclone.com/" target="_blank">MDClone</a> - Medical data analysis platform generating synthetic data while protecting privacy
 - <a href="https://www.eliseai.com/" target="_blank">Elise AI</a> - Conversational automation platform for housing and healthcare organizations, supporting leasing, resident and patient communications.
-- <a href="https://www.hippocratic.ai/" target="_blank">Hippocratic AI</a> - Hippocratic AI provides conversational healthcare software for patient engagement and non-diagnostic care workflows.
-- <a href="https://standardpractice.ai/" target="_blank">Standard Practice</a> - Standard Practice provides voice automation for medical practices' outbound insurance and pharmacy calls.
-- <a href="https://hellopatient.ai/" target="_blank">Hello Patient</a> - Hello Patient provides healthcare communication software for patient calls, messages, appointment scheduling and intake.
-- <a href="https://superdial.com/" target="_blank">Super Dial</a> - SuperDial provides voice automation for healthcare revenue-cycle teams interacting with insurance payers.
-- <a href="https://arini.ai/" target="_blank">Arini</a> - Arini provides AI phone reception and patient engagement software for dental practices.
-- <a href="https://hyro.ai/" target="_blank">Hyro</a> - Hyro provides voice and chat automation for healthcare patient access, scheduling and support.
-- <a href="https://infinitus.ai/" target="_blank">Infinitus</a> - Infinitus provides conversational automation for healthcare benefit verification, prior authorization and care coordination.
-- <a href="https://assorthealth.com/" target="_blank">Assort Health</a> - Assort Health provides voice-based patient access software for scheduling, referrals, intake and follow-up.
-- <a href="https://www.clarionhealth.com/" target="_blank">Clarion</a> - Clarion provides healthcare front-office automation for patient calls, referrals, scheduling and outreach.
-- <a href="https://healthharbor.ai/" target="_blank">Health Harbor</a> - Health Harbor provides software that automates insurance benefit verification calls and patient phone inquiries for healthcare practices.
+- <a href="https://www.hippocratic.ai/" target="_blank">Hippocratic AI</a> - Conversational healthcare software for patient engagement and non-diagnostic care workflows.
+- <a href="https://standardpractice.ai/" target="_blank">Standard Practice</a> - Voice automation for medical practices' outbound insurance and pharmacy calls.
+- <a href="https://hellopatient.ai/" target="_blank">Hello Patient</a> - Healthcare communication software for patient calls, messages, appointment scheduling and intake.
+- <a href="https://superdial.com/" target="_blank">Super Dial</a> - Voice automation for healthcare revenue-cycle teams interacting with insurance payers.
+- <a href="https://arini.ai/" target="_blank">Arini</a> - AI phone reception and patient engagement software for dental practices.
+- <a href="https://hyro.ai/" target="_blank">Hyro</a> - Voice and chat automation for healthcare patient access, scheduling and support.
+- <a href="https://infinitus.ai/" target="_blank">Infinitus</a> - Conversational automation for healthcare benefit verification, prior authorization and care coordination.
+- <a href="https://assorthealth.com/" target="_blank">Assort Health</a> - Voice-based patient access software for scheduling, referrals, intake and follow-up.
+- <a href="https://www.clarionhealth.com/" target="_blank">Clarion</a> - Healthcare front-office automation for patient calls, referrals, scheduling and outreach.
+- <a href="https://healthharbor.ai/" target="_blank">Health Harbor</a> - Software that automates insurance benefit verification calls and patient phone inquiries for healthcare practices.
 - <a href="https://www.soniahealth.com" target="_blank">Sonia</a> - AI mental-health companion application by Sonia Health.
 - <a href="https://www.getmagical.com/" target="_blank">HeyAutofill</a> - Healthcare operations platform that deploys AI agents for patient access and revenue-cycle workflows.
 
@@ -1153,8 +1153,8 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 
 - <a href="https://www.supio.com/" target="_blank">Supio</a> - Legal AI platform designed specifically for plaintiff attorneys
 - <a href="https://www.harvey.ai/" target="_blank">Harvey AI</a> - AI platform for legal and professional services providing research, document drafting and analysis workflows used by law firms and in-house legal teams.
-- <a href="https://www.evenuplaw.com/" target="_blank">EvenUp</a> - Platform that automates personal injury case work for law firms, generating demand packages, medical chronologies and document review.
-- <a href="https://casetext.com/" target="_blank">Casetext</a> - Legal research platform and AI legal assistant company
+- <a href="https://www.evenuplaw.com/" target="_blank">EvenUp</a> - Platform that automates personal injury case work for law firms, including demand packages, medical chronologies and document review.
+- <a href="https://casetext.com/" target="_blank">Casetext</a> - Legal research platform and AI legal assistant
 - <a href="https://legora.com/" target="_blank">Legora</a> - AI workspace for lawyers, accelerating document drafting, research, and team collaboration
 
 <a id="group-spatial"></a>
@@ -1170,9 +1170,9 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://www.meshy.ai/" target="_blank">Meshy</a> - AI 3D model generator that produces textured meshes from text prompts or images, with editing tools and export formats for games and AR.
 - <a href="https://www.tripo3d.ai" target="_blank">Tripo</a> - Web platform that generates production-ready 3D models from text, images or sketches, with AI texturing and automatic rigging.
 - <a href="https://www.kaedim3d.com" target="_blank">Kaedim</a> - Platform converting 2D images and sketches into production 3D models, with outputs supporting Unity, Unreal Engine and Blender.
-- <a href="https://www.hexa3d.io/" target="_blank">Hexa</a> - 3D e-commerce platform providing complete 3D technology stack for creating, managing, analyzing, and distributing 3D assets to enhance online shopping experiences
-- <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> - No-code AI 3D creation tool for rapidly generating, editing, and collaborating on high-quality 3D scenes
-- <a href="https://www.intangible.ai/" target="_blank">Intangible.ai</a> - No-code AI 3D creation platform for quickly generating, editing, and collaborating on high-quality 3D scenes
+- <a href="https://www.hexa3d.io/" target="_blank">Hexa</a> - 3D e-commerce platform providing a 3D technology stack for creating, managing, analyzing and distributing 3D assets for online shopping
+- <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> - No-code AI tool for generating, editing and collaborating on 3D scenes
+- <a href="https://www.intangible.ai/" target="_blank">Intangible.ai</a> - No-code platform for creating, editing and collaborating on 3D scenes with AI
 - <a href="https://www.backflip.ai/" target="_blank">Backflip</a> - AI-powered tool that converts 3D scans to CAD models with one click
 - <a href="https://ai-build.com/" target="_blank">AI Build</a> - Manufacturing platform combining 3D printing and CNC technologies for automated production
 - <a href="https://deepmotion.com/" target="_blank">DeepMotion</a> - Company focused on motion intelligence, specializing in motion capture technology
@@ -1193,14 +1193,14 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://epochml.com/" target="_blank">Epoch</a> - Game quality assurance testing tool supporting machine learning tasks
 - <a href="https://regression.gg/" target="_blank">Regression Games</a> - AI gaming and esports platform where users can programmatically control characters
 - <a href="https://usejigger.com/" target="_blank">Jigger</a> - Anti-bot toolkit protecting games and blockchain assets
-- <a href="https://incymo.ai/" target="_blank">Incymo</a> - Game monetization platform optimizing ads and player behavior analysis
+- <a href="https://incymo.ai/" target="_blank">Incymo</a> - Game monetization platform for ad optimization and player behavior analysis.
 - <a href="https://theculturedao.com/" target="_blank">The Culture DAO</a> - Solana NFT and AI gaming/film platform
 - <a href="https://www.ggpredict.io/" target="_blank">GG Predict</a> - CS:GO training platform with AI-customized challenges and feedback
 - <a href="https://modl.ai/" target="_blank">Modl.ai</a> - Game AI tools for automated testing and content generation
 - <a href="https://statespace.gg/" target="_blank">Statespace</a> - Game skill analysis platform (e.g., Aimlabs)
 - <a href="https://mobalytics.gg/" target="_blank">Mobalytics</a> - Game data analytics tool supporting multiple popular games
 - <a href="https://www.oneirocom.ai/" target="_blank">Oneirocom</a> - Metaverse platform combining AI with distributed immersive narrative technology for interactive experiences.
-- <a href="https://aukilabs.com/" target="_blank">Auki Labs</a> - Developing augmented reality technology to build persistent and privacy-protected metaverse, providing distributed positioning and spatial multiplayer solutions
+- <a href="https://aukilabs.com/" target="_blank">Auki Labs</a> - Developing augmented reality technology to build a persistent, privacy-protected metaverse, providing distributed positioning and spatial multiplayer solutions.
 - <a href="https://kinetix.tech/" target="_blank">Kinetix</a> - Platform allowing users to create 3D animated avatars from videos and convert them to NFTs, supporting cross-virtual world usage
 
 <a id="group-writing"></a>
@@ -1211,7 +1211,7 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 
 ### Writing & Publishing
 
-- <a href="https://rytr.me/" target="_blank">Rytr</a> - Efficient, high-quality digital content creation service
+- <a href="https://rytr.me/" target="_blank">Rytr</a> - AI writing assistant with free and paid tiers.
 - <a href="https://hyperwriteai.com/" target="_blank">HyperWrite</a> - AI writing assistant by OthersideAI, offered as a Chrome extension and web app with autocomplete, writing tools, chat and web search.
 - <a href="https://www.writewithlaika.com/" target="_blank">Write with LAIKA</a> - AI writing assistant designed specifically for writers
 - <a href="https://bertha.ai/" target="_blank">Bertha AI</a> - AI-powered writing assistant
@@ -1223,20 +1223,20 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://jasper.ai" target="_blank">Jasper</a> - AI writing assistant for marketing and business teams with brand-voice controls, templates and SEO workflow features.
 - <a href="https://sudowrite.com/" target="_blank">Sudowrite</a> - Generate and edit novels, stories, blogs, and more through natural language descriptions
 - <a href="https://pirr.me/" target="_blank">Pirr</a> - AI romance and erotic story creation platform.
-- <a href="https://www.compose.ai/" target="_blank">Compose</a> - Free Chrome extension helping automatically complete and generate text using AI technology
+- <a href="https://www.compose.ai/" target="_blank">Compose</a> - Free Chrome extension that uses AI to autocomplete and generate text.
 - <a href="https://gamma.app/" target="_blank">Gamma</a> - AI tool that generates presentations, documents and web pages from text prompts, with templates, multimedia embedding and collaboration.
 - <a href="https://www.beautiful.ai/" target="_blank">Beautiful.ai</a> - Intelligent design presentation platform that automatically maintains layout and brand consistency
 - <a href="https://slidesgo.com/" target="_blank">Slidesgo</a> - Provides tens of thousands of free Google/PowerPoint templates for download
 - <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a> - AI assistant for quickly generating charts, timelines, reports, and presentation slides
 - <a href="https://slidesgpt.com/" target="_blank">SlidesGPT AI</a> - AI slide generator based on text prompts, outputting slides with notes and theme styles
 - <a href="https://www.prezent.ai/" target="_blank">Prezent</a> - All-in-one AI presentation platform for Life Sciences and Technology enterprises, tailored to industry, company, and audience with AI agents, software, and expert services
-- <a href="https://www.childbook.ai/" target="_blank">Child Book</a> - AI children's story generation tool that quickly creates unique personalized children's books
+- <a href="https://www.childbook.ai/" target="_blank">Child Book</a> - AI children's story generation tool that quickly creates personalized children's books.
 - <a href="https://www.ainia.ai/" target="_blank">Ainia</a> - Interactive emotional education platform, engaging with characters to inspire children's empathy and imagination
 - <a href="https://www.createbookai.com/" target="_blank">CreateBookAI</a> - AI personalized children's book creation platform, generating illustrations and printing physical books with one click
 - <a href="https://www.scarlettpanda.com/" target="_blank">Scarlett Panda</a> - Generate customized illustrated bedtime stories in 30 seconds, suitable for family parent-child reading
 - <a href="https://www.bookbildr.com/" target="_blank">BookBildr</a> - Online picture book editing platform with AI illustrations, layout, and PDF/print export
 - <a href="https://www.bedtimestory.ai/" target="_blank">Bedtimestory.ai</a> - Generate highly personalized bedtime stories instantly from prompts
-- <a href="https://storybee.app/" target="_blank">StoryBee</a> - AI story and illustration generation platform that brings fairy tales to life instantly
+- <a href="https://storybee.app/" target="_blank">StoryBee</a> - AI story and illustration generation platform focused on fairy tales.
 - <a href="https://fabled.ai/" target="_blank">Fabled AI</a> - Upload books and chat with characters, experiencing interactive literary adventures
 - <a href="https://www.storybooks.app/" target="_blank">Storybooks</a> - AI platform that generates interactive children's stories and illustrations with one click
 - <a href="https://www.storywizard.ai/" target="_blank">Storywizard.ai</a> - AI educational tool that generates personalized children's learning stories
@@ -1244,17 +1244,17 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://fabularis.art/" target="_blank">Fabularis</a> - Generate customized stories and multi-style illustrations for children aged 5-10
 - <a href="https://www.story.com/" target="_blank">Story.com</a> - Create AI stories with interactive options and AI animated videos
 - <a href="https://babystoryai.com/" target="_blank">BabyStoryAI</a> - Generate personalized baby audio stories with music and voiceovers
-- <a href="https://www.aistorygenerator.org/" target="_blank">AI Story Generator</a> - General AI writing tool for quickly generating comprehensive stories
+- <a href="https://www.aistorygenerator.org/" target="_blank">AI Story Generator</a> - Free AI writing tool for quickly generating stories.
 - <a href="https://www.storybookai.app/" target="_blank">StoryBook AI</a> - Platform for creating interactive children's bedtime stories and illustrations from prompts.
 - <a href="https://storyspark.ai/" target="_blank">Story Spark</a> - Unlimited-length AI story generator supporting continuation and memory
 - <a href="https://www.lumistory.ai/" target="_blank">Story Lumi</a> - Platform created by Colin Kaepernick, helping creators publish text and image content
-- <a href="https://www.squibler.io/" target="_blank">Squibler</a> - AI opening generator platform for quickly inspiring writing creativity
+- <a href="https://www.squibler.io/" target="_blank">Squibler</a> - AI story-writing platform that generates story openings and prompts to help writers start new projects.
 - <a href="https://fizzo.org/" target="_blank">Fizzo</a> - Reading and entertainment platform integrating novels, comics, and short dramas with emphasis on localized content
 - <a href="https://www.goodnovel.com/" target="_blank">GoodNovel</a> - Overseas web novel platform covering extensive genres, supporting creation and reading
 - <a href="https://cleft.ai/" target="_blank">Cleft</a> - Voice note application that converts spoken thoughts into structured written notes.
-- <a href="https://audiopen.ai/" target="_blank">AudioPen</a> - Voice note application that turns spoken recordings into organized, edited text.
+- <a href="https://audiopen.ai/" target="_blank">AudioPen</a> - App that turns spoken recordings into organized, edited text.
 - <a href="https://mindsera.com/" target="_blank">mindsera</a> - AI journal platform
-- <a href="https://rosebud.ai/" target="_blank">Rosebud</a> - AI journal platform
+- <a href="https://rosebud.ai/" target="_blank">Rosebud</a> - Journaling platform with AI features.
 
 <a id="group-social"></a>
 
@@ -1268,7 +1268,7 @@ For character-based interaction, [character chat and role-playing applications](
 
 - <a href="https://character.ai" target="_blank">Character AI</a> - Chatbot platform where users converse with and create AI characters with distinct personalities and persistent memory.
 - <a href="https://www.joyland.ai" target="_blank">Joyland</a> - Platform for creating and chatting with custom AI characters, including anime-style companions, interactive stories and roleplay, plus a community character library.
-- <a href="https://yodayo.com/" target="_blank">Yodayo</a> - AI chat and image generation platform for anime enthusiasts, supporting character creation experiences
+- <a href="https://yodayo.com/" target="_blank">Yodayo</a> - Anime-focused AI platform combining character chat, image generation, and character creation.
 - <a href="https://www.polybuzz.ai" target="_blank">Polybuzz</a> - Platform for chatting with AI characters, roleplay conversations and AI-generated webtoons, including custom character creation.
 - <a href="https://www.chub.ai/" target="_blank">Chub AI</a> - Interactive roleplay AI chat platform enabling custom character experiences and storytelling
 - <a href="https://replika.com" target="_blank">Replika</a> - AI companion chatbot that holds open-ended conversations with a customizable persona, available on mobile and web.
@@ -1277,16 +1277,16 @@ For character-based interaction, [character chat and role-playing applications](
 - <a href="https://spicychat.ai" target="_blank">Spicychat.ai</a> - Web platform for uncensored roleplay chat with a large library of user-created AI characters, including adult (NSFW) content.
 - <a href="https://thecrosstalk.com/" target="_blank">Bible Chat AI</a> - Bible-based conversational AI assistant for interactive learning, indexing, and prayer communication
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> - AI auto-reply chatbot generator supporting WhatsApp, Telegram, and other platforms
-- <a href="https://heeyo.ai/" target="_blank">Heeyo AI</a> - Multilingual AI chat companion designed for children aged 3-11, featuring educational games and adaptive growth capabilities; backed by OpenAI Startup Fund and Amazon Alexa Fund
-- <a href="https://www.popai.pro/" target="_blank">PopAi</a> - Multi-functional AI assistant app supporting conversational document queries, slide creation, homework solutions, and image generation
-- <a href="https://usegenie.ai/" target="_blank">Genie</a> - AI chat assistant integrating GPT-4o, Gemini, and other models for writing, customer service, and multiple scenarios
+- <a href="https://heeyo.ai/" target="_blank">Heeyo AI</a> - Multilingual AI chat companion for children aged 3-11, with educational games and adaptive growth features; backed by the OpenAI Startup Fund and Amazon Alexa Fund.
+- <a href="https://www.popai.pro/" target="_blank">PopAi</a> - AI assistant app supporting document chat, slide creation, homework solutions, and image generation.
+- <a href="https://usegenie.ai/" target="_blank">Genie</a> - AI chat assistant integrating GPT-4o, Gemini, and other models for writing, customer service, and other use cases.
 - <a href="https://chatboxai.app/" target="_blank">ChatBox</a> - Cross-platform AI client handling conversations, documents, images, and code, assisting with writing and productivity
 - <a href="https://chaton.ai/" target="_blank">ChatOn</a> - AI chat assistant mobile app combining conversational models with image generation, web search, document processing and writing-tone tools for writing and productivity tasks.
 - <a href="https://ai.quark.cn/" target="_blank">Quark</a> - Alibaba's AI super assistant integrating search, notes, cloud storage, documents, and deep reasoning capabilities
 - <a href="https://novaapp.ai" target="_blank">Nova</a> - Cross-platform AI chat assistant built on GPT-4o and Gemini models, offering question answering, writing help and proofreading.
 - <a href="https://poe.com/" target="_blank">Poe</a> - Quora platform that provides access to multiple AI chatbots and language models in one interface, with user-created bots and an API.
-- <a href="https://monica.im/" target="_blank">Monica</a> - All-in-one AI assistant integrating multiple AI models including GPT, Claude, Gemini, DeepSeek, and more, providing chat, search, writing, image generation, video generation, and coding features
-- <a href="https://www.chai-research.com/" target="_blank">Chai Research</a> - Conversational AI providing engaging chat experiences, supporting user interactions with AI characters
+- <a href="https://monica.im/" target="_blank">Monica</a> - AI assistant integrating multiple models including GPT, Claude, Gemini, and DeepSeek, with chat, search, writing, image and video generation, and coding features.
+- <a href="https://www.chai-research.com/" target="_blank">Chai Research</a> - Conversational AI platform for chatting with AI characters.
 
 <a id="group-industry-solutions"></a>
 
@@ -1301,34 +1301,34 @@ For character-based interaction, [character chat and role-playing applications](
 - <a href="https://carbyne.com/" target="_blank">Carbyne</a> - Cloud-native communication platform for emergency response centers with real-time location and video interaction to improve rescue efficiency
 - <a href="https://www.servicetitan.com/" target="_blank">ServiceTitan</a> - Management system for plumbing, HVAC, and electrical contractors including scheduling, CRM, and financial functions
 - <a href="https://pos.toasttab.com/" target="_blank">Toast</a> - Cloud POS system for restaurants integrating ordering, payment, staff management, and AI analytics
-- <a href="https://www.spothopperapp.com/" target="_blank">SpotHopper</a> - Comprehensive marketing platform for restaurants covering website building, social media, email, and reservation management
-- <a href="https://www.appfolio.com/" target="_blank">AppFolio</a> - Full-service property management SaaS automating leasing, accounting, and portfolio operations
+- <a href="https://www.spothopperapp.com/" target="_blank">SpotHopper</a> - Marketing platform for restaurants covering website building, social media, email, and reservation management.
+- <a href="https://www.appfolio.com/" target="_blank">AppFolio</a> - Property management SaaS automating leasing, accounting, and portfolio operations.
 - <a href="https://www.homelight.com/" target="_blank">HomeLight</a> - US real estate platform that matches home buyers and sellers with agents and offers cash-purchase and buy-before-you-sell services.
-- <a href="https://www.moego.pet/" target="_blank">MoeGo</a> - Full-featured operations management software for pet boarding, grooming, and daycare industries
-- <a href="https://www.aidash.com/" target="_blank">AiDash</a> - Satellite + AI intelligent monitoring and remote asset inspection tools for power, water, and other infrastructure
+- <a href="https://www.moego.pet/" target="_blank">MoeGo</a> - Operations management software for pet boarding, grooming, and daycare businesses.
+- <a href="https://www.aidash.com/" target="_blank">AiDash</a> - Satellite and AI tools for monitoring and remote inspection of power, water, and other infrastructure.
 - <a href="https://miovision.com/" target="_blank">Miovision</a> - Intelligent transportation system providing real-time traffic monitoring and urban traffic insights through sensors + AI
-- <a href="https://zoca.com/" target="_blank">Zoca</a> - AI-driven local beauty and hair salon marketing assistant platform automating customer acquisition to retention
+- <a href="https://zoca.com/" target="_blank">Zoca</a> - AI-driven marketing platform for local beauty and hair salons that automates customer acquisition and retention.
 - <a href="https://altana.ai/" target="_blank">Altana</a> - Global supply chain data platform with AI-driven risk visualization, compliance, and cost optimization
 - <a href="https://www.placer.ai/" target="_blank">Placer.ai</a> - Location analytics platform providing offline foot traffic, business district, and competitive intelligence, visualizing visitor trends
-- <a href="https://www.brightmachines.com/" target="_blank">Bright Machines</a> - Intelligent manufacturing automation platform combining robotics and AI software for efficient end-to-end management from product design to assembly
+- <a href="https://www.brightmachines.com/" target="_blank">Bright Machines</a> - Manufacturing automation platform combining robotics and AI software for end-to-end management from product design to assembly.
 - <a href="https://gloo.us/" target="_blank">Gloo</a> - Technology platform connecting the faith ecosystem, providing AI-driven content distribution and management tools for churches, religious organizations, and non-profit institutions, serving over 140,000 organizations
-- <a href="https://www.ottotheagent.com/" target="_blank">Otto</a> - AI business travel assistant automatically learning habits and completing flight and hotel bookings
+- <a href="https://www.ottotheagent.com/" target="_blank">Otto</a> - AI business travel assistant that automatically learns habits and completes flight and hotel bookings.
 - <a href="https://www.celebrateally.com/" target="_blank">CelebrateAlly</a> - AI celebration assistant providing custom speeches, card copy, and party planning tools
 - <a href="https://myplantin.com/" target="_blank">Plantin</a> - AI plant identification and care assistant that identifies plants from photos and provides customized care plans and disease diagnosis
 - <a href="https://www.picturethisai.com" target="_blank">PictureThis</a> - Plant identification app that recognizes plant species from photos and provides disease diagnosis and care guidance.
 - <a href="https://liberate.ai/" target="_blank">Liberate</a> - Voice AI agent platform for financial services
-- <a href="https://toma.com/" target="_blank">Toma</a> - Voice AI agent platform for automotive industry
-- <a href="https://numa.com/" target="_blank">Numa</a> - Voice AI agent platform for automotive industry
-- <a href="https://kea.ai/" target="_blank">Kea</a> - Kea provides restaurant phone and text ordering software connected to point-of-sale systems.
-- <a href="https://voiceplug.ai/" target="_blank">Voiceplug</a> - Voiceplug provides restaurant voice ordering software for phone, drive-through and kiosk interactions.
-- <a href="https://hiauto.ai/" target="_blank">Hi Auto</a> - Hi Auto provides voice-based order taking software for restaurant drive-throughs.
-- <a href="https://loman.ai/" target="_blank">Loman.ai</a> - Loman provides AI phone answering for restaurants, including orders, reservations and customer questions.
-- <a href="https://slang.ai/" target="_blank">slang.ai</a> - Slang AI provides restaurant phone answering software for guest inquiries and reservation management.
+- <a href="https://toma.com/" target="_blank">Toma</a> - Voice AI agent platform for the automotive industry.
+- <a href="https://numa.com/" target="_blank">Numa</a> - Voice AI agent platform serving the automotive industry.
+- <a href="https://kea.ai/" target="_blank">Kea</a> - Restaurant phone and text ordering software connected to point-of-sale systems.
+- <a href="https://voiceplug.ai/" target="_blank">Voiceplug</a> - Voice ordering software for restaurants covering phone, drive-through, and kiosk interactions.
+- <a href="https://hiauto.ai/" target="_blank">Hi Auto</a> - Voice-based order-taking software for restaurant drive-throughs.
+- <a href="https://loman.ai/" target="_blank">Loman.ai</a> - AI phone answering for restaurants, handling orders, reservations, and customer questions.
+- <a href="https://slang.ai/" target="_blank">slang.ai</a> - Voice AI phone answering for restaurants, handling guest inquiries and reservations.
 - <a href="https://www.fleetworks.ai/" target="_blank">Fleetworks</a> - Voice AI agent platform for logistics
 - <a href="https://sameday.ai/" target="_blank">Sameday AI</a> - Voice AI agent platform for home services
-- <a href="https://avoca.ai/" target="_blank">Avoca</a> - Voice AI agent platform for home services
+- <a href="https://avoca.ai/" target="_blank">Avoca</a> - Voice AI agents for the home services industry
 - <a href="https://monograph.com/" target="_blank">Monograph</a> - Integrated project budget, scheduling, and billing management platform for architecture and engineering teams
-- <a href="https://www.mindbodyonline.com/" target="_blank">Mindbody</a> - Integrated booking, payment, and marketing platform for fitness, spa, and wellness service industries
+- <a href="https://www.mindbodyonline.com/" target="_blank">Mindbody</a> - Booking, payment, and marketing platform for fitness, spa, and wellness service industries
 
 <a id="group-discovery"></a>
 
