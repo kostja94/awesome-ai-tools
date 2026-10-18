@@ -39,6 +39,45 @@ class ChineseLocalizationTests(unittest.TestCase):
         errors = validate_locale(selection, load_locale(), strict=False)
         self.assertFalse([error for error in errors if "title missing" in error], errors[:10])
 
+    def test_candidate_renders_link_only_without_becoming_a_fact(self):
+        from unittest.mock import patch
+        import catalog
+
+        selection = {"sections": [{"id": "language-models", "title": "Language Models",
+                                  "group_id": "models", "group_title": "Models",
+                                  "items": [{"registry_id": "sample"}]}]}
+        entity = {"id": "sample", "name": "Sample", "status": "active",
+                  "websites": ["https://example.com"], "description": "Current English fact."}
+        self.locale["descriptions"]["sample"] = {
+            "status": "candidate", "text": "未经核实的旧事实", "source": "legacy README-CN.md"}
+        with patch.object(catalog, "load_locale", return_value=self.locale), \
+             patch.object(catalog, "load_guides", return_value={"sections": {}}):
+            docs = catalog.render_documents(selection, [(selection["sections"][0], entity)])
+        chinese = docs["README-CN.md"]
+        self.assertIn('href="https://example.com"', chinese)
+        self.assertNotIn("未经核实的旧事实", chinese)
+        self.assertNotIn("Current English fact.", chinese)
+        self.assertIn("[语言模型](#section-language-models)", chinese)
+        self.assertIn('id="section-language-models"', chinese)
+        self.assertIn("Current English fact.", docs["README.md"])
+
+    def test_full_render_has_matching_items_and_section_anchors(self):
+        import catalog
+
+        selection = catalog.load_yaml(catalog.CATALOG)
+        entities = catalog.load_entities(catalog.DEFAULT_REGISTRY)
+        errors, _, selected = catalog.validate(selection, entities)
+        self.assertEqual(errors, [])
+        docs = catalog.render_documents(selection, selected)
+        for name in ("README.md", "README-CN.md"):
+            lines = docs[name].splitlines()
+            self.assertEqual(sum(line.startswith('- <a href="') for line in lines), len(selected))
+            for section in selection["sections"]:
+                sid = section["id"]
+                self.assertEqual(docs[name].count(f'id="section-{sid}"'), 1)
+                self.assertEqual(docs[name].count(f'](#section-{sid})'), 1)
+        self.assertEqual(len(docs["INDEX.md"].splitlines()) - 6, len(selected))
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1455,4 +1455,4 @@ exclusions:
   registry_id: gpt-4o
 - ref: Workflow Automation#Composio.dev
   reason: Composio.dev duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
-publish_ready: false
+publish_ready: true

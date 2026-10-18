@@ -33,11 +33,12 @@ class SectionGuideTests(unittest.TestCase):
         self.assertIn("https://alignify.co/zh/tools/llm", docs["README-CN.md"])
         self.assertNotIn("https://alignify.co/tools/", docs["README-CN.md"])
         self.assertNotIn("alignify.co", docs["INDEX.md"])
-        self.assertNotIn("alignify.co", docs["README.md"].split("## No Guide")[1])
+        self.assertNotIn("alignify.co", docs["README.md"].split("## No Guide")[1].split("\n---\n")[0])
 
     def test_no_cross_language_fallback(self):
         del self.guides["sections"]["language-models"]["zh"]
-        self.assertNotIn("alignify.co", self.render(self.guides)["README-CN.md"])
+        body = self.render(self.guides)["README-CN.md"].split("\n---\n")[0]
+        self.assertNotIn("alignify.co", body)
 
     def test_wrong_language_rejected(self):
         self.guides["sections"]["language-models"]["zh"] = self.guides["sections"]["language-models"]["en"]

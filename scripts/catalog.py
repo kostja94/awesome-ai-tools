@@ -236,7 +236,10 @@ def validate(selection: dict, entities: dict[str, dict]) -> tuple[list[str], lis
 
 def render_documents(selection: dict, selected: list[tuple[dict, dict]]) -> dict[str, str]:
     locale = load_locale()
-    locale_errors = validate_locale(selection, locale, strict=True)
+    # Unreviewed legacy Chinese descriptions stay in catalog/zh.yaml as
+    # candidates. They are never rendered; a link-only entry is safer than
+    # asserting an obsolete fact or silently substituting English prose.
+    locale_errors = validate_locale(selection, locale, strict=False)
     if locale_errors:
         raise ValueError(f"Chinese publication blocked: {len(locale_errors)} locale errors; first: {locale_errors[0]}")
     grouped: OrderedDict[tuple[str, str], list[dict]] = OrderedDict()
@@ -257,18 +260,33 @@ def render_documents(selection: dict, selected: list[tuple[dict, dict]]) -> dict
             line += f" - {prose}"
         return line
 
-    body = ['<a href="README.md" target="_blank">English</a> | <a href="README-CN.md" target="_blank">中文</a>', "", "# Awesome AI Tools", "", "> A curated selection backed by AI Product Registry facts.", ""]
-    body_cn = ['<a href="README.md" target="_blank">English</a> | 中文', "", "# Awesome AI Tools", "", "> 由 AI Product Registry 客观事实驱动的精选 AI 工具目录。", ""]
+    body = ['<a href="README.md" target="_blank">English</a> | <a href="README-CN.md" target="_blank">中文</a>', "", "# Awesome AI Tools", "", "> A curated selection backed by AI Product Registry facts.", "", "## Contents", ""]
+    body_cn = ['<a href="README.md" target="_blank">English</a> | 中文', "", "# Awesome AI Tools", "", "> 由 AI Product Registry 客观事实驱动的精选 AI 工具目录。", "", "中文条目以名称和官网链接为主；仅在描述核实后展示中文说明。", "", "## 目录", ""]
     index = ["# Product Index", "", "Quick reference index of selected products.", "", "| Product | Category | Status |", "|---|---|---|"]
+    seen_groups: set[str] = set()
+    for group, title in grouped:
+        sid = section_ids[(group, title)]
+        gid = section_group_ids[(group, title)]
+        if group and gid not in seen_groups:
+            body.append(f"- [{group}](#group-{gid})")
+            body_cn.append(f"- [{locale['groups'][gid]}](#group-{gid})")
+            seen_groups.add(gid)
+        indent = "  " if group else ""
+        body.append(f"{indent}- [{title}](#section-{sid})")
+        body_cn.append(f"{indent}- [{locale['sections'][sid]}](#section-{sid})")
+    body.append("")
+    body_cn.append("")
     last_group = None
     for (group, title), entities in grouped.items():
         if group and group != last_group:
-            body += [f"## {group}", ""]
-            body_cn += [f"## {locale['groups'][section_group_ids[(group, title)]]}", ""]
+            gid = section_group_ids[(group, title)]
+            body += [f'<a id="group-{gid}"></a>', "", f"## {group}", ""]
+            body_cn += [f'<a id="group-{gid}"></a>', "", f"## {locale['groups'][gid]}", ""]
         heading = "###" if group else "##"
         guide = guides.get(section_ids[(group, title)], {})
-        body += [f"{heading} {title}", ""]
-        body_cn += [f"{heading} {locale['sections'][section_ids[(group, title)]]}", ""]
+        sid = section_ids[(group, title)]
+        body += [f'<a id="section-{sid}"></a>', "", f"{heading} {title}", ""]
+        body_cn += [f'<a id="section-{sid}"></a>', "", f"{heading} {locale['sections'][sid]}", ""]
         if guide.get("en"):
             body += [guide["en"], ""]
         if guide.get("zh"):
@@ -280,6 +298,20 @@ def render_documents(selection: dict, selected: list[tuple[dict, dict]]) -> dict
             site = (entity.get("websites") or [""])[0]
             name = f"[{entity['name']}]({site})" if site else entity["name"]
             index.append(f"| {name} | {title} | {entity.get('status', '')} |")
+    body += [
+        "---", "", "## About", "",
+        "Curated and maintained by **[Kostja](https://alignify.co)**. Product facts are maintained in AI Product Registry; inclusion and placement are editorial choices for this list.", "",
+        "Contributions are welcome through [GitHub Issues](https://github.com/kostja94/awesome-ai-tools/issues) or **zyjstc@gmail.com**.", "",
+        "## License", "", "This project is licensed under the [MIT License](LICENSE).", "",
+        "## Acknowledgments", "", "Thanks to contributors and the AI community for their support and feedback.", "",
+    ]
+    body_cn += [
+        "---", "", "## 关于", "",
+        "本目录由 **[Kostja](https://alignify.co)** 整理维护。产品事实在 AI Product Registry 中维护；本清单的收录与栏目位置属于编辑选择。", "",
+        "欢迎通过 [GitHub Issues](https://github.com/kostja94/awesome-ai-tools/issues) 或 **zyjstc@gmail.com** 提交建议。", "",
+        "## 许可证", "", "本项目采用 [MIT 许可证](LICENSE)。", "",
+        "## 致谢", "", "感谢贡献者与 AI 社区的支持和反馈。", "",
+    ]
     return {
         "README.md": "\n".join(body).rstrip() + "\n",
         "README-CN.md": "\n".join(body_cn).rstrip() + "\n",
@@ -336,7 +368,7 @@ def command_check(args: argparse.Namespace, render: bool = False, publish: bool 
         print("ERROR publish blocked until unresolved is empty")
         return 1
     if render or publish:
-        locale_errors = validate_locale(selection, load_locale(), strict=True)
+        locale_errors = validate_locale(selection, load_locale(), strict=False)
         if locale_errors:
             for message in locale_errors[:10]:
                 print(f"ERROR {message}")
