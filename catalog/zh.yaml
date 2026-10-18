@@ -1003,8 +1003,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   elevenlabs-scribe-v2:
     status: approved
-    text: ElevenLabs 的实时语音转文字模型，专为语音 agent 应用的低延迟流式转录设计
-    source: registry entity facts, verified 2026-10-18
+    text: ElevenLabs 语音转文字模型家族，含批量、实时与医疗版本，支持 90 多种语言
+    source: registry entity facts and version check, verified 2026-10-19
   elevenreader-by-elevenlabs:
     status: approved
     text: ElevenReader 由 ElevenLabs 出品，用 AI 语音朗读文章、PDF 和电子书
@@ -1127,8 +1127,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   fish-audio-s2-pro:
     status: approved
-    text: Fish Audio 的文本转语音模型，基于数百万小时、覆盖 80 多种语言的音频训练，并支持内嵌控制韵律与情绪
-    source: registry entity facts, verified 2026-10-18
+    text: Fish Audio 生产级文本转语音模型，升级至 S2.1 Pro，覆盖 83 种语言
+    source: registry entity facts and version check, verified 2026-10-19
   fizzo:
     status: approved
     text: 阅读娱乐平台，集小说、漫画与短剧于一体，主打本地化内容
@@ -1215,8 +1215,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   gemma-model:
     status: approved
-    text: Google 的开放权重模型家族，基于 Gemini 模型项目的科研成果与技术构建
-    source: registry entity facts, verified 2026-10-18
+    text: Google 开放权重模型家族，基于 Gemini 技术构建，版本跨度至 Gemma 4
+    source: registry entity facts and version check, verified 2026-10-19
   gencraft:
     status: approved
     text: AI 艺术生成器，支持多种模型，按文字提示生成图像和视频
@@ -1331,8 +1331,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   gpt-image-2:
     status: approved
-    text: OpenAI 的图像生成与编辑模型，2026 年 4 月发布，在文字渲染、图内多语言文字与视觉推理上均有改进
-    source: registry entity facts, verified 2026-10-18
+    text: OpenAI 图像生成与编辑模型家族，现行版本为 gpt-image-2.5
+    source: registry entity facts and version check, verified 2026-10-19
   gptzero:
     status: approved
     text: 免费的 AI 文本检测器，逐句分析文本是否由 AI 生成
@@ -1499,8 +1499,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   hunyuan-image:
     status: approved
-    text: Tencent Hunyuan 图像生成模型家族，依据文本条件生成图像，通过 Tencent 的 Hunyuan 图像服务对外提供
-    source: registry entity facts, verified 2026-10-18
+    text: Tencent Hunyuan 图像家族，3.0 版开源，3.5 预览版支持多轮对话编辑
+    source: registry entity facts and version check, verified 2026-10-19
   hunyuan-video:
     status: approved
     text: Tencent Hunyuan 视频生成模型家族，可从文本和图像输入生成视频
@@ -1540,10 +1540,6 @@ descriptions:
   ideogram-model:
     status: approved
     text: 以图像内文字渲染见长的文生图模型
-    source: registry entity facts, verified 2026-10-18
-  imagen-4:
-    status: approved
-    text: Google DeepMind 开发的图像生成模型家族，可通过 Gemini API 和 Google AI Studio 使用
     source: registry entity facts, verified 2026-10-18
   incymo:
     status: approved
@@ -2149,8 +2145,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   nano-banana-2:
     status: approved
-    text: Google 的图像生成与编辑模型，基于 Gemini 3.1 Flash Image 构建，可通过 Gemini 应用、AI Studio 和 Gemini API 使用
-    source: registry entity facts, verified 2026-10-18
+    text: Google 图像生成与编辑模型家族，现行版本为 Nano Banana 2.1
+    source: registry entity facts and version check, verified 2026-10-19
   napkin:
     status: approved
     text: 把文本转成可编辑视觉图形的工具，用来呈现业务故事
@@ -2379,10 +2375,6 @@ descriptions:
     status: approved
     text: Perplexity Comet 是 Perplexity 推出的 AI 浏览器，助手能替用户执行 agentic 浏览任务
     source: registry entity facts, verified 2026-10-18
-  perplexity-sonar:
-    status: approved
-    text: Perplexity 的 API 模型家族，内置联网搜索，提供有网络依据的回答与推理
-    source: registry entity facts, verified 2026-10-18
   phia:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
@@ -2578,16 +2570,16 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   qwen-image-2-0:
     status: approved
-    text: Alibaba Qwen 图像生成模型，支持在图像中渲染中英双语文字，经 DashScope 与 Qwen Chat 提供服务
-    source: registry entity facts, verified 2026-10-18
+    text: Alibaba Qwen 图像生成家族，现行 Qwen-Image-3.0，基础权重开源
+    source: registry entity facts and version check, verified 2026-10-19
   qwen-model:
     status: approved
     text: Alibaba 的开放权重语言模型家族，从 Qwen2.5 迭代到 Qwen3.7
     source: registry entity facts, verified 2026-10-18
   qwen2-5-coder:
     status: approved
-    text: Alibaba 旗下的专用编码模型家族，采用 Apache 2.0 许可
-    source: registry entity facts, verified 2026-10-18
+    text: Alibaba 旗下编码模型家族，Apache 2.0 许可，已迭代至 Qwen3-Coder
+    source: registry entity facts and version check, verified 2026-10-19
   railway:
     status: approved
     text: 按用量计费的云平台，可部署应用、服务器与数据库，也被用作 AI agent 的托管基础设施
@@ -2818,12 +2810,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   seedance:
     status: approved
-    text: ByteDance Seed 团队的视频生成模型家族，音视频一体生成，支持文本、图像与多参考输入，音频同步，分辨率最高 2K
-    source: registry entity facts, verified 2026-10-18
-  seedance-2-5:
-    status: approved
-    text: ByteDance Seed 的音视频联合生成模型，面向 30 秒叙事内容，支持参考控制与编辑，每次生成可延长两次，另经 Dreamina 平台提供
-    source: registry entity facts, verified 2026-10-18
+    text: ByteDance Seed 团队的视频生成模型家族，版本自 1.0 迭代至 2.5，音视频一体生成，支持参考控制与编辑，另经 Dreamina 平台提供
+    source: registry entity facts and version check, verified 2026-10-19
   seedream:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
