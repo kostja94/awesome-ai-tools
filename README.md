@@ -1139,7 +1139,7 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://www.clarionhealth.com/" target="_blank">Clarion</a> - Healthcare front-office automation for patient calls, referrals, scheduling and outreach.
 - <a href="https://healthharbor.ai/" target="_blank">Health Harbor</a> - Software that automates insurance benefit verification calls and patient phone inquiries for healthcare practices.
 - <a href="https://www.soniahealth.com" target="_blank">Sonia</a> - AI mental-health companion application by Sonia Health.
-- <a href="https://www.getmagical.com/" target="_blank">HeyAutofill</a> - Healthcare operations platform that deploys AI agents for patient access and revenue-cycle workflows.
+- <a href="https://www.getmagical.com/" target="_blank">Magical</a> - Healthcare operations platform that deploys AI agents for patient access and revenue-cycle workflows.
 
 <a id="group-legal"></a>
 

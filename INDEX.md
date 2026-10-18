@@ -760,7 +760,7 @@ Quick reference index of selected products.
 | [Clarion](https://www.clarionhealth.com/) | Healthcare | active |
 | [Health Harbor](https://healthharbor.ai/) | Healthcare | active |
 | [Sonia](https://www.soniahealth.com) | Healthcare | active |
-| [HeyAutofill](https://www.getmagical.com/) | Healthcare | active |
+| [Magical](https://www.getmagical.com/) | Healthcare | active |
 | [Supio](https://www.supio.com/) | Legal | active |
 | [Harvey AI](https://www.harvey.ai/) | Legal | active |
 | [EvenUp](https://www.evenuplaw.com/) | Legal | active |

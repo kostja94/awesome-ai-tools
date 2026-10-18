@@ -1139,7 +1139,7 @@
 - <a href="https://www.clarionhealth.com/" target="_blank">Clarion</a> - 医疗前台自动化，处理患者来电、转诊、预约与主动外联
 - <a href="https://healthharbor.ai/" target="_blank">Health Harbor</a> - 帮医疗机构自动拨打保险福利核验电话并接听患者来电的软件
 - <a href="https://www.soniahealth.com" target="_blank">Sonia</a> - Sonia Health 推出的 AI 心理健康陪伴应用
-- <a href="https://www.getmagical.com/" target="_blank">HeyAutofill</a> - 医疗运营平台，部署 AI agent 执行患者接入与收入循环流程
+- <a href="https://www.getmagical.com/" target="_blank">Magical</a> - 医疗运营平台，部署 AI agent 执行患者接入与收入循环流程
 
 <a id="group-legal"></a>
 
