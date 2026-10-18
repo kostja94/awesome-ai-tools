@@ -88,24 +88,20 @@
 
 Model selection starts with [general-purpose LLM capabilities and evaluation trade-offs](https://alignify.co/tools/llm).
 
-- <a href="https://gemini.google.com/" target="_blank">Gemini</a> - Google DeepMind's multimodal large model supporting text, image, audio, and video inputs
+- <a href="https://gemini.google.com/" target="_blank">Gemini</a> - Google DeepMind's multimodal large model supporting text, image, audio, and video inputs, with releases spanning the 2.5, 3 and 4 series.
 - <a href="https://x.ai/" target="_blank">Grok</a> - Large language model family from xAI, spanning Grok 3, Grok 4 and Grok 4.1, that powers the Grok assistant on X and grok.com and is offered through the xAI API.
 - <a href="https://openai.com/" target="_blank">GPT</a> - OpenAI's flagship large language model family (GPT-4/4.5/5/6 series and variants).
 - <a href="https://claude.com/" target="_blank">Claude</a> - Large language model family developed by Anthropic, offered via API and in Claude assistant products.
 - <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> - Alibaba's open-weight language model family, from Qwen2.5 through Qwen3.7.
-- <a href="https://www.kimi.com/" target="_blank">Kimi</a> - Moonshot AI's language model family for text, code and reasoning tasks, including vision-capable and open-weight releases.
+- <a href="https://www.kimi.com/" target="_blank">Kimi</a> - Moonshot AI's language model family for text, code and reasoning tasks, including vision-capable and open-weight releases from K1.5 through K3.
 - <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> - DeepSeek's open-weight language model family across V2, V3, V3.1, V4 Pro and R1 releases.
 - <a href="https://docs.z.ai/" target="_blank">GLM</a> - Large language model family from Zhipu AI (Z.ai), spanning GLM-4, GLM-4.5 and GLM-5, offered via the Z.ai API with open-weight releases under the MIT license since 2025.
 - <a href="https://dev.meta.ai/" target="_blank">Llama</a> - Meta's open-weight language model series, from Llama 3 through Llama 4.
-- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax's language model family with open weights, covering text generation, coding and tool-assisted workflows.
+- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax's language model family with open weights, covering text generation, coding and tool-assisted workflows; current release M2.7.
 - <a href="https://mistral.ai/" target="_blank">Mistral</a> - Mistral AI's general-purpose large language model family, organized in Small, Medium and Large tiers such as Mistral Large 2 and Mistral Medium 3, offered via la Plateforme API and enterprise deployments.
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Hunyuan is Tencent's family of AI models spanning language, image, video and three-dimensional content generation.
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Language model family from Aleph Alpha, supporting multilingual text and image analysis.
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> - Gemma is a family of open-weight models from Google built using research and technology from the Gemini model program.
-- <a href="https://ai.google.dev/gemini-api/docs/models/gemini-2.5-pro" target="_blank">Gemini 2.5 Pro</a> - Gemini model version first released as a public experimental preview, with thinking enabled by default.
-- <a href="https://huggingface.co/moonshotai/Kimi-K2.6" target="_blank">Kimi K2.6</a> - Open-weight mixture-of-experts language model from Moonshot AI; a native multimodal agentic release exposing Thinking and Instant inference modes through a single checkpoint.
-- <a href="https://api-docs.deepseek.com/news/news1226" target="_blank">DeepSeek-V3</a> - Open-weight mixture-of-experts model released under an MIT license.
-- <a href="https://www.minimax.io/news/minimax-m27-en" target="_blank">MiniMax M2.7</a> - MiniMax language model version for coding, agentic workflows and general text interaction.
 - <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> - Alibaba's specialized coding model family under the Apache 2.0 license.
 - <a href="https://docs.perplexity.ai/discuss/6603a518d684b200241a763a" target="_blank">Perplexity Sonar</a> - Perplexity's API model family for web-grounded responses and reasoning with built-in search.
 

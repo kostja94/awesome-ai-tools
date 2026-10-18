@@ -88,24 +88,20 @@
 
 选择模型时，可以先了解[通用大语言模型的能力与评测维度](https://alignify.co/zh/tools/llm)。
 
-- <a href="https://gemini.google.com/" target="_blank">Gemini</a> - Google DeepMind 推出的多模态大模型，支持文本、图像、音频和视频输入
+- <a href="https://gemini.google.com/" target="_blank">Gemini</a> - Google DeepMind 推出的多模态大模型，支持文本、图像、音频和视频输入，版本覆盖 2.5 至 4 系列
 - <a href="https://x.ai/" target="_blank">Grok</a> - xAI 推出的语言模型家族，覆盖 Grok 3、Grok 4 与 Grok 4.1，驱动 X 和 grok.com 上的 Grok 助手，并通过 xAI API 提供
 - <a href="https://openai.com/" target="_blank">GPT</a> - OpenAI 的旗舰语言模型家族，涵盖 GPT-4、GPT-4.5、GPT-5、GPT-6 等系列及多个变体
 - <a href="https://claude.com/" target="_blank">Claude</a> - Anthropic 开发的语言模型家族，通过 API 提供，并内置于 Claude 助手产品
 - <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> - Alibaba 的开放权重语言模型家族，从 Qwen2.5 迭代到 Qwen3.7
-- <a href="https://www.kimi.com/" target="_blank">Kimi</a> - Moonshot AI 推出的语言模型家族，覆盖文本、代码与推理任务，包含具备视觉能力和开放权重的版本
+- <a href="https://www.kimi.com/" target="_blank">Kimi</a> - Moonshot AI 推出的语言模型家族，覆盖文本、代码与推理任务，包含具备视觉能力和开放权重的版本，从 K1.5 迭代到 K3
 - <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> - DeepSeek 的开放权重语言模型家族，包含 V2、V3、V3.1、V4 Pro 与 R1 等版本
 - <a href="https://docs.z.ai/" target="_blank">GLM</a> - Zhipu AI（Z.ai）推出的语言模型家族，覆盖 GLM-4、GLM-4.5 与 GLM-5，通过 Z.ai API 提供，2025 年起以 MIT 许可开放权重
 - <a href="https://dev.meta.ai/" target="_blank">Llama</a> - Meta 的开放权重语言模型系列，从 Llama 3 迭代至 Llama 4
-- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax 的语言模型家族，权重开放，覆盖文本生成、编码与工具辅助工作流
+- <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax 的语言模型家族，权重开放，覆盖文本生成、编码与工具辅助工作流，当前版本 M2.7
 - <a href="https://mistral.ai/" target="_blank">Mistral</a> - Mistral AI 的通用语言模型家族，按 Small、Medium、Large 分档（如 Mistral Large 2、Mistral Medium 3），通过 la Plateforme API 提供并支持企业部署
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Tencent 的 Hunyuan 模型家族，覆盖语言、图像、视频与三维内容生成
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Aleph Alpha 推出的语言模型家族，支持多语言文本与图像分析
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> - Google 的开放权重模型家族，基于 Gemini 模型项目的科研成果与技术构建
-- <a href="https://ai.google.dev/gemini-api/docs/models/gemini-2.5-pro" target="_blank">Gemini 2.5 Pro</a> - Gemini 模型版本，最初以公开实验预览版发布，默认启用 thinking 模式
-- <a href="https://huggingface.co/moonshotai/Kimi-K2.6" target="_blank">Kimi K2.6</a> - Moonshot AI 以 Modified MIT 许可开放权重的 MoE 语言模型，总参数 1T、激活 32B，上下文窗口 256K token；原生多模态并面向 agentic 场景，同一检查点提供 Thinking 与 Instant 两种推理模式
-- <a href="https://api-docs.deepseek.com/news/news1226" target="_blank">DeepSeek-V3</a> - DeepSeek 的开放权重 MoE 模型，以 MIT 许可发布，总参数 671B、激活 37B
-- <a href="https://www.minimax.io/news/minimax-m27-en" target="_blank">MiniMax M2.7</a> - MiniMax 的语言模型版本，面向编码、agentic 工作流与通用文本交互，权重以 MiniMax Model License 开放（非 Apache 2.0）
 - <a href="https://qwenlm.github.io/blog/qwen2.5-coder/" target="_blank">Qwen2.5 Coder</a> - Alibaba 旗下的专用编码模型家族，采用 Apache 2.0 许可
 - <a href="https://docs.perplexity.ai/discuss/6603a518d684b200241a763a" target="_blank">Perplexity Sonar</a> - Perplexity 的 API 模型家族，内置联网搜索，提供有网络依据的回答与推理
 

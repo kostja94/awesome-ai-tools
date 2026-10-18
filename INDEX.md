@@ -18,10 +18,6 @@ Quick reference index of selected products.
 | [Hunyuan](https://hunyuan.tencent.com/) | Language & Search Models | active |
 | [Luminous](https://aleph-alpha.com) | Language & Search Models | active |
 | [Gemma](https://deepmind.google/models/gemma/) | Language & Search Models | active |
-| [Gemini 2.5 Pro](https://ai.google.dev/gemini-api/docs/models/gemini-2.5-pro) | Language & Search Models | active |
-| [Kimi K2.6](https://huggingface.co/moonshotai/Kimi-K2.6) | Language & Search Models | active |
-| [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226) | Language & Search Models | active |
-| [MiniMax M2.7](https://www.minimax.io/news/minimax-m27-en) | Language & Search Models | active |
 | [Qwen2.5 Coder](https://qwenlm.github.io/blog/qwen2.5-coder/) | Language & Search Models | active |
 | [Perplexity Sonar](https://docs.perplexity.ai/discuss/6603a518d684b200241a763a) | Language & Search Models | active |
 | [MAI Image](https://www.microsoft.com/en-us/ai/mai-image) | Image Models | active |

@@ -881,10 +881,6 @@ descriptions:
     status: approved
     text: DeepSeek 的开放权重语言模型家族，包含 V2、V3、V3.1、V4 Pro 与 R1 等版本
     source: registry entity facts, verified 2026-10-18
-  deepseek-v3:
-    status: approved
-    text: DeepSeek 的开放权重 MoE 模型，以 MIT 许可发布，总参数 671B、激活 37B
-    source: registry entity facts, verified 2026-10-18
   deepset:
     status: approved
     text: 开发 Haystack 框架的公司，Haystack 用管线组合文档存储、检索器、排序器、生成器和 Agent，支撑语义搜索、问答与 RAG 应用
@@ -1209,17 +1205,13 @@ descriptions:
     status: approved
     text: 数学等 STEM 题目拍照即解的 AI 作业助手，提供分步解析与真人导师在线支持
     source: registry entity facts, verified 2026-10-18
-  gemini-2-5-pro:
-    status: approved
-    text: Gemini 模型版本，最初以公开实验预览版发布，默认启用 thinking 模式
-    source: registry entity facts, verified 2026-10-18
   gemini-enterprise-agent-platform:
     status: approved
     text: Google Cloud 上构建、扩展和治理企业 AI agent 的平台，通过 Agent Registry 与 Agent Gateway 实现治理
     source: registry entity facts, verified 2026-10-18
   gemini-model:
     status: approved
-    text: Google DeepMind 推出的多模态大模型，支持文本、图像、音频和视频输入
+    text: Google DeepMind 推出的多模态大模型，支持文本、图像、音频和视频输入，版本覆盖 2.5 至 4 系列
     source: registry entity facts, verified 2026-10-18
   gemma-model:
     status: approved
@@ -1674,14 +1666,9 @@ descriptions:
     status: approved
     text: Khan Academy 推出的 AI 导师与教学助手，引导学生逐步学完平台课程，并协助教师备课与批改
     source: registry entity facts, verified 2026-10-18
-  kimi-k2-6:
-    status: approved
-    text: Moonshot AI 以 Modified MIT 许可开放权重的 MoE 语言模型，总参数 1T、激活 32B，上下文窗口 256K token；原生多模态并面向 agentic 场景，同一检查点提供 Thinking
-      与 Instant 两种推理模式
-    source: registry entity facts, verified 2026-10-18
   kimi-model:
     status: approved
-    text: Moonshot AI 推出的语言模型家族，覆盖文本、代码与推理任务，包含具备视觉能力和开放权重的版本
+    text: Moonshot AI 推出的语言模型家族，覆盖文本、代码与推理任务，包含具备视觉能力和开放权重的版本，从 K1.5 迭代到 K3
     source: registry entity facts, verified 2026-10-18
   kinetix:
     status: approved
@@ -2024,13 +2011,9 @@ descriptions:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
     text: AI 心理健身日记应用，支持文字、语音与拍照记录，自动分析情绪并内置 50 多种思维模型模板
-  minimax-m2-7:
-    status: approved
-    text: MiniMax 的语言模型版本，面向编码、agentic 工作流与通用文本交互，权重以 MiniMax Model License 开放（非 Apache 2.0）
-    source: registry entity facts, verified 2026-10-18
   minimax-model:
     status: approved
-    text: MiniMax 的语言模型家族，权重开放，覆盖文本生成、编码与工具辅助工作流
+    text: MiniMax 的语言模型家族，权重开放，覆盖文本生成、编码与工具辅助工作流，当前版本 M2.7
     source: registry entity facts, verified 2026-10-18
   mintlify:
     status: approved

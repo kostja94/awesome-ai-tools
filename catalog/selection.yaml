@@ -21,10 +21,7 @@ sections:
   - registry_id: hunyuan
   - registry_id: luminous
   - registry_id: gemma-model
-  - registry_id: gemini-2-5-pro
-  - registry_id: kimi-k2-6
-  - registry_id: deepseek-v3
-  - registry_id: minimax-m2-7
+
   - registry_id: qwen2-5-coder
 
   - registry_id: perplexity-sonar
@@ -1517,4 +1514,16 @@ exclusions:
 - ref: Coding Tools#MutableAI
   reason: 'Status check 2026-10-18: acquired by Google in December 2024 and the standalone product was discontinued; removed from the public catalog.'
   registry_id: mutableai
+- ref: Language & Search Models#Gemini 2.5 Pro
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the family description.'
+  registry_id: gemini-2-5-pro
+- ref: Language & Search Models#Kimi K2.6
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the family description.'
+  registry_id: kimi-k2-6
+- ref: Language & Search Models#DeepSeek-V3
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the family description.'
+  registry_id: deepseek-v3
+- ref: Language & Search Models#MiniMax M2.7
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the family description.'
+  registry_id: minimax-m2-7
 publish_ready: true
