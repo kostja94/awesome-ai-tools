@@ -835,7 +835,7 @@ Quick reference index of selected products.
 | [Cleft](https://cleft.ai/) | Writing & Publishing | active |
 | [AudioPen](https://audiopen.ai/) | Writing & Publishing | active |
 | [mindsera](https://mindsera.com/) | Writing & Publishing | active |
-| [Rosebud](https://rosebud.ai/) | Writing & Publishing | active |
+| [Rosebud](https://www.rosebud.app/) | Writing & Publishing | active |
 | [Character AI](https://character.ai) | Chat & Social | active |
 | [Joyland](https://www.joyland.ai) | Chat & Social | active |
 | [Yodayo](https://yodayo.com/) | Chat & Social | active |
