@@ -101,46 +101,42 @@
 - <a href="https://docs.z.ai/" target="_blank">GLM</a> - Zhipu AI（Z.ai）推出的语言模型家族，覆盖 GLM-4、GLM-4.5 与 GLM-5，通过 Z.ai API 提供，2025 年起以 MIT 许可开放权重
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Tencent 的 Hunyuan 模型家族，覆盖语言、图像、视频与三维内容生成
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax 的语言模型家族，权重开放，覆盖文本生成、编码与工具辅助工作流，当前版本 M2.7
-- <a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">Qwen3 Coder</a> - Alibaba 旗下编码模型家族，Apache 2.0 许可，已迭代至 Qwen3-Coder
+- <a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">Qwen Coder</a> - Alibaba 旗下编码模型家族，Apache 2.0 许可，已迭代至 Qwen3-Coder
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Aleph Alpha 推出的语言模型家族，支持多语言文本与图像分析
 
 <a id="section-image-models"></a>
 
 ### 图像模型
 
-- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - 独立实验室 Midjourney 的文生图与视频模型，以艺术质感著称，图像模型已至 V8
-- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">gpt-image-2.5</a> - OpenAI 图像生成与编辑模型家族，现行版本为 gpt-image-2.5
-- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana 2.1</a> - Google 图像生成与编辑模型家族，现行版本为 Nano Banana 2.1
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - 独立实验室 Midjourney 的文生图与视频模型，以艺术质感著称，图像模型已至 V8，经网站与 Discord 使用
+- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI 图像生成与编辑模型家族，现行版本为 gpt-image-2.5
+- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google 图像生成与编辑模型家族，现行版本为 Nano Banana 2.1
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe 的文生图模型，与 Creative Cloud 集成
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> - 开源文生图模型系列，提供 API 访问
 - <a href="https://bfl.ai/" target="_blank">FLUX</a> - Black Forest Labs 推出的文生图模型
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> - 字节跳动 Seed 图像模型家族，Seedream 4.0 统一生成与编辑，支持文本与多图参考输入、最高 4K 输出
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - 以图像内文字渲染见长的文生图模型
-- <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> - 面向创作者的图像与视频生成平台，内置 80 多个模型，含 Lucid 等自研系列
-- <a href="https://chat.qwen.ai" target="_blank">Qwen-Image-3.0</a> - Alibaba Qwen 图像生成家族，现行 Qwen-Image-3.0，基础权重开源
+- <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen 图像生成家族，现行 Qwen-Image-3.0，基础权重开源
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan 图像家族，3.0 版开源，3.5 预览版支持多轮对话编辑
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - 支持矢量图与 mockup 输出的文生图模型
 - <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> - Microsoft AI 的文生图模型
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs 的文生图模型系列，photon-1 支持多图参考与角色一致性
 - <a href="https://hidreamai.com/" target="_blank">HiDream</a> - HiDream 的全模态基础模型覆盖图像、视频与 3D，并开源 E1.1 图像编辑模型
-- <a href="https://www.stepfun.com/" target="_blank">StepFun</a> - 阶跃星辰的图像生成编辑模型系列，Step Image Edit 2 单模型兼顾文生图与图像编辑
 - <a href="https://reve.com/" target="_blank">Reve</a> - Reve 的文生图模型，配套统一网页应用，支持创建、编辑与重混图像，将自然语言指令与拖拽式编辑器相结合
 
 <a id="section-video-models"></a>
 
 ### 视频模型
 
-- <a href="https://deepmind.google/technologies/veo/" target="_blank">Google Veo 3.1</a> - Google 的文生视频模型，原生输出配套音频，支持 4K 分辨率并嵌入 SynthID 水印，通过 Gemini 应用与 API 提供
+- <a href="https://deepmind.google/technologies/veo/" target="_blank">Google Veo</a> - Google 文生视频模型家族，现行 Veo 3.1 原生输出配套音频，支持 4K 分辨率并嵌入 SynthID 水印，经 Gemini 应用与 API 提供
 - <a href="https://kling.ai/" target="_blank">Kling</a> - 快手旗下的 AI 视频与图像平台，视频模型已迭代至可灵 4.0，图像支持原生 4K 直出
 - <a href="https://runway.com/" target="_blank">Runway Gen</a> - Runway 的视频生成模型家族，以 Gen-4.5 为主打，强调运动质量与提示遵循，另有 GWM-1 世界模型，经其应用与 API 提供
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> - ByteDance Seed 团队的视频生成模型家族，版本自 1.0 迭代至 2.5，音视频一体生成，支持参考控制与编辑，另经 Dreamina 平台提供
-- <a href="https://hailuoai.video/" target="_blank">Hailuo</a> - MiniMax 旗下 AI 视频生成平台，支持文生视频与图生视频，最新模型为 H3
 - <a href="https://lumalabs.ai/ray" target="_blank">Luma Ray</a> - Luma 的 Ray 模型家族，支持以文本、图像或视频为条件的视频生成与编辑，可通过 Luma Dream Machine 和 Luma API 使用
 - <a href="https://pika.art/" target="_blank">Pika</a> - Pika Labs 推出的文生视频模型家族，Pika 2.2 可生成 1080p、最长 10 秒的视频，并提供 Pikaframes 关键帧控制与 Pikaffects 物理特效
 - <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">WAN</a> - Alibaba 的 Wan 模型家族，支持从文本或图像生成视频
 - <a href="https://aivideo.hunyuan.tencent.com/" target="_blank">Tencent Hunyuan Video</a> - Tencent Hunyuan 视频生成模型家族，可从文本和图像输入生成视频
 - <a href="https://www.vidu.com/" target="_blank">Vidu</a> - 生数科技的视频生成模型家族，支持文生视频与多参考生成，含实时交互的 Vidu S
-- <a href="https://pixverse.ai/" target="_blank">PixVerse</a> - AI 视频生成平台，V6 模型可输出带原生音频的 1080p 视频，另有 R2 实时世界模型，经网页、移动端与 API 提供
 - <a href="https://www.genmo.ai/" target="_blank">Mochi</a> - Genmo 的开源文生视频模型，Mochi 1 权重在 Hugging Face，支持本地运行
 - <a href="https://www.animon.ai/" target="_blank">Animon</a> - 东京 Animon 推出的动漫专用 AI 视频生成平台，订阅制不限量生成
 
@@ -149,28 +145,20 @@
 ### 语音模型
 
 - <a href="https://github.com/openai/whisper" target="_blank">OpenAI Whisper</a> - OpenAI 的开源语音识别模型，覆盖 99 种语言，支持本地部署，社区衍生出 WhisperX 和 faster-whisper 等版本
-- <a href="https://elevenlabs.io/speech-to-text" target="_blank">ElevenLabs Scribe v2</a> - ElevenLabs 语音转文字模型家族，含批量、实时与医疗版本，支持 90 多种语言
-- <a href="https://docs.cloud.google.com/speech-to-text/docs/models/chirp-3" target="_blank">Google Chirp 3</a> - Chirp 3 是 Google Cloud Speech-to-Text 中的语音转文字模型，基于 Conformer 架构，支持 100 多种语言
+- <a href="https://elevenlabs.io/speech-to-text" target="_blank">ElevenLabs Scribe</a> - ElevenLabs 语音转文字模型家族，含批量、实时与医疗版本，支持 90 多种语言
+- <a href="https://docs.cloud.google.com/speech-to-text/docs/models/chirp-3" target="_blank">Google Chirp</a> - Google Cloud Speech-to-Text 的语音识别模型家族，现行 Chirp 3 基于 Conformer 架构，支持 100 多种语言
 - <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a> - Deepgram Nova 语音识别模型，每秒可转录 142 秒音频
-- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - AssemblyAI 的语音转文字 API，支持长音频文件、关键词检测和情感分析
-- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Speechmatics 的语音识别服务覆盖全球语言，支持多种口音和方言
-- <a href="https://www.sesame.com/" target="_blank">Sesame CSM-1B</a> - Sesame 的对话语音模型，1B 参数版本以 Apache 2.0 开源；公司语音演示中展示的更大模型与之相配套
+- <a href="https://www.sesame.com/" target="_blank">Sesame CSM</a> - Sesame 的对话语音模型，1B 参数版本以 Apache 2.0 开源；公司语音演示中展示的更大模型与之相配套
 - <a href="https://www.cartesia.ai/sonic" target="_blank">Sonic</a> - Cartesia 的流式文本转语音模型系列，面向需要实时语音输出的应用
 - <a href="https://dev.hume.ai/voice/docs/text-to-speech-tts/overview" target="_blank">Octave</a> - Hume 推出的语音语言模型系列，用于生成富有表现力的语音
-- <a href="https://fish.audio" target="_blank">Fish Audio S2.1 Pro</a> - Fish Audio 生产级文本转语音模型，升级至 S2.1 Pro，覆盖 83 种语言
+- <a href="https://fish.audio" target="_blank">Fish Audio S2</a> - Fish Audio 生产级文本转语音模型，升级至 S2.1 Pro，覆盖 83 种语言
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Inworld 的实时文本转语音模型，支持多种语言
 - <a href="https://www.zyphra.com/models/zonos2" target="_blank">ZONOS</a> - ZONOS 是 Zyphra 的语音生成模型系列，包含声音克隆与实时文本转语音版本
-- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a> - GroqCloud 上托管的 Distil-Whisper 转录服务，按用量计费，每 1000 分钟音频 0.333 美元
-- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a> - DeepInfra 提供的 Whisper 托管转录服务，吞吐达每秒 149 秒音频
-- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a> - Fal.ai Wizper 转录服务，每秒能转录 218 秒音频
-- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a> - 基于 Whisper 的 Fireworks 转录服务，每秒可处理 353 秒音频
 
 <a id="section-music-models"></a>
 
 ### 音乐模型
 
-- <a href="https://suno.com" target="_blank">Suno</a> - Suno 是 AI 音乐生成器，可根据文本提示生成多种流派、带人声的歌曲
-- <a href="https://www.udio.com/" target="_blank">Udio</a> - Udio 是 AI 音乐生成器，支持延长音轨、制作重混版和提取分轨
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> - Google 推出的音乐生成模型，已与 YouTube 集成
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> - Meta 开源的音乐生成模型，属于 AudioCraft 仓库的一部分
 
@@ -178,14 +166,11 @@
 
 ### 三维与空间模型
 
-- <a href="https://www.meshy.ai/" target="_blank">Meshy</a> - Meshy 支持 text-to-3D、image-to-3D 和自动 PBR 纹理生成
-- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> - Tripo 从文本和图像生成 3D 模型，适合快速原型和概念设计
 - <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> - Hunyuan3D 从文本和图像生成几何结构干净、外观逼真的 3D 模型，尤其擅长角色生成
 - <a href="https://spline.design/" target="_blank">Spline AI</a> - Spline AI 从文本提示生成 3D 对象，专注网页和应用设计中的交互式 3D 场景
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> - Rodin 支持从文本提示和图像生成 3D 模型，并能导出多种格式
 - <a href="https://csm.ai/" target="_blank">CSM AI</a> - 文本生成 3D 模型工具；Common Sense Machines 已被 Google 收购
 - <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> - Magic3D 是高分辨率的文本到 3D 内容生成模型，面向图形与视觉技术研究
-- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Alpha3D 将文本或 2D 图像转换成游戏可用的 3D 资产，并提供 Unity 开发支持
 
 <a id="group-agents"></a>
 
@@ -224,7 +209,7 @@
 - <a href="https://www.cognee.ai/" target="_blank">Cognee</a> - Cognee 是开源 AI 记忆引擎，把原始数据转化为 agent 可用的持久动态记忆，结合向量搜索与知识图谱，采用 ECL（Extract, Cognify, Link）框架
 - <a href="https://github.com/MemTensor/MemOS" target="_blank">MemOS</a> - 开源的 LLM agent 记忆操作系统，以 MemCube 抽象统一明文、激活值/KV-cache 与参数化三类记忆，支持记忆生命周期调度、治理与多 agent 共享
 - <a href="https://langchain-ai.github.io/langmem/" target="_blank">LangMem</a> - LangMem 是 LangChain 团队为 LangGraph 打造的开源记忆工具库，提供事实抽取、整合、更新与删除，附带热路径工具和后台记忆管理器
-- <a href="https://www.memobase.io/" target="_blank">Memobase</a> - Memobase 围绕用户画像构建长期记忆，管理画像、记忆事件和不断演化的上下文，适合聊天机器人、陪伴类等以用户为中心的 AI 应用
+- <a href="https://github.com/memodb-io/memobase" target="_blank">Memobase</a> - Memobase 围绕用户画像构建长期记忆，管理画像、记忆事件和不断演化的上下文，适合聊天机器人、陪伴类等以用户为中心的 AI 应用
 - <a href="https://github.com/NevaMind-AI/memU" target="_blank">memU</a> - 开源的 agent 记忆 sidecar，把桌面与编程 agent 的历史记录转化为可复用的 wiki 页面、记忆和技能，并提供多主机适配器
 - <a href="https://github.com/EverMind-AI/EverOS" target="_blank">EverOS</a> - 可移植的本地优先记忆层，为 AI agent 提供 Markdown 原生、用户自有的存储，支持自托管
 - <a href="https://mirix.io/" target="_blank">Mirix</a> - Mirix 是屏幕级多模态记忆系统，实时监控屏幕，把画面、行为和事件沉淀为个性化记忆库并降低存储需求
@@ -368,8 +353,8 @@
 
 [图像生成、编辑与增强的工作流](https://alignify.co/zh/tools/image)对应视觉创作中的不同环节。
 
-- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - AI 图像生成服务，按文字提示创作图像，可通过官网和 Discord 使用
 - <a href="https://picsart.com" target="_blank">Picsart</a> - Picsart 是照片与视频创意编辑平台，内置 AI 图像生成和编辑工具，提供网页版和移动端应用
+- <a href="https://leonardo.ai" target="_blank">Leonardo AI</a> - Leonardo AI 图像与视频生成平台，提供微调模型、风格预设、编辑画布与视频生成
 - <a href="https://www.facetuneapp.com/" target="_blank">Facetune</a> - 移动修图应用，主打 AI 修饰、滤镜与美颜增强
 - <a href="https://remini.ai" target="_blank">Remini</a> - 照片与视频增强应用，修复老旧或低画质图像，并把素材放大到更高清晰度
 - <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> - 移动端人像 AI 编辑器，可改变年龄、发型与妆容
@@ -447,6 +432,8 @@
 - <a href="https://www.heygen.com" target="_blank">HeyGen</a> - HeyGen 用照片级数字人把文本生成为视频，支持多语言翻译、配音和对口型
 - <a href="https://www.descript.com/" target="_blank">Descript</a> - Descript 是 AI 视频与播客剪辑平台，提供自动转写、文本式剪辑、屏幕录制和 AI 语音克隆，像改文档一样改视频
 - <a href="https://www.loom.com/" target="_blank">Loom</a> - Loom 支持一键录屏和分享，附带 AI 视频增强、文本剪辑与跨平台协作功能
+- <a href="https://hailuoai.video" target="_blank">Hailuo AI Video Generator</a> - 基于 MiniMax 海螺模型的视频与图像生成平台，把文字提示变成短视频与图像
+- <a href="https://www.pixverse.ai/" target="_blank">PixVerse</a> - PixVerse 视频生成平台，从文字与图像提示生成视频，提供特效与多种输出风格
 - <a href="https://www.opus.pro/" target="_blank">OpusClip</a> - OpusClip 用 AI 把长录像剪成短片，自动加字幕、调整画幅、去除静音，还支持基于文本的剪辑
 - <a href="https://www.veed.io" target="_blank">VEED</a> - VEED 是浏览器端视频编辑器，支持多语言自动字幕、AI 剪辑工具和团队协作
 - <a href="https://invideo.io" target="_blank">invideo</a> - invideo 是在线 AI 视频创作平台，按提示词或脚本生成视频，自带素材、字幕和配音
@@ -513,7 +500,6 @@
 - <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> - SOLO 是 AI 影视制作公司，用 AI 制作短片和广告
 - <a href="https://www.utopaistudios.com/" target="_blank">Utopia Studios</a> - 人类执导、AI 加持的影视工作室，自研 PAI 制作引擎辅助创意团队开发多部影视剧集
 - <a href="https://escape.ai/" target="_blank">Escape</a> - Escape 是 AI 艺术聚合平台，展示并推广新形态的数字娱乐
-- <a href="https://fsh.org/" target="_blank">FSH Technologies</a> - 面向城市与公共机构的政务技术公司，由 Contenda AI 内容平台转型而来
 
 <a id="group-voice-audio"></a>
 
@@ -526,8 +512,10 @@
 语音应用包括[语音识别与转写](https://alignify.co/zh/tools/speech-to-text)，也包括[文本转语音合成](https://alignify.co/zh/tools/text-to-speech)。
 
 - <a href="https://elevenlabs.io" target="_blank">ElevenLabs</a> - ElevenLabs 是语音 AI 平台，提供文字转语音、声音克隆、配音和音频生成，并附带 API 与多语言大型语音库
+- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - AssemblyAI 的语音转文字与语音理解 API，支持实时转录、说话人识别与音频智能
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> - AWS 托管文字转语音 API，上百种语音覆盖四十多种语言，支持 SSML 定制与生成式语音
 - <a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/" target="_blank">OpenAI TTS</a> - OpenAI TTS 是 OpenAI 的文字转语音 API 模型，用于在应用和语音管线中合成语音
+- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Speechmatics 的语音识别服务覆盖全球语言，支持多种口音和方言
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> - Google Cloud TTS 是 Google Cloud 上的云端文字转语音 API 服务
 - <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> - Azure Speech 是微软 Azure 的云端语音服务，同时覆盖语音合成（TTS）与语音识别（ASR）
 - <a href="https://speechify.com" target="_blank">Speechify</a> - 把文档与网页转成语音朗读的应用，支持 60 多种语言与拍照 OCR，覆盖桌面、移动与浏览器
@@ -561,6 +549,8 @@
 
 本节的音乐创作部分可结合[AI 音乐生成的方式与工作流](https://alignify.co/zh/tools/music-generator)理解。
 
+- <a href="https://suno.com" target="_blank">Suno</a> - Suno 音乐生成平台，从文字提示创作带人声的完整歌曲，覆盖多种曲风
+- <a href="https://www.udio.com" target="_blank">Udio</a> - Udio 音乐生成服务，从文字提示创作完整歌曲，支持编辑、混音、延长与上传音频
 - <a href="https://www.flowmusic.app/" target="_blank">Google Flow Music</a> - Google Flow Music 是 Google 推出的对话式 AI 音乐创作工具，基于 Lyria 系列模型生成带人声的完整歌曲。它接替了被收购的 Producer.ai 工作室
 - <a href="https://music.ai/" target="_blank">Music</a> - 音频智能平台，旗下 Moises 面向音乐人创作，企业 API 日处理音频超两百万分钟
 - <a href="https://libsyn.com/" target="_blank">Libsyn</a> - Libsyn 是最早的播客托管服务之一，支持音频/视频上传、定时发布、统计、分发和变现工具
@@ -751,7 +741,7 @@
 - <a href="https://vizly.ai/" target="_blank">Vizly</a> - AI 数据分析师，支持聊天式提问并自动生成可视化报告
 - <a href="https://www.coactive.ai/" target="_blank">Coactive</a> - 多模态视觉内容平台，用 AI 自动为图像与视频打标签、检索并分析
 - <a href="https://www.syntho.ai" target="_blank">Syntho</a> - 专注用 AI 生成合成数据的公司
-- <a href="https://www.sas.com/en_th/news/press-releases/2024/november/hazy-syntheticdata.html" target="_blank">Hazy</a> - 专注隐私保护合成数据的公司，主要软件资产已被 SAS 收购
+- <a href="https://www.sas.com/en_ie/software/data-maker.html" target="_blank">Hazy</a> - 专注隐私保护合成数据的公司，主要软件资产已被 SAS 收购
 - <a href="https://aindo.com" target="_blank">Aindo</a> - 数据技术公司，用 AI 生成合成数据
 - <a href="https://www.withdavid.ai/" target="_blank">David AI</a> - 音频数据服务，为对话 AI 构建语音训练数据集
 - <a href="https://paradigmai.com" target="_blank">Paradigm</a> - 电子表格形态的智能体研究平台，单元格内可运行 AI agent，并行完成数据搜索、增强与操作
@@ -957,7 +947,7 @@
 - <a href="https://www.pietrastudio.com/" target="_blank">Pietra</a> - 面向品牌的电商平台，把采购、履约、营销与 AI 辅助运营放进同一套系统
 - <a href="https://www.doji.com/" target="_blank">Doji</a> - 生成 AI 虚拟形象，用于时装的在线虚拟试穿
 - <a href="https://yuma.ai/" target="_blank">Yuma</a> - 电商客服平台，跨渠道接待并处理买家咨询
-- <a href="https://beni.ai/" target="_blank">Beni</a> - 专注二手时尚的搜索引擎，一次搜索四十多个转售平台，支持图片搜索与上架提醒
+- <a href="https://shopbeni.com/" target="_blank">Beni</a> - 专注二手时尚的搜索引擎，一次搜索四十多个转售平台，支持图片搜索与上架提醒
 - <a href="https://www.whering.co/" target="_blank">Whering</a> - 带社交功能的数字衣橱应用，登记衣物、规划穿搭并分享造型
 - <a href="https://www.acloset.app/" target="_blank">Acloset</a> - 数字衣橱应用，登记衣物并推荐穿搭
 - <a href="https://cladwell.com/" target="_blank">Cladwell</a> - 衣橱规划应用，帮助用户整理衣物并规划穿搭
@@ -1153,6 +1143,7 @@
 - <a href="https://www.backflip.ai/" target="_blank">Backflip</a> - 一键将 3D 扫描转换为 CAD 模型的 AI 工具
 - <a href="https://www.intangible.ai/" target="_blank">Intangible.ai</a> - 借助 AI 创建、编辑 3D 场景并支持协作的无代码平台
 - <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> - 无代码 AI 工具，可生成、编辑 3D 场景并支持团队协作
+- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Alpha3D 将文本或 2D 图像转换成游戏可用的 3D 资产，并提供 Unity 开发支持
 - <a href="https://ai-build.com/" target="_blank">AI Build</a> - 结合 3D 打印与 CNC 技术、用于自动化生产的制造平台
 
 <a id="group-games"></a>
@@ -1205,10 +1196,8 @@
 - <a href="https://www.bedtimestory.ai/" target="_blank">Bedtimestory.ai</a> - Bedtimestory.ai 根据提示词即时生成高度个性化的睡前故事
 - <a href="https://www.compose.ai/" target="_blank">Compose</a> - Compose 是免费的 Chrome 扩展，用 AI 自动补全和生成文本
 - <a href="https://cleftnotes.com/" target="_blank">Cleft</a> - 语音笔记应用，把口述的想法转写成结构化的文字笔记
-- <a href="https://copymonkey.ai/" target="_blank">CopyMonkey.ai</a> - 面向亚马逊卖家的 AI 文案工具，生成关键词优化的商品文案，官网宣布向继任产品过渡
 - <a href="https://www.rosebud.app/" target="_blank">Rosebud</a> - AI 日记应用，以追问展开对话并记住既往条目、关联行为模式，配合每周报告与习惯追踪，支持网页与移动端
 - <a href="https://mindsera.com/" target="_blank">mindsera</a> - AI 心理健身日记应用，支持文字、语音与拍照记录，自动分析情绪并内置 50 多种思维模型模板
-- <a href="https://bertha.ai/" target="_blank">Bertha AI</a> - 曾内嵌于 WordPress 编辑器的写作与图片生成助手，官网已宣布停止服务
 - <a href="https://www.gomoonbeam.com/" target="_blank">Go Moonbeam</a> - Go Moonbeam 是文本内容生成服务，覆盖多种内容类型
 - <a href="https://www.pirr.ai/" target="_blank">Pirr</a> - Pirr 是创作浪漫与情色故事的 AI 平台
 - <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a> - Presentations.AI 是快速生成图表、时间线、报告与演示幻灯片的 AI 助手

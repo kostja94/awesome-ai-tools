@@ -35,14 +35,12 @@ sections:
   - registry_id: flux
   - registry_id: seedream
   - registry_id: ideogram-model
-  - registry_id: leonardo-ai-model
   - registry_id: qwen-image-2-0
   - registry_id: hunyuan-image
   - registry_id: recraft-model
   - registry_id: mai-image
   - registry_id: luma-photon
   - registry_id: hidream
-  - registry_id: stepfun
   - registry_id: reve-model
 - id: video-models
   title: Video Models
@@ -53,13 +51,11 @@ sections:
   - registry_id: kling
   - registry_id: runway-gen
   - registry_id: seedance
-  - registry_id: hailuo
   - registry_id: luma-ray
   - registry_id: pika
   - registry_id: wan
   - registry_id: hunyuan-video
   - registry_id: vidu-model
-  - registry_id: pixverse-model
   - registry_id: mochi
   - registry_id: animon
 - id: speech-models
@@ -71,25 +67,17 @@ sections:
   - registry_id: elevenlabs-scribe-v2
   - registry_id: google-chirp-3
   - registry_id: deepgram-nova
-  - registry_id: assemblyai-model
-  - registry_id: speechmatics
   - registry_id: sesame-csm-1b
   - registry_id: cartesia-sonic-model
   - registry_id: hume-octave
   - registry_id: fish-audio-s2-pro
   - registry_id: inworld-tts
   - registry_id: zyphra-zonos
-  - registry_id: groq-distil-whisper
-  - registry_id: deepinfra-whisper
-  - registry_id: fal-ai-wizper
-  - registry_id: fireworks-whisper
 - id: music-models
   title: Music Models
   group_id: models
   group_title: Models
   items:
-  - registry_id: suno-model
-  - registry_id: udio-model
   - registry_id: lyria
   - registry_id: musicgen
 - id: spatial-models
@@ -97,14 +85,11 @@ sections:
   group_id: models
   group_title: Models
   items:
-  - registry_id: meshy-model
-  - registry_id: tripo
   - registry_id: hunyuan3d
   - registry_id: spline-ai
   - registry_id: rodin
   - registry_id: csm-ai
   - registry_id: magic3d
-  - registry_id: alpha3d
 - id: agent-platforms
   title: Agent Frameworks & Infrastructure
   group_id: agents
@@ -268,8 +253,8 @@ sections:
   group_id: image-design
   group_title: Image & Design
   items:
-  - registry_id: midjourney
   - registry_id: picsart
+  - registry_id: leonardo-ai
   - registry_id: facetune
   - registry_id: remini
   - registry_id: faceapp
@@ -339,6 +324,8 @@ sections:
   - registry_id: heygen
   - registry_id: descript
   - registry_id: loom
+  - registry_id: hailuoai
+  - registry_id: pixverse
   - registry_id: opus
   - registry_id: veed
   - registry_id: invideo
@@ -403,15 +390,16 @@ sections:
   - registry_id: solo
   - registry_id: utopia-studios
   - registry_id: escape
-  - registry_id: contenda
 - id: speech-applications
   title: Speech & Transcription Applications
   group_id: voice-audio
   group_title: Voice, Speech & Audio
   items:
   - registry_id: elevenlabs
+  - registry_id: assemblyai
   - registry_id: amazon-polly
   - registry_id: openai-tts
+  - registry_id: speechmatics
   - registry_id: google-cloud-tts
   - registry_id: azure-speech
   - registry_id: speechify
@@ -443,6 +431,8 @@ sections:
   group_id: voice-audio
   group_title: Voice, Speech & Audio
   items:
+  - registry_id: suno
+  - registry_id: udio
   - registry_id: producer
   - registry_id: music
   - registry_id: libsyn
@@ -973,6 +963,7 @@ sections:
   - registry_id: backflip
   - registry_id: intangible-ai
   - registry_id: eufymake
+  - registry_id: alpha3d
   - registry_id: ai-build
 - id: games-interactive
   title: Games & Interactive Media
@@ -1017,10 +1008,8 @@ sections:
   - registry_id: bedtimestory-ai
   - registry_id: compose
   - registry_id: cleft
-  - registry_id: copymonkey-ai
   - registry_id: rosebud
   - registry_id: mindsera
-  - registry_id: bertha-ai
   - registry_id: go-moonbeam
   - registry_id: pirr
   - registry_id: presentations-ai
@@ -1532,4 +1521,74 @@ exclusions:
 - ref: Video Models#Seedance 2.5
   reason: Consolidated into the Seedance family row per the families-only editorial rule; the family description covers 2.5
   registry_id: seedance-2-5
+- ref: Speech Models#Groq Distil Whisper
+  reason: 'Status/tier review 2026-10-19: deprecated on GroqCloud 2025-08-23 per official deprecations page; removed from
+    the public catalog.'
+  registry_id: groq-distil-whisper
+- ref: Image Models#StepFun
+  reason: 'Status/tier review 2026-10-19: image generation/editing APIs discontinued 2026-10-10 per official docs; removed
+    from the public catalog.'
+  registry_id: stepfun
+- ref: Writing & Publishing#Bertha AI
+  reason: 'Status/tier review 2026-10-19: service closed to all users per official announcement; removed from the public catalog.'
+  registry_id: bertha-ai
+- ref: Writing & Publishing#CopyMonkey.ai
+  reason: 'Status/tier review 2026-10-19: service sunset (2026-09), successor Jinnify.ai is a separate entity; removed from
+    the public catalog.'
+  registry_id: copymonkey-ai
+- ref: Filmmaking & Localization#Contenda
+  reason: 'Status/tier review 2026-10-19: company pivoted to FSH Technologies (govtech software); no longer an AI filmmaking
+    tool; removed from the public catalog.'
+  registry_id: contenda
+- ref: 3D & Spatial Models#Meshy
+  reason: 'Status/tier review 2026-10-19: tier consolidation: the Meshy platform is already listed in 3D & Spatial Tools;
+    removed from the public catalog.'
+  registry_id: meshy-model
+- ref: 3D & Spatial Models#Tripo
+  reason: 'Status/tier review 2026-10-19: tier consolidation: the Tripo platform is already listed in 3D & Spatial Tools;
+    removed from the public catalog.'
+  registry_id: tripo
+- ref: Speech Models#DeepInfra Whisper
+  reason: 'Status/tier review 2026-10-19: third-party hosted Whisper endpoint, not a distinct model family; Whisper itself
+    is listed; removed from the public catalog.'
+  registry_id: deepinfra-whisper
+- ref: Speech Models#fal Wizper
+  reason: 'Status/tier review 2026-10-19: third-party hosted Whisper endpoint on fal; the fal platform is already listed;
+    removed from the public catalog.'
+  registry_id: fal-ai-wizper
+- ref: Speech Models#Fireworks Whisper
+  reason: 'Status/tier review 2026-10-19: third-party hosted Whisper, community-reported deprecated; not a distinct model
+    family; removed from the public catalog.'
+  registry_id: fireworks-whisper
+- ref: Image Creation & Editing#Midjourney
+  reason: 'Status/tier review 2026-10-19: tier consolidation: the Midjourney model family row (Image Models) carries the brand;
+    website/Discord access noted there; removed from the public catalog.'
+  registry_id: midjourney
+- ref: Models#leonardo-ai-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity leonardo-ai in its application
+    section.'
+  registry_id: leonardo-ai-model
+- ref: Models#pixverse-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity pixverse in its application section.'
+  registry_id: pixverse-model
+- ref: Models#hailuo
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity hailuoai in its application section.'
+  registry_id: hailuo
+- ref: Models#assemblyai-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity assemblyai in its application
+    section.'
+  registry_id: assemblyai-model
+- ref: Models#speechmatics
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity speechmatics in its application
+    section.'
+  registry_id: speechmatics
+- ref: Models#suno-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity suno in its application section.'
+  registry_id: suno-model
+- ref: Models#udio-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity udio in its application section.'
+  registry_id: udio-model
+- ref: Models#alpha3d
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity alpha3d in its application section.'
+  registry_id: alpha3d
 publish_ready: true

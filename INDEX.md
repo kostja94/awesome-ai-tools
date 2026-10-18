@@ -17,66 +17,51 @@ Quick reference index of selected products.
 | [GLM](https://docs.z.ai/) | Language & Search Models | active |
 | [Hunyuan](https://hunyuan.tencent.com/) | Language & Search Models | active |
 | [MiniMax](https://www.minimax.io/) | Language & Search Models | active |
-| [Qwen3 Coder](https://github.com/QwenLM/Qwen3-Coder) | Language & Search Models | active |
+| [Qwen Coder](https://github.com/QwenLM/Qwen3-Coder) | Language & Search Models | active |
 | [Luminous](https://aleph-alpha.com) | Language & Search Models | active |
 | [Midjourney](https://www.midjourney.com/) | Image Models | active |
-| [gpt-image-2.5](https://developers.openai.com/api/docs/models/gpt-image-2) | Image Models | active |
-| [Nano Banana 2.1](https://aistudio.google.com/models/nano-banana) | Image Models | active |
+| [GPT Image](https://developers.openai.com/api/docs/models/gpt-image-2) | Image Models | active |
+| [Nano Banana](https://aistudio.google.com/models/nano-banana) | Image Models | active |
 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Image Models | active |
 | [Stable Diffusion](https://stability.ai/) | Image Models | active |
 | [FLUX](https://bfl.ai/) | Image Models | active |
 | [Seedream](https://seed.bytedance.com/en/tech/seedream3_0) | Image Models | active |
 | [Ideogram](https://ideogram.ai/) | Image Models | active |
-| [Leonardo AI](https://leonardo.ai/) | Image Models | active |
-| [Qwen-Image-3.0](https://chat.qwen.ai) | Image Models | active |
+| [Qwen Image](https://chat.qwen.ai) | Image Models | active |
 | [Tencent Hunyuan Image](https://hunyuan.tencent.com/image/en) | Image Models | active |
 | [Recraft](https://www.recraft.ai/) | Image Models | active |
 | [MAI Image](https://www.microsoft.com/en-us/ai/mai-image) | Image Models | active |
 | [Luma Photon](https://lumalabs.ai/photon) | Image Models | active |
 | [HiDream](https://hidreamai.com/) | Image Models | active |
-| [StepFun](https://www.stepfun.com/) | Image Models | active |
 | [Reve](https://reve.com/) | Image Models | active |
-| [Google Veo 3.1](https://deepmind.google/technologies/veo/) | Video Models | active |
+| [Google Veo](https://deepmind.google/technologies/veo/) | Video Models | active |
 | [Kling](https://kling.ai/) | Video Models | active |
 | [Runway Gen](https://runway.com/) | Video Models | active |
 | [Seedance](https://seed.bytedance.com/en/seedance) | Video Models | active |
-| [Hailuo](https://hailuoai.video/) | Video Models | active |
 | [Luma Ray](https://lumalabs.ai/ray) | Video Models | active |
 | [Pika](https://pika.art/) | Video Models | active |
 | [WAN](https://tongyi.aliyun.com/wanxiang/) | Video Models | active |
 | [Tencent Hunyuan Video](https://aivideo.hunyuan.tencent.com/) | Video Models | active |
 | [Vidu](https://www.vidu.com/) | Video Models | active |
-| [PixVerse](https://pixverse.ai/) | Video Models | active |
 | [Mochi](https://www.genmo.ai/) | Video Models | active |
 | [Animon](https://www.animon.ai/) | Video Models | active |
 | [OpenAI Whisper](https://github.com/openai/whisper) | Speech Models | active |
-| [ElevenLabs Scribe v2](https://elevenlabs.io/speech-to-text) | Speech Models | active |
-| [Google Chirp 3](https://docs.cloud.google.com/speech-to-text/docs/models/chirp-3) | Speech Models | active |
+| [ElevenLabs Scribe](https://elevenlabs.io/speech-to-text) | Speech Models | active |
+| [Google Chirp](https://docs.cloud.google.com/speech-to-text/docs/models/chirp-3) | Speech Models | active |
 | [Deepgram Nova](https://deepgram.com/) | Speech Models | active |
-| [AssemblyAI](https://www.assemblyai.com/) | Speech Models | active |
-| [Speechmatics](https://www.speechmatics.com/) | Speech Models | active |
-| [Sesame CSM-1B](https://www.sesame.com/) | Speech Models | active |
+| [Sesame CSM](https://www.sesame.com/) | Speech Models | active |
 | [Sonic](https://www.cartesia.ai/sonic) | Speech Models | active |
 | [Octave](https://dev.hume.ai/voice/docs/text-to-speech-tts/overview) | Speech Models | active |
-| [Fish Audio S2.1 Pro](https://fish.audio) | Speech Models | active |
+| [Fish Audio S2](https://fish.audio) | Speech Models | active |
 | [Inworld TTS](https://inworld.ai/) | Speech Models | active |
 | [ZONOS](https://www.zyphra.com/models/zonos2) | Speech Models | active |
-| [Groq Distil Whisper](https://groq.com/) | Speech Models | active |
-| [DeepInfra Whisper](https://deepinfra.com/) | Speech Models | active |
-| [Fal.ai Wizper](https://fal.ai/) | Speech Models | active |
-| [Fireworks Whisper](https://fireworks.ai/) | Speech Models | active |
-| [Suno](https://suno.com) | Music Models | active |
-| [Udio](https://www.udio.com/) | Music Models | active |
 | [Lyria](https://ai.google.dev/gemini/docs/audio) | Music Models | active |
 | [MusicGen](https://github.com/facebookresearch/audiocraft) | Music Models | active |
-| [Meshy](https://www.meshy.ai/) | 3D & Spatial Models | active |
-| [Tripo](https://www.tripo3d.ai/) | 3D & Spatial Models | active |
 | [Hunyuan3D](https://3d.hunyuan.tencent.com/) | 3D & Spatial Models | active |
 | [Spline AI](https://spline.design/) | 3D & Spatial Models | active |
 | [Rodin](https://hyper3d.ai/) | 3D & Spatial Models | active |
 | [CSM AI](https://csm.ai/) | 3D & Spatial Models | active |
 | [Magic3D](https://deepimagination.cc/Magic3D/) | 3D & Spatial Models | active |
-| [Alpha3D](https://www.alpha3d.io/) | 3D & Spatial Models | active |
 | [LangGraph](https://www.langchain.com/langgraph) | Agent Frameworks & Infrastructure | active |
 | [CrewAI](https://crewai.com) | Agent Frameworks & Infrastructure | active |
 | [LangSmith](https://www.langchain.com/langsmith-platform) | Agent Frameworks & Infrastructure | active |
@@ -106,7 +91,7 @@ Quick reference index of selected products.
 | [Cognee](https://www.cognee.ai/) | Agent Frameworks & Infrastructure | active |
 | [MemOS](https://github.com/MemTensor/MemOS) | Agent Frameworks & Infrastructure | active |
 | [LangMem](https://langchain-ai.github.io/langmem/) | Agent Frameworks & Infrastructure | active |
-| [Memobase](https://www.memobase.io/) | Agent Frameworks & Infrastructure | active |
+| [Memobase](https://github.com/memodb-io/memobase) | Agent Frameworks & Infrastructure | active |
 | [memU](https://github.com/NevaMind-AI/memU) | Agent Frameworks & Infrastructure | active |
 | [EverOS](https://github.com/EverMind-AI/EverOS) | Agent Frameworks & Infrastructure | active |
 | [Mirix](https://mirix.io/) | Agent Frameworks & Infrastructure | active |
@@ -194,8 +179,8 @@ Quick reference index of selected products.
 | [APILayer](https://apilayer.com/) | Developer Platforms | active |
 | [Apidog](https://apidog.com/) | Developer Platforms | active |
 | [Daily](https://www.daily.co/) | Developer Platforms | active |
-| [Midjourney](https://www.midjourney.com/) | Image Creation & Editing | active |
 | [Picsart](https://picsart.com) | Image Creation & Editing | active |
+| [Leonardo AI](https://leonardo.ai) | Image Creation & Editing | active |
 | [Facetune](https://www.facetuneapp.com/) | Image Creation & Editing | active |
 | [Remini](https://remini.ai) | Image Creation & Editing | active |
 | [FaceApp](https://www.faceapp.com/) | Image Creation & Editing | active |
@@ -250,6 +235,8 @@ Quick reference index of selected products.
 | [HeyGen](https://www.heygen.com) | Video Generation & Editing | active |
 | [Descript](https://www.descript.com/) | Video Generation & Editing | active |
 | [Loom](https://www.loom.com/) | Video Generation & Editing | active |
+| [Hailuo AI Video Generator](https://hailuoai.video) | Video Generation & Editing | active |
+| [PixVerse](https://www.pixverse.ai/) | Video Generation & Editing | active |
 | [OpusClip](https://www.opus.pro/) | Video Generation & Editing | active |
 | [VEED](https://www.veed.io) | Video Generation & Editing | active |
 | [invideo](https://invideo.io) | Video Generation & Editing | active |
@@ -309,10 +296,11 @@ Quick reference index of selected products.
 | [SOLO](https://www.solotwinstudios.com/) | Filmmaking & Localization | active |
 | [Utopia Studios](https://www.utopaistudios.com/) | Filmmaking & Localization | active |
 | [Escape](https://escape.ai/) | Filmmaking & Localization | active |
-| [FSH Technologies](https://fsh.org/) | Filmmaking & Localization | active |
 | [ElevenLabs](https://elevenlabs.io) | Speech & Transcription Applications | active |
+| [AssemblyAI](https://www.assemblyai.com/) | Speech & Transcription Applications | active |
 | [Amazon Polly](https://aws.amazon.com/polly/) | Speech & Transcription Applications | active |
 | [OpenAI TTS](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/) | Speech & Transcription Applications | active |
+| [Speechmatics](https://www.speechmatics.com/) | Speech & Transcription Applications | active |
 | [Google Cloud TTS](https://cloud.google.com/text-to-speech) | Speech & Transcription Applications | active |
 | [Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech) | Speech & Transcription Applications | active |
 | [Speechify](https://speechify.com) | Speech & Transcription Applications | active |
@@ -339,6 +327,8 @@ Quick reference index of selected products.
 | [Clipto.AI](https://www.clipto.com/) | Speech & Transcription Applications | active |
 | [Willow Voice](https://willowvoice.com/) | Speech & Transcription Applications | active |
 | [Autio](https://autio.com/) | Speech & Transcription Applications | active |
+| [Suno](https://suno.com) | Music, Audio & Podcasts | active |
+| [Udio](https://www.udio.com) | Music, Audio & Podcasts | active |
 | [Google Flow Music](https://www.flowmusic.app/) | Music, Audio & Podcasts | active |
 | [Music](https://music.ai/) | Music, Audio & Podcasts | active |
 | [Libsyn](https://libsyn.com/) | Music, Audio & Podcasts | active |
@@ -485,7 +475,7 @@ Quick reference index of selected products.
 | [Vizly](https://vizly.ai/) | Data Platforms & Analytics | active |
 | [Coactive](https://www.coactive.ai/) | Data Platforms & Analytics | active |
 | [Syntho](https://www.syntho.ai) | Data Platforms & Analytics | active |
-| [Hazy](https://www.sas.com/en_th/news/press-releases/2024/november/hazy-syntheticdata.html) | Data Platforms & Analytics | active |
+| [Hazy](https://www.sas.com/en_ie/software/data-maker.html) | Data Platforms & Analytics | active |
 | [Aindo](https://aindo.com) | Data Platforms & Analytics | active |
 | [David AI](https://www.withdavid.ai/) | Data Platforms & Analytics | active |
 | [Paradigm](https://paradigmai.com) | Data Platforms & Analytics | active |
@@ -625,7 +615,7 @@ Quick reference index of selected products.
 | [Pietra](https://www.pietrastudio.com/) | Commerce & Shopping | active |
 | [Doji](https://www.doji.com/) | Commerce & Shopping | active |
 | [Yuma](https://yuma.ai/) | Commerce & Shopping | active |
-| [Beni](https://beni.ai/) | Commerce & Shopping | active |
+| [Beni](https://shopbeni.com/) | Commerce & Shopping | active |
 | [Whering](https://www.whering.co/) | Commerce & Shopping | active |
 | [Acloset](https://www.acloset.app/) | Commerce & Shopping | active |
 | [Cladwell](https://cladwell.com/) | Commerce & Shopping | active |
@@ -752,6 +742,7 @@ Quick reference index of selected products.
 | [Backflip](https://www.backflip.ai/) | 3D & Spatial Tools | active |
 | [Intangible.ai](https://www.intangible.ai/) | 3D & Spatial Tools | active |
 | [Eufymake](https://www.eufymake.com/) | 3D & Spatial Tools | active |
+| [Alpha3D](https://www.alpha3d.io/) | 3D & Spatial Tools | active |
 | [AI Build](https://ai-build.com/) | 3D & Spatial Tools | active |
 | [AI Dungeon](https://www.aidungeon.com/) | Games & Interactive Media | active |
 | [Aimlabs](https://aimlabs.com/) | Games & Interactive Media | active |
@@ -786,10 +777,8 @@ Quick reference index of selected products.
 | [Bedtimestory.ai](https://www.bedtimestory.ai/) | Writing & Publishing | active |
 | [Compose](https://www.compose.ai/) | Writing & Publishing | active |
 | [Cleft](https://cleftnotes.com/) | Writing & Publishing | active |
-| [CopyMonkey.ai](https://copymonkey.ai/) | Writing & Publishing | active |
 | [Rosebud](https://www.rosebud.app/) | Writing & Publishing | active |
 | [mindsera](https://mindsera.com/) | Writing & Publishing | active |
-| [Bertha AI](https://bertha.ai/) | Writing & Publishing | active |
 | [Go Moonbeam](https://www.gomoonbeam.com/) | Writing & Publishing | active |
 | [Pirr](https://www.pirr.ai/) | Writing & Publishing | active |
 | [Presentations.AI](https://www.presentations.ai/) | Writing & Publishing | active |

@@ -21,10 +21,9 @@ Section reading context is maintained only in `catalog/section-guides.yaml`, key
    - Include the following information:
      - Product name
      - Website URL
-     - Category (e.g., AI Image Tools, AI Coding Tools, Vision Models)
+     - Section (from the current README table of contents)
      - Provider/Company name
-     - Version (if applicable, or "Latest")
-     - Brief description (1-2 sentences)
+     - Brief description (1-2 sentences, including notable model versions if relevant)
 
 3. **Wait for review**
    - The maintainer will review and add the product to the repository
@@ -39,26 +38,29 @@ Include the same information as listed in Option 1.
 
 When submitting a product, please follow this format:
 
-- **Product Name**: [Name]
+- **Product Name**: [Name without version numbers; model/product line name only]
 - **Website**: [URL]
-- **Category**: [Category from the list below]
+- **Section**: [Section from the README table of contents]
 - **Provider**: [Company/Provider Name]
-- **Version**: [Version number or "Latest"]
-- **Description**: [Brief 1-2 sentence description]
+- **Description**: [Brief 1-2 sentence description; current model versions belong here, not in the name]
 
-### Categories
+### Sections
 
-Products should be categorized into one of the following:
+The catalog is organized into 22 groups with 49 sections — see the table of
+contents in [README.md](README.md) for the current, authoritative list (Models,
+Agent Development Infrastructure, Coding & App Development, Image & Design,
+Video & Filmmaking, Voice/Speech/Audio, Search & Web Data, Data & AI
+Infrastructure, Productivity & Knowledge, and more, down to vertical and
+discovery sections).
 
-- **Large Language Models (LLMs)** - General Purpose LLMs, Web Development LLMs
-- **Vision Models** - Vision-Language Models (VLMs), Computer Vision Models
-- **AI Image Tools** - Text-to-Image Models, Image-to-Image Models
-- **AI Video Tools** - Text-to-Video Models, Image-to-Video Models
-- **AI Audio Tools** - Text-to-Speech (TTS), Speech-to-Text (ASR), Music Generation
-- **AI Coding Tools** - Coding Agents & IDEs, Code Completion, Low-Code/No-Code Platforms, Code Quality & Security
-- **AI Search Tools** - Search-Enhanced LLMs, Search APIs, Search Engines, E-commerce Search, AI Browsers
-- **AI 3D Model Generation** - Text-to-3D Models, Image-to-3D Models
-- **AI Agents** - Video Editing Agents, Design Agents, Music Agents
+Naming rules:
+
+- Model entries are listed by family or product line (e.g. `Qwen Coder`,
+  `GPT Image`, `Nano Banana`); version numbers live in the description.
+- Platform and application entries belong in their application section, not in
+  the Models sections; hosted third-party model endpoints are not listed as
+  separate model families.
+- Within a section, better-known products are listed first.
 
 ### Code of Conduct
 

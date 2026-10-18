@@ -101,46 +101,42 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://docs.z.ai/" target="_blank">GLM</a> - Large language model family from Zhipu AI (Z.ai), spanning GLM-4, GLM-4.5 and GLM-5, offered via the Z.ai API with open-weight releases under the MIT license since 2025.
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Hunyuan is Tencent's family of AI models spanning language, image, video and three-dimensional content generation.
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax's language model family with open weights, covering text generation, coding and tool-assisted workflows; current release M2.7.
-- <a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">Qwen3 Coder</a> - Alibaba's specialized coding model family under the Apache 2.0 license, spanning Qwen2.5-Coder, Qwen3-Coder and Qwen3-Coder-Next.
+- <a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">Qwen Coder</a> - Alibaba's specialized coding model family under the Apache 2.0 license, spanning Qwen2.5-Coder, Qwen3-Coder and Qwen3-Coder-Next.
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Language model family from Aleph Alpha, supporting multilingual text and image analysis.
 
 <a id="section-image-models"></a>
 
 ### Image Models
 
-- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - Image and video models from Midjourney, an independent research lab known for artistic quality; the image line has reached V8.
-- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">gpt-image-2.5</a> - OpenAI image generation and editing family; the current gpt-image-2.5 (ChatGPT Images 2.5) generates and edits images from prompts, sketches and reference photos with multilingual in-image text, available in ChatGPT and the API.
-- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana 2.1</a> - Google image generation and editing family; the current Nano Banana 2.1 is a high-efficiency generation and conversational-editing model superseding Nano Banana 2 (Gemini 3.1 Flash Image), offered through Gemini apps, AI Studio and the Gemini API.
+- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - Independent lab Midjourney's text-to-image and video model family known for its artistic style, with image models up to V8; served through its website and Discord.
+- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI image generation and editing family; the current gpt-image-2.5 (ChatGPT Images 2.5) generates and edits images from prompts, sketches and reference photos with multilingual in-image text, available in ChatGPT and the API.
+- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google image generation and editing family; the current Nano Banana 2.1 is a high-efficiency generation and conversational-editing model superseding Nano Banana 2 (Gemini 3.1 Flash Image), offered through Gemini apps, AI Studio and the Gemini API.
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe's text-to-image generation model integrated with Creative Cloud
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> - Open-source text-to-image models with API access
 - <a href="https://bfl.ai/" target="_blank">FLUX</a> - Black Forest Labs' text-to-image generation model
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> - ByteDance Seed image model family; Seedream 4.0 unifies generation and editing with multi-image inputs up to 4K.
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - Text-to-image generation model with a focus on text rendering.
-- <a href="https://leonardo.ai/" target="_blank">Leonardo AI</a> - Generative AI platform for image, art and video, hosting 80+ models including Lucid Origin and Phoenix 1.0 with editing tools.
-- <a href="https://chat.qwen.ai" target="_blank">Qwen-Image-3.0</a> - Alibaba Qwen image-generation family spanning Qwen-Image-2.0 and the current Qwen-Image-3.0, which adds long-prompt comprehension and legible Chinese-English text in images; served via DashScope and Qwen Chat, with open-weight base releases.
+- <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen image-generation family spanning Qwen-Image-2.0 and the current Qwen-Image-3.0, which adds long-prompt comprehension and legible Chinese-English text in images; served via DashScope and Qwen Chat, with open-weight base releases.
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan image-generation family; HunyuanImage-3.0 is an open-weight native-multimodal model with strong in-image text rendering, and the Hy Image 3.5 preview adds multi-round conversational editing with reference images, served via Hunyuan and Tencent Cloud.
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - Text-to-image generation model supporting vectors and mockups
 - <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> - Microsoft AI's text-to-image generation model
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs' text-to-image models, served via its API as photon-1 and photon-flash-1 with up to 4 reference images.
 - <a href="https://hidreamai.com/" target="_blank">HiDream</a> - Omni-modal foundation models from Beijing-based HiDream covering image, video and 3D, with open-source HiDream-E1.1 for editing.
-- <a href="https://www.stepfun.com/" target="_blank">StepFun</a> - StepFun image editing model line: Step Image Edit 2 unifies text-to-image and image editing in one lightweight model.
 - <a href="https://reve.com/" target="_blank">Reve</a> - Text-to-image model with a web app unifying creation, editing and remixing via natural-language and drag-and-drop editing.
 
 <a id="section-video-models"></a>
 
 ### Video Models
 
-- <a href="https://deepmind.google/technologies/veo/" target="_blank">Google Veo 3.1</a> - Google text-to-video generation model with native audio output, 4K resolution support and SynthID watermarking, served through Gemini apps and API.
+- <a href="https://deepmind.google/technologies/veo/" target="_blank">Google Veo</a> - Google text-to-video generation model family; the current Veo 3.1 outputs video with native audio at up to 4K resolution with SynthID watermarking, served through Gemini apps and API.
 - <a href="https://kling.ai/" target="_blank">Kling</a> - Kuaishou's AI video and image platform; its video model line has reached Kling 4.0, and Kling Image 3.0 outputs native 4K.
 - <a href="https://runway.com/" target="_blank">Runway Gen</a> - Runway's video model family led by Gen-4.5, with the GWM-1 general world model alongside, served via its web app and API.
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> - Video generation model family from ByteDance's Seed team; versions span Seedance 1.0 (2025) through 2.0 to the current 2.5 (2026-07), generating synchronized audio at up to 2K resolution from text, image and multi-reference inputs, with 2.5 adding reference control, editing and extendable 30-second clips; also served through the Dreamina platform.
-- <a href="https://hailuoai.video/" target="_blank">Hailuo</a> - MiniMax's AI video generation platform with text-to-video, image-to-video and multimodal editing; latest model is MiniMax H3.
 - <a href="https://lumalabs.ai/ray" target="_blank">Luma Ray</a> - Luma's Ray model family for text-, image- and video-conditioned video generation and editing.
 - <a href="https://pika.art/" target="_blank">Pika</a> - Pika Labs' text-to-video model family; Pika 2.2 outputs 1080p clips up to 10 seconds with Pikaframes and Pikaffects features.
 - <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">WAN</a> - Alibaba's Wan model family for text- and image-conditioned video generation.
 - <a href="https://aivideo.hunyuan.tencent.com/" target="_blank">Tencent Hunyuan Video</a> - Tencent's video generation model family, producing video from both text and image inputs.
 - <a href="https://www.vidu.com/" target="_blank">Vidu</a> - Video generation family from Shengshu Technology, spanning text-to-video, image-to-video and multi-reference video generation.
-- <a href="https://pixverse.ai/" target="_blank">PixVerse</a> - AI video platform whose V6 model outputs 1080p video with native audio, alongside the R2 real-time world model, via web and API.
 - <a href="https://www.genmo.ai/" target="_blank">Mochi</a> - Genmo's open text-to-video model; Mochi 1 preview weights are on Hugging Face with GitHub code and local ComfyUI support.
 - <a href="https://www.animon.ai/" target="_blank">Animon</a> - Anime-specific AI video generator from Tokyo-based Animon, launched April 2025 with unlimited generation on subscriptions.
 
@@ -149,28 +145,20 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 ### Speech Models
 
 - <a href="https://github.com/openai/whisper" target="_blank">OpenAI Whisper</a> - Open-source speech recognition model from OpenAI covering 99 languages and deployable locally; community derivatives include WhisperX and faster-whisper.
-- <a href="https://elevenlabs.io/speech-to-text" target="_blank">ElevenLabs Scribe v2</a> - Speech-to-text model family from ElevenLabs spanning batch, real-time streaming and Medical variants across 90+ languages, built for voice-agent and transcription workloads.
-- <a href="https://docs.cloud.google.com/speech-to-text/docs/models/chirp-3" target="_blank">Google Chirp 3</a> - Speech-to-text model in Google Cloud Speech-to-Text supporting 100+ languages on a Conformer architecture.
+- <a href="https://elevenlabs.io/speech-to-text" target="_blank">ElevenLabs Scribe</a> - Speech-to-text model family from ElevenLabs spanning batch, real-time streaming and Medical variants across 90+ languages, built for voice-agent and transcription workloads.
+- <a href="https://docs.cloud.google.com/speech-to-text/docs/models/chirp-3" target="_blank">Google Chirp</a> - Speech-to-text model family in Google Cloud Speech-to-Text; the current Chirp 3 supports 100+ languages on a Conformer architecture.
 - <a href="https://deepgram.com/" target="_blank">Deepgram Nova</a> - Speech recognition model that transcribes 142 seconds of audio per second.
-- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - Speech-to-text API supporting long audio files, keyword detection and sentiment analysis.
-- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Speech recognition service with global language coverage, supporting multiple accents and dialects.
-- <a href="https://www.sesame.com/" target="_blank">Sesame CSM-1B</a> - Conversational speech model from Sesame released under Apache 2.0; the small open version accompanies a larger model demonstrated in the company voice demos.
+- <a href="https://www.sesame.com/" target="_blank">Sesame CSM</a> - Conversational speech model from Sesame released under Apache 2.0; the open CSM-1B release accompanies a larger model demonstrated in the company voice demos.
 - <a href="https://www.cartesia.ai/sonic" target="_blank">Sonic</a> - Cartesia family of streaming text-to-speech models for spoken output in real-time applications.
 - <a href="https://dev.hume.ai/voice/docs/text-to-speech-tts/overview" target="_blank">Octave</a> - Hume speech-language model family for expressive text-to-speech generation.
-- <a href="https://fish.audio" target="_blank">Fish Audio S2.1 Pro</a> - Production text-to-speech model from Fish Audio covering 83 languages with inline bracket-tag control of prosody and emotion, improving on S2 Pro in quality, latency and throughput.
+- <a href="https://fish.audio" target="_blank">Fish Audio S2</a> - Production text-to-speech line from Fish Audio spanning S2 Pro and the current S2.1 Pro, covering 83 languages with inline bracket-tag control of prosody and emotion.
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Real-time text-to-speech model with multilingual support.
 - <a href="https://www.zyphra.com/models/zonos2" target="_blank">ZONOS</a> - Zyphra family of speech generation models with voice cloning and real-time text-to-speech variants.
-- <a href="https://groq.com/" target="_blank">Groq Distil Whisper</a> - Hosted transcription service for the Distil-Whisper speech-recognition model on GroqCloud, with usage-based pricing.
-- <a href="https://deepinfra.com/" target="_blank">DeepInfra Whisper</a> - Hosted Whisper transcription service with a throughput of 149 seconds of audio per second.
-- <a href="https://fal.ai/" target="_blank">Fal.ai Wizper</a> - Transcription service capable of transcribing 218 seconds of audio per second.
-- <a href="https://fireworks.ai/" target="_blank">Fireworks Whisper</a> - Whisper-based transcription service processing 353 seconds of audio per second.
 
 <a id="section-music-models"></a>
 
 ### Music Models
 
-- <a href="https://suno.com" target="_blank">Suno</a> - AI music generator that creates songs with vocals in multiple genres from text prompts.
-- <a href="https://www.udio.com/" target="_blank">Udio</a> - AI music generator with support for track extension, remixing and stem extraction.
 - <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> - Google's music generation model integrated with YouTube.
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> - Meta's open-source music generation model, part of the AudioCraft repository.
 
@@ -178,14 +166,11 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 ### 3D & Spatial Models
 
-- <a href="https://www.meshy.ai/" target="_blank">Meshy</a> - 3D model generation supporting text-to-3D, image-to-3D and automatic PBR texture generation.
-- <a href="https://www.tripo3d.ai/" target="_blank">Tripo</a> - Generates 3D models from text prompts and images, aimed at rapid prototyping and concept design.
 - <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> - Generates realistic 3D models with clean geometric structure from text and images, particularly for character generation.
 - <a href="https://spline.design/" target="_blank">Spline AI</a> - Generates 3D objects from text prompts, focused on interactive 3D scene creation for web and app design.
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> - 3D model generation from text prompts and images, with support for multiple export formats.
 - <a href="https://csm.ai/" target="_blank">CSM AI</a> - Tool that generates 3D models from text descriptions; its maker Common Sense Machines was acquired by Google in January 2026.
 - <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> - High-resolution text-to-3D content generation model for graphics and visual technology research.
-- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Converts text or 2D images into game-ready 3D assets, with Unity development support.
 
 <a id="group-agents"></a>
 
@@ -224,7 +209,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.cognee.ai/" target="_blank">Cognee</a> - Open-source AI memory engine that transforms raw data into persistent and dynamic AI memory for agents; combines vector search with knowledge graphs; ECL (Extract, Cognify, Link) framework
 - <a href="https://github.com/MemTensor/MemOS" target="_blank">MemOS</a> - Open-source memory operating system for LLM agents unifying plaintext, activation/KV-cache and parametric memory through MemCube abstractions, with lifecycle scheduling, governance and multi-agent sharing.
 - <a href="https://langchain-ai.github.io/langmem/" target="_blank">LangMem</a> - Open-source memory utilities for LangGraph from the LangChain team, providing fact extraction, consolidation, update and deletion with hot-path tools and a background manager.
-- <a href="https://www.memobase.io/" target="_blank">Memobase</a> - Profile-based long-term memory system for AI applications, handling user profiles, memory events and evolving context; suited to chatbots, companions and user-centric apps.
+- <a href="https://github.com/memodb-io/memobase" target="_blank">Memobase</a> - Profile-based long-term memory system for AI applications, handling user profiles, memory events and evolving context; suited to chatbots, companions and user-centric apps.
 - <a href="https://github.com/NevaMind-AI/memU" target="_blank">memU</a> - Open-source memory sidecar for agents that turns desktop and coding-agent histories into reusable wiki pages, memories and skills, with multi-host adapters.
 - <a href="https://github.com/EverMind-AI/EverOS" target="_blank">EverOS</a> - Portable local-first memory layer for AI agents with Markdown-native, user-owned storage.
 - <a href="https://mirix.io/" target="_blank">Mirix</a> - Screen-level multimodal memory system that monitors the screen in real time, capturing screen, behavior and events into a personalized memory base with reduced storage needs.
@@ -368,8 +353,8 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 [Image generation, editing and enhancement workflows](https://alignify.co/tools/image) address different stages of visual creation.
 
-- <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - Generative AI image service that creates images from text prompts, accessible via its website and Discord.
 - <a href="https://picsart.com" target="_blank">Picsart</a> - Creative platform for photo and video editing with AI image generation and editing tools, offered on web and mobile.
+- <a href="https://leonardo.ai" target="_blank">Leonardo AI</a> - Generative AI platform for image and video creation with fine-tuned models, style presets, an editing canvas and video generation for creative production.
 - <a href="https://www.facetuneapp.com/" target="_blank">Facetune</a> - Mobile image processing app providing AI retouching, filters, and beauty enhancement features
 - <a href="https://remini.ai" target="_blank">Remini</a> - Photo and video enhancement app that restores old or low-quality images and upscales media to higher definition.
 - <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> - Mobile portrait AI editor that can change age, hairstyle, and makeup
@@ -447,6 +432,8 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.heygen.com" target="_blank">HeyGen</a> - AI video platform that generates videos from text using photorealistic avatars, with multilingual translation, dubbing and lip-sync.
 - <a href="https://www.descript.com/" target="_blank">Descript</a> - AI-powered video and podcast editing platform with automatic transcription, text-based editing, screen recording, and AI voice cloning; edit video like editing a document
 - <a href="https://www.loom.com/" target="_blank">Loom</a> - One-click screen recording and sharing with AI video enhancement, text editing, and cross-platform collaboration features
+- <a href="https://hailuoai.video" target="_blank">Hailuo AI Video Generator</a> - AI video and image generation platform built on MiniMax's Hailuo models, turning text prompts into short videos and images.
+- <a href="https://www.pixverse.ai/" target="_blank">PixVerse</a> - AI video generation platform that creates videos from text and image prompts with effects and multiple output styles.
 - <a href="https://www.opus.pro/" target="_blank">OpusClip</a> - AI video tool that cuts long recordings into short clips, with automatic captions, reframing, silence removal and text-based editing.
 - <a href="https://www.veed.io" target="_blank">VEED</a> - Browser-based video editor with automatic captions across many languages, AI editing tools and team collaboration.
 - <a href="https://invideo.io" target="_blank">invideo</a> - Online AI video creation platform that generates videos from prompts or scripts with stock media, subtitles and voiceover.
@@ -513,7 +500,6 @@ For the filmmaking side of this section, [AI-assisted film production](https://a
 - <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> - AI filmmaking company producing short films and advertisements using AI.
 - <a href="https://www.utopaistudios.com/" target="_blank">Utopia Studios</a> - Human-directed, AI-powered film studio whose PAI production engine supports its slate, including Journey to the West.
 - <a href="https://escape.ai/" target="_blank">Escape</a> - AI art aggregation platform showcasing and promoting new forms of digital entertainment.
-- <a href="https://fsh.org/" target="_blank">FSH Technologies</a> - Government technology company building software for cities and public agencies; pivoted from the Contenda AI content platform.
 
 <a id="group-voice-audio"></a>
 
@@ -526,8 +512,10 @@ For the filmmaking side of this section, [AI-assisted film production](https://a
 Speech applications include both [speech recognition and transcription](https://alignify.co/tools/speech-to-text) and [text-to-speech synthesis](https://alignify.co/tools/text-to-speech).
 
 - <a href="https://elevenlabs.io" target="_blank">ElevenLabs</a> - Voice AI platform offering text-to-speech, voice cloning, dubbing and audio generation, with APIs and a large voice library across many languages.
+- <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - Speech-to-text and speech understanding API with real-time transcription, speaker identification and audio intelligence features.
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> - AWS text-to-speech API with 100+ voices in 40+ languages, SSML customization and a billion-parameter generative speech engine.
 - <a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/" target="_blank">OpenAI TTS</a> - OpenAI's text-to-speech API models for synthesizing speech in applications and voice pipelines.
+- <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Speech recognition service with global language coverage, supporting multiple accents and dialects.
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> - Cloud text-to-speech API service from Google Cloud.
 - <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> - Cloud speech service (TTS/ASR) from Microsoft Azure.
 - <a href="https://speechify.com" target="_blank">Speechify</a> - Text-to-speech app that reads documents aloud in 60+ languages, with OCR page scanning and apps for desktop, mobile and web.
@@ -561,6 +549,8 @@ Speech applications include both [speech recognition and transcription](https://
 
 For music creation within this section, [AI music-generation workflows](https://alignify.co/tools/music-generator) explain the available approaches.
 
+- <a href="https://suno.com" target="_blank">Suno</a> - AI music generation platform that creates complete songs with vocals from text prompts across a wide range of genres.
+- <a href="https://www.udio.com" target="_blank">Udio</a> - AI music generation service that creates complete songs from text prompts, with editing, remixing and track extension tools and support for uploaded audio.
 - <a href="https://www.flowmusic.app/" target="_blank">Google Flow Music</a> - Conversational AI music creation tool from Google that generates full-length songs with vocals using the Lyria model family; succeeded the acquired Producer.ai studio.
 - <a href="https://music.ai/" target="_blank">Music</a> - Audio intelligence platform behind Moises, a creative suite for musicians, and enterprise APIs for audio separation.
 - <a href="https://libsyn.com/" target="_blank">Libsyn</a> - One of the earliest podcast hosting services, supporting audio/video uploads, scheduled publishing, analytics, distribution, and monetization tools
@@ -751,7 +741,7 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://vizly.ai/" target="_blank">Vizly</a> - AI data analyst supporting chat queries and automatic visualization report generation
 - <a href="https://www.coactive.ai/" target="_blank">Coactive</a> - Multimodal visual content platform with AI-powered automatic tagging, retrieval, and analysis of images/videos
 - <a href="https://www.syntho.ai" target="_blank">Syntho</a> - Company specializing in AI-powered synthetic data generation.
-- <a href="https://www.sas.com/en_th/news/press-releases/2024/november/hazy-syntheticdata.html" target="_blank">Hazy</a> - Company focused on synthetic data solutions for privacy-preserving data generation; principal software assets acquired by SAS in 2024.
+- <a href="https://www.sas.com/en_ie/software/data-maker.html" target="_blank">Hazy</a> - Synthetic data company focused on privacy-preserving data generation; principal software assets acquired by SAS, whose SAS Data Maker product line now carries the technology.
 - <a href="https://aindo.com" target="_blank">Aindo</a> - Data technology company leveraging AI to generate synthetic data
 - <a href="https://www.withdavid.ai/" target="_blank">David AI</a> - Audio data service that builds voice training datasets for conversational AI
 - <a href="https://paradigmai.com" target="_blank">Paradigm</a> - Agentic research platform where spreadsheet cells can run AI agents that search, enrich and act on data in parallel.
@@ -957,7 +947,7 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://www.pietrastudio.com/" target="_blank">Pietra</a> - Commerce platform for brands that combines sourcing, fulfillment, marketing, and AI-assisted operations.
 - <a href="https://www.doji.com/" target="_blank">Doji</a> - Creates AI avatars for online virtual try-on of fashion clothing.
 - <a href="https://yuma.ai/" target="_blank">Yuma</a> - Ecommerce customer support platform that handles shopper conversations across support channels.
-- <a href="https://beni.ai/" target="_blank">Beni</a> - Secondhand fashion search engine covering 40+ resale marketplaces, with listing alerts and photo search via extension and app.
+- <a href="https://shopbeni.com/" target="_blank">Beni</a> - Secondhand fashion search engine covering 40+ resale marketplaces, with listing alerts and photo search via extension and app.
 - <a href="https://www.whering.co/" target="_blank">Whering</a> - Social wardrobe application for cataloging clothes, planning outfits, and sharing looks.
 - <a href="https://www.acloset.app/" target="_blank">Acloset</a> - Digital wardrobe application that catalogs clothing and recommends outfits.
 - <a href="https://cladwell.com/" target="_blank">Cladwell</a> - Wardrobe planning application that helps users organize clothes and plan outfits.
@@ -1153,6 +1143,7 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://www.backflip.ai/" target="_blank">Backflip</a> - AI-powered tool that converts 3D scans to CAD models with one click
 - <a href="https://www.intangible.ai/" target="_blank">Intangible.ai</a> - No-code platform for creating, editing and collaborating on 3D scenes with AI
 - <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> - No-code AI tool for generating, editing and collaborating on 3D scenes
+- <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Converts text or 2D images into game-ready 3D assets, with Unity development support.
 - <a href="https://ai-build.com/" target="_blank">AI Build</a> - Manufacturing platform combining 3D printing and CNC technologies for automated production
 
 <a id="group-games"></a>
@@ -1205,10 +1196,8 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://www.bedtimestory.ai/" target="_blank">Bedtimestory.ai</a> - Generate highly personalized bedtime stories instantly from prompts
 - <a href="https://www.compose.ai/" target="_blank">Compose</a> - Free Chrome extension that uses AI to autocomplete and generate text.
 - <a href="https://cleftnotes.com/" target="_blank">Cleft</a> - Voice note application that converts spoken thoughts into structured written notes.
-- <a href="https://copymonkey.ai/" target="_blank">CopyMonkey.ai</a> - AI copywriter for Amazon sellers generating keyword-optimized listings; being sunset in favor of successor Jinnify.ai.
 - <a href="https://www.rosebud.app/" target="_blank">Rosebud</a> - AI journaling app that asks follow-up questions, remembers past entries and links patterns, with habit tracking.
 - <a href="https://mindsera.com/" target="_blank">mindsera</a> - AI journaling app with written, voice and photo capture, emotion analysis and 50+ mental-model templates for mental fitness.
-- <a href="https://bertha.ai/" target="_blank">Bertha AI</a> - AI writing and image-generation assistant for WordPress editors (Gutenberg, Elementor, Divi); now closed to all users.
 - <a href="https://www.gomoonbeam.com/" target="_blank">Go Moonbeam</a> - Text content generation service for various types of content
 - <a href="https://www.pirr.ai/" target="_blank">Pirr</a> - AI romance and erotic story creation platform.
 - <a href="https://www.presentations.ai/" target="_blank">Presentations.AI</a> - AI assistant for quickly generating charts, timelines, reports, and presentation slides
