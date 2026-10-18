@@ -193,10 +193,6 @@ descriptions:
     status: approved
     text: Altered（Altered Studio）提供专业级 AI 变声软件与服务，面向媒体和后期制作中的声音表演
     source: registry entity facts, verified 2026-10-18
-  amai:
-    status: approved
-    text: AMAI 是提供 AI 语音与语音合成（文本转语音）技术的厂商
-    source: registry entity facts, verified 2026-10-18
   amazon-bedrock:
     status: approved
     text: 用单一 API 调用多个基础模型，支持文本、图像与多模态推理
@@ -211,8 +207,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   ambersearch:
     status: approved
-    text: AmberSearch 是支持多媒体内容检索的企业搜索引擎
-    source: registry entity facts, verified 2026-10-18
+    text: 整合企业搜索、对话与智能体的商业 AI 平台，前身为 AmberSearch
+    source: registry entity facts and redirect check, verified 2026-10-18
   andi:
     status: approved
     text: Andi 用自然语言对话的方式搜索，用于推荐与知识发现
@@ -377,10 +373,6 @@ descriptions:
     status: approved
     text: Azure Speech 是微软 Azure 的云端语音服务，同时覆盖语音合成（TTS）与语音识别（ASR）
     source: registry entity facts, verified 2026-10-18
-  babystoryai:
-    status: approved
-    text: BabyStoryAI 生成带音乐与配音的个性化婴儿音频故事
-    source: registry entity facts, verified 2026-10-18
   backflip:
     status: approved
     text: 一键将 3D 扫描转换为 CAD 模型的 AI 工具
@@ -499,8 +491,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   bright-machines:
     status: approved
-    text: 制造自动化平台，将机器人与 AI 软件结合，覆盖从产品设计到装配的端到端管理
-    source: registry entity facts, verified 2026-10-18
+    text: 用机器人与 Physical AI 制造 AI 服务器、机架与存储等数据中心基础设施
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   brighthire:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
@@ -583,8 +576,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   casetext:
     status: approved
-    text: 法律检索平台，兼具 AI 法律助手功能
-    source: registry entity facts, verified 2026-10-18
+    text: 法律研究与 AI 法律助手平台，已被 Thomson Reuters 收购
+    source: registry entity facts and redirect check, verified 2026-10-18
   cekura:
     status: approved
     text: 针对生产环境语音与聊天 AI agent 的测试、监控和评估平台
@@ -659,8 +652,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   class-companion:
     status: approved
-    text: 面向教师的工具，用 AI 即时批改并给出反馈，同时辅导学生
-    source: registry entity facts, verified 2026-10-18
+    text: 教师 AI 批改与辅导工具；2025 年 4 月被 Panorama Education 收购
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   claude:
     status: approved
     text: Anthropic 开发的语言模型家族，通过 API 提供，并内置于 Claude 助手产品
@@ -743,8 +737,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   contenda:
     status: approved
-    text: Contenda 支持从零撰写脚本，再基于脚本生成视频
-    source: registry entity facts, verified 2026-10-18
+    text: 面向城市与公共机构的政务技术公司，由 Contenda AI 内容平台转型而来
+    source: registry entity facts and redirect check, verified 2026-10-18
   contents:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
@@ -781,10 +775,6 @@ descriptions:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
     text: 免费的网页版文生图工具，前身为 DALL-E mini，按提示词秒级生成照片、插画、动漫与标志
-  createbookai:
-    status: approved
-    text: CreateBookAI 是 AI 个性化儿童书创作平台，一键生成插画、印制实体书
-    source: registry entity facts, verified 2026-10-18
   creatify:
     status: approved
     text: Creatify 从产品页 URL 生成广告视频，搭配 AI 数字人、脚本和批量制作工具
@@ -807,8 +797,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   csm-ai:
     status: approved
-    text: CSM AI 是根据文本描述生成 3D 模型的工具
-    source: registry entity facts, verified 2026-10-18
+    text: 文本生成 3D 模型工具；Common Sense Machines 已被 Google 收购
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   curipod:
     status: approved
     text: 面向 K-12 的 AI 互动课堂工具，可生成投票和测验
@@ -843,12 +834,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   datachat:
     status: approved
-    text: 生成式分析平台，通过聊天查询数据、获取洞察，无需写代码
-    source: registry entity facts, verified 2026-10-18
-  datagpt:
-    status: approved
-    text: 对话式 AI 数据分析师，实时提供业务数据洞察
-    source: registry entity facts, verified 2026-10-18
+    text: 对话式生成分析平台，无需编码即可查询数据并获得洞察；2025 年被 Mews 收购
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   dataloop:
     status: approved
     text: 端到端 AI 数据管理与标注平台，内置可视化与流水线自动化
@@ -973,10 +961,6 @@ descriptions:
     status: approved
     text: 游戏化的语言学习应用，用短小课程教多门语言，分免费与订阅两档
     source: registry entity facts, verified 2026-10-18
-  dupe:
-    status: approved
-    text: 按价格发现与搜索商品的平台
-    source: registry entity facts, verified 2026-10-18
   durable:
     status: approved
     text: AI 建站工具，同时是面向小企业的软件平台
@@ -1008,10 +992,6 @@ descriptions:
   eduwriter:
     status: approved
     text: AI 辅助论文写作工具，实时生成可下载的论文草稿
-    source: registry entity facts, verified 2026-10-18
-  ego:
-    status: approved
-    text: Ego 是面向游戏的 AI 语音助手平台
     source: registry entity facts, verified 2026-10-18
   elai:
     status: approved
@@ -1084,10 +1064,6 @@ descriptions:
   fabled-ai:
     status: approved
     text: Fabled AI 支持上传书籍并与书中角色对话，展开互动式文学冒险
-    source: registry entity facts, verified 2026-10-18
-  fabularis:
-    status: approved
-    text: Fabularis 为 5-10 岁儿童生成定制故事与多种风格的插画
     source: registry entity facts, verified 2026-10-18
   faceapp:
     status: approved
@@ -1233,10 +1209,6 @@ descriptions:
     status: approved
     text: 数学等 STEM 题目拍照即解的 AI 作业助手，提供分步解析与真人导师在线支持
     source: registry entity facts, verified 2026-10-18
-  gem:
-    status: approved
-    text: 用于二手商品发现与搜索的平台
-    source: registry entity facts, verified 2026-10-18
   gemini-2-5-pro:
     status: approved
     text: Gemini 模型版本，最初以公开实验预览版发布，默认启用 thinking 模式
@@ -1264,10 +1236,6 @@ descriptions:
   generative-ai:
     status: approved
     text: Generative AI 是独立博客兼咨询服务，做生成式 AI 的科普教学与资源汇总
-    source: registry entity facts, verified 2026-10-18
-  genesis-cloud:
-    status: approved
-    text: Genesis Cloud 是企业级 GPU 云，提供用于训练和推理的 H100/H200/B200 实例
     source: registry entity facts, verified 2026-10-18
   genie:
     status: approved
@@ -1320,10 +1288,6 @@ descriptions:
   gloo:
     status: approved
     text: 连接信仰生态的技术平台，为教会、宗教组织和非营利机构提供 AI 驱动的内容分发与管理工具，已服务超 14 万家机构
-    source: registry entity facts, verified 2026-10-18
-  glyph-ai:
-    status: approved
-    text: 教育领域的 AI 速记工具
     source: registry entity facts, verified 2026-10-18
   gmi-cloud:
     status: approved
@@ -1399,8 +1363,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   gretel-ai:
     status: approved
-    text: 面向隐私保护数据生成的合成数据平台
-    source: registry entity facts, verified 2026-10-18
+    text: 面向隐私保护的合成数据生成平台，已被 Nvidia 收购并并入 NeMo 体系
+    source: registry entity facts and redirect check, verified 2026-10-18
   griptape:
     status: approved
     text: 开源 Python 框架，配套云平台，用于构建、运行和治理企业 AI Agent 与工作流
@@ -1451,8 +1415,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   hazy:
     status: approved
-    text: 提供合成数据方案的公司，专注隐私保护的数据生成
-    source: registry entity facts, verified 2026-10-18
+    text: 专注隐私保护合成数据的公司，主要软件资产已被 SAS 收购
+    source: registry entity facts and redirect check, verified 2026-10-18
   headshotpro:
     status: approved
     text: AI 头像生成器，把自拍变成专业商务肖像，可选多种风格与背景
@@ -1653,10 +1617,6 @@ descriptions:
     status: approved
     text: Jenni.ai 是 AI 写作助手，辅助学术写作、研究整理与逻辑生成
     source: registry entity facts, verified 2026-10-18
-  jigger:
-    status: approved
-    text: Jigger 是反机器人工具包，用于保护游戏和区块链资产
-    source: registry entity facts, verified 2026-10-18
   jina-ai:
     status: approved
     text: Jina AI 已于 2025 年 10 月被 Elastic 收购，现提供面向多模态与多语言 Embedding、重排序、检索和 RAG 的 AI 搜索模型与 API 产品线
@@ -1695,8 +1655,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   karma:
     status: approved
-    text: 以价格为核心的商品发现与搜索平台
-    source: registry entity facts, verified 2026-10-18
+    text: AI 购物助手，跨商店追踪价格、自动找优惠码并提醒降价，已转型智能体购物平台
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   kastle-ai:
     status: approved
     text: 金融服务语音 AI agent 平台，专注抵押贷款业务
@@ -1948,8 +1909,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   marr-labs:
     status: approved
-    text: 用于客户互动的语音与聊天自动化，支持资格甄别、转接和工作流集成
-    source: registry entity facts, verified 2026-10-18
+    text: 客户语音与聊天自动化平台；2026 年 9 月被 PayNearMe 收购
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   martian:
     status: approved
     text: 模型路由平台，为每个请求自动选择 LLM，在成本、延迟与输出质量之间取得平衡
@@ -1968,8 +1930,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   mcp-run:
     status: approved
-    text: MCP.run 是 Dylibso 推出的运行时，在沙箱化的 WebAssembly 环境中执行 Model Context Protocol 工具
-    source: registry entity facts, verified 2026-10-18
+    text: Dylibso 推出的自托管 MCP 网关与管理平台，由 MCP.run 沙箱运行时演进而来
+    source: registry entity facts and redirect check, verified 2026-10-18
   mdclone:
     status: approved
     text: 医疗数据分析平台，在保护隐私的同时生成合成数据
@@ -2086,10 +2048,6 @@ descriptions:
     status: approved
     text: 在线协作白板平台，用于绘图、工作坊与规划，配有 AI 辅助创作功能
     source: registry entity facts, verified 2026-10-18
-  mirror-mirror:
-    status: approved
-    text: 以 AI 镜子实现虚拟试穿的平台
-    source: registry entity facts, verified 2026-10-18
   mistral-model:
     status: approved
     text: Mistral AI 的通用语言模型家族，按 Small、Medium、Large 分档（如 Mistral Large 2、Mistral Medium 3），通过 la Plateforme API 提供并支持企业部署
@@ -2193,10 +2151,6 @@ descriptions:
   musico:
     status: approved
     text: Musico 是生成式音乐引擎，产出可自适应的免版税配乐
-    source: registry entity facts, verified 2026-10-18
-  mutableai:
-    status: approved
-    text: AI 开发工具，覆盖自动补全、文档生成和代码重构
     source: registry entity facts, verified 2026-10-18
   my-map-ai:
     status: approved
@@ -2392,8 +2346,8 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   papercup:
     status: approved
-    text: Papercup 提供端到端 AI 配音和视频本地化，语言质量由人工审核把关
-    source: registry entity facts, verified 2026-10-18
+    text: 端到端 AI 配音与视频本地化平台，配人工质检，2025 年被 RWS 收购
+    source: registry entity facts and redirect check, verified 2026-10-18
   paperguide:
     status: approved
     text: AI 研究助手，自动检索文献、起草文献综述并管理引用
@@ -2445,10 +2399,6 @@ descriptions:
   perplexity-sonar:
     status: approved
     text: Perplexity 的 API 模型家族，内置联网搜索，提供有网络依据的回答与推理
-    source: registry entity facts, verified 2026-10-18
-  perplexity-sonar-pro-high:
-    status: approved
-    text: Perplexity Sonar 系列的模型变体，用于生成搜索增强的语言模型回答
     source: registry entity facts, verified 2026-10-18
   phia:
     source: registry entity facts and official website, verified 2026-10-18
@@ -2510,10 +2460,6 @@ descriptions:
     status: approved
     text: AI 图像编辑应用，提供背景去除、修饰、画面扩展和超分辨率，已从 Pixelcut 更名为 Pixa，转型自然语言创意工作台
     source: registry entity facts, verified 2026-10-18
-  pixite:
-    source: registry entity facts and official website, verified 2026-10-18
-    status: approved
-    text: AI 电商平台，把文字描述变成定制服饰图案并按需生产，让小创作者无需备库存即可卖周边
   pixlr:
     status: approved
     text: 跨平台在线 AI 图像编辑器，支持图像生成、背景去除、增强与批量编辑
@@ -2532,15 +2478,11 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   platform-sh:
     status: approved
-    text: 支持多语言 Web 应用构建、部署与扩展的云 PaaS 平台，较新的产品线以 Upsun 品牌运营
-    source: registry entity facts, verified 2026-10-18
+    text: 构建、部署与扩展多语言 Web 应用的云 PaaS 平台，由 Platform.sh 更名而来
+    source: registry entity facts and redirect check, verified 2026-10-18
   plaud:
     status: approved
     text: PLAUD 是 AI 录音与总结工具，自动转录多语言对话并生成要点与行动项
-    source: registry entity facts, verified 2026-10-18
-  plush:
-    status: approved
-    text: 以文字方式发现和搜索商品的平台
     source: registry entity facts, verified 2026-10-18
   podbean:
     status: approved
@@ -2635,9 +2577,10 @@ descriptions:
     text: AI 作业助手，用分步讲解回答数学、科学等学科问题
     source: registry entity facts, verified 2026-10-18
   quil:
-    source: registry entity facts and official website, verified 2026-10-18
     status: approved
-    text: 面向招聘与猎头公司的 AI 助手（前身 Quil），自动撰写通话笔记并辅助寻访与信息补全，原生对接 40 多个 ATS
+    text: 招聘机构 AI 助手（原 Quil，更名 CoRecruit），自动写面试笔记并同步 ATS
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   quip:
     status: approved
     text: 嵌入 Salesforce 的实时文档协作工具，整合了电子表格与聊天功能
@@ -2786,18 +2729,10 @@ descriptions:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
     text: Reve 的文生图模型，配套统一网页应用，支持创建、编辑与重混图像，将自然语言指令与拖拽式编辑器相结合
-  revery-ai:
-    source: registry entity facts and official website, verified 2026-10-18
-    status: approved
-    text: AI 虚拟试衣间，把商品平铺图变成专业时尚摄影，曾服务 Neiman Marcus 等零售商，为 YC S21 初创公司
   revid:
     status: approved
     text: revid.ai 是 AI 视频生成工具，从提示词或脚本生成面向 TikTok、Instagram 和 YouTube 的短视频
     source: registry entity facts, verified 2026-10-18
-  rewatch:
-    source: registry entity facts and official website, verified 2026-10-18
-    status: approved
-    text: AI 会议平台，提供录制、自动笔记与待办提取，兼作可搜索的团队视频库，2024 年被 Atlassian 收购并入 Loom
   ribbon:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
@@ -3075,9 +3010,9 @@ descriptions:
     text: 支持实时分析与数据湖查询的分布式 OLAP 数据仓库
     source: registry entity facts, verified 2026-10-18
   statespace:
-    source: registry entity facts and official website, verified 2026-10-18
     status: approved
-    text: Aimlabs 母公司，旗下瞄准训练平台内置数万种任务，并获 Valorant 官方训练合作
+    text: 内置 AI 教练的瞄准训练器，含 Valorant 等游戏官方训练内容
+    source: registry entity facts and redirect check, verified 2026-10-18
   stenography:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
@@ -3196,8 +3131,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   symbl:
     status: approved
-    text: 实时对话智能平台，用 NLP 从语音、视频和聊天对话中提取洞察
-    source: registry entity facts, verified 2026-10-18
+    text: 实时对话智能平台，从语音、视频和聊天中提取洞察；2025 年 5 月被 Invoca 收购
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   synthesia:
     status: approved
     text: Synthesia 是 AI 视频生成平台，用 AI 数字人制作支持多语言的专业视频
@@ -3239,9 +3175,10 @@ descriptions:
     text: 商业地产行业的潜客开发平台，把房源数据与电话外呼流程结合起来
     source: registry entity facts, verified 2026-10-18
   text-cortex-ai:
-    source: registry entity facts and official website, verified 2026-10-18
     status: approved
-    text: 在网页任意输入框生效的 AI 写作助手，集成改写、扩写与摘要工具，可接入数千个应用
+    text: 可嵌入任意文本框的 AI 写作助手，提供改写与摘要等工具，已转向企业级 AI 智能体平台
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   the-culture-dao:
     source: registry entity facts and official website, verified 2026-10-18
     status: approved
@@ -3269,10 +3206,6 @@ descriptions:
   toast:
     status: approved
     text: 餐饮云端 POS 系统，整合点单、支付、员工管理与 AI 分析
-    source: registry entity facts, verified 2026-10-18
-  tolvia:
-    status: approved
-    text: Tolvia 是面向消费级服务的语音 AI 平台
     source: registry entity facts, verified 2026-10-18
   toma:
     status: approved
@@ -3528,8 +3461,8 @@ descriptions:
     text: 按住快捷键即可向任意应用听写的语音输入工具，支持离线与上百种语言，覆盖三大桌面移动端
   windsurf:
     status: approved
-    text: AI 代码编辑器，除自动补全外还内置可规划并修改多文件代码库的自主 Agent，由原 Codeium 公司开发
-    source: registry entity facts, verified 2026-10-18
+    text: AI 代码编辑器；已并入 Cognition，产品更名 Devin Desktop
+    source: registry entity facts and redirect check, verified 2026-10-18
   winn-ai:
     status: approved
     text: 销售执行助手，记录通话、调出 playbook 并更新 CRM 记录
@@ -3543,9 +3476,9 @@ descriptions:
     text: SEO 与 AI 搜索可见性公司，整合服务、AI agent 和平台，帮助品牌增长自然流量以及在各 AI 助手中的露出
     source: registry entity facts, verified 2026-10-18
   wombo-ai:
-    source: registry entity facts and official website, verified 2026-10-18
     status: approved
-    text: AI 娱乐公司，主打应用 WOMBO Meme 可将人物与宠物照片变成 AI 生成的梗图头像
+    text: 汇聚全球闲置 GPU 的去中心化 AI 算力网络，由 WOMBO 转型而来
+    source: registry entity facts and redirect check, verified 2026-10-18
   wonder-3d:
     status: approved
     text: Autodesk Flow Studio（原 Wonder Dynamics 的 Wonder Studio）把 CG 角色动画化并合成到实拍画面，还能生成 3D 资产，现已归属 Autodesk
@@ -3558,17 +3491,9 @@ descriptions:
     status: approved
     text: 基于浏览器的 AI 工具开发 IDE，支持自然语言编程、LLM 编排与多模态 agent 构建
     source: registry entity facts, verified 2026-10-18
-  write-with-laika:
-    status: approved
-    text: Write with LAIKA 是专为作家设计的 AI 写作助手
-    source: registry entity facts, verified 2026-10-18
   writesonic:
     status: approved
     text: AI 写作与 SEO 平台，用来生成文章并追踪品牌在 AI 搜索引擎中的曝光
-    source: registry entity facts, verified 2026-10-18
-  yaw:
-    status: approved
-    text: 基于价格的商品发现与搜索平台
     source: registry entity facts, verified 2026-10-18
   yellow-ai:
     status: approved
@@ -3580,8 +3505,9 @@ descriptions:
     source: registry entity facts, verified 2026-10-18
   yodayo:
     status: approved
-    text: 主打动漫的 AI 平台，整合角色聊天、图像生成与角色创建
-    source: registry entity facts, verified 2026-10-18
+    text: 动漫角色聊天与图像生成平台，前身为 Yodayo，现已更名 Moescape
+    source: registry entity facts and status check
+    verified: '2026-10-18'
   you-com:
     status: approved
     text: You.com 现为 LLM 和企业应用提供网页搜索 API，此前曾做消费级 AI 搜索引擎
@@ -3611,9 +3537,9 @@ descriptions:
     text: Zeta Alpha 是面向企业的神经搜索平台，用于知识的发现与共享
     source: registry entity facts, verified 2026-10-18
   zmo:
-    source: registry entity facts and official website, verified 2026-10-18
     status: approved
-    text: AI 图像生成套件，覆盖数十种风格的动漫图、AI 写真与生成式改图，主打电商场景背景替换
+    text: 生成产品视频广告与 UGC 风格短片的 AI 创意平台，前身为 ZMO.ai
+    source: registry entity facts and redirect check, verified 2026-10-18
   zoca:
     status: approved
     text: 面向本地美容美发门店的 AI 营销平台，自动化获客与客户留存

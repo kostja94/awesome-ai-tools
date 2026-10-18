@@ -26,7 +26,7 @@ sections:
   - registry_id: deepseek-v3
   - registry_id: minimax-m2-7
   - registry_id: qwen2-5-coder
-  - registry_id: perplexity-sonar-pro-high
+
   - registry_id: perplexity-sonar
 - id: image-models
   title: Image Models
@@ -81,7 +81,7 @@ sections:
   - registry_id: hume-octave
   - registry_id: zyphra-zonos
   - registry_id: inworld-tts
-  - registry_id: amai
+
   - registry_id: openai-whisper
   - registry_id: assemblyai-model
   - registry_id: deepgram-nova
@@ -247,7 +247,7 @@ sections:
   - registry_id: blackbox
   - registry_id: augment-code
   - registry_id: codex
-  - registry_id: mutableai
+
   - registry_id: moderne
   - registry_id: cleric
 - id: app-builders
@@ -440,7 +440,7 @@ sections:
   - registry_id: wispr-flow
   - registry_id: dialpad
   - registry_id: delphi
-  - registry_id: tolvia
+
   - registry_id: autio
   - registry_id: plaud
   - registry_id: clipto-ai
@@ -560,7 +560,7 @@ sections:
   - registry_id: e2e-networks
   - registry_id: vast-ai
   - registry_id: jarvis-labs
-  - registry_id: genesis-cloud
+
   - registry_id: leadergpu
   - registry_id: irender
   - registry_id: verda-formerly-datacrunch
@@ -613,7 +613,7 @@ sections:
   - registry_id: datachat
   - registry_id: vizly
   - registry_id: morph
-  - registry_id: datagpt
+
   - registry_id: kater
   - registry_id: deepnote
   - registry_id: thoughtspot
@@ -726,7 +726,7 @@ sections:
   group_title: Productivity & Knowledge
   items:
   - registry_id: read
-  - registry_id: rewatch
+
   - registry_id: granola
   - registry_id: fathom
   - registry_id: supernormal
@@ -826,26 +826,25 @@ sections:
   - registry_id: doji
   - registry_id: alta
   - registry_id: glam-ai
-  - registry_id: mirror-mirror
-  - registry_id: revery-ai
+
   - registry_id: acloset
   - registry_id: cladwell
   - registry_id: indyx
   - registry_id: openwardrobe
   - registry_id: whering
-  - registry_id: plush
+
   - registry_id: cherry
   - registry_id: lookverse
   - registry_id: onton
-  - registry_id: dupe
+
   - registry_id: karma
   - registry_id: spoken
-  - registry_id: yaw
+
   - registry_id: beni
-  - registry_id: gem
+
   - registry_id: phia
   - registry_id: retrofit
-  - registry_id: pixite
+
   - registry_id: printgen
   - registry_id: alhena
   - registry_id: humind
@@ -912,7 +911,7 @@ sections:
   - registry_id: sobrief
   - registry_id: echolabs
   - registry_id: notability
-  - registry_id: glyph-ai
+
   - registry_id: coconote
 - id: research-writing
   title: Research & Academic Writing
@@ -1002,13 +1001,13 @@ sections:
   group_title: Games
   items:
   - registry_id: ai-dungeon
-  - registry_id: ego
+
   - registry_id: volley
   - registry_id: layer
   - registry_id: agentic
   - registry_id: epoch
   - registry_id: regression-games
-  - registry_id: jigger
+
   - registry_id: incymo
   - registry_id: the-culture-dao
   - registry_id: gg-predict
@@ -1025,7 +1024,7 @@ sections:
   items:
   - registry_id: rytr
   - registry_id: hyper-write
-  - registry_id: write-with-laika
+
   - registry_id: bertha-ai
   - registry_id: copymonkey-ai
   - registry_id: copysmith
@@ -1044,7 +1043,7 @@ sections:
   - registry_id: prezent
   - registry_id: child-book
   - registry_id: ainia
-  - registry_id: createbookai
+
   - registry_id: scarlett-panda
   - registry_id: bookbildr
   - registry_id: bedtimestory-ai
@@ -1053,9 +1052,9 @@ sections:
   - registry_id: storybooks
   - registry_id: storywizard-ai
   - registry_id: storiesforkids-ai
-  - registry_id: fabularis
+
   - registry_id: story-com
-  - registry_id: babystoryai
+
   - registry_id: ai-story-generator
   - registry_id: storybook-ai
   - registry_id: story-spark
@@ -1455,4 +1454,67 @@ exclusions:
   registry_id: gpt-4o
 - ref: Workflow Automation#Composio.dev
   reason: Composio.dev duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Speech & Transcription Applications#Tolvia
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: tolvia
+- ref: Commerce & Shopping#Mirror Mirror
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: mirror-mirror
+- ref: Commerce & Shopping#Plush
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: plush
+- ref: Commerce & Shopping#Dupe
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: dupe
+- ref: Commerce & Shopping#YAW
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: yaw
+- ref: Commerce & Shopping#Gem
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: gem
+- ref: Learning & Teaching#Glyph AI
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: glyph-ai
+- ref: Games & Interactive Media#Ego
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18; removed from the public catalog.
+  registry_id: ego
+- ref: Writing & Publishing#BabyStoryAI
+  reason: 'Status check 2026-10-18: domain parked since 2026-01, no operating trace; removed from the public catalog.'
+  registry_id: babystoryai
+- ref: Cloud & Model Infrastructure#Genesis Cloud
+  reason: 'Status check 2026-10-18: company in liquidation since 2025-08, site returning 5xx; removed from the public catalog.'
+  registry_id: genesis-cloud
+- ref: Language & Search Models#Perplexity Sonar Pro High
+  reason: 'Status check 2026-10-18: Sonar API retired by Perplexity on 2026-09-27 (migrated to Agent API); removed from the public catalog.'
+  registry_id: perplexity-sonar-pro-high
+- ref: Commerce & Shopping#Revery AI
+  reason: 'Status check 2026-10-18: team dissolved end of 2022, YC marks inactive, site unresolvable; removed from the public catalog.'
+  registry_id: revery-ai
+- ref: Speech Models#AMAI
+  reason: 'Status check 2026-10-18: DNS unresolvable, no trace of the company anywhere; removed from the public catalog.'
+  registry_id: amai
+- ref: Writing & Publishing#CreateBookAI
+  reason: 'Status check 2026-10-18: service shut down (confirmed no longer active as of 2026-08-31); removed from the public catalog.'
+  registry_id: createbookai
+- ref: Meeting Notes & Summaries#Rewatch
+  reason: 'Status check 2026-10-18: standalone service discontinued after Atlassian acquisition (2024-11), DNS unresolvable; removed from the public catalog.'
+  registry_id: rewatch
+- ref: Data Platforms & Analytics#DataGPT
+  reason: 'Status check 2026-10-18: wound down during 2025, DNS unresolvable; removed from the public catalog.'
+  registry_id: datagpt
+- ref: Writing & Publishing#Fabularis
+  reason: 'Status check 2026-10-18: domain resold to unrelated party, no activity since 2024; removed from the public catalog.'
+  registry_id: fabularis
+- ref: Games & Interactive Media#Jigger
+  reason: 'Status check 2026-10-18: domain redirected to an unrelated property-management company; product dead; removed from the public catalog.'
+  registry_id: jigger
+- ref: Writing & Publishing#Write with LAIKA
+  reason: 'Status check 2026-10-18: domain redirected to an unrelated product (CleverFiles); no LAIKA continuity; removed from the public catalog.'
+  registry_id: write-with-laika
+- ref: Commerce & Shopping#Pixite
+  reason: 'Status check 2026-10-18: domain redirected to an unrelated product; original product dead; removed from the public catalog.'
+  registry_id: pixite
+- ref: Coding Tools#MutableAI
+  reason: 'Status check 2026-10-18: acquired by Google in December 2024 and the standalone product was discontinued; removed from the public catalog.'
+  registry_id: mutableai
 publish_ready: true
