@@ -8,15 +8,21 @@ from section_guides import load_guides, validate_guides
 
 class SectionGuideTests(unittest.TestCase):
     def setUp(self):
-        self.selection = {"sections": [{"id": "language-models", "title": "Language Models"},
-                                       {"id": "unlinked", "title": "No Guide"}]}
+        self.selection = {"sections": [{"id": "language-models", "title": "Language Models",
+                                        "items": [{"registry_id": "example-0"}]},
+                                       {"id": "unlinked", "title": "No Guide",
+                                        "items": [{"registry_id": "example-1"}]}]}
         self.guides = {"schema": "awesome-section-guides/v1", "sections": {
             "language-models": copy.deepcopy(load_guides()["sections"]["language-models"])}}
 
     def render(self, guides):
-        selected = [(s, {"name": "Example", "websites": ["https://example.com"]})
-                    for s in self.selection["sections"]]
-        with patch.object(catalog, "load_guides", return_value=guides):
+        selected = [(s, {"id": f"example-{i}", "name": "Example", "websites": ["https://example.com"]})
+                    for i, s in enumerate(self.selection["sections"])]
+        locale = {"schema": "awesome-zh/v1", "groups": {},
+                  "sections": {"language-models": "语言模型", "unlinked": "无引导"},
+                  "descriptions": {f"example-{i}": {"status": "approved", "text": "示例说明", "source": "test"}
+                                   for i in range(2)}}
+        with patch.object(catalog, "load_guides", return_value=guides), patch.object(catalog, "load_locale", return_value=locale):
             return catalog.render_documents(self.selection, selected)
 
     def test_languages_and_unmapped_section(self):

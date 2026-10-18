@@ -32,9 +32,12 @@ sections:
   music-podcasts:
     en: 'For music creation within this section, [AI music-generation workflows](https://alignify.co/tools/music-generator) explain the available approaches.'
     zh: '本节的音乐创作部分可结合[AI 音乐生成的方式与工作流](https://alignify.co/zh/tools/music-generator)理解。'
-  search-retrieval:
-    en: '[AI search engines for end users](https://alignify.co/tools/search-engine) serve a different role from [web search APIs for applications](https://alignify.co/tools/web-search-api).'
-    zh: '[面向用户的 AI 搜索引擎](https://alignify.co/zh/tools/search-engine)与[面向应用的网页搜索 API](https://alignify.co/zh/tools/web-search-api)承担不同角色。'
+  search-applications:
+    en: '[End-user AI search applications](https://alignify.co/tools/search-engine) combine retrieval with answers and exploration.'
+    zh: '[面向用户的 AI 搜索应用](https://alignify.co/zh/tools/search-engine)结合检索、回答与探索。'
+  search-api-services:
+    en: '[Web search APIs for applications](https://alignify.co/tools/web-search-api) provide programmatic retrieval rather than an end-user search interface.'
+    zh: '[面向应用的网页搜索 API](https://alignify.co/zh/tools/web-search-api)提供程序化检索，而非面向用户的搜索界面。'
   web-data-browsers:
     en: '[Web scraping and data extraction](https://alignify.co/tools/web-scraping) and [AI-assisted browsing](https://alignify.co/tools/browser) describe two distinct workflows in this section.'
     zh: '[网页抓取与数据提取](https://alignify.co/zh/tools/web-scraping)和[AI 辅助浏览](https://alignify.co/zh/tools/browser)是本节中两种不同的工作流。'

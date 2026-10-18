@@ -14,6 +14,8 @@ from pathlib import Path
 import yaml
 
 from section_guides import load_guides, validate_guides
+from purpose_projection import audit as audit_purpose_projection
+from zh_localization import description as zh_description, load_locale, validate_locale
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -21,9 +23,9 @@ CATALOG = ROOT / "catalog" / "selection.yaml"
 DEFAULT_REGISTRY = Path(r"E:\data\ai-product-registry")
 TEMP_RUNS = Path(r"E:\temp\runs")
 ALLOWED_TYPES = {
-    "product", "organization", "model-family", "model-version", "open-source-project", "community"
+    "product", "model-family", "model-version", "open-source-project"
 }
-DEFAULT_EXCLUDED_STATUSES = {"inactive", "shutdown", "acquired"}
+DEFAULT_EXCLUDED_STATUSES = {"inactive", "shutdown", "acquired", "discontinued", "merged", "unknown"}
 
 SECTION_RE = re.compile(r"^(#{2,3})\s+(.+?)\s*$")
 ENTRY_RE = re.compile(r"^\s*-\s+(.*)$")
@@ -224,45 +226,55 @@ def validate(selection: dict, entities: dict[str, dict]) -> tuple[list[str], lis
             selected.append((section, entity))
 
     unresolved = selection.get("unresolved") or []
+    if selection.get("schema") == "awesome-selection/v2":
+        for rid, current, allowed in audit_purpose_projection(selection, entities):
+            errors.append(f"{rid}: purpose/section mismatch {current} -> {allowed}")
     if unresolved:
         warnings.append(f"{len(unresolved)} unresolved legacy entries block publish")
     return errors, warnings, selected
 
 
 def render_documents(selection: dict, selected: list[tuple[dict, dict]]) -> dict[str, str]:
+    locale = load_locale()
+    locale_errors = validate_locale(selection, locale, strict=True)
+    if locale_errors:
+        raise ValueError(f"Chinese publication blocked: {len(locale_errors)} locale errors; first: {locale_errors[0]}")
     grouped: OrderedDict[tuple[str, str], list[dict]] = OrderedDict()
     guides = load_guides().get("sections", {})
     section_ids = {}
+    section_group_ids = {}
     for section, entity in selected:
         grouped.setdefault((section.get("group_title", ""), section["title"]), []).append(entity)
         section_ids[(section.get("group_title", ""), section["title"])] = section["id"]
+        section_group_ids[(section.get("group_title", ""), section["title"])] = section.get("group_id")
 
-    def entry(entity: dict) -> str:
+    def entry(entity: dict, *, chinese: bool = False) -> str:
         site = (entity.get("websites") or [""])[0]
         name = entity["name"]
         line = f'- <a href="{site}" target="_blank">{name}</a>' if site else f"- **{name}**"
-        if entity.get("description"):
-            line += f" - {entity['description']}"
+        prose = zh_description(locale, entity["id"]) if chinese else entity.get("description")
+        if prose:
+            line += f" - {prose}"
         return line
 
-    body = ["# Awesome AI Tools", "", "> A curated selection backed by AI Product Registry facts.", ""]
-    body_cn = ["# Awesome AI Tools", "", "> 由 AI Product Registry 客观事实驱动的精选 AI 工具目录。", ""]
+    body = ['<a href="README.md" target="_blank">English</a> | <a href="README-CN.md" target="_blank">中文</a>', "", "# Awesome AI Tools", "", "> A curated selection backed by AI Product Registry facts.", ""]
+    body_cn = ['<a href="README.md" target="_blank">English</a> | 中文', "", "# Awesome AI Tools", "", "> 由 AI Product Registry 客观事实驱动的精选 AI 工具目录。", ""]
     index = ["# Product Index", "", "Quick reference index of selected products.", "", "| Product | Category | Status |", "|---|---|---|"]
     last_group = None
     for (group, title), entities in grouped.items():
         if group and group != last_group:
             body += [f"## {group}", ""]
-            body_cn += [f"## {group}", ""]
+            body_cn += [f"## {locale['groups'][section_group_ids[(group, title)]]}", ""]
         heading = "###" if group else "##"
         guide = guides.get(section_ids[(group, title)], {})
         body += [f"{heading} {title}", ""]
-        body_cn += [f"{heading} {title}", ""]
+        body_cn += [f"{heading} {locale['sections'][section_ids[(group, title)]]}", ""]
         if guide.get("en"):
             body += [guide["en"], ""]
         if guide.get("zh"):
             body_cn += [guide["zh"], ""]
         body += [entry(e) for e in entities] + [""]
-        body_cn += [entry(e) for e in entities] + [""]
+        body_cn += [entry(e, chinese=True) for e in entities] + [""]
         last_group = group
         for entity in entities:
             site = (entity.get("websites") or [""])[0]
@@ -312,6 +324,9 @@ def command_check(args: argparse.Namespace, render: bool = False, publish: bool 
     for message in errors:
         print(f"ERROR {message}")
     print(f"selected={len(selected)} unresolved={len(selection.get('unresolved') or [])} errors={len(errors)} warnings={len(warnings)}")
+    if not (render or publish):
+        locale_errors = validate_locale(selection, load_locale(), strict=True)
+        print(f"chinese_publication_pending={len(locale_errors)}")
     if errors:
         return 1
     if publish and selection.get("publish_ready") is not True:
@@ -321,6 +336,12 @@ def command_check(args: argparse.Namespace, render: bool = False, publish: bool 
         print("ERROR publish blocked until unresolved is empty")
         return 1
     if render or publish:
+        locale_errors = validate_locale(selection, load_locale(), strict=True)
+        if locale_errors:
+            for message in locale_errors[:10]:
+                print(f"ERROR {message}")
+            print(f"ERROR Chinese publication blocked: {len(locale_errors)} locale errors")
+            return 1
         docs = render_documents(selection, selected)
         run_dir, work_dir = create_temp_run("delete-on-success" if publish else "delete-daily")
         for name, text in docs.items():
