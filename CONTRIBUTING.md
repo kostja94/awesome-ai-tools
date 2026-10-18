@@ -1,6 +1,10 @@
 # Contributing to Awesome AI Tools
 
+> Product facts are maintained in AI Product Registry. This repository maintains the curated inclusion set, categories, and order in `catalog/selection.yaml`; `README.md`, `README-CN.md`, and `INDEX.md` are generated outputs. New submissions must be matched to a verified Registry entity before publication.
+
 Thank you for your interest in contributing to Awesome AI Tools! This document provides guidelines and instructions for contributing.
+
+Section reading context is maintained only in `catalog/section-guides.yaml`, keyed by stable selection section ID, and rendered automatically. Use short contextual sentences with descriptive anchors to matching Alignify articles, not generic calls to visit or copied article summaries. English output links English articles; Chinese output links `/zh/` articles, with no cross-language fallback. Omit a locale when no matching article exists. Verify the article body and route in the local Alignify deployment before adding a link; this is editorial reading context, not a Registry fact source. When splitting or renaming section IDs, explicitly review these mappings; `catalog.py check` rejects orphaned mappings. Do not edit generated READMEs to maintain these links.
 
 ## How to Contribute
 
@@ -8,6 +12,7 @@ Thank you for your interest in contributing to Awesome AI Tools! This document p
 
 1. **Check if the product already exists**
    - Search the README.md and INDEX.md to ensure the product hasn't been added
+   - Search AI Product Registry and identify the stable `registry_id`
 
 2. **Create a new Issue**
    - Go to the [Issues](https://github.com/kostja94/awesome-ai-tools/issues) page

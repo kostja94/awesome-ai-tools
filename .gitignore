@@ -17,3 +17,5 @@ Thumbs.db
 *.xlsx
 *.xls
 
+__pycache__/
+*.pyc

@@ -1,0 +1,64 @@
+schema: awesome-section-guides/v1
+verified_on: '2026-10-18'
+verification: Local Alignify production article bodies and tools route configuration; not a full fact audit.
+sections:
+  language-models:
+    en: 'Model selection starts with [general-purpose LLM capabilities and evaluation trade-offs](https://alignify.co/tools/llm).'
+    zh: '选择模型时，可以先了解[通用大语言模型的能力与评测维度](https://alignify.co/zh/tools/llm)。'
+  agent-evaluation:
+    en: '[Model and application evaluation workflows](https://alignify.co/tools/evaluation) provide context for choosing benchmarks and testing tools.'
+    zh: '[模型与应用评测流程](https://alignify.co/zh/tools/evaluation)提供了选择基准和测试工具的背景。'
+  coding-tools:
+    en: '[AI coding workflows](https://alignify.co/tools/coding) span completion, editing and broader development assistance.'
+    zh: '[AI 编程工具的工作流与适用场景](https://alignify.co/zh/tools/coding)涵盖补全、编辑及更广泛的开发辅助。'
+  app-builders:
+    en: '[Application-building approaches](https://alignify.co/tools/app-builder) help distinguish visual builders from other development tools.'
+    zh: '[应用构建方式与选型](https://alignify.co/zh/tools/app-builder)有助于区分可视化应用搭建与其他开发工具。'
+  image-creation-editing:
+    en: '[Image generation, editing and enhancement workflows](https://alignify.co/tools/image) address different stages of visual creation.'
+    zh: '[图像生成、编辑与增强的工作流](https://alignify.co/zh/tools/image)对应视觉创作中的不同环节。'
+  design-tools:
+    en: '[AI-assisted design workflows](https://alignify.co/tools/design) offer context for the design tools in this section.'
+    zh: '[AI 辅助设计的工作流与应用场景](https://alignify.co/zh/tools/design)为本节设计工具的选择提供背景。'
+  video-generation-editing:
+    en: '[Video generation and editing workflows](https://alignify.co/tools/video) distinguish creating footage from working with existing material.'
+    zh: '[视频生成与编辑的工作流](https://alignify.co/zh/tools/video)帮助区分生成素材与处理已有素材。'
+  filmmaking-localization:
+    en: 'For the filmmaking side of this section, [AI-assisted film production](https://alignify.co/tools/filmmaking) covers creative and post-production workflows.'
+    zh: '本节的影视制作部分可结合[AI 辅助影视创作与后期工作流](https://alignify.co/zh/tools/filmmaking)理解。'
+  speech-applications:
+    en: 'Speech applications include both [speech recognition and transcription](https://alignify.co/tools/speech-to-text) and [text-to-speech synthesis](https://alignify.co/tools/text-to-speech).'
+    zh: '语音应用包括[语音识别与转写](https://alignify.co/zh/tools/speech-to-text)，也包括[文本转语音合成](https://alignify.co/zh/tools/text-to-speech)。'
+  music-podcasts:
+    en: 'For music creation within this section, [AI music-generation workflows](https://alignify.co/tools/music-generator) explain the available approaches.'
+    zh: '本节的音乐创作部分可结合[AI 音乐生成的方式与工作流](https://alignify.co/zh/tools/music-generator)理解。'
+  search-retrieval:
+    en: '[AI search engines for end users](https://alignify.co/tools/search-engine) serve a different role from [web search APIs for applications](https://alignify.co/tools/web-search-api).'
+    zh: '[面向用户的 AI 搜索引擎](https://alignify.co/zh/tools/search-engine)与[面向应用的网页搜索 API](https://alignify.co/zh/tools/web-search-api)承担不同角色。'
+  web-data-browsers:
+    en: '[Web scraping and data extraction](https://alignify.co/tools/web-scraping) and [AI-assisted browsing](https://alignify.co/tools/browser) describe two distinct workflows in this section.'
+    zh: '[网页抓取与数据提取](https://alignify.co/zh/tools/web-scraping)和[AI 辅助浏览](https://alignify.co/zh/tools/browser)是本节中两种不同的工作流。'
+  documents-knowledge:
+    en: 'For knowledge management, [knowledge-base organization and retrieval](https://alignify.co/tools/knowledge-base) provide context beyond individual document tools.'
+    zh: '知识管理部分可结合[知识库的组织与检索方式](https://alignify.co/zh/tools/knowledge-base)理解，不限于单个文档工具。'
+  productivity-automation:
+    en: 'For automation in this section, [workflow orchestration and integration](https://alignify.co/tools/workflow) explain how tools connect individual steps.'
+    zh: '本节的自动化部分可结合[工作流编排与集成方式](https://alignify.co/zh/tools/workflow)理解工具如何连接各个步骤。'
+  learning-tools:
+    en: '[AI-assisted learning and teaching](https://alignify.co/tools/education) covers the educational workflows behind this selection.'
+    zh: '[AI 辅助学习与教学的应用场景](https://alignify.co/zh/tools/education)为这些教育工具提供背景。'
+  recruiting-careers:
+    en: 'For the recruiting side of this section, [AI-assisted recruiting workflows](https://alignify.co/tools/recruiting) explain candidate sourcing and screening use cases.'
+    zh: '本节的招聘部分可结合[AI 辅助招聘工作流](https://alignify.co/zh/tools/recruiting)理解人才寻访与筛选场景。'
+  healthcare:
+    en: '[Healthcare AI use cases and boundaries](https://alignify.co/tools/healthcare) provide context for this sector-specific selection.'
+    zh: '[医疗 AI 的应用场景与边界](https://alignify.co/zh/tools/healthcare)为本节的行业工具提供背景。'
+  legal:
+    en: '[AI-assisted legal workflows](https://alignify.co/tools/legal) explain the legal research and document tasks behind this category.'
+    zh: '[AI 辅助法律工作流](https://alignify.co/zh/tools/legal)介绍本类别涉及的法律研究与文档任务。'
+  spatial-3d:
+    en: '[3D creation and modelling workflows](https://alignify.co/tools/3d) provide context for these spatial tools.'
+    zh: '[3D 创作与建模工作流](https://alignify.co/zh/tools/3d)为这些空间工具提供背景。'
+  chat-social:
+    en: 'For character-based interaction, [character chat and role-playing applications](https://alignify.co/tools/character-chat) explain this subset of conversational tools.'
+    zh: '角色互动部分可结合[角色聊天与角色扮演应用](https://alignify.co/zh/tools/character-chat)理解；它们只是对话工具的一部分。'
