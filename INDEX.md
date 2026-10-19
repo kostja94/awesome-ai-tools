@@ -17,7 +17,6 @@ Quick reference index of selected products.
 | [GLM](https://docs.z.ai/) | Language & Search Models | active |
 | [Hunyuan](https://hunyuan.tencent.com/) | Language & Search Models | active |
 | [MiniMax](https://www.minimax.io/) | Language & Search Models | active |
-| [Qwen Coder](https://github.com/QwenLM/Qwen3-Coder) | Language & Search Models | active |
 | [Luminous](https://aleph-alpha.com) | Language & Search Models | active |
 | [Midjourney](https://www.midjourney.com/) | Image Models | active |
 | [GPT Image](https://developers.openai.com/api/docs/models/gpt-image-2) | Image Models | active |

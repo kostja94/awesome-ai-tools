@@ -2538,11 +2538,7 @@ descriptions:
     source: approved zh translation; facts per registry entity, 2026-10-19
   qwen-model:
     status: approved
-    text: Alibaba 的开放权重语言模型家族，从 Qwen2.5 迭代到 Qwen3.7
-    source: approved zh translation; facts per registry entity, 2026-10-19
-  qwen2-5-coder:
-    status: approved
-    text: Alibaba 旗下编码模型家族，Apache 2.0 许可，已迭代至 Qwen3-Coder
+    text: Alibaba 的开放权重语言模型家族，从 Qwen2.5 迭代到 Qwen3.7，另有 Apache 2.0 许可的 Qwen Coder 编码线独立发布
     source: approved zh translation; facts per registry entity, 2026-10-19
   railway:
     status: approved

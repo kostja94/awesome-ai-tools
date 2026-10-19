@@ -94,14 +94,13 @@
 - <a href="https://x.ai/" target="_blank">Grok</a> - xAI 推出的语言模型家族，覆盖 Grok 3、Grok 4 与 Grok 4.1，驱动 X 和 grok.com 上的 Grok 助手，并通过 xAI API 提供
 - <a href="https://dev.meta.ai/" target="_blank">Llama</a> - Meta 的开放权重语言模型系列，从 Llama 3 迭代至 Llama 4
 - <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a> - DeepSeek 的开放权重语言模型家族，包含 V2、V3、V3.1、V4 Pro 与 R1 等版本
-- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> - Alibaba 的开放权重语言模型家族，从 Qwen2.5 迭代到 Qwen3.7
+- <a href="https://chat.qwen.ai/" target="_blank">Qwen</a> - Alibaba 的开放权重语言模型家族，从 Qwen2.5 迭代到 Qwen3.7，另有 Apache 2.0 许可的 Qwen Coder 编码线独立发布
 - <a href="https://mistral.ai/" target="_blank">Mistral</a> - Mistral AI 的通用语言模型家族，按 Small、Medium、Large 分档（如 Mistral Large 2、Mistral Medium 3），通过 la Plateforme API 提供并支持企业部署
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> - Google 开放权重模型家族，基于 Gemini 技术构建，版本跨度至 Gemma 4
 - <a href="https://www.kimi.com/" target="_blank">Kimi</a> - Moonshot AI 推出的语言模型家族，覆盖文本、代码与推理任务，包含具备视觉能力和开放权重的版本，从 K1.5 迭代到 K3
 - <a href="https://docs.z.ai/" target="_blank">GLM</a> - Zhipu AI（Z.ai）推出的语言模型家族，覆盖 GLM-4、GLM-4.5 与 GLM-5，通过 Z.ai API 提供，2025 年起以 MIT 许可开放权重
 - <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Tencent 的 Hunyuan 模型家族，覆盖语言、图像、视频与三维内容生成
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax 的语言模型家族，权重开放，覆盖文本生成、编码与工具辅助工作流，当前版本 M2.7
-- <a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">Qwen Coder</a> - Alibaba 旗下编码模型家族，Apache 2.0 许可，已迭代至 Qwen3-Coder
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Aleph Alpha 推出的语言模型家族，支持多语言文本与图像分析
 
 <a id="section-image-models"></a>

@@ -20,7 +20,7 @@ sections:
   - registry_id: glm
   - registry_id: hunyuan
   - registry_id: minimax-model
-  - registry_id: qwen2-5-coder
+
   - registry_id: luminous
 - id: image-models
   title: Image Models
@@ -1591,4 +1591,7 @@ exclusions:
 - ref: Models#alpha3d
   reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity alpha3d in its application section.'
   registry_id: alpha3d
+- ref: Language & Search Models#Qwen Coder
+  reason: 'Family consolidation 2026-10-19: the Qwen Coder line is folded into the Qwen family description, matching the DeepSeek/R1 treatment.'
+  registry_id: qwen2-5-coder
 publish_ready: true
