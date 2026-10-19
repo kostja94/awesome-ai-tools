@@ -20,7 +20,6 @@ sections:
   - registry_id: glm
   - registry_id: hunyuan
   - registry_id: minimax-model
-
   - registry_id: luminous
 - id: image-models
   title: Image Models
@@ -70,7 +69,6 @@ sections:
   - registry_id: sesame-csm-1b
   - registry_id: cartesia-sonic-model
   - registry_id: hume-octave
-  - registry_id: fish-audio-s2-pro
   - registry_id: inworld-tts
   - registry_id: zyphra-zonos
 - id: music-models
@@ -399,6 +397,7 @@ sections:
   - registry_id: assemblyai
   - registry_id: amazon-polly
   - registry_id: openai-tts
+  - registry_id: fish-audio
   - registry_id: speechmatics
   - registry_id: google-cloud-tts
   - registry_id: azure-speech
@@ -1592,6 +1591,11 @@ exclusions:
   reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity alpha3d in its application section.'
   registry_id: alpha3d
 - ref: Language & Search Models#Qwen Coder
-  reason: 'Family consolidation 2026-10-19: the Qwen Coder line is folded into the Qwen family description, matching the DeepSeek/R1 treatment.'
+  reason: 'Family consolidation 2026-10-19: the Qwen Coder line is folded into the Qwen family description, matching the DeepSeek/R1
+    treatment.'
   registry_id: qwen2-5-coder
+- ref: Speech Models#Fish Audio S2
+  reason: 'Tier consolidation 2026-10-19: the S2 versioned line is folded into the Fish Audio platform row in Speech & Transcription
+    Applications; version detail lives in the description.'
+  registry_id: fish-audio-s2-pro
 publish_ready: true

@@ -150,7 +150,6 @@
 - <a href="https://www.sesame.com/" target="_blank">Sesame CSM</a> - Sesame 的对话语音模型，1B 参数版本以 Apache 2.0 开源；公司语音演示中展示的更大模型与之相配套
 - <a href="https://www.cartesia.ai/sonic" target="_blank">Sonic</a> - Cartesia 的流式文本转语音模型系列，面向需要实时语音输出的应用
 - <a href="https://dev.hume.ai/voice/docs/text-to-speech-tts/overview" target="_blank">Octave</a> - Hume 推出的语音语言模型系列，用于生成富有表现力的语音
-- <a href="https://fish.audio" target="_blank">Fish Audio S2</a> - Fish Audio 生产级文本转语音模型，升级至 S2.1 Pro，覆盖 83 种语言
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Inworld 的实时文本转语音模型，支持多种语言
 - <a href="https://www.zyphra.com/models/zonos2" target="_blank">ZONOS</a> - ZONOS 是 Zyphra 的语音生成模型系列，包含声音克隆与实时文本转语音版本
 
@@ -514,6 +513,7 @@
 - <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - AssemblyAI 的语音转文字与语音理解 API，支持实时转录、说话人识别与音频智能
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> - AWS 托管文字转语音 API，上百种语音覆盖四十多种语言，支持 SSML 定制与生成式语音
 - <a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/" target="_blank">OpenAI TTS</a> - OpenAI TTS 是 OpenAI 的文字转语音 API 模型，用于在应用和语音管线中合成语音
+- <a href="https://fish.audio" target="_blank">Fish Audio</a> - Fish Audio 语音合成与声音克隆平台，生产级 TTS 线涵盖 S2 Pro 与现行 S2.1 Pro，支持括号标记控制韵律与情绪，覆盖 83 种语言
 - <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Speechmatics 的语音识别服务覆盖全球语言，支持多种口音和方言
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> - Google Cloud TTS 是 Google Cloud 上的云端文字转语音 API 服务
 - <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> - Azure Speech 是微软 Azure 的云端语音服务，同时覆盖语音合成（TTS）与语音识别（ASR）

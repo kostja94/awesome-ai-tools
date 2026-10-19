@@ -51,7 +51,6 @@ Quick reference index of selected products.
 | [Sesame CSM](https://www.sesame.com/) | Speech Models | active |
 | [Sonic](https://www.cartesia.ai/sonic) | Speech Models | active |
 | [Octave](https://dev.hume.ai/voice/docs/text-to-speech-tts/overview) | Speech Models | active |
-| [Fish Audio S2](https://fish.audio) | Speech Models | active |
 | [Inworld TTS](https://inworld.ai/) | Speech Models | active |
 | [ZONOS](https://www.zyphra.com/models/zonos2) | Speech Models | active |
 | [Lyria](https://ai.google.dev/gemini/docs/audio) | Music Models | active |
@@ -299,6 +298,7 @@ Quick reference index of selected products.
 | [AssemblyAI](https://www.assemblyai.com/) | Speech & Transcription Applications | active |
 | [Amazon Polly](https://aws.amazon.com/polly/) | Speech & Transcription Applications | active |
 | [OpenAI TTS](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/) | Speech & Transcription Applications | active |
+| [Fish Audio](https://fish.audio) | Speech & Transcription Applications | active |
 | [Speechmatics](https://www.speechmatics.com/) | Speech & Transcription Applications | active |
 | [Google Cloud TTS](https://cloud.google.com/text-to-speech) | Speech & Transcription Applications | active |
 | [Azure Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech) | Speech & Transcription Applications | active |

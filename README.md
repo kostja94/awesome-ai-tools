@@ -150,7 +150,6 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.sesame.com/" target="_blank">Sesame CSM</a> - Conversational speech model from Sesame released under Apache 2.0; the open CSM-1B release accompanies a larger model demonstrated in the company voice demos.
 - <a href="https://www.cartesia.ai/sonic" target="_blank">Sonic</a> - Cartesia family of streaming text-to-speech models for spoken output in real-time applications.
 - <a href="https://dev.hume.ai/voice/docs/text-to-speech-tts/overview" target="_blank">Octave</a> - Hume speech-language model family for expressive text-to-speech generation.
-- <a href="https://fish.audio" target="_blank">Fish Audio S2</a> - Production text-to-speech line from Fish Audio spanning S2 Pro and the current S2.1 Pro, covering 83 languages with inline bracket-tag control of prosody and emotion.
 - <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Real-time text-to-speech model with multilingual support.
 - <a href="https://www.zyphra.com/models/zonos2" target="_blank">ZONOS</a> - Zyphra family of speech generation models with voice cloning and real-time text-to-speech variants.
 
@@ -514,6 +513,7 @@ Speech applications include both [speech recognition and transcription](https://
 - <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - Speech-to-text and speech understanding API with real-time transcription, speaker identification and audio intelligence features.
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> - AWS text-to-speech API with 100+ voices in 40+ languages, SSML customization and a billion-parameter generative speech engine.
 - <a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/" target="_blank">OpenAI TTS</a> - OpenAI's text-to-speech API models for synthesizing speech in applications and voice pipelines.
+- <a href="https://fish.audio" target="_blank">Fish Audio</a> - Voice AI platform offering speech synthesis and voice cloning; its production TTS line spans S2 Pro and the current S2.1 Pro, with bracket-tag control of prosody and emotion across 83 languages.
 - <a href="https://www.speechmatics.com/" target="_blank">Speechmatics</a> - Speech recognition service with global language coverage, supporting multiple accents and dialects.
 - <a href="https://cloud.google.com/text-to-speech" target="_blank">Google Cloud TTS</a> - Cloud text-to-speech API service from Google Cloud.
 - <a href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech" target="_blank">Azure Speech</a> - Cloud speech service (TTS/ASR) from Microsoft Azure.

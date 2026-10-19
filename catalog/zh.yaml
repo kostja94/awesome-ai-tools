@@ -1101,9 +1101,9 @@ descriptions:
     status: approved
     text: Fireside 是播客托管平台，提供响应式网站、定时发布、可嵌入播放器和数据统计，支持自定义域名并可以从其他平台一键导入
     source: approved zh translation; facts per registry entity, 2026-10-19
-  fish-audio-s2-pro:
+  fish-audio:
     status: approved
-    text: Fish Audio 生产级文本转语音模型，升级至 S2.1 Pro，覆盖 83 种语言
+    text: Fish Audio 语音合成与声音克隆平台，生产级 TTS 线涵盖 S2 Pro 与现行 S2.1 Pro，支持括号标记控制韵律与情绪，覆盖 83 种语言
     source: approved zh translation; facts per registry entity, 2026-10-19
   fizzo:
     status: approved
