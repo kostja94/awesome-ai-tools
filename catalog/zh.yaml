@@ -1307,7 +1307,7 @@ descriptions:
     source: approved zh translation; facts per registry entity, 2026-10-19
   gpt-image-2:
     status: approved
-    text: OpenAI 图像生成与编辑模型家族，现行版本为 gpt-image-2.5
+    text: OpenAI 图像生成与编辑模型家族，现行 gpt-image-2.5 可从提示词、草图与参考图生成和编辑图像，支持多语言图内文字，经 ChatGPT 与 API 提供
     source: approved zh translation; facts per registry entity, 2026-10-19
   gptzero:
     status: approved
@@ -2109,7 +2109,7 @@ descriptions:
     source: approved zh translation; facts per registry entity, 2026-10-19
   nano-banana-2:
     status: approved
-    text: Google 图像生成与编辑模型家族，现行版本为 Nano Banana 2.1
+    text: Google 图像生成与编辑模型家族，现行 Nano Banana 2.1 取代基于 Gemini 3.1 Flash Image 的前代，经 Gemini 应用、AI Studio 与 API 提供
     source: approved zh translation; facts per registry entity, 2026-10-19
   napkin:
     status: approved
@@ -2534,7 +2534,7 @@ descriptions:
     source: approved zh translation; facts per registry entity, 2026-10-19
   qwen-image-2-0:
     status: approved
-    text: Alibaba Qwen 图像生成家族，现行 Qwen-Image-3.0，基础权重开源
+    text: Alibaba Qwen 图像生成家族，从 Qwen-Image-2.0 迭代至现行 3.0，支持中英文图内文字，经 DashScope 与 Qwen Chat 提供，基础权重开源
     source: approved zh translation; facts per registry entity, 2026-10-19
   qwen-model:
     status: approved
@@ -3384,7 +3384,7 @@ descriptions:
     text: 按住快捷键即可向任意应用听写的语音输入工具，支持离线与上百种语言，覆盖三大桌面移动端
   windsurf:
     status: approved
-    text: AI 代码编辑器；已并入 Cognition，产品更名 Devin Desktop
+    text: AI 代码编辑器，补全之外可规划并修改多文件代码库的自主 Agent，前身 Codeium，已被 Cognition 收购并更名 Devin Desktop
     source: approved zh translation; facts per registry entity, 2026-10-19
   winn-ai:
     status: approved

@@ -108,14 +108,14 @@
 ### 图像模型
 
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - 独立实验室 Midjourney 的文生图与视频模型，以艺术质感著称，图像模型已至 V8，经网站与 Discord 使用
-- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI 图像生成与编辑模型家族，现行版本为 gpt-image-2.5
-- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google 图像生成与编辑模型家族，现行版本为 Nano Banana 2.1
+- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI 图像生成与编辑模型家族，现行 gpt-image-2.5 可从提示词、草图与参考图生成和编辑图像，支持多语言图内文字，经 ChatGPT 与 API 提供
+- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google 图像生成与编辑模型家族，现行 Nano Banana 2.1 取代基于 Gemini 3.1 Flash Image 的前代，经 Gemini 应用、AI Studio 与 API 提供
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe 的文生图模型，与 Creative Cloud 集成
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> - 开源文生图模型系列，提供 API 访问
 - <a href="https://bfl.ai/" target="_blank">FLUX</a> - Black Forest Labs 推出的文生图模型
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> - 字节跳动 Seed 图像模型家族，Seedream 4.0 统一生成与编辑，支持文本与多图参考输入、最高 4K 输出
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - 以图像内文字渲染见长的文生图模型
-- <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen 图像生成家族，现行 Qwen-Image-3.0，基础权重开源
+- <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen 图像生成家族，从 Qwen-Image-2.0 迭代至现行 3.0，支持中英文图内文字，经 DashScope 与 Qwen Chat 提供，基础权重开源
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan 图像家族，3.0 版开源，3.5 预览版支持多轮对话编辑
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - 支持矢量图与 mockup 输出的文生图模型
 - <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> - Microsoft AI 的文生图模型
@@ -306,7 +306,7 @@
 - <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> - OpenAI 的编码 Agent，在云端、IDE 和终端端到端完成软件工程任务，支持多 Agent 工作流、自定义技能和代码审查自动化
 - <a href="https://devin.ai" target="_blank">Devin</a> - 自主执行编码任务的 AI 软件工程师 Agent，负责规划并完成缺陷修复、重构和代码迁移等工作
 - <a href="https://replit.com/" target="_blank">Replit</a> - 云端 IDE 与开发平台，支持编程、实时协作和部署，内置可按自然语言构建应用的 AI Agent
-- <a href="https://devin.ai/desktop" target="_blank">Windsurf</a> - AI 代码编辑器；已并入 Cognition，产品更名 Devin Desktop
+- <a href="https://devin.ai/desktop" target="_blank">Windsurf</a> - AI 代码编辑器，补全之外可规划并修改多文件代码库的自主 Agent，前身 Codeium，已被 Cognition 收购并更名 Devin Desktop
 - <a href="https://antigravity.google" target="_blank">Google Antigravity</a> - Google 的 Agent 优先开发平台，把 IDE、终端和浏览器控制与基于 Gemini 的编码 Agent 组合在一起
 - <a href="https://www.warp.dev" target="_blank">Warp</a> - 终端与开发环境，内置 AI 编码 Agent，支持上下文感知的提示构建与 Agent 输出审查
 - <a href="https://www.trae.ai" target="_blank">TRAE</a> - 字节跳动推出的 AI 原生 IDE，把编程任务拆解成步骤逐一实现，并提供端到端完成任务的自主模式
