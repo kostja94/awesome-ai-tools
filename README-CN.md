@@ -496,7 +496,7 @@
 - <a href="https://flickreels.net/" target="_blank">FlickReels</a> - FlickReels 汇集悬疑、奇幻等微短剧，全天候都能观看
 - <a href="https://hei.io/" target="_blank">HeiTech (Hei.io)</a> - HeiTech（Hei.io）是 AI 配音公司，为视频和音频提供字幕、翻译、人声与音效服务
 - <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> - SOLO 是 AI 影视制作公司，用 AI 制作短片和广告
-- <a href="https://www.utopaistudios.com/" target="_blank">Utopia Studios</a> - 人类执导、AI 加持的影视工作室，自研 PAI 制作引擎辅助创意团队开发多部影视剧集
+- <a href="https://www.utopaistudios.com/" target="_blank">Utopai Studios</a> - 人类执导、AI 加持的影视工作室，自研 PAI 制作引擎辅助创意团队开发多部影视剧集
 - <a href="https://escape.ai/" target="_blank">Escape</a> - Escape 是 AI 艺术聚合平台，展示并推广新形态的数字娱乐
 
 <a id="group-voice-audio"></a>
@@ -1023,7 +1023,7 @@
 - <a href="https://www.scholarcy.com" target="_blank">Scholarcy</a> - 网页工具，将论文、书籍等文献整理为结构化摘要、闪卡和引文摘录，辅助文献综述
 - <a href="https://www.mathos.ai/" target="_blank">Mathos</a> - AI 数学解题器，键入或上传题目即可获得分步解答、交互式绘图与作业辅导
 - <a href="https://math-gpt.org/" target="_blank">MathGPT</a> - 图片识题的数学计算器，用视频和动画演示解题过程
-- <a href="https://qanda.ai/" target="_blank">Quanda</a> - 用 OCR 识别题目的 AI 数学学习平台，一步给出解答，注册用户超 9000 万
+- <a href="https://qanda.ai/" target="_blank">QANDA</a> - 用 OCR 识别题目的 AI 数学学习平台，一步给出解答，注册用户超 9000 万
 - <a href="https://www.trancy.org/" target="_blank">Trancy</a> - 自动为视频生成双语字幕，并配套生成学习卡片
 - <a href="https://gliglish.com/" target="_blank">Gliglish</a> - 通过与 AI 角色的语音对话练习，提升口语和听力
 - <a href="https://praktika.ai/" target="_blank">Praktika.ai</a> - AI 语言导师应用，以对话练习提升口语

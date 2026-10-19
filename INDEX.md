@@ -292,7 +292,7 @@ Quick reference index of selected products.
 | [FlickReels](https://flickreels.net/) | Filmmaking & Localization | active |
 | [HeiTech (Hei.io)](https://hei.io/) | Filmmaking & Localization | active |
 | [SOLO](https://www.solotwinstudios.com/) | Filmmaking & Localization | active |
-| [Utopia Studios](https://www.utopaistudios.com/) | Filmmaking & Localization | active |
+| [Utopai Studios](https://www.utopaistudios.com/) | Filmmaking & Localization | active |
 | [Escape](https://escape.ai/) | Filmmaking & Localization | active |
 | [ElevenLabs](https://elevenlabs.io) | Speech & Transcription Applications | active |
 | [AssemblyAI](https://www.assemblyai.com/) | Speech & Transcription Applications | active |
@@ -671,7 +671,7 @@ Quick reference index of selected products.
 | [Scholarcy](https://www.scholarcy.com) | Learning & Teaching | active |
 | [Mathos](https://www.mathos.ai/) | Learning & Teaching | active |
 | [MathGPT](https://math-gpt.org/) | Learning & Teaching | active |
-| [Quanda](https://qanda.ai/) | Learning & Teaching | active |
+| [QANDA](https://qanda.ai/) | Learning & Teaching | active |
 | [Trancy](https://www.trancy.org/) | Learning & Teaching | active |
 | [Gliglish](https://gliglish.com/) | Learning & Teaching | active |
 | [Praktika.ai](https://praktika.ai/) | Learning & Teaching | active |

@@ -108,15 +108,15 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 ### Image Models
 
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - Independent lab Midjourney's text-to-image and video model family known for its artistic style, with image models up to V8; served through its website and Discord.
-- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI image generation and editing family; the current gpt-image-2.5 (ChatGPT Images 2.5) generates and edits images from prompts, sketches and reference photos with multilingual in-image text, available in ChatGPT and the API.
-- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google image generation and editing family; the current Nano Banana 2.1 is a high-efficiency generation and conversational-editing model superseding Nano Banana 2 (Gemini 3.1 Flash Image), offered through Gemini apps, AI Studio and the Gemini API.
+- <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI image generation and editing family; the current gpt-image-2.5 generates and edits images from prompts, sketches and reference photos with multilingual in-image text, in ChatGPT and the API.
+- <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google image generation and editing family; the current Nano Banana 2.1 supersedes Nano Banana 2 (Gemini 3.1 Flash Image) and is offered through Gemini apps, AI Studio and the Gemini API.
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe's text-to-image generation model integrated with Creative Cloud
 - <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> - Open-source text-to-image models with API access
 - <a href="https://bfl.ai/" target="_blank">FLUX</a> - Black Forest Labs' text-to-image generation model
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> - ByteDance Seed image model family; Seedream 4.0 unifies generation and editing with multi-image inputs up to 4K.
 - <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - Text-to-image generation model with a focus on text rendering.
-- <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen image-generation family spanning Qwen-Image-2.0 and the current Qwen-Image-3.0, which adds long-prompt comprehension and legible Chinese-English text in images; served via DashScope and Qwen Chat, with open-weight base releases.
-- <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan image-generation family; HunyuanImage-3.0 is an open-weight native-multimodal model with strong in-image text rendering, and the Hy Image 3.5 preview adds multi-round conversational editing with reference images, served via Hunyuan and Tencent Cloud.
+- <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen image-generation family spanning Qwen-Image-2.0 to the current 3.0, with legible Chinese-English in-image text; served via DashScope and Qwen Chat with open-weight base releases.
+- <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan image-generation family; the open-weight HunyuanImage 3.0 renders strong in-image text, and the Hy Image 3.5 preview adds multi-round conversational editing.
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - Text-to-image generation model supporting vectors and mockups
 - <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> - Microsoft AI's text-to-image generation model
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs' text-to-image models, served via its API as photon-1 and photon-flash-1 with up to 4 reference images.
@@ -130,7 +130,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://deepmind.google/technologies/veo/" target="_blank">Google Veo</a> - Google text-to-video generation model family; the current Veo 3.1 outputs video with native audio at up to 4K resolution with SynthID watermarking, served through Gemini apps and API.
 - <a href="https://kling.ai/" target="_blank">Kling</a> - Kuaishou's AI video and image platform; its video model line has reached Kling 4.0, and Kling Image 3.0 outputs native 4K.
 - <a href="https://runway.com/" target="_blank">Runway Gen</a> - Runway's video model family led by Gen-4.5, with the GWM-1 general world model alongside, served via its web app and API.
-- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> - Video generation model family from ByteDance's Seed team; versions span Seedance 1.0 (2025) through 2.0 to the current 2.5 (2026-07), generating synchronized audio at up to 2K resolution from text, image and multi-reference inputs, with 2.5 adding reference control, editing and extendable 30-second clips; also served through the Dreamina platform.
+- <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> - Video generation model family from ByteDance's Seed team spanning 1.0 through the current 2.5, generating synchronized audio at up to 2K resolution from text, image and multi-reference inputs, with editing and extendable clips; also served through Dreamina.
 - <a href="https://lumalabs.ai/ray" target="_blank">Luma Ray</a> - Luma's Ray model family for text-, image- and video-conditioned video generation and editing.
 - <a href="https://pika.art/" target="_blank">Pika</a> - Pika Labs' text-to-video model family; Pika 2.2 outputs 1080p clips up to 10 seconds with Pikaframes and Pikaffects features.
 - <a href="https://tongyi.aliyun.com/wanxiang/" target="_blank">WAN</a> - Alibaba's Wan model family for text- and image-conditioned video generation.
@@ -496,7 +496,7 @@ For the filmmaking side of this section, [AI-assisted film production](https://a
 - <a href="https://flickreels.net/" target="_blank">FlickReels</a> - Short drama plot app with suspense, fantasy and other micro-drama series available around the clock.
 - <a href="https://hei.io/" target="_blank">HeiTech (Hei.io)</a> - AI video and audio dubbing company providing video/audio subtitle, translation, voice, and sound effects services
 - <a href="https://www.solotwinstudios.com/" target="_blank">SOLO</a> - AI filmmaking company producing short films and advertisements using AI.
-- <a href="https://www.utopaistudios.com/" target="_blank">Utopia Studios</a> - Human-directed, AI-powered film studio whose PAI production engine supports its slate, including Journey to the West.
+- <a href="https://www.utopaistudios.com/" target="_blank">Utopai Studios</a> - Human-directed, AI-powered film studio whose PAI production engine supports its slate, including Journey to the West.
 - <a href="https://escape.ai/" target="_blank">Escape</a> - AI art aggregation platform showcasing and promoting new forms of digital entertainment.
 
 <a id="group-voice-audio"></a>
@@ -1023,7 +1023,7 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://www.scholarcy.com" target="_blank">Scholarcy</a> - Web tool that summarizes research papers, books and other documents into structured summaries, flashcards and citation extracts for literature review.
 - <a href="https://www.mathos.ai/" target="_blank">Mathos</a> - AI math solver that gives step-by-step solutions, interactive graphing and homework help for typed or uploaded problems.
 - <a href="https://math-gpt.org/" target="_blank">MathGPT</a> - Image-based math calculator providing video and animated solution tutorials.
-- <a href="https://qanda.ai/" target="_blank">Quanda</a> - OCR-based AI math learning platform with one-step solutions.
+- <a href="https://qanda.ai/" target="_blank">QANDA</a> - OCR-based AI math learning platform with one-step solutions.
 - <a href="https://www.trancy.org/" target="_blank">Trancy</a> - Automatically generates bilingual subtitles for videos and creates learning cards.
 - <a href="https://gliglish.com/" target="_blank">Gliglish</a> - Improves speaking and listening through voice practice with AI characters.
 - <a href="https://praktika.ai/" target="_blank">Praktika.ai</a> - AI language tutor app that improves speaking through conversation practice.
