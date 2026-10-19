@@ -118,7 +118,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen image-generation family spanning Qwen-Image-2.0 to the current 3.0, with legible Chinese-English in-image text; served via DashScope and Qwen Chat with open-weight base releases.
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan image-generation family; the open-weight HunyuanImage 3.0 renders strong in-image text, and the Hy Image 3.5 preview adds multi-round conversational editing.
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - Text-to-image generation model supporting vectors and mockups
-- <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> - Microsoft AI's text-to-image generation model
+- <a href="https://www.microsoft.com/en-us/ai" target="_blank">MAI Image</a> - Microsoft AI's text-to-image generation model
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs' text-to-image models, served via its API as photon-1 and photon-flash-1 with up to 4 reference images.
 - <a href="https://hidreamai.com/" target="_blank">HiDream</a> - Omni-modal foundation models from Beijing-based HiDream covering image, video and 3D, with open-source HiDream-E1.1 for editing.
 - <a href="https://reve.com/" target="_blank">Reve</a> - Text-to-image model with a web app unifying creation, editing and remixing via natural-language and drag-and-drop editing.
@@ -1244,7 +1244,6 @@ For character-based interaction, [character chat and role-playing applications](
 - <a href="https://www.popai.pro/" target="_blank">PopAi</a> - AI assistant app supporting document chat, slide creation, homework solutions, and image generation.
 - <a href="https://chatboxai.app/" target="_blank">ChatBox</a> - Cross-platform AI client handling conversations, documents, images, and code, assisting with writing and productivity
 - <a href="https://chatbotai.com/" target="_blank">Genie</a> - AI chat assistant integrating GPT-4o, Gemini, and other models for writing, customer service, and other use cases.
-- <a href="https://heeyo.ai/" target="_blank">Heeyo AI</a> - Multilingual AI chat companion for children aged 3-11, with educational games and adaptive growth features; backed by the OpenAI Startup Fund and Amazon Alexa Fund.
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> - AI auto-reply chatbot generator supporting WhatsApp, Telegram, and other platforms
 - <a href="https://crosstalk.ai/" target="_blank">CrossTalk</a> - Bible-based conversational AI assistant for interactive learning, indexing, and prayer communication
 

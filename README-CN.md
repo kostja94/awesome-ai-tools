@@ -118,7 +118,7 @@
 - <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen 图像生成家族，从 Qwen-Image-2.0 迭代至现行 3.0，支持中英文图内文字，经 DashScope 与 Qwen Chat 提供，基础权重开源
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan 图像家族，3.0 版开源，3.5 预览版支持多轮对话编辑
 - <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - 支持矢量图与 mockup 输出的文生图模型
-- <a href="https://www.microsoft.com/en-us/ai/mai-image" target="_blank">MAI Image</a> - Microsoft AI 的文生图模型
+- <a href="https://www.microsoft.com/en-us/ai" target="_blank">MAI Image</a> - Microsoft AI 的文生图模型
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs 的文生图模型系列，photon-1 支持多图参考与角色一致性
 - <a href="https://hidreamai.com/" target="_blank">HiDream</a> - HiDream 的全模态基础模型覆盖图像、视频与 3D，并开源 E1.1 图像编辑模型
 - <a href="https://reve.com/" target="_blank">Reve</a> - Reve 的文生图模型，配套统一网页应用，支持创建、编辑与重混图像，将自然语言指令与拖拽式编辑器相结合
@@ -1244,7 +1244,6 @@
 - <a href="https://www.popai.pro/" target="_blank">PopAi</a> - AI 助手应用，支持与文档对话、制作幻灯片、解答作业和生成图像
 - <a href="https://chatboxai.app/" target="_blank">ChatBox</a> - 跨平台 AI 客户端，处理对话、文档、图片和代码，辅助写作与办公
 - <a href="https://chatbotai.com/" target="_blank">Genie</a> - 集成 GPT-4o、Gemini 等模型的 AI 聊天助手，可用于写作、客服等场景
-- <a href="https://heeyo.ai/" target="_blank">Heeyo AI</a> - 面向 3-11 岁儿童的多语言 AI 聊伴，内置教育游戏与自适应成长功能，由 OpenAI Startup Fund 和 Amazon Alexa Fund 支持
 - <a href="https://www.autoresponder.ai/" target="_blank">AutoResponder.ai</a> - AI 自动回复机器人生成器，支持 WhatsApp、Telegram 等平台
 - <a href="https://crosstalk.ai/" target="_blank">CrossTalk</a> - 基于圣经的对话式 AI 助手，用于互动学习、经文索引与祷告交流
 

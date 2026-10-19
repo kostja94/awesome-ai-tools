@@ -1050,7 +1050,7 @@ sections:
   - registry_id: popai
   - registry_id: chatbox
   - registry_id: genie
-  - registry_id: heeyo-ai
+
   - registry_id: autoresponder-ai
   - registry_id: bible-chat-ai
 - id: industry-operations
@@ -1598,4 +1598,7 @@ exclusions:
   reason: 'Tier consolidation 2026-10-19: the S2 versioned line is folded into the Fish Audio platform row in Speech & Transcription
     Applications; version detail lives in the description.'
   registry_id: fish-audio-s2-pro
+- ref: Chat & Social#Heeyo
+  reason: 'Status check: service no longer active as of 2026-08 (The Rundown); heeyo.ai serves an empty Framer placeholder; removed from the public catalog.'
+  registry_id: heeyo-ai
 publish_ready: true

@@ -1397,10 +1397,6 @@ descriptions:
     status: approved
     text: Hedra 是专注角色表演的 AI 视频平台，用 Character 模型和实时数字人把图像与文本变成会说话的角色视频
     source: approved zh translation; facts per registry entity, 2026-10-19
-  heeyo-ai:
-    status: approved
-    text: 面向 3-11 岁儿童的多语言 AI 聊伴，内置教育游戏与自适应成长功能，由 OpenAI Startup Fund 和 Amazon Alexa Fund 支持
-    source: approved zh translation; facts per registry entity, 2026-10-19
   heitech-hei-io:
     status: approved
     text: HeiTech（Hei.io）是 AI 配音公司，为视频和音频提供字幕、翻译、人声与音效服务

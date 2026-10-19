@@ -29,7 +29,7 @@ Quick reference index of selected products.
 | [Qwen Image](https://chat.qwen.ai) | Image Models | active |
 | [Tencent Hunyuan Image](https://hunyuan.tencent.com/image/en) | Image Models | active |
 | [Recraft](https://www.recraft.ai/) | Image Models | active |
-| [MAI Image](https://www.microsoft.com/en-us/ai/mai-image) | Image Models | active |
+| [MAI Image](https://www.microsoft.com/en-us/ai) | Image Models | active |
 | [Luma Photon](https://lumalabs.ai/photon) | Image Models | active |
 | [HiDream](https://hidreamai.com/) | Image Models | active |
 | [Reve](https://reve.com/) | Image Models | active |
@@ -814,7 +814,6 @@ Quick reference index of selected products.
 | [PopAi](https://www.popai.pro/) | Chat & Social | active |
 | [ChatBox](https://chatboxai.app/) | Chat & Social | active |
 | [Genie](https://chatbotai.com/) | Chat & Social | active |
-| [Heeyo AI](https://heeyo.ai/) | Chat & Social | active |
 | [AutoResponder.ai](https://www.autoresponder.ai/) | Chat & Social | active |
 | [CrossTalk](https://crosstalk.ai/) | Chat & Social | active |
 | [Toast](https://pos.toasttab.com/) | Industry Operations | active |
