@@ -1,0 +1,329 @@
+schema: awesome-navigation/v1
+groups:
+- id: models
+  title: Models
+  sections:
+  - id: language-models
+    title: Language & Search Models
+    sources:
+    - general-purpose-llms
+    - web-development-llms
+  - id: image-models
+    title: Image Models
+  - id: video-models
+    title: Video Models
+  - id: speech-models
+    title: Speech Models
+  - id: music-models
+    title: Music Models
+  - id: spatial-models
+    title: 3D & Spatial Models
+- id: agents
+  title: Agent Development Infrastructure
+  sections:
+  - id: agent-platforms
+    title: Agent Frameworks & Infrastructure
+    sources:
+    - infrastructure-for-ai-agents
+    - llm-application-frameworks
+    - enterprise-ai-assistants
+  - id: agent-payments-identity
+    title: Agent Payments & Identity
+    sources:
+    - ai-agent-payment-infrastructure
+    - authentication-identity-services
+  - id: agent-evaluation
+    title: Agent & Model Evaluation
+    sources:
+    - ai-model-evaluation
+  - id: agent-builders
+    title: Agent Development Platforms
+  - id: llm-frameworks
+    title: LLM & Agent Frameworks
+- id: coding
+  title: Coding & App Development
+  sections:
+  - id: coding-tools
+    title: Coding Tools
+    sources:
+    - ai-coding-agents-ides
+    - code-completion-tools
+    - code-quality-security-tools
+  - id: app-builders
+    title: App Builders
+    sources:
+    - low-code-no-code-platforms
+    - app-development-factories
+  - id: developer-platforms
+    title: Developer Platforms
+    sources:
+    - for-developers
+- id: image-design
+  title: Image & Design
+  sections:
+  - id: image-creation-editing
+    title: Image Creation & Editing
+    sources:
+    - text-to-image-models
+    - image-to-image-models
+    - image-editing-tools
+    - concept-art-creative-tools
+  - id: design-tools
+    title: Design & User Research
+    sources:
+    - ai-design-tools
+    - design-agents
+    - ai-user-research-tools
+    - architecture-design
+  - id: creative-workflows
+    title: Multimodal Creation
+- id: video-film
+  title: Video & Filmmaking
+  sections:
+  - id: video-generation-editing
+    title: Video Generation & Editing
+    sources:
+    - text-to-video-models
+    - image-to-video-models
+    - video-editing-tools
+    - video-editing-agents
+    - screen-recording-tools
+  - id: filmmaking-localization
+    title: Filmmaking & Localization
+    sources:
+    - filmmaking-tools
+    - short-drama-platforms
+    - video-translation-localization-tools
+- id: voice-audio
+  title: Voice, Speech & Audio
+  sections:
+  - id: speech-applications
+    title: Speech & Transcription Applications
+    sources:
+    - text-to-speech-tts-models
+    - speech-to-text-asr-models
+    - transcription-tools
+    - voice-services-applications
+    - voice-changer-tools
+  - id: music-podcasts
+    title: Music, Audio & Podcasts
+    sources:
+    - music-generation-models
+    - music-generation-tools
+    - music-agents
+    - sound-design-tools
+    - audio-creation-tools
+    - podcast-hosting-platforms
+    - podcast-tools
+- id: search-web-data
+  title: Search & Web Data
+  sections:
+  - id: search-retrieval
+    title: Search & Retrieval
+    sources:
+    - search-enhanced-llms
+    - ai-search-apis-infrastructure
+    - ai-powered-search-engines
+    - ai-powered-people-company-search
+  - id: web-data-browsers
+    title: Web Data & Browsers
+    sources:
+    - web-scraping-tools
+    - ai-browsers
+  - id: search-applications
+    title: AI Search Applications
+  - id: search-api-services
+    title: Search APIs
+- id: data-cloud
+  title: Data & AI Infrastructure
+  sections:
+  - id: cloud-infrastructure
+    title: Cloud & Model Infrastructure
+    sources:
+    - gpu-cloud-platforms
+    - ai-training-billing-tools
+    - virtualization-sandbox-environments
+  - id: data-platforms
+    title: Data Platforms & Analytics
+    sources:
+    - data-infrastructure-olap-databases
+    - backend-as-a-service
+    - data-annotation
+    - data-analytics
+    - synthetic-data
+    - data-visualization
+  - id: model-access
+    title: Model Access & Routing
+  - id: model-hubs
+    title: Model Hubs & Communities
+  - id: model-runtime-tools
+    title: Model Runtime Tools
+- id: productivity-knowledge
+  title: Productivity & Knowledge
+  sections:
+  - id: documents-knowledge
+    title: Documents & Knowledge
+    sources:
+    - note-taking-knowledge-management
+    - pdf-document-tools
+    - documentation-platforms
+    - specialized-scribes
+    - meeting-notes-transcription
+    - ai-spreadsheet-tools
+  - id: productivity-automation
+    title: Productivity & Automation
+    sources:
+    - project-management-collaboration
+    - forms-surveys
+    - scheduling-calendar
+    - workflow-automation
+    - for-general-users
+    - for-enterprises
+    - general-platforms
+  - id: enterprise-assistants
+    title: Enterprise Assistants
+  - id: meeting-notes
+    title: Meeting Notes & Summaries
+- id: marketing-service
+  title: Marketing, Sales & Service
+  sections:
+  - id: marketing-content
+    title: Marketing & Content
+    sources:
+    - geo-google-e-e-a-t-optimization-tools
+    - seo-optimization-tools
+    - seo-localization-tools
+    - content-creation
+    - sales-marketing-content
+    - ai-content-detection-tools
+    - link-in-bio-tools
+  - id: customer-service
+    title: Customer Service & Sales Intelligence
+    sources:
+    - customer-service-platforms
+    - conversation-intelligence
+- id: commerce
+  title: Commerce
+  sections:
+  - id: commerce-shopping
+    title: Commerce & Shopping
+    sources:
+    - e-commerce-search-assistants
+    - ai-shopping-tools
+- id: finance
+  title: Finance
+  sections:
+  - id: finance-accounting
+    title: Finance & Accounting
+    sources:
+    - financial-operations-accounting
+    - financial-analysis-intelligence
+    - financial-infrastructure
+- id: education-research
+  title: Education & Research
+  sections:
+  - id: learning-tools
+    title: Learning & Teaching
+    sources:
+    - homework-problem-solving
+    - study-tools-flashcards
+    - language-learning
+    - math-tools
+    - tutoring-platforms
+    - classroom-tools
+    - book-summary-platforms
+  - id: research-writing
+    title: Research & Academic Writing
+    sources:
+    - academic-writing-research-tools
+- id: hr-recruiting
+  title: HR & Recruiting
+  sections:
+  - id: recruiting-careers
+    title: Recruiting & Careers
+    sources:
+    - for-recruiters
+    - for-job-seekers
+- id: healthcare
+  title: Healthcare
+  sections:
+  - id: healthcare
+    title: Healthcare
+    sources:
+    - ai-healthcare-tools
+    - health-wellness-services
+    - healthcare-hospitality
+- id: legal
+  title: Legal
+  sections:
+  - id: legal
+    title: Legal
+    sources:
+    - ai-legal-tools
+- id: spatial
+  title: 3D & Spatial
+  sections:
+  - id: spatial-3d
+    title: 3D & Spatial Tools
+    sources:
+    - text-to-3d-models
+    - image-to-3d-models
+    - 3d-e-commerce-platforms
+    - no-code-3d-creation-tools
+    - 3d-cad-manufacturing-tools
+    - motion-capture-tools
+- id: games
+  title: Games
+  sections:
+  - id: games-interactive
+    title: Games & Interactive Media
+    sources:
+    - ai-gaming-tools
+    - game-development-testing-tools
+    - metaverse-platforms
+- id: writing
+  title: Writing & Publishing
+  sections:
+  - id: writing-publishing
+    title: Writing & Publishing
+    sources:
+    - writing-assistants
+    - ai-story-book-generation
+    - web-novel-platforms
+    - ai-presentation-tools
+- id: social
+  title: Chat & Social
+  sections:
+  - id: chat-social
+    title: Chat & Social
+    sources:
+    - character-chatbots
+    - nsfw-chatbots
+    - specialized-chatbots
+    - ai-chat-assistants
+- id: industry-solutions
+  title: Industry Solutions
+  sections:
+  - id: industry-operations
+    title: Industry Operations
+    sources:
+    - ai-defense-military
+    - ai-emergency-response
+    - construction-facilities
+    - restaurant-hospitality
+    - property-management
+    - pet-services
+    - infrastructure-transportation
+    - beauty-personal-care
+    - supply-chain-logistics
+    - location-analytics
+    - manufacturing
+    - religious-non-profit-organizations
+    - plant-identification
+    - ai-travel-tools
+    - ai-event-planning-tools
+- id: discovery
+  title: Tool Discovery
+  sections:
+  - id: tool-discovery
+    title: AI Tool Directories

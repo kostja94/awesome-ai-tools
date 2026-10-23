@@ -1,0 +1,3469 @@
+schema: awesome-zh/v1
+groups:
+  models: 模型
+  agents: Agent 开发基础设施
+  coding: 编程与应用开发
+  image-design: 图像与设计
+  video-film: 视频与影视
+  voice-audio: 语音与音频
+  search-web-data: 搜索与网页数据
+  data-cloud: 数据与云基础设施
+  productivity-knowledge: 效率与知识管理
+  marketing-service: 营销与客户服务
+  commerce: 电商与购物
+  finance: 金融与财务
+  education-research: 教育与研究
+  hr-recruiting: 招聘与职业
+  healthcare: 医疗健康
+  legal: 法律
+  spatial: 三维与空间
+  games: 游戏与互动媒体
+  writing: 写作与出版
+  social: 对话与社交
+  industry-solutions: 行业运营
+  discovery: AI 工具发现
+sections:
+  language-models: 语言与搜索模型
+  image-models: 图像模型
+  video-models: 视频模型
+  speech-models: 语音模型
+  music-models: 音乐模型
+  spatial-models: 三维与空间模型
+  agent-platforms: Agent 框架与基础设施
+  agent-payments-identity: Agent 支付与身份
+  agent-evaluation: Agent 与模型评测
+  agent-builders: Agent 开发平台
+  llm-frameworks: LLM 与 Agent 框架
+  coding-tools: 编程工具
+  app-builders: 应用构建工具
+  developer-platforms: 开发者平台
+  image-creation-editing: 图像生成与编辑
+  design-tools: 设计与用户研究
+  creative-workflows: 多模态创作
+  video-generation-editing: 视频生成与编辑
+  filmmaking-localization: 影视制作与本地化
+  speech-applications: 语音与转写应用
+  music-podcasts: 音乐、音频与播客
+  search-retrieval: 搜索与检索
+  web-data-browsers: 网页数据与浏览器
+  search-applications: AI 搜索应用
+  search-api-services: 搜索 API
+  cloud-infrastructure: 云与模型基础设施
+  data-platforms: 数据平台与分析
+  model-access: 模型访问与路由
+  model-hubs: 模型平台与社区
+  model-runtime-tools: 模型运行工具
+  documents-knowledge: 文档与知识
+  productivity-automation: 效率与自动化
+  enterprise-assistants: 企业助手
+  meeting-notes: 会议记录与摘要
+  marketing-content: 营销与内容
+  customer-service: 客户服务与销售智能
+  commerce-shopping: 电商与购物
+  finance-accounting: 金融与会计
+  learning-tools: 学习与教学
+  research-writing: 研究与学术写作
+  recruiting-careers: 招聘与职业
+  healthcare: 医疗健康
+  legal: 法律
+  spatial-3d: 三维与空间工具
+  games-interactive: 游戏与互动媒体
+  writing-publishing: 写作与出版
+  chat-social: 对话与社交
+  industry-operations: 行业运营
+  tool-discovery: AI 工具目录
+descriptions:
+  accio:
+    status: approved
+    text: Alibaba 推出、面向 B2B 买家的 AI 选品与采购助手，按产品创意匹配供应商并提供市场调研
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  acestudio:
+    status: approved
+    text: ACE Studio 是桌面端 AI 音乐制作工作站，提供 AI 人声与乐器生成、声音克隆、生成式套件和分轨分离
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  acloset:
+    status: approved
+    text: 数字衣橱应用，登记衣物并推荐穿搭
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ada:
+    status: approved
+    text: 面向客服的对话式 AI 平台，以低代码/无代码工具搭建
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  adobe-firefly:
+    status: approved
+    text: Adobe 的文生图模型，与 Creative Cloud 集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  adot:
+    status: approved
+    text: 韩国移动端 AI 助手，把语音录音转成结构化、可搜索的笔记，适用于会议、讲座和头脑风暴
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ag2:
+    status: approved
+    text: AutoGen 团队开源的多 agent 框架，用于构建和编排多个 AI agent 协同工作的系统
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  agentic:
+    status: approved
+    text: Agentic 是虚拟世界创建平台，可训练并部署 AI 玩家
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  agentops:
+    status: approved
+    text: 专注 AI agent 可观测性的开发者平台，用 SDK 实现跨框架的会话追踪、调试、回放与成本监控
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  agentstack:
+    status: approved
+    text: 开源框架和 CLI，用于快速搭建多 agent LLM 应用并集成各类工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ai-build:
+    status: approved
+    text: 结合 3D 打印与 CNC 技术、用于自动化生产的制造平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ai-dungeon:
+    status: approved
+    text: AI Dungeon 是一款 AI 驱动的开放式文字冒险游戏，玩家自由输入，故事情节可以无限延展
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ai-story-generator:
+    status: approved
+    text: AI Story Generator 是免费的 AI 写作工具，可快速生成故事
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  aidash:
+    status: approved
+    text: 结合卫星与 AI 的工具，监测电力、水务等基础设施并支持远程巡检
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  aimi:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 浏览器端 AI 音乐工作室，把提示词变成可编辑的多轨工程，免费使用，AI 操作按积分计费
+  aindo:
+    status: approved
+    text: 数据技术公司，用 AI 生成合成数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ainia:
+    status: approved
+    text: Ainia 是互动式情感教育平台，孩子与角色互动，激发同理心和想象力
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  airbrush:
+    status: approved
+    text: 移动与网页端 AI 美颜图像编辑工具，提供背景去除、美颜和滤镜
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  airops:
+    status: approved
+    text: 内容运营 AI 平台，自动生成经过 SEO 优化的内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  airtable:
+    status: approved
+    text: 融合电子表格与数据库的协作平台，适合搭建自定义应用和数据驱动的工作流
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  airtime:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: mmhmm 推出的视频办公工具，整合主讲人镜头特效、屏幕与幻灯片录制和互动共享屏幕
+  aisera:
+    status: approved
+    text: 企业 AI 服务台助手，自动处理 IT/HR 请求并生成工单与解决方案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  aiva:
+    status: approved
+    text: AIVA 是 AI 作曲助手，可创作 250 多种风格的歌曲，生成的音乐可编辑、可授权
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  akool:
+    status: approved
+    text: Akool 是 AI 视频工具套件，涵盖数字人生成、换脸、多语言视频翻译和面向营销内容的图像生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  algolia:
+    status: approved
+    text: Algolia 为企业和开发者提供即时站内搜索与内容发现 API 服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  alhena:
+    status: approved
+    text: 面向网店的客服平台，回答购物者问题并辅助商品发现
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  alpha3d:
+    status: approved
+    text: Alpha3D 将文本或 2D 图像转换成游戏可用的 3D 资产，并提供 Unity 开发支持
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  alta:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AI 穿搭助手应用，从衣物照片建立数字衣橱，依据现有衣物和天气推荐每日穿搭
+  altana:
+    status: approved
+    text: 全球供应链数据平台，以 AI 提供风险可视化、合规与成本优化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  altered:
+    status: approved
+    text: Altered（Altered Studio）提供专业级 AI 变声软件与服务，面向媒体和后期制作中的声音表演
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  amazon-bedrock:
+    status: approved
+    text: 用单一 API 调用多个基础模型，支持文本、图像与多模态推理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  amazon-polly:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AWS 托管文字转语音 API，上百种语音覆盖四十多种语言，支持 SSML 定制与生成式语音
+  amazon-rufus:
+    status: approved
+    text: Amazon 的 AI 购物助手，正在被并入 Alexa 体验
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ambersearch:
+    status: approved
+    text: 整合企业搜索、对话与智能体的商业 AI 平台，前身为 AmberSearch
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  andi:
+    status: approved
+    text: Andi 用自然语言对话的方式搜索，用于推荐与知识发现
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  animon:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 东京 Animon 推出的动漫专用 AI 视频生成平台，订阅制不限量生成
+  anoki:
+    status: approved
+    text: 面向 CTV 广告的多模态 AI 平台，提供场景级上下文视频智能和品牌安全保障，支持用 GenAI 创建和个性化广告
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  anon:
+    status: approved
+    text: Anon 是开发者工具包，让 AI agent 在没有官方 API 的网站上代表用户完成认证并执行操作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  answerai:
+    status: approved
+    text: AI 学习助手应用，提供作业答疑、备考与写作建议，覆盖 iOS、Android 与 Chrome 扩展
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  anthropic-computer-use:
+    status: approved
+    text: Anthropic Computer Use 是 Claude 的工具与参考实现，让 AI agent 通过 API 识别屏幕截图并控制电脑的鼠标和键盘
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  antigravity:
+    status: approved
+    text: Google 的 Agent 优先开发平台，把 IDE、终端和浏览器控制与基于 Gemini 的编码 Agent 组合在一起
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  anyscale:
+    status: approved
+    text: 基于 Ray 构建的 AI 平台，用来开发、运行和扩展大规模 AI 工作负载，覆盖模型训练与推理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  anyword:
+    status: approved
+    text: AI 营销文案生成工具，支持多语言优化和跨渠道分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  apeuni:
+    status: approved
+    text: 免费 AI 驱动的 PTE 备考练习平台，评估口语与写作表现
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  apidog:
+    status: approved
+    text: 端到端的 API 设计与开发平台，可作为 Postman 替代，带 AI 辅助功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  apify:
+    status: approved
+    text: Apify 是网页抓取与浏览器自动化平台，运行名为 Actor 的无服务器程序，内置代理与存储，并支持 AI agent 集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  apilayer:
+    status: approved
+    text: 微 API 市场，汇集面向各类开发需求的小型 API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  appen:
+    status: approved
+    text: 结合人工与 AI 能力的企业级数据平台，提供数据采集、清洗与标注
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  appfolio:
+    status: approved
+    text: 物业管理 SaaS，自动化处理租赁、财务与物业组合运营
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  apriora:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: Apriora 推出的 AI 招聘官，现更名 Alex，自动进行首轮面试与简历筛选，接入 33+ 招聘系统
+  aragon:
+    status: approved
+    text: AI 头像生成器，用自拍生成专业肖像照，无需进棚拍摄
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  arcade:
+    status: approved
+    text: Arcade 是无代码平台，用来搭建可交互的产品演示页面
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  arcads:
+    status: approved
+    text: Arcads 从文字脚本生成由 AI 演员和定制数字人出演的视频广告
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  argil:
+    status: approved
+    text: Argil 把文章或单个句子变成以人物或品牌为主角的 AI 视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  arini:
+    status: approved
+    text: 牙科诊所的 AI 电话前台与患者互动软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  arize-ai:
+    status: approved
+    text: Arize AI 是机器学习可观测性平台，用来监控、调试和改进 ML 模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  artlist:
+    status: approved
+    text: Artlist 以订阅方式提供正版音乐和视频素材，并附带 AI 视频、图像与配音生成工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  asana:
+    status: approved
+    text: 团队任务管理平台，支持项目规划、进度跟踪与实时报告
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  assemblyai:
+    status: approved
+    text: AssemblyAI 的语音转文字与语音理解 API，支持实时转录、说话人识别与音频智能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  assort-health:
+    status: approved
+    text: 语音形式的患者接入软件，负责预约、转诊、登记与随访
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  async:
+    status: approved
+    text: Async 通过对话完成视频剪辑，能切素材、清理音频、添加字幕，还可按提示生成语音和音乐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  audiopen:
+    status: approved
+    text: 录音转文字应用，把口述录音整理、编辑成有条理的文字
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  augment-code:
+    status: approved
+    text: 面向 IDE 的 AI 编码 Agent 平台，结合本地与云端智能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  auki-labs:
+    status: approved
+    text: Auki Labs 研发增强现实技术，构建持久且保护隐私的元宇宙，提供分布式定位和空间多人解决方案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  auth0:
+    status: approved
+    text: Web 与移动应用的认证授权平台，同时为 AI agent 提供身份与访问控制
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  authing:
+    status: approved
+    text: 企业身份云（IDaaS），通过 SDK/API 实现统一登录、授权与多租户管理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  autio:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 自驾游 GPS 语音导览应用，自动播放两万五千多条位置故事，Kevin Costner 联合创立
+  autogen:
+    status: approved
+    text: 微软开源的编程框架，用于构建多 Agent 对话式 AI 应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  automation-anywhere:
+    status: approved
+    text: 面向端到端流程自动化的 RPA 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  autoresponder-ai:
+    status: approved
+    text: AI 自动回复机器人生成器，支持 WhatsApp、Telegram 等平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  autoshorts-ai:
+    status: approved
+    text: AutoShorts AI 一键生成无人出镜短视频并自动发布，专为 TikTok 和 YouTube Shorts 设计
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  aviary-ai:
+    status: approved
+    text: 面向金融服务运营的语音 AI agent 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  avoca:
+    status: approved
+    text: Avoca 专为家庭上门服务行业打造语音 AI agent，用于客服对话场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  azure-ai-foundry:
+    status: approved
+    text: 企业 AI 平台，通过 API 调用多种 AI 模型，并配备构建和部署 agent 的工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  azure-speech:
+    status: approved
+    text: Azure Speech 是微软 Azure 的云端语音服务，同时覆盖语音合成（TTS）与语音识别（ASR）
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  backflip:
+    status: approved
+    text: 一键将 3D 扫描转换为 CAD 模型的 AI 工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  basedlabs:
+    status: approved
+    text: BasedLabs 汇集一批 AI 模型，用来生成和编辑图像、视频与音频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  beacons:
+    status: approved
+    text: 创作者平台，提供「Link in Bio」页面、媒体资料包、在线店面和粉丝变现工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  beatoven:
+    status: approved
+    text: Beatoven.ai 生成面向视频、播客和游戏的免版税音乐与音效，曲目支持再编辑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  beautiful-ai:
+    status: approved
+    text: Beautiful.ai 是智能演示设计平台，自动保持排版与品牌一致
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  beautyplus:
+    status: approved
+    text: 自拍与视频处理工具，内置 50 多种 AI 滤镜和一键美颜
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bedtimestory-ai:
+    status: approved
+    text: Bedtimestory.ai 根据提示词即时生成高度个性化的睡前故事
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  beni:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 专注二手时尚的搜索引擎，一次搜索四十多个转售平台，支持图片搜索与上架提醒
+  bible-chat-ai:
+    status: approved
+    text: 基于圣经的对话式 AI 助手，用于互动学习、经文索引与祷告交流
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bill:
+    status: approved
+    text: 面向中小企业的财务运营平台，自动处理发票生成、收付款、账单、费用管理与预算控制
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  billiontoone:
+    status: approved
+    text: 精准分子诊断公司，研发单碱基级别的产前与癌症筛查技术
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  blackbox:
+    status: approved
+    text: AI 编程助手，跨多种编程语言与 IDE 提供代码补全、对话和代码搜索
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bland-ai:
+    status: approved
+    text: 用 Conversational Pathways 分支流程加护栏构建企业电话 agent 的平台，支持自带运营商、SIP 与专属基础设施；已通过 FedRAMP 认证，并完成 SOC 2 等独立合规评估
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  blink-health:
+    status: approved
+    text: 数字处方药平台，提供低价药品、免费配送与线下自取服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  blinkist:
+    status: approved
+    text: 15 分钟「Blink」书籍摘要，提供音频与文本格式，并规划个性化学习路径
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  blinkops:
+    status: approved
+    text: 面向网络安全运营的安全自动化平台，内置 AI agent
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  blipcut:
+    status: approved
+    text: Blipcut 是免费批量 AI 视频翻译工具，集成配音、字幕和口型同步
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bluefish:
+    status: approved
+    text: AI 可见性分析平台，帮助品牌优化其在各 AI 搜索平台中的露出
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bocha:
+    status: approved
+    text: 博查（Bocha）是面向 AI 应用的多模态搜索引擎，以知识检索 API 形式提供给 agent 使用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bohrium:
+    status: approved
+    text: 科学计算研究平台，内置 AI 辅助的文献探索、文章检索与问答工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  boldvoice:
+    status: approved
+    text: 美式英语发音与口音训练应用，跟着语音教练的视频课练习，即时获得 AI 反馈
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bolt:
+    status: approved
+    text: 运行在浏览器里的 AI Agent，按自然语言提示生成、编辑并部署全栈 Web 应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bookbildr:
+    status: approved
+    text: BookBildr 是在线图画书编辑平台，集成 AI 插画、排版和 PDF/打印导出
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  boomy:
+    status: approved
+    text: Boomy 是 AI 音乐创作平台，用来生成原创歌曲
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  boost-ai:
+    status: approved
+    text: 低代码/无代码的对话式 AI 平台，面向客服场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  braintrust:
+    status: approved
+    text: 对 AI agent 和 LLM 应用做评估与观测的平台，功能涵盖追踪、评估和实验
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  brave-search:
+    status: approved
+    text: Brave Search 是独立且注重隐私的搜索引擎，自建网页索引，不追踪用户
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bright-data:
+    status: approved
+    text: Bright Data 是大规模代理与网页采集平台，直接提供结构化数据与 API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bright-machines:
+    status: approved
+    text: 用机器人与 Physical AI 制造 AI 服务器、机架与存储等数据中心基础设施
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  brighthire:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面试智能平台，配备全天候 AI 首轮面试官，提供录制、转写与作弊信号检测
+  browse-ai:
+    status: approved
+    text: Browse.ai 是无代码平台，通过配置机器人来抓取和监控网站数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  browser-use:
+    status: approved
+    text: Browser-Use 为运行 AI 浏览器 agent 提供云 API 与基础设施，配套基于 Playwright 的开源 Python 库，支持数据提取、网页任务自动化与测试
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  browserbase:
+    status: approved
+    text: Browserbase 提供云端无头浏览器会话基础设施，供 AI agent 和网页自动化使用，附带 Fetch 与 Search API、无服务器 Functions 和可观测性工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  browserless:
+    status: approved
+    text: Browserless 把无头浏览器做成服务，支持 Docker 部署，自带反爬能力、REST API 和 BrowserQL 查询语言，用于页面自动化与抓取
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  bytebot:
+    status: approved
+    text: Bytebot 是开源的浏览器自动化 agent 框架，采用 Apache-2.0 许可，代码仓库已归档
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  byword:
+    status: approved
+    text: AI SEO 写作助手，一键生成结构化、利于排名的文案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cal:
+    status: approved
+    text: 开源且可自托管的会议预约基础设施，服务个人、团队与开发者
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  calai:
+    status: approved
+    text: 手机应用，通过餐食照片、条形码扫描或文字描述估算卡路里和营养成分
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  calendly:
+    status: approved
+    text: 会议安排平台，通过可分享的空闲时间链接自动完成预约，并处理日历同步、提醒与后续跟进
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  camel-ai:
+    status: approved
+    text: 开源多 agent 框架，用来构建和研究 LLM 驱动的 agent 应用，涵盖角色扮演型 agent 社会和工具使用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  campsite-bio:
+    status: approved
+    text: 制作适配移动端的「Link in Bio」页面，用来整理和追踪社交媒体链接
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  candy:
+    status: approved
+    text: AI 陪伴平台，用户可创建可定制的虚拟角色并在角色扮演场景中对话，含成人内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  canonical-ai:
+    status: approved
+    text: 面向语音 agent 的分析与评估平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  canva:
+    status: approved
+    text: Canva 是在线设计平台，用来制作图形、演示文稿、视频和文档，内置 AI 生成与编辑工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  capsule:
+    status: approved
+    text: Capsule 是 AI 视频编辑器，支持套用模板、保持品牌一致，并可一键生成 B-roll
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  captions:
+    status: approved
+    text: Mirage（原 Captions）是移动端 AI 视频剪辑应用，自动完成字幕、配音、B-roll 插入和纠错，也能用 AI 数字人生成内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  carbyne:
+    status: approved
+    text: 面向应急响应中心的云原生通信平台，以实时定位和视频交互提升救援效率
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cartesia-sonic-model:
+    status: approved
+    text: Cartesia 的流式文本转语音模型系列，面向需要实时语音输出的应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  carv:
+    status: approved
+    text: AI 招聘平台，由自主 agent 承担岗位需求受理、筛选和 ATS 更新等招聘行政工作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  casetext:
+    status: approved
+    text: 法律研究与 AI 法律助手平台，已被 Thomson Reuters 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cekura:
+    status: approved
+    text: 针对生产环境语音与聊天 AI agent 的测试、监控和评估平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  celebrateally:
+    status: approved
+    text: AI 庆典助手，可生成定制演讲稿与贺卡文案，并辅助派对策划
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  chai-research:
+    status: approved
+    text: 对话式 AI 平台，供用户与 AI 角色聊天
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  character:
+    status: approved
+    text: AI 角色聊天平台，可与个性鲜明、带持久记忆的角色对话，也能自己创建角色
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  chatbase:
+    status: approved
+    text: 基于企业自有数据构建客服 AI agent 的平台，提供工作流自动化、模型对比与转人工
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  chatbox:
+    status: approved
+    text: 跨平台 AI 客户端，处理对话、文档、图片和代码，辅助写作与办公
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  chaton:
+    status: approved
+    text: 移动端 AI 聊天助手，组合对话模型、图像生成、联网搜索、文档处理与写作语气工具，用于写作和办公任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  chegg:
+    status: approved
+    text: 全天候在线作业辅导与教材租赁平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cherry:
+    status: approved
+    text: 面向成年用户（18+）的 AI 伴侣与角色扮演聊天应用，支持图像生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  child-book:
+    status: approved
+    text: Child Book 是 AI 儿童故事生成工具，可快速制作个性化儿童书
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  chroma:
+    status: approved
+    text: Apache-2.0 开源向量数据库，支持词法、正则与元数据检索，可自托管或使用无服务器云服务 Chroma Cloud，用作 AI 应用与 agent 的数据存储
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  chub-ai:
+    status: approved
+    text: 角色扮演 AI 聊天平台，支持自定义角色体验与互动叙事
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  circleback:
+    status: approved
+    text: 会议笔记应用，生成笔记和行动项，并保留可检索的会议记录
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  civitai:
+    status: approved
+    text: 生成式视觉模型社区，创作者在此发布 checkpoint、LoRA，以及附带提示词与元数据的生成图片和视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  claap:
+    status: approved
+    text: 销售对话平台，录制客户会议并整理通话数据，用于销售辅导和跟进
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  clado:
+    status: approved
+    text: Clado 是面向招聘与销售团队的 AI 人物搜索和档案补全平台，由 agent 在大规模公开档案库中开展深度调研，按自然语言条件匹配人选
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cladwell:
+    status: approved
+    text: 衣橱规划应用，帮助用户整理衣物并规划穿搭
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  clarion:
+    status: approved
+    text: 医疗前台自动化，处理患者来电、转诊、预约与主动外联
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  class-companion:
+    status: approved
+    text: 教师 AI 批改与辅导工具；2025 年 4 月被 Panorama Education 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  claude:
+    status: approved
+    text: Anthropic 开发的语言模型家族，通过 API 提供，并内置于 Claude 助手产品
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  clearscope:
+    status: approved
+    text: 内容优先的 AI SEO 工具，通过关键词优化和竞争分析带动流量增长
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cleft:
+    status: approved
+    text: 语音笔记应用，把口述的想法转写成结构化的文字笔记
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cleric:
+    status: approved
+    text: Agentik 的 AI SRE Agent，自主承担值班工作：过滤误报告警、调查事故、准备修复 PR，并验证上线后的修复是否解决问题
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  clerk:
+    status: approved
+    text: 面向开发者的认证与用户管理平台，提供可嵌入的 UI 组件和 API，支持组织（B2B）管理、会话管理与计费集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  clickup:
+    status: approved
+    text: 项目管理平台，将任务、文档、时间线与 AI 功能放进同一个工作区
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  clipdrop:
+    status: approved
+    text: AI 图像编辑工具集，涵盖背景、物体与文字去除、图像放大、重打光、文生图和外扩补图（Uncrop），通过网页端和 API 提供
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  clipto-ai:
+    status: approved
+    text: Clipto.AI 是本地运行的 AI 媒体助手，自动转录音视频，并提供字幕、编辑和下载工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cloudflare-workers-ai:
+    status: approved
+    text: 在 Cloudflare 边缘网络上运行模型的无服务器 GPU 推理服务，内置向量存储与 API 访问
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  coactive:
+    status: approved
+    text: 多模态视觉内容平台，用 AI 自动为图像与视频打标签、检索并分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  coconote:
+    status: approved
+    text: AI 笔记与学习 App，把课堂录音、文档和视频转成笔记、转录、测验、闪卡与模拟试卷，并可生成播客摘要；已并入 Quizlet，仍作为独立应用运营
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  codedesign:
+    status: approved
+    text: CodeDesign 从文本提示生成完整的响应式网站，并负责托管
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  codesandbox:
+    status: approved
+    text: CodeSandbox 是云开发平台，提供秒级启动的 microVM 沙箱，用于 AI agent 代码执行、开发环境、CI 流水线和交互式 playground
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  codex:
+    status: approved
+    text: OpenAI 的编码 Agent，在云端、IDE 和终端端到端完成软件工程任务，支持多 Agent 工作流、自定义技能和代码审查自动化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cognee:
+    status: approved
+    text: Cognee 是开源 AI 记忆引擎，把原始数据转化为 agent 可用的持久动态记忆，结合向量搜索与知识图谱，采用 ECL（Extract, Cognify, Link）框架
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cogram:
+    status: approved
+    text: AI 平台，自动生成会议笔记、行动项和摘要
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  common-room:
+    status: approved
+    text: Common Room 是 GTM 情报平台，将产品使用、社区、CRM 与营销信号统一成以人为粒度的买家视图，并提供联系人补全与 AI 潜客挖掘、评分
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  compose:
+    status: approved
+    text: Compose 是免费的 Chrome 扩展，用 AI 自动补全和生成文本
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  composio:
+    status: approved
+    text: Composio 为 AI agent 提供集成服务，覆盖大量第三方应用的托管认证、工具执行和触发器，附带沙箱执行和框架无关的 SDK
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  consensus:
+    status: approved
+    text: Consensus 是学术研究 AI 搜索引擎，从数百万篇同行评审论文中提取并归纳研究结论，回答科研问题
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  contents:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 企业级内容平台，整合 AI 写作、图像生成与翻译，可编排多家大模型并统一品牌口径
+  contextual-ai:
+    status: approved
+    text: 用于搭建知识驱动型企业助手的 RAG 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  copysmith:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AI 内容平台套件：Frase 做搜索优化，Describely 做电商文案，Rytr 做写作助手
+  coreweave:
+    status: approved
+    text: CoreWeave 是面向 AI 负载的 GPU 云平台，提供 NVIDIA GPU 基础设施
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  correlate-ai:
+    status: approved
+    text: 求职工具，按岗位定制简历并一键投递匹配职位
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  course-hero:
+    status: approved
+    text: 在线学习平台，提供与课程配套的学习资料、作业帮助和在线辅导
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  coval:
+    status: approved
+    text: 评估和测试语音、对话式 AI agent 的平台，提供场景模拟与端点测试
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  craiyon:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 免费的网页版文生图工具，前身为 DALL-E mini，按提示词秒级生成照片、插画、动漫与标志
+  creatify:
+    status: approved
+    text: Creatify 从产品页 URL 生成广告视频，搭配 AI 数字人、脚本和批量制作工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  crescendo:
+    status: approved
+    text: 把对话式 AI 与人工专家结合起来的客户服务平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cresta:
+    status: approved
+    text: 呼叫中心软件，自动处理客户对话、辅助坐席沟通并分析会话数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  crew-ai:
+    status: approved
+    text: 开源框架，用 Python 编排基于角色的多 agent 工作流，同时提供托管平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  crushon:
+    status: approved
+    text: 成人向角色聊天平台，支持自定义角色并保留长期对话记忆，仅限 18 岁以上用户使用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  csm-ai:
+    status: approved
+    text: 文本生成 3D 模型工具；Common Sense Machines 已被 Google 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  curipod:
+    status: approved
+    text: 面向 K-12 的 AI 互动课堂工具，可生成投票和测验
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cursor:
+    status: approved
+    text: AI 代码编辑器，自动补全理解整个代码库，另带 Chat 与 Agent 模式处理软件开发任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cursorful:
+    status: approved
+    text: Cursorful 是浏览器录制插件，录演示视频时自动放大光标焦点区域
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  cutout-pro:
+    status: approved
+    text: AI 图像处理平台，主打背景去除、图像修复和自动设计
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  d-id:
+    status: approved
+    text: D-ID 用 AI 生成数字人视频，服务营销、培训和多语言客户服务场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  daily:
+    status: approved
+    text: 面向开发者的视频与语音基础设施平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dasis:
+    status: approved
+    text: 团队工作区，借助 AI 辅助的工作流协同处理运营任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  datacamp:
+    status: approved
+    text: 编程与数据分析在线学习平台，提供项目式课程和技能学习路径
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  datachat:
+    status: approved
+    text: 对话式生成分析平台，无需编码即可查询数据并获得洞察；2025 年被 Mews 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  dataloop:
+    status: approved
+    text: 端到端 AI 数据管理与标注平台，内置可视化与流水线自动化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  datasquirrel:
+    status: approved
+    text: 无代码 BI 工具，自动完成数据清洗、分析与可视化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  david-ai:
+    status: approved
+    text: 音频数据服务，为对话 AI 构建语音训练数据集
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  daytona:
+    status: approved
+    text: Daytona 是开源基础设施运行时，为执行 AI 生成代码和 agent 工作流快速开通沙箱环境
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  decagon:
+    status: approved
+    text: 构建和运营 AI agent 的平台，在聊天、邮件和语音渠道自动化客户支持
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  deepbrain-ai:
+    status: approved
+    text: DeepBrain AI 是 AI 数字人视频平台，按脚本生成由数字人主播播报的演示视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  deepgram-nova:
+    status: approved
+    text: Deepgram Nova 语音识别模型，每秒可转录 142 秒音频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  deepmotion:
+    status: approved
+    text: DeepMotion 是一家聚焦动作智能的公司，专攻动作捕捉技术
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  deepnote:
+    status: approved
+    text: 云端协作数据科学笔记本，在代码、查询与可视化环节提供 AI 辅助
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  deepseek-model:
+    status: approved
+    text: DeepSeek 的开放权重语言模型家族，包含 V2、V3、V3.1、V4 Pro 与 R1 等版本
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  deepset:
+    status: approved
+    text: 开发 Haystack 框架的公司，Haystack 用管线组合文档存储、检索器、排序器、生成器和 Agent，支撑语义搜索、问答与 RAG 应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  delphi:
+    status: approved
+    text: Delphi 是为专家和创作者创建数字分身（「Digital Minds」）的平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  descript:
+    status: approved
+    text: Descript 是 AI 视频与播客剪辑平台，提供自动转写、文本式剪辑、屏幕录制和 AI 语音克隆，像改文档一样改视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  designs-ai:
+    status: approved
+    text: Designs.ai 是在线创意套件，从文本输入生成 logo、图像、视频、横幅和营销文案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  develop-health:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 医疗 AI 平台，为处方医生自动化预授权全流程，支持实时保障核验与自动申诉
+  devin:
+    status: approved
+    text: 自主执行编码任务的 AI 软件工程师 Agent，负责规划并完成缺陷修复、重构和代码迁移等工作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dia-browser:
+    status: approved
+    text: Dia 浏览器出自 The Browser Company，内置写作辅助，聊天助手会从用户的浏览行为中学习
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dialpad:
+    status: approved
+    text: Dialpad 是 AI 驱动的云通信平台，整合通话、消息、会议、实时摘要与洞察
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dify:
+    status: approved
+    text: 开源 LLM 应用构建平台，提供可视化工作流、RAG 管线、Agent 工具和模型集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  digital-first-ai:
+    status: approved
+    text: 营销平台，用 AI 制定并执行营销计划
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  doctrina-ai:
+    status: approved
+    text: AI 教育平台，可生成笔记、测验、作文与对话
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  doji:
+    status: approved
+    text: 生成 AI 虚拟形象，用于时装的在线虚拟试穿
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  doris:
+    status: approved
+    text: 开源实时分析数据库，为高并发与点查场景打造
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dramabox:
+    status: approved
+    text: DramaBox 是短剧应用，原创剧集达数千小时，支持免费观看、按集付费和广告解锁
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dramawave:
+    status: approved
+    text: DramaWave 聚合竖屏短剧，支持高清播放，覆盖多种题材和语言
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dropzone-ai:
+    status: approved
+    text: Dropzone AI 是面向安全运营的 agent 平台，能在 SOC 工作流中自主调查告警、开展威胁狩猎
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  dubbing-ai:
+    status: approved
+    text: Dubbing AI 是实时 AI 变声工具，自带 AI 声音库和玩梗音效板，覆盖游戏、直播和会议场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  duckdb:
+    status: approved
+    text: 轻量级嵌入式列式 OLAP 数据库，用于复杂 SQL 分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  duolingo:
+    status: approved
+    text: 游戏化的语言学习应用，用短小课程教多门语言，分免费与订阅两档
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  durable:
+    status: approved
+    text: AI 建站工具，同时是面向小企业的软件平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  e2b:
+    status: approved
+    text: E2B 是开源沙箱，以托管 API 在隔离的云 microVM 中执行 AI 生成的代码，支持暂停、恢复和快照
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  e2e-networks:
+    status: approved
+    text: E2E Networks 是印度的云 GPU 平台，按需提供 H100/H200 GPU，支撑 AI/ML 负载
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  eachlabs:
+    status: approved
+    text: AI 模型市场，内置 150+ 模型与可视化工作流，用于搭建 AI 后端
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  echolabs:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向高等教育的 AI 字幕平台，最快二十四小时产出字幕与口述影像，接入 Canvas 等系统
+  eden-ai:
+    status: approved
+    text: 统一 API 平台，通过一个接口调用模型市场上的各类 AI 模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  edge-tier:
+    status: approved
+    text: 用 NLP 优化客服对话质量的技术，支持异常检测与自动化决策辅助
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  eduwriter:
+    status: approved
+    text: AI 辅助论文写作工具，实时生成可下载的论文草稿
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  elai:
+    status: approved
+    text: Elai 是 AI 视频生成工具，把文字脚本转成多语言虚拟主持人视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  elastic:
+    status: approved
+    text: 开源搜索与分析引擎，支持全文检索、日志与指标分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  elevenlabs:
+    status: approved
+    text: ElevenLabs 是语音 AI 平台，提供文字转语音、声音克隆、配音和音频生成，并附带 API 与多语言大型语音库
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  elevenlabs-scribe-v2:
+    status: approved
+    text: ElevenLabs 语音转文字模型家族，含批量、实时与医疗版本，支持 90 多种语言
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  elevenreader-by-elevenlabs:
+    status: approved
+    text: ElevenReader 由 ElevenLabs 出品，用 AI 语音朗读文章、PDF 和电子书
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  elise-ai:
+    status: approved
+    text: 面向住房与医疗机构的对话自动化平台，承接租赁、住户与患者沟通
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  encore:
+    status: approved
+    text: AI 二手购物助手，聚合多个平台，通过对话搜索商品
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  endel:
+    status: approved
+    text: Endel 根据用户的活动与所处情境生成个性化声音环境
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  epoch:
+    status: approved
+    text: Epoch 是游戏 QA 测试工具，支持机器学习任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  escape:
+    status: approved
+    text: Escape 是 AI 艺术聚合平台，展示并推广新形态的数字娱乐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  eufymake:
+    status: approved
+    text: 无代码 AI 工具，可生成、编辑 3D 场景并支持团队协作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  evalyze:
+    status: approved
+    text: AI 融资平台，审阅路演 PPT、评估融资准备度，并帮创始人匹配投资人
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  evenup:
+    status: approved
+    text: 替律所自动化处理人身伤害案件的平台，涵盖索赔材料、医疗记录时间线与文件审查
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  evermemos:
+    status: approved
+    text: 可移植的本地优先记忆层，为 AI agent 提供 Markdown 原生、用户自有的存储，支持自托管
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  evernote:
+    status: approved
+    text: 笔记与任务管理工具，支持跨平台同步、AI 整理和多媒体输入
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  evertune:
+    status: approved
+    text: GEO 优化平台，帮助品牌在 AI 搜索结果中获得更多可见性
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  exa:
+    status: approved
+    text: Exa 是面向 AI 应用的搜索 API 服务，提供网页搜索、抓取与内容提取，为 LLM 和 agent 返回结构化结果
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fabled-ai:
+    status: approved
+    text: Fabled AI 支持上传书籍并与书中角色对话，展开互动式文学冒险
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  faceapp:
+    status: approved
+    text: 移动端人像 AI 编辑器，可改变年龄、发型与妆容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  facetune:
+    status: approved
+    text: 移动修图应用，主打 AI 修饰、滤镜与美颜增强
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  faircado:
+    status: approved
+    text: AI 浏览器插件与应用，聚合数百万级二手商品平台，支持智能搜索与比价
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fal:
+    status: approved
+    text: fal.ai 是开发者平台，用 API 调用生成式图像、视频与音频模型，并提供无服务器 GPU 推理与微调
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fathom:
+    status: approved
+    text: AI 会议记录员，自动录制、转录并总结通话，提炼出重点片段和行动项
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  feather:
+    status: approved
+    text: 发布平台，把 Notion 页面变成面向 SEO 的博客
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fellow:
+    status: approved
+    text: 会议管理与笔记软件，覆盖议程准备、讨论记录和行动项跟进
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fieldy:
+    status: approved
+    text: 可穿戴设备加配套应用，捕捉线下面对面谈话并生成笔记
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  finalroundai:
+    status: approved
+    text: 在线面试实时助手，转写面试问题并给出回答建议，另提供 AI 模拟面试练习和简历工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fine:
+    status: approved
+    text: AI 全栈开发平台，负责 SaaS 应用的生成、部署与管理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  firecrawl:
+    status: approved
+    text: Firecrawl 提供 API 与开源工具包，抓取网站并把页面转换成 Markdown、JSON 等干净格式，供 LLM 使用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fireflies:
+    status: approved
+    text: 会议助手，接入各类视频会议平台，录制、转录、总结团队谈话并支持检索
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fireproof:
+    status: approved
+    text: 开源的嵌入式 JavaScript 数据库，采用可验证的账本结构，支持浏览器端存储和加密同步，常用于 agent 与本地优先应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fireside:
+    status: approved
+    text: Fireside 是播客托管平台，提供响应式网站、定时发布、可嵌入播放器和数据统计，支持自定义域名并可以从其他平台一键导入
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fish-audio:
+    status: approved
+    text: Fish Audio 语音合成与声音克隆平台，生产级 TTS 线涵盖 S2 Pro 与现行 S2.1 Pro，支持括号标记控制韵律与情绪，覆盖 83 种语言
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fizzo:
+    status: approved
+    text: 阅读娱乐平台，集小说、漫画与短剧于一体，主打本地化内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fleetworks:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 货运语音 AI 平台，为经纪人与车队拨打跟踪电话、议价并订舱，全天候运转
+  flexclip:
+    status: approved
+    text: Flexclip 是在线 AI 视频制作与剪辑平台，为营销、教育类视频提供拖放式模板
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  flickreels:
+    status: approved
+    text: FlickReels 汇集悬疑、奇幻等微短剧，全天候都能观看
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fliki:
+    status: approved
+    text: Fliki 把脚本转成视频，配上 AI 配音、素材库画面和虚拟数字人
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  flo:
+    status: approved
+    text: 全球女性健康追踪应用，记录月经周期、排卵与怀孕状态
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  flourish:
+    status: approved
+    text: 交互式数据可视化平台，适合嵌入新闻与报告
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  flowise:
+    status: approved
+    text: 低代码 AI 工作流构建工具，用来创建 LLM 应用和自动化流程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  flowith:
+    status: approved
+    text: 带无限画布的 agentic AI 工作区，跨线程衔接知识、创作与多步任务执行
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  flux:
+    status: approved
+    text: Black Forest Labs 推出的文生图模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fly-io:
+    status: approved
+    text: 面向全球多个区域部署容器化应用与数据库的云托管平台，也常用来托管 AI agent
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  forethought:
+    status: approved
+    text: 基于 SupportGPT 的平台，自动回答客户问题，用 AI 排定工单优先级并完成分派
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  fotor:
+    status: approved
+    text: 在线修图工具，提供 AI 增强、背景去除、批量编辑、拼贴与文生图
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  frase:
+    status: approved
+    text: SEO 内容优化与 AI 写作工具，支持自动化生成内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  freepik:
+    status: approved
+    text: Freepik 是素材市场兼创意套件，2024 年收购 Magnific AI，并于 2026 年更名为 Magnific
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  freereels:
+    status: approved
+    text: FreeReels 是完全免费的短剧平台，更新频繁并内置智能推荐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  galileo:
+    status: approved
+    text: 评估并监控 LLM 与 AI agent 应用的平台，覆盖幻觉、事实一致性（groundedness）和 agent 轨迹等指标
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gamma:
+    status: approved
+    text: Gamma 从文字提示生成演示文稿、文档和网页，自带模板、多媒体嵌入和协作功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gauthmath:
+    status: approved
+    text: 数学等 STEM 题目拍照即解的 AI 作业助手，提供分步解析与真人导师在线支持
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gemini-enterprise-agent-platform:
+    status: approved
+    text: Google Cloud 上构建、扩展和治理企业 AI agent 的平台，通过 Agent Registry 与 Agent Gateway 实现治理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gemini-model:
+    status: approved
+    text: Google DeepMind 推出的多模态大模型，支持文本、图像、音频和视频输入，版本覆盖 2.5 至 4 系列
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gemma-model:
+    status: approved
+    text: Google 开放权重模型家族，基于 Gemini 技术构建，版本跨度至 Gemma 4
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gencraft:
+    status: approved
+    text: AI 艺术生成器，支持多种模型，按文字提示生成图像和视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gendo:
+    status: approved
+    text: Gendo 是面向建筑师和设计师的浏览器端 AI 渲染平台，用来生成 CGI 图像
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  generative-ai:
+    status: approved
+    text: Generative AI 是独立博客兼咨询服务，做生成式 AI 的科普教学与资源汇总
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  genie:
+    status: approved
+    text: 集成 GPT-4o、Gemini 等模型的 AI 聊天助手，可用于写作、客服等场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gensx:
+    status: approved
+    text: 开源的 TypeScript 框架，将 AI agent 与多步工作流写成可组合的组件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gg-predict:
+    status: approved
+    text: GG Predict 是 CS:GO 训练平台，由 AI 定制挑战并给出反馈
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gitbook:
+    status: approved
+    text: 面向技术团队的文档平台，提供可视化编辑器、Git 同步与 AI 搜索
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  github-copilot:
+    status: approved
+    text: GitHub 的 AI 结对编程助手，跨 GitHub.com、VS Code、JetBrains 等 IDE、GitHub CLI 与 GitHub Mobile 提供代码补全和 PR 代码审查
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  glam-ai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向时尚电商的虚拟试穿 API，用图生图技术把服装贴合到顾客照片，附滤镜与图像生成能力
+  glean:
+    status: approved
+    text: Glean 是企业 AI 助手与工作搜索平台，接入公司各类工具后即可回答问题并运行 agent
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  glif:
+    status: approved
+    text: Glif 是 AI 创作平台，通过可自定义的工作流生成图像、视频、音频和文本
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gliglish:
+    status: approved
+    text: 通过与 AI 角色的语音对话练习，提升口语和听力
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gling:
+    status: approved
+    text: Gling 自动剪掉废镜头、静音和口头禅，还会加字幕并生成 YouTube 标题与章节
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  glm:
+    status: approved
+    text: Zhipu AI（Z.ai）推出的语言模型家族，覆盖 GLM-4、GLM-4.5 与 GLM-5，通过 Z.ai API 提供，2025 年起以 MIT 许可开放权重
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  globalseo:
+    status: approved
+    text: 用 AI 自动把网站翻译成多种语言，带动国际自然搜索流量增长
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gloo:
+    status: approved
+    text: 连接信仰生态的技术平台，为教会、宗教组织和非营利机构提供 AI 驱动的内容分发与管理工具，已服务超 14 万家机构
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gmi-cloud:
+    status: approved
+    text: GMI Cloud 是全球化 AI 云平台，提供 GPU 实例、集群和高吞吐推理 API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  go-moonbeam:
+    status: approved
+    text: Go Moonbeam 是文本内容生成服务，覆盖多种内容类型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  goenhance:
+    status: approved
+    text: GoEnhance 是 AI 视频与图像生成及风格化平台，支持角色动画和镜头构图，能把实拍视频转成动漫、3D 或像素风
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  goodcall:
+    status: approved
+    text: Goodcall 为企业提供 AI 电话接听，包含来电处理与预约安排
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  goodnovel:
+    status: approved
+    text: 面向海外市场的网络小说平台，类型覆盖广，同时支持创作与阅读
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  goodshort:
+    status: approved
+    text: GoodShort 做出海短剧，结合英美剧本剧、翻译剧集与高频短视频内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  google-chirp-3:
+    status: approved
+    text: Google Cloud Speech-to-Text 的语音识别模型家族，现行 Chirp 3 基于 Conformer 架构，支持 100 多种语言
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  google-cloud-tts:
+    status: approved
+    text: Google Cloud TTS 是 Google Cloud 上的云端文字转语音 API 服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  google-project-mariner:
+    status: approved
+    text: Google DeepMind 的研究型 agent，操控 Chrome 浏览器完成多步网页任务，以早期实验形式提供
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  google-real-time-s2st:
+    status: approved
+    text: Google Real-time S2ST 是端到端语音到语音翻译模型，用原说话人的声音实时翻译，延迟仅 2 秒，可在 Google Meet 和 Pixel 10 设备上使用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  google-veo-3-1:
+    status: approved
+    text: Google 文生视频模型家族，现行 Veo 3.1 原生输出配套音频，支持 4K 分辨率并嵌入 SynthID 水印，经 Gemini 应用与 API 提供
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gpt:
+    status: approved
+    text: OpenAI 的旗舰语言模型家族，涵盖 GPT-4、GPT-4.5、GPT-5、GPT-6 等系列及多个变体
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gpt-image-2:
+    status: approved
+    text: OpenAI 图像生成与编辑模型家族，现行 gpt-image-2.5 可从提示词、草图与参考图生成和编辑图像，支持多语言图内文字，经 ChatGPT 与 API 提供
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gptzero:
+    status: approved
+    text: 免费的 AI 文本检测器，逐句分析文本是否由 AI 生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gradial:
+    status: approved
+    text: Gradial 是面向企业的平台，用 AI agent 自动完成营销活动组装、内容撰写、QA 和品牌检查
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  grain:
+    status: approved
+    text: 会议录制与笔记平台，产出转写文本、摘要和行动项
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  grammarly:
+    status: approved
+    text: Grammarly 是跨平台 AI 写作助手，实时检查语法、风格与语气，并给出文字建议
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  granola:
+    status: approved
+    text: AI 会议记事本，转录音频的同时润色用户手打的笔记，整理成结构化摘要和行动项
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gretel-ai:
+    status: approved
+    text: 面向隐私保护的合成数据生成平台，已被 Nvidia 收购并并入 NeMo 体系
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  griptape:
+    status: approved
+    text: 开源 Python 框架，配套云平台，用于构建、运行和治理企业 AI Agent 与工作流
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  grok-model:
+    status: approved
+    text: xAI 推出的语言模型家族，覆盖 Grok 3、Grok 4 与 Grok 4.1，驱动 X 和 grok.com 上的 Grok 助手，并通过 xAI API 提供
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  groq:
+    status: approved
+    text: 在自研 LPU 处理器上运行开源模型的推理云，提供低延迟的语言与语音模型 API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  grow-therapy:
+    status: approved
+    text: 线上线下心理治疗平台，支持保险支付并简化预约流程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  gumloop:
+    status: approved
+    text: 无代码搭建 AI 自动化工作流的平台，提供拖拽节点、agent 步骤和数据集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hailuoai:
+    status: approved
+    text: 基于 MiniMax 海螺模型的视频与图像生成平台，把文字提示变成短视频与图像
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hamming:
+    status: approved
+    text: 面向语音 AI agent 的测试与监控平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  happyrobot:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向物流的语音 AI agent 平台，自动处理承运商销售与在途追踪，DHL 等企业在用
+  harmonic:
+    status: approved
+    text: Harmonic 是面向投资人的初创公司情报数据库，结合自有数据采集与 AI，梳理非上市公司、融资与人物信息
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  harvey-platform:
+    status: approved
+    text: 供律所与公司法务团队使用的法律及专业服务 AI 平台，提供检索、文书起草与分析流程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hatchet:
+    status: approved
+    text: 面向 AI agent 与后台任务的工作流编排及任务队列平台，支持持久化执行、重试、调度和并发控制；MIT 许可证，可自托管，另有托管云服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hazy:
+    status: approved
+    text: 专注隐私保护合成数据的公司，主要软件资产已被 SAS 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  headshotpro:
+    status: approved
+    text: AI 头像生成器，把自拍变成专业商务肖像，可选多种风格与背景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  headway:
+    status: approved
+    text: 15 分钟书籍摘要，提供文本与音频版本，配可视化呈现和个性化推荐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  health-harbor:
+    status: approved
+    text: 帮医疗机构自动拨打保险福利核验电话并接听患者来电的软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hedra:
+    status: approved
+    text: Hedra 是专注角色表演的 AI 视频平台，用 Character 模型和实时数字人把图像与文本变成会说话的角色视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  heitech-hei-io:
+    status: approved
+    text: HeiTech（Hei.io）是 AI 配音公司，为视频和音频提供字幕、翻译、人声与音效服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hello-boss:
+    status: approved
+    text: 面向日式招聘的求职应用，提供 AI 职位推荐并一键生成履历
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hello-patient:
+    status: approved
+    text: 医疗沟通软件，处理患者来电与消息，支持预约排期和初诊登记
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hellorep:
+    status: approved
+    text: 面向电商品牌（Shopify）的对话式 AI 销售平台，识别购物意向、主动触达顾客，引导其从发现商品到完成结账
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  helsing:
+    status: approved
+    text: 为民主国家研发 AI 驱动的自主军事系统，包括作战无人机和水下无人机
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hexa:
+    status: approved
+    text: 3D 电商平台，提供创建、管理、分析和分发 3D 资产的技术栈，服务在线购物场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  heygen:
+    status: approved
+    text: HeyGen 用照片级数字人把文本生成为视频，支持多语言翻译、配音和对口型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hi-auto:
+    status: approved
+    text: 为餐厅得来速车道提供语音接单的软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hidream:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: HiDream 的全模态基础模型覆盖图像、视频与 3D，并开源 E1.1 图像编辑模型
+  higgsfield-platform:
+    status: approved
+    text: Higgsfield 平台生成 AI 视频和图像，围绕镜头运动提供视频生成与剪辑工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  himalayas:
+    status: approved
+    text: 远程与 AI 岗位平台，为用户匹配职位并生成求职信
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hippocratic-ai:
+    status: approved
+    text: 医疗对话软件，用于患者互动和非诊断类护理流程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  homelight:
+    status: approved
+    text: 美国房产平台，为买家和卖家匹配经纪人，提供现金购房与先买后卖服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hugging-face-hub:
+    status: approved
+    text: 托管、分享和发现机器学习模型的平台，内容涵盖模型、数据集、Spaces 演示与应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hume-octave:
+    status: approved
+    text: Hume 推出的语音语言模型系列，用于生成富有表现力的语音
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  humind:
+    status: approved
+    text: 面向网店的购物助手，回答商品问题并通过同步的商品目录引导顾客
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hunyuan:
+    status: approved
+    text: Tencent 的 Hunyuan 模型家族，覆盖语言、图像、视频与三维内容生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hunyuan-image:
+    status: approved
+    text: Tencent Hunyuan 图像家族，3.0 版开源，3.5 预览版支持多轮对话编辑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hunyuan-video:
+    status: approved
+    text: Tencent Hunyuan 视频生成模型家族，可从文本和图像输入生成视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hunyuan3d:
+    status: approved
+    text: Hunyuan3D 从文本和图像生成几何结构干净、外观逼真的 3D 模型，尤其擅长角色生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hyper-write:
+    status: approved
+    text: HyperWrite 是 OthersideAI 推出的 AI 写作助手，提供 Chrome 扩展与网页应用，内置自动补全、写作工具、聊天和网络搜索
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hyperbound:
+    status: approved
+    text: 销售培训平台，模拟买家对话供销售做角色扮演演练并接受辅导
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hyperstack:
+    status: approved
+    text: Hyperstack 是欧洲的绿色 GPU 云，为训练与推理提供 NVIDIA 基础设施
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  hypotenuse:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向电商的 AI 写作平台，以品牌语感生成商品文案，并针对搜索引擎与电商平台优化
+  hyro:
+    status: approved
+    text: 医疗语音与聊天自动化工具，覆盖患者接入、预约排期与咨询支持
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  iask:
+    status: approved
+    text: iAsk 是 AI 问答搜索引擎，用自然语言提问即可即时获得答案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  icon:
+    status: approved
+    text: UGC 广告平台，为品牌制作创作者出镜的视频广告，配套广告活动管理软件用于追踪效果和迭代
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ideogram-model:
+    status: approved
+    text: 以图像内文字渲染见长的文生图模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  incymo:
+    status: approved
+    text: Incymo 是游戏变现平台，提供广告优化和玩家行为分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  induced:
+    status: approved
+    text: Human-in-the-loop 的 RPA，用 AI 自动执行网页端任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  indyx:
+    status: approved
+    text: 数字衣橱应用，支持登记衣物、规划穿搭并记录穿着情况
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  infinitus:
+    status: approved
+    text: 医疗对话自动化，处理保险福利核验、预授权和诊疗协调
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  informix:
+    status: approved
+    text: 老牌关系型数据库，现由 HCL/Actian 运营，为金融应用提供向量检索能力
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  inngest:
+    status: approved
+    text: Inngest 是 durable functions 平台，用于执行 AI 工作流与后台任务，内置状态管理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  instaread:
+    status: approved
+    text: 专业撰写的 15 分钟书籍摘要，覆盖热门畅销书
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  intangible-ai:
+    status: approved
+    text: 借助 AI 创建、编辑 3D 场景并支持协作的无代码平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  intercom:
+    status: approved
+    text: 客户消息平台，整合帮助台和共享收件箱，由 AI agent Fin 解决客户支持会话
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  invideo:
+    status: approved
+    text: invideo 是在线 AI 视频创作平台，按提示词或脚本生成视频，自带素材、字幕和配音
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  inworld-tts:
+    status: approved
+    text: Inworld 的实时文本转语音模型，支持多种语言
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  irender:
+    status: approved
+    text: iRender 是面向创作者的 GPU 渲染云，为 Blender、Unreal 等软件提供渲染加速
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  jamie:
+    status: approved
+    text: 会议助手，记录谈话内容，生成笔记、摘要和行动项
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  jarvis-labs:
+    status: approved
+    text: Jarvis Labs 是 GPU 云平台，一键即可创建预置深度学习框架的环境
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  jasper:
+    status: approved
+    text: Jasper 是面向营销和商务团队的 AI 写作助手，支持品牌语气控制、模板和 SEO 工作流
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  jenni-ai:
+    status: approved
+    text: Jenni.ai 是 AI 写作助手，辅助学术写作、研究整理与逻辑生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  jina-ai:
+    status: approved
+    text: Jina AI 已于 2025 年 10 月被 Elastic 收购，现提供面向多模态与多语言 Embedding、重排序、检索和 RAG 的 AI 搜索模型与 API 产品线
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  jobright:
+    status: approved
+    text: AI 求职副驾驶，匹配岗位、自动填写申请，并优化简历、生成求职信
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  jogg:
+    status: approved
+    text: JoggAI 是 AI 视频平台，用会说话的数字人制作短视频，还能把播客音频转成视频、翻译视频并做对口型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  joinbrix:
+    status: approved
+    text: 面向应用型 AI 人才的智能体招聘平台，生成职位描述、搜寻并筛选候选人，并在 120 多个国家办理合同、薪酬发放与合规
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  joyland:
+    status: approved
+    text: AI 角色创建与聊天平台，涵盖动漫风陪伴角色、互动故事和角色扮演，配有社区角色库
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  juicebox:
+    status: approved
+    text: Juicebox 是 AI 招聘平台，内置的 PeopleGPT 搜索用自然语言检索庞大的全球档案库，另配招聘 CRM 和负责寻访与外联的 AI agent
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  julius:
+    status: approved
+    text: 连接表格等多种数据源的对话式数据分析工具，用图表和统计回答自然语言问题，还能运行 Python 与 R 代码
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kaedim:
+    status: approved
+    text: 把 2D 图片和草图转换为生产级 3D 模型的平台，输出可用于 Unity、Unreal Engine 和 Blender
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kaizan:
+    status: approved
+    text: 对话智能平台，帮助管理客户关系，自动填充工作流并集成常用工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  karma:
+    status: approved
+    text: AI 购物助手，跨商店追踪价格、自动找优惠码并提醒降价，已转型智能体购物平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  kastle-ai:
+    status: approved
+    text: 金融服务语音 AI agent 平台，专注抵押贷款业务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kater:
+    status: approved
+    text: 企业 AI 报表平台，用自然语言提问即可获得决策洞察与分析流程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kea:
+    status: approved
+    text: 餐厅电话与短信点餐软件，与 POS 系统对接
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  khanmigo:
+    status: approved
+    text: Khan Academy 推出的 AI 导师与教学助手，引导学生逐步学完平台课程，并协助教师备课与批改
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kimi-model:
+    status: approved
+    text: Moonshot AI 推出的语言模型家族，覆盖文本、代码与推理任务，包含具备视觉能力和开放权重的版本，从 K1.5 迭代到 K3
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kinetix:
+    status: approved
+    text: Kinetix 让用户从视频生成 3D 动画虚拟形象并转换为 NFT，支持跨虚拟世界使用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kiro:
+    status: approved
+    text: AWS 的代理式 IDE，主打规范驱动开发，将需求与设计转化为结构化任务，交给 AI 编码 Agent 实现
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kive:
+    status: approved
+    text: Kive 用 AI 帮用户整理和检索视觉素材
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kling:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 快手旗下的 AI 视频与图像平台，视频模型已迭代至可灵 4.0，图像支持原生 4K 直出
+  knowt:
+    status: approved
+    text: 学习工具，把笔记、视频和 PDF 变成 AI 闪卡与练习测验，支持间隔重复复习和课堂笔记记录
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  komo:
+    status: approved
+    text: Komo 是无广告的生成式 AI 搜索平台，支持对话式搜索与社区驱动的发现
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  kore-ai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 企业级对话式 AI 平台，可端到端处理客服与员工请求，入选 Gartner 魔力象限领导者
+  krisp:
+    status: approved
+    text: Krisp 提供 AI 降噪与口音转换技术，以 macOS 和 Windows 桌面应用的形式作为虚拟麦克风和扬声器，接入现有会议与呼叫中心工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lambda:
+    status: approved
+    text: Lambda 是服务 AI 训练与推理的云 GPU 平台，提供 H100/H200/B200 多 GPU 实例
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  langchain:
+    status: approved
+    text: 用于构建 LLM 应用与 Agent 的框架，提供链式抽象和各类集成；RAG 是主要用例，Agent 编排（LangGraph）和可观测性（LangSmith）是独立产品
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  langfuse:
+    status: approved
+    text: 开源 LLM 工程平台，提供追踪、prompt 管理、评估与分析，可自托管或使用云服务；已被 ClickHouse 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  langgraph:
+    status: approved
+    text: LangChain 团队开源的框架，把有状态、多角色的 agent 应用建模为图，支持检查点、循环和 human-in-the-loop 控制
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  langmem:
+    status: approved
+    text: LangMem 是 LangChain 团队为 LangGraph 打造的开源记忆工具库，提供事实抽取、整合、更新与删除，附带热路径工具和后台记忆管理器
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  langsmith:
+    status: approved
+    text: LangChain 推出的 LLM agent 追踪、调试、评估与监控平台，提供成本与延迟统计、数据集管理和回归检测
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lavague:
+    status: approved
+    text: LaVague 是开源的 Large Action Model 框架，用于构建 web agent，把自然语言转成基于 Selenium 或 Playwright 的浏览器自动化代码
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lavender:
+    status: approved
+    text: AI 销售邮件训练平台，为邮件打分、给出个性化建议并调研收件人
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  layer:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向游戏团队的 AI 资产生成平台，聚合 300 多个模型，可训练专属画风
+  leadbeam:
+    status: approved
+    text: 面向外勤销售团队的移动 CRM，记录客户互动并更新销售记录
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  leadergpu:
+    status: approved
+    text: LeaderGPU 提供 GPU 服务器租用，专注深度学习负载，涵盖训练与图像处理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  leexi:
+    status: approved
+    text: 会议助手，录制并转录通话，生成摘要和后续待办
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  legora:
+    status: approved
+    text: 律师的 AI 工作空间，加速文书起草、法律检索与团队协作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  leonardo-ai:
+    status: approved
+    text: Leonardo AI 图像与视频生成平台，提供微调模型、风格预设、编辑画布与视频生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lessie:
+    status: approved
+    text: Lessie AI 是 agentic 人物搜索引擎，输入一段自然语言描述，就能在 LinkedIn、X、GitHub 等来源的档案里找到影响者、销售线索、投资人和人才
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  letta:
+    status: approved
+    text: Letta 是构建有状态 AI agent 的开源平台，前身叫 MemGPT，让上下文、身份和习得行为跨会话保留
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  liberate:
+    status: approved
+    text: 金融服务行业的语音 AI agent 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  libsyn:
+    status: approved
+    text: Libsyn 是最早的播客托管服务之一，支持音频/视频上传、定时发布、统计、分发和变现工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lightpanda:
+    status: approved
+    text: Lightpanda 是用 Zig 写的开源无头浏览器，兼容 Puppeteer 和 Playwright，面向网页自动化、抓取与 AI agent，另提供云服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lightscreen:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 语音 AI 招聘平台，AI 面试官评估沟通与匹配度，自动完成简历筛选、背调与约面
+  lingokids:
+    status: approved
+    text: 面向 2-8 岁儿童的语言学习应用，借助互动游戏与语音识别教学
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  linktree:
+    status: approved
+    text: 个性化「Link in Bio」页面，把多个平台的链接聚合到一页，并附带数据分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lit-link:
+    status: approved
+    text: 免费的「Link in Bio」服务，聚合多个社交媒体链接，提供多种设计选项
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  livekit:
+    status: approved
+    text: 用于构建语音、视频应用的实时通信基础设施
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  llama:
+    status: approved
+    text: Meta 的开放权重语言模型系列，从 Llama 3 迭代至 Llama 4
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  llamaindex:
+    status: approved
+    text: 面向 LLM 应用的数据框架，包含 LlamaParse 文档解析器、RAG 组件与 Agent 工作流
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lm-studio:
+    status: approved
+    text: 在本地运行开源 LLM 的桌面工具，既能对话使用，也能把模型部署成本地微服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lmarena:
+    status: approved
+    text: 让用户盲测并排比较 LLM 回答并投票的平台，汇总大众投票生成模型排行榜
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lockedinai:
+    status: approved
+    text: 实时面试与会议助手，提供回答建议、编程副驾驶，并支持自动投递求职申请
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  logseq:
+    status: approved
+    text: 以隐私为先的本地知识库，构建在 Markdown 与双向链接之上
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  loman-ai:
+    status: approved
+    text: 为餐厅接听电话的 AI，处理点餐、订位和顾客咨询
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lookverse:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 主打时尚品类的 AI 视觉购物平台，把商品搜索与发现做成个性化、预测式体验
+  loom:
+    status: approved
+    text: Loom 支持一键录屏和分享，附带 AI 视频增强、文本剪辑与跨平台协作功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  loudly:
+    status: approved
+    text: Loudly 从文字提示生成免版税曲目，支持分轨定制并可分发到流媒体服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lovable-platform:
+    status: approved
+    text: AI 应用构建工具，根据聊天输入生成全栈 Web 应用和原型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lovart:
+    status: approved
+    text: Lovart AI 是设计 agent，在画布工作区里把从概念到图像、视频和 3D 素材的设计工作自动化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ltx-studio:
+    status: approved
+    text: LTX Studio 是 Lightricks 的 AI 电影制作平台，在单一项目工作区内完成剧本开发、分镜、镜头规划、生成与剪辑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  luma-photon:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: Luma Labs 的文生图模型系列，photon-1 支持多图参考与角色一致性
+  luma-ray:
+    status: approved
+    text: Luma 的 Ray 模型家族，支持以文本、图像或视频为条件的视频生成与编辑，可通过 Luma Dream Machine 和 Luma API 使用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  luminous:
+    status: approved
+    text: Aleph Alpha 推出的语言模型家族，支持多语言文本与图像分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  lyria:
+    status: approved
+    text: Google 推出的音乐生成模型，已与 YouTube 集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  magic3d:
+    status: approved
+    text: Magic3D 是高分辨率的文本到 3D 内容生成模型，面向图形与视觉技术研究
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  magical:
+    status: approved
+    text: 医疗运营平台，部署 AI agent 执行患者接入与收入循环流程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mai-image:
+    status: approved
+    text: Microsoft AI 的文生图模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  make:
+    status: approved
+    text: 可视化工作流自动化平台，用来连接应用、搭建业务流程自动化，前身为 Integromat
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mana:
+    status: approved
+    text: 自动处理日常工作的 AI agent，能解答 HR 问题、办理文件事务，也可用于学习与娱乐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  manifest-ai:
+    status: approved
+    text: 电商助手，回答购物者提问、推荐商品并提供客服支持
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  manus:
+    status: approved
+    text: 能自主执行多步任务的 AI agent，例如搭建网站、做数据分析、产出报告，并具备持久记忆
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  marr-labs:
+    status: approved
+    text: 客户语音与聊天自动化平台；2026 年 9 月被 PayNearMe 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  martian:
+    status: approved
+    text: 模型路由平台，为每个请求自动选择 LLM，在成本、延迟与输出质量之间取得平衡
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mathgpt:
+    status: approved
+    text: 图片识题的数学计算器，用视频和动画演示解题过程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mathgptpro:
+    status: approved
+    text: AI 数学解题器，键入或上传题目即可获得分步解答、交互式绘图与作业辅导
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mathway:
+    status: approved
+    text: 多用途数学解题工具，题目支持拍照或手动输入
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mcp-run:
+    status: approved
+    text: Dylibso 推出的自托管 MCP 网关与管理平台，由 MCP.run 沙箱运行时演进而来
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mdclone:
+    status: approved
+    text: 医疗数据分析平台，在保护隐私的同时生成合成数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  meetgeek:
+    status: approved
+    text: 会议录制与转录平台，生成会议摘要并自动执行跟进流程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  meilisearch:
+    status: approved
+    text: Meilisearch 是通过 REST API 使用的搜索引擎，速度快、能容忍拼写错误，既可开源自部署，也提供托管云服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  melolo:
+    status: approved
+    text: Melolo 面向东南亚市场，免费提供本地化高清短剧并自动配上字幕
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mem:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AI 笔记工作区，自动整理笔记、会议与研究资料，内置 agent 可对话检索并主动提醒待办
+  mem0:
+    status: approved
+    text: Mem0 是面向 AI agent 的记忆层，在向量与知识图谱混合架构上自动完成记忆的抽取、清洗和存储，提供托管平台和开源自托管两种形式
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  memobase:
+    status: approved
+    text: Memobase 围绕用户画像构建长期记忆，管理画像、记忆事件和不断演化的上下文，适合聊天机器人、陪伴类等以用户为中心的 AI 应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  memories:
+    status: approved
+    text: Memories.ai 提供视频智能 API，把视觉数据索引成可供 AI agent 检索的记忆，底层是大型视觉记忆模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  memos:
+    status: approved
+    text: 开源的 LLM agent 记忆操作系统，以 MemCube 抽象统一明文、激活值/KV-cache 与参数化三类记忆，支持记忆生命周期调度、治理与多 agent 共享
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  memu:
+    status: approved
+    text: 开源的 agent 记忆 sidecar，把桌面与编程 agent 的历史记录转化为可复用的 wiki 页面、记忆和技能，并提供多主机适配器
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mercor:
+    status: approved
+    text: AI 招聘市场，为专业岗位搜寻并面试候选人，同时处理全球合同与付款
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  meshy:
+    status: approved
+    text: AI 3D 模型生成器，从文本提示或图片生成带贴图的网格模型，并提供编辑工具和面向游戏、AR 的导出格式
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  metaview:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: agent 化的招聘平台，AI 自动寻访候选人并生成面试笔记与评分卡，对接主流 ATS
+  metoro:
+    status: approved
+    text: 面向 Kubernetes 的 AI SRE 与可观测性平台，基于 eBPF 遥测发现生产问题并排查告警
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  metronome:
+    status: approved
+    text: Metronome 是用量计费平台，自动化计费模型，支持实时调价
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  micro1:
+    status: approved
+    text: AI 招聘平台，内置语音面试官 Zara，并提供承接数据标注与 AI 训练数据业务的全球人才队伍
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  midi-agent:
+    status: approved
+    text: MIDI Agent 是 VST 与 AU 插件，借助自然语言与主流 AI 模型（ChatGPT、Claude、Gemini、Grok）生成和转录 MIDI
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  midjourney-model:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 独立实验室 Midjourney 的文生图与视频模型，以艺术质感著称，图像模型已至 V8，经网站与 Discord 使用
+  mindbody:
+    status: approved
+    text: Mindbody 服务健身、水疗与养生行业，预约、收款和营销都在一个平台上完成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mindgrasp:
+    status: approved
+    text: AI 学习平台，上传文档即可生成笔记、闪卡与测验
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mindsera:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AI 心理健身日记应用，支持文字、语音与拍照记录，自动分析情绪并内置 50 多种思维模型模板
+  minimax-model:
+    status: approved
+    text: MiniMax 的语言模型家族，权重开放，覆盖文本生成、编码与工具辅助工作流，当前版本 M2.7
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mintlify:
+    status: approved
+    text: 从代码库生成并托管开发者文档的平台，配有 AI 辅助写作、内容更新和用户分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  miovision:
+    status: approved
+    text: 智能交通系统，通过传感器加 AI 提供实时交通监控与城市交通洞察
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mirix:
+    status: approved
+    text: Mirix 是屏幕级多模态记忆系统，实时监控屏幕，把画面、行为和事件沉淀为个性化记忆库并降低存储需求
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  miro:
+    status: approved
+    text: 在线协作白板平台，用于绘图、工作坊与规划，配有 AI 辅助创作功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mistral-model:
+    status: approved
+    text: Mistral AI 的通用语言模型家族，按 Small、Medium、Large 分档（如 Mistral Large 2、Mistral Medium 3），通过 la Plateforme API 提供并支持企业部署
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mix-audio-agent:
+    status: approved
+    text: Mix Audio Agent 是一套 AI 音乐工具集，覆盖配乐、Remix、分轨分离和音乐分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mobalytics:
+    status: approved
+    text: Mobalytics 是游戏数据分析工具，支持多款热门游戏
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mochi:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: Genmo 的开源文生视频模型，Mochi 1 权重在 Hugging Face，支持本地运行
+  moderne:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 基于 OpenRewrite 的代码修复平台，以配方批量修补漏洞、升级框架，覆盖整个代码库
+  modl-ai:
+    status: approved
+    text: Modl.ai 提供面向游戏的 AI 工具，用于自动化测试和内容生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  moego:
+    status: approved
+    text: 面向宠物寄养、美容和日托门店的运营管理软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  molypix:
+    status: approved
+    text: MolyPix 是 AI 平面设计工具，从文本提示生成可编辑的分层图像
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  moments-lab:
+    status: approved
+    text: Moments Lab 是 AI 视频索引平台，自动切分素材片段，并生成剪辑成片与社交短视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  momo:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 大众 AI 写真应用，上传 8 至 12 张自拍训练专属模型，即可生成职业头像与风格写真
+  mondly:
+    status: approved
+    text: 多语言学习应用，提供会话练习与语音识别功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mongodb:
+    status: approved
+    text: 文档型 NoSQL 数据库，提供托管云服务 Atlas，广泛用于应用数据存储
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  monica:
+    status: approved
+    text: 接入 GPT、Claude、Gemini、DeepSeek 等多家模型的 AI 助手，功能覆盖聊天、搜索、写作、图像与视频生成和编程
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  monograph:
+    status: approved
+    text: Monograph 是建筑与工程设计团队的项目管理平台，统一管理项目预算、排期与开票
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  morph:
+    status: approved
+    text: 集表格、数据库与 AI 分析于一体的无代码数据工作室
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mostly-ai:
+    status: approved
+    text: 合成数据生成工具与知识中心，聚焦隐私保护的数据生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  motherduck:
+    status: approved
+    text: 基于 DuckDB 构建的无服务器云数据仓库，提供 SQL 分析、云存储与协作共享，无需运维基础设施
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  moveworks:
+    status: approved
+    text: 自动响应员工请求并执行任务的企业 AI 助手，现已被 ServiceNow 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  mozartai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AI 写歌应用，把照片、灵感或歌词在一分钟内变成带人声的完整歌曲，支持声音克隆
+  mubert:
+    status: approved
+    text: Mubert 通过网页生成器、开发者 API 和艺术家工作室，为视频、播客和应用生成免版税配乐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  munch-studio:
+    status: approved
+    text: AI 平台，基于企业自有素材生成社交媒体帖子和内容策略，附带审核流程、一键发布和跨平台分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  murf:
+    status: approved
+    text: Murf.ai 是 AI 文字转语音平台，提供配音生成、译制配音和 TTS API，语音库覆盖 35 种以上语言、200 多个声音
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  music:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 音频智能平台，旗下 Moises 面向音乐人创作，企业 API 日处理音频超两百万分钟
+  musicfy:
+    status: approved
+    text: Musicfy 用 AI 人声生成翻唱与原创歌曲，支持声音克隆、文生音乐和恶搞音色
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  musicgen:
+    status: approved
+    text: Meta 开源的音乐生成模型，属于 AudioCraft 仓库的一部分
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  musico:
+    status: approved
+    text: Musico 是生成式音乐引擎，产出可自适应的免版税配乐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  my-map-ai:
+    status: approved
+    text: My Map AI 在聊天界面中生成条理清晰的 AI 学习速查表和快速参考指南
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  myminutes:
+    status: approved
+    text: 音频笔记应用，转录录音并整理成结构化笔记
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  n8n:
+    status: approved
+    text: 面向技术团队的工作流自动化平台，以低代码逻辑连接应用与 API，支持 AI agent 工作流，可云端部署或自托管
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  nano-banana-2:
+    status: approved
+    text: Google 图像生成与编辑模型家族，现行 Nano Banana 2.1 取代基于 Gemini 3.1 Flash Image 的前代，经 Gemini 应用、AI Studio 与 API 提供
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  napkin:
+    status: approved
+    text: 把文本转成可编辑视觉图形的工具，用来呈现业务故事
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  navina:
+    status: approved
+    text: 医疗 AI 平台，实时优化临床决策与住院资源分配
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  nekuda:
+    status: approved
+    text: 为 AI agent 打造安全合规的支付网关，支持代用户自动付款和凭证管理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  neo4j:
+    status: approved
+    text: 以节点和关系存储数据的图数据库，附带 Cypher 查询语言与图数据科学工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  neon:
+    status: approved
+    text: 无服务器 PostgreSQL 平台，支持数据库分支、计算可缩容至零与托管存储，现由 Databricks 运营
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  netlify:
+    status: approved
+    text: Netlify 是 Web 开发平台，从 git 仓库部署网站和应用，自带全球 CDN、无服务器函数、部署预览和 AI 辅助功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  netshort:
+    status: approved
+    text: NetShort 专做 1 分钟竖屏短剧，提供高清流媒体播放
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  neuralframes:
+    status: approved
+    text: NeuralFrames 是 AI 视频生成平台，供音乐人创作音乐视频，官方称已生成超过 200 万条视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  nightcafe-studio:
+    status: approved
+    text: Nightcafe Studio 支持用多个模型生成 AI 艺术作品，并围绕公开画廊、聊天室和每日挑战形成创作者社区
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  nodeflair:
+    status: approved
+    text: 东南亚技术人才求职平台，提供简历工具和公开透明的职位、薪资信息
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  nooks:
+    status: approved
+    text: 销售平台，集成了电话拨号器、对话数据以及潜客开发和辅导工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  not-diamond:
+    status: approved
+    text: 模型路由器，自动决定每个请求由哪个 LLM 处理，供编程 agent 与 LLM 应用优化成本、延迟和质量
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  notability:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 手写笔记应用，可将笔记、录音与文档自动转为 AI 摘要、闪卡与测验，辅助学习
+  notebooklm:
+    status: approved
+    text: Google 的 AI 研究笔记本，原名 NotebookLM，回答、摘要与音频概述均基于用户上传的资料生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  notion:
+    status: approved
+    text: 协作工作区，把文档、Wiki、数据库与项目管理放到一处，并内置支持搜索和写作的 AI 功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  notta:
+    status: approved
+    text: AI 会议助手，多语言实时转录和总结会议、访谈、讲座，配有协作和导出功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  notte:
+    status: approved
+    text: Notte 是面向 AI agent 的浏览器平台，提供具有持久身份的托管云浏览器会话、登录凭证库和为语言模型优化的页面提取
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  noty-ai:
+    status: approved
+    text: 会议助手，转录并总结谈话，把讨论内容转成待办任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  novaapp:
+    status: approved
+    text: 基于 GPT-4o 和 Gemini 的跨平台聊天助手，提供问答、写作帮助和文字校对
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  novita-ai:
+    status: approved
+    text: 通过 API 调用大量 AI 模型的云平台，同时提供面向训练与推理的弹性 GPU 算力
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  numa:
+    status: approved
+    text: 服务汽车行业的语音 AI agent 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  nvidia-nim:
+    status: approved
+    text: 基于微服务的 GPU 加速推理平台，支持自托管或在云端部署 AI 模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  nyxai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: NyxAI 出品的全合成 AI 摄影图库，覆盖食物、动物与风景，由扩散模型与 GAN 生成，可免费商用
+  obsidian:
+    status: approved
+    text: 本地优先的 Markdown 笔记应用，具备双向链接、关系图谱、画布和可扩展的插件生态
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  oneirocom:
+    status: approved
+    text: Oneirocom 是元宇宙平台，将 AI 与分布式沉浸式叙事技术结合，提供互动体验
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  onton:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 无广告的 AI 家居购物搜索引擎，支持自然语言与以图搜图，可跨上百家零售商检索商品
+  open-interpreter:
+    status: approved
+    text: Open Interpreter 是开源编码 agent，让语言模型在用户电脑上运行代码；项目由 OpenAI Codex fork 而来，专注低成本的开源权重模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openai-fm:
+    status: approved
+    text: OpenAI.fm 是交互式演示平台，用来体验 OpenAI 的文本转语音 API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openai-tts:
+    status: approved
+    text: OpenAI TTS 是 OpenAI 的文字转语音 API 模型，用于在应用和语音管线中合成语音
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openai-whisper:
+    status: approved
+    text: OpenAI 的开源语音识别模型，覆盖 99 种语言，支持本地部署，社区衍生出 WhisperX 和 faster-whisper 等版本
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openart:
+    status: approved
+    text: AI 艺术创作与作品发现平台，汇集社区模型与公开画廊，支持免提示词绘画和迭代
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openfga:
+    status: approved
+    text: OpenFGA 是开源的细粒度授权引擎，参照 Google Zanzibar 设计，为应用和 AI agent 系统提供基于关系的访问控制
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openrouter:
+    status: approved
+    text: 统一的 LLM API 平台，单一端点即可调用多家提供商的众多语言模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openvc:
+    status: approved
+    text: OpenVC 是免费平台，帮初创公司创始人对接庞大的投资人数据库，并提供路演 Deck 分享、CRM 和自动跟进功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  openwardrobe:
+    status: approved
+    text: 数字衣橱应用，用来整理衣物和创建穿搭
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  opik:
+    status: approved
+    text: Comet 开源的 LLM 与 AI agent 应用追踪、评估及监控平台（Apache-2.0 许可证），覆盖开发与生产环境
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  opus:
+    status: approved
+    text: OpusClip 用 AI 把长录像剪成短片，自动加字幕、调整画幅、去除静音，还支持基于文本的剪辑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  originality-ai:
+    status: approved
+    text: 内容质量工具，集 AI 检测、抄袭查重、事实核查和可读性评估于一体
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  os-atlas:
+    status: approved
+    text: OS-Atlas 是开源的 GUI grounding 基础动作模型，在大规模跨平台界面元素数据集上训练，面向通用 GUI agent
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  otter:
+    status: approved
+    text: 会议助手，实时转录会议并生成自动摘要和行动项，可与日历、CRM 及协作工具集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  otto:
+    status: approved
+    text: AI 商旅助手，自动学习出行习惯并完成机票和酒店预订
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  outlier-ai:
+    status: approved
+    text: 供专业人士训练和评估 AI 模型的平台，在提升模型准确性的同时获得奖励
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  outplay:
+    status: approved
+    text: 多渠道销售自动化平台，支持邮件、电话和 LinkedIn 沟通，并提供数据分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  oxylabs:
+    status: approved
+    text: Oxylabs 是网页数据提取平台，提供代理、抓取 API 与网页搜索 API，可用于 AI agent 和数据采集
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  papercup:
+    status: approved
+    text: 端到端 AI 配音与视频本地化平台，配人工质检，2025 年被 RWS 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  paperguide:
+    status: approved
+    text: AI 研究助手，自动检索文献、起草文献综述并管理引用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  paradigm:
+    status: approved
+    text: 电子表格形态的智能体研究平台，单元格内可运行 AI agent，并行完成数据搜索、增强与操作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  paragon:
+    status: approved
+    text: Paragon 是面向 AI agent 和软件产品的集成平台，统一管理第三方应用连接，让 agent 直接调用外部工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  parallel:
+    status: approved
+    text: Parallel AI 面向 AI agent 提供网页搜索 API，返回带证据的长篇内容供 LLM 使用，并支持异步深度研究任务和 MCP
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  parloa:
+    status: approved
+    text: 面向呼叫中心的企业级 AI agent 管理平台，覆盖 agent 设计、仿真、评估、部署与监控，支持 CCaaS/CRM 集成和转人工
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  patronus-ai:
+    status: approved
+    text: LLM 与 AI agent 的评估测试平台，提供自动化评分基准和 agent 模拟
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  paxo:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 移动端优先的 AI 会议速记应用，在 iPhone 上录音并生成清晰可执行的笔记，主打随身速记场景
+  payman:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向银行与信用社的 AI agent 支付设施，以语音或文字执行付款、转账与账户分析，通过 SOC 2 Type II 认证
+  penseum:
+    status: approved
+    text: 按上传资料定制笔记、闪卡与测验内容的 AI 学习平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pepper-content:
+    status: approved
+    text: 具备 AI 能力的内容营销平台，同时运营一个由专家把关的创作者人才市场
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  perplexity:
+    status: approved
+    text: Perplexity 是 AI 答案引擎，依托自建网页索引（由 PerplexityBot 爬虫抓取）生成带来源的回答
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  perplexity-comet:
+    status: approved
+    text: Perplexity Comet 是 Perplexity 推出的 AI 浏览器，助手能替用户执行 agentic 浏览任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  phia:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AI 购物助手，在任意商品页寻找更低价替代，覆盖 22 万余个含二手电商在内的网站，提供 iOS 应用与 Chrome 扩展
+  phind:
+    status: approved
+    text: Phind 为开发者打造，用 AI 搜索返回可视化、可交互且引用清晰的代码与技术答案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  phoenix:
+    status: approved
+    text: Arize 推出的 LLM 可观测与 agent 评估平台，包含追踪、评估数据集和实验跟踪；源码可获取，采用 Elastic License 2.0
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  phota-labs:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 人像一致性平台，约 5 张照片数分钟训练出可复用的个人形象模型，跨场景与底模保持同一身份
+  photomath:
+    status: approved
+    text: 数学拍照解题工具，提供分步讲解与多种解法
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  photoroom:
+    status: approved
+    text: 面向产品摄影的 AI 修图应用，提供背景去除、AI 背景和批量编辑，用于电商商品图制作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  picsart:
+    status: approved
+    text: Picsart 是照片与视频创意编辑平台，内置 AI 图像生成和编辑工具，提供网页版和移动端应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pictory:
+    status: approved
+    text: Pictory 自动把脚本、博客文章、URL 和演示文稿剪成视频，配上 AI 配音、字幕和素材画面
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  picturethisai:
+    status: approved
+    text: 植物识别应用，通过照片辨认植物种类，并提供病害诊断与养护指导
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pietra:
+    status: approved
+    text: 面向品牌的电商平台，把采购、履约、营销与 AI 辅助运营放进同一套系统
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pig:
+    status: approved
+    text: 用 computer-use AI 操作 Windows 桌面应用的自动化平台，提供聊天界面、agent API 和 SDK，默认自托管
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pika:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: Pika Labs 推出的文生视频模型家族，Pika 2.2 可生成 1080p、最长 10 秒的视频，并提供 Pikaframes 关键帧控制与 Pikaffects 物理特效
+  pinecone:
+    status: approved
+    text: 全托管无服务器向量数据库服务，提供语义搜索与推荐查询 API，不支持自托管
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pirr:
+    status: approved
+    text: Pirr 是创作浪漫与情色故事的 AI 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pixelcut:
+    status: approved
+    text: AI 图像编辑应用，提供背景去除、修饰、画面扩展和超分辨率，已从 Pixelcut 更名为 Pixa，转型自然语言创意工作台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pixlr:
+    status: approved
+    text: 跨平台在线 AI 图像编辑器，支持图像生成、背景去除、增强与批量编辑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pixverse:
+    status: approved
+    text: PixVerse 视频生成平台，从文字与图像提示生成视频，提供特效与多种输出风格
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  placer-ai:
+    status: approved
+    text: 位置分析平台，提供线下客流、商圈与竞争情报，将访客趋势可视化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  plantin:
+    status: approved
+    text: AI 植物识别与养护助手，凭照片识别植物，给出定制养护方案和病害诊断
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  platform-sh:
+    status: approved
+    text: 构建、部署与扩展多语言 Web 应用的云 PaaS 平台，由 Platform.sh 更名而来
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  plaud:
+    status: approved
+    text: PLAUD 是 AI 录音与总结工具，自动转录多语言对话并生成要点与行动项
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  podbean:
+    status: approved
+    text: Podbean 集播客录制、发布、分发与变现于一体，并提供音频/视频托管与直播能力
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  podwise:
+    status: approved
+    text: Podwise 是播客学习应用，转录单集并生成结构化摘要、思维导图和笔记
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  poe:
+    status: approved
+    text: Quora 旗下平台，在一个界面中使用多个 AI 聊天机器人与语言模型，支持用户自建 bot 并提供 API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  polyai:
+    status: approved
+    text: PolyAI 专注为企业客户提供语音助手解决方案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  polybuzz:
+    status: approved
+    text: AI 角色聊天平台，支持角色扮演对话与 AI 生成条漫，并可自定义创建角色
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pomelli:
+    status: approved
+    text: Pomelli 是 AI 设计工具，分析企业网站 URL 后生成与品牌相符的营销物料
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  popai:
+    status: approved
+    text: AI 助手应用，支持与文档对话、制作幻灯片、解答作业和生成图像
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  portaly:
+    status: approved
+    text: AI 平台，从社交媒体内容一键生成品牌展示页
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  praison-ai:
+    status: approved
+    text: 开源低代码框架，负责多 agent LLM 应用的构建、管理和部署
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  praktika-ai:
+    status: approved
+    text: AI 语言导师应用，以对话练习提升口语
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  prequel:
+    status: approved
+    text: AI 美颜特效编辑器，内置数百种照片与视频滤镜及 3D 特效
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  presentations-ai:
+    status: approved
+    text: Presentations.AI 是快速生成图表、时间线、报告与演示幻灯片的 AI 助手
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  prezent:
+    status: approved
+    text: Prezent 是面向生命科学与科技企业的一体化 AI 演示平台，按行业、公司和受众定制，结合 AI agent、软件与专家服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  printgen:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 按需定制印花服务，把文字描述变成 T 恤与卫衣图案，下单才生产、无起订量，美国境内免运费
+  prisma-labs:
+    status: approved
+    text: Prisma Labs 是一家专注深度学习产品的移动技术公司
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  producer:
+    status: approved
+    text: Google Flow Music 是 Google 推出的对话式 AI 音乐创作工具，基于 Lyria 系列模型生成带人声的完整歌曲。它接替了被收购的 Producer.ai 工作室
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  promptql:
+    status: approved
+    text: PromptQL 是 Hasura 团队开发的代理式数据访问层，让 AI agent 对已连接的数据库和 API 生成并执行查询计划
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  protegee-ai:
+    status: approved
+    text: 正在为 AI agent 建设支付基础设施的初创公司，公开网站目前只有登录页
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  pryon:
+    status: approved
+    text: 企业知识搜索与自动问答系统，建立在语义理解之上
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  qdrant:
+    status: approved
+    text: 用 Rust 编写的开源向量数据库与相似性搜索引擎，支持 payload 过滤、过滤感知 HNSW、稠密/稀疏与多向量及混合多阶段查询
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  quanda:
+    status: approved
+    text: 用 OCR 识别题目的 AI 数学学习平台，一步给出解答，注册用户超 9000 万
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  quark:
+    status: approved
+    text: 阿里巴巴旗下的 AI 超级助手，整合搜索、笔记、云盘、文档与深度推理能力
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  questionai:
+    status: approved
+    text: AI 作业助手，用分步讲解回答数学、科学等学科问题
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  quil:
+    status: approved
+    text: 招聘机构 AI 助手（原 Quil，更名 CoRecruit），自动写面试笔记并同步 ATS
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  quip:
+    status: approved
+    text: 嵌入 Salesforce 的实时文档协作工具，整合了电子表格与聊天功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  quizizz:
+    status: approved
+    text: 在线互动测验平台（原 Quizizz），支持课堂与远程的游戏化学习
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  quizlet:
+    status: approved
+    text: 提供数字闪卡、练习测验和 AI 辅助学习模式的学习平台，覆盖各学科
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  qwen-image-2-0:
+    status: approved
+    text: Alibaba Qwen 图像生成家族，从 Qwen-Image-2.0 迭代至现行 3.0，支持中英文图内文字，经 DashScope 与 Qwen Chat 提供，基础权重开源
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  qwen-model:
+    status: approved
+    text: Alibaba 的开放权重语言模型家族，从 Qwen2.5 迭代到 Qwen3.7，另有 Apache 2.0 许可的 Qwen Coder 编码线独立发布
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  railway:
+    status: approved
+    text: 按用量计费的云平台，可部署应用、服务器与数据库，也被用作 AI agent 的托管基础设施
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rapid-api:
+    status: approved
+    text: API 市场，把 API 的查找、测试、变现与管理整合在一起
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rasa:
+    status: approved
+    text: 开源的对话式 AI 平台，用于构建语音和文本助手
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rask:
+    status: approved
+    text: Rask 做 AI 视频和音频本地化，支持 130 多种语言的自动翻译和字幕
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  raspberry-ai:
+    status: approved
+    text: 时尚团队用的设计平台，可创作和编辑商品图与设计概念
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  raygun:
+    status: approved
+    text: 面向开发团队的错误追踪、崩溃报告与应用性能监控软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rct-studio:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 创意 AI 工作室，其 Morpheus 引擎将剧本拆成分支叙事并以 3D 与 VR 呈现，团队出自百度渡鸦，入选 YC W19
+  read:
+    status: approved
+    text: AI 会议平台，生成会议转写和自动摘要，并对录制过的会议提供企业级搜索
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  readdy:
+    status: approved
+    text: AI 设计平台，产出生产级 UI 并输出代码
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  recall-ai:
+    status: approved
+    text: 统一 API，一个接口即可获取 Zoom/Meet 会议录制、实时转录和元数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  reccloud:
+    status: approved
+    text: RecCloud 是 AI 音视频工具集，支持转写、配音、字幕和短视频生成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  recraft-model:
+    status: approved
+    text: 支持矢量图与 mockup 输出的文生图模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  reface:
+    status: approved
+    text: Reface 在手机和网页端提供换脸与 AI 头像生成，可替换照片和视频中的人脸并制作动画
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  regie:
+    status: approved
+    text: 面向销售团队的 AI 内容平台，生成个性化销售素材和沟通文案
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  regression-games:
+    status: approved
+    text: Regression Games 是 AI 游戏与电竞平台，用户通过编程控制游戏角色
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  relume:
+    status: approved
+    text: Relume 用 AI 生成站点地图、线框图和样式指南
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  remini:
+    status: approved
+    text: 照片与视频增强应用，修复老旧或低画质图像，并把素材放大到更高清晰度
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  remove-bg:
+    status: approved
+    text: 一键自动去除背景，5 秒内生成透明或纯色背景图片
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  render:
+    status: approved
+    text: 从 Git 直接部署 Web 服务、API、worker 与数据库的云平台，兼作 AI 应用的基础设施
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rephrase-ai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 以真人数字分身生成个性化营销视频的平台，2023 年 11 月被 Adobe 收购，团队并入其生成式视频业务
+  replicant:
+    status: approved
+    text: 面向呼叫中心客服的对话自动化与分析平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  replicate:
+    status: approved
+    text: 通过 API 运行、微调开源 AI 模型的云平台，也支持部署自定义模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  replika:
+    status: approved
+    text: AI 陪伴聊天机器人，人设可定制，能进行开放式对话，覆盖移动端和网页端
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  replit:
+    status: approved
+    text: 云端 IDE 与开发平台，支持编程、实时协作和部署，内置可按自然语言构建应用的 AI Agent
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  requesty:
+    status: approved
+    text: AI 模型市场与 API 聚合平台，可将请求路由到多家提供商的模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  resemble-ai:
+    status: approved
+    text: Resemble AI 是企业级语音 AI 平台，提供声音克隆与 TTS API，支持本地部署、不可感知音频水印和深度伪造检测
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  retellai:
+    status: approved
+    text: 构建、部署和管理语音 AI agent 的平台，可承担客服与呼叫中心的电话对话
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  retool:
+    status: approved
+    text: 低代码平台，用于搭建内部业务应用和工作流，可直接连接公司数据与系统
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  retrofit:
+    status: approved
+    text: 面向二手商品的商品发现与搜索平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rev-ai:
+    status: approved
+    text: Rev AI 是语音转文字转录服务，为音频和视频内容提供实时和批量 ASR API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  reve-model:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: Reve 的文生图模型，配套统一网页应用，支持创建、编辑与重混图像，将自然语言指令与拖拽式编辑器相结合
+  revid:
+    status: approved
+    text: revid.ai 是 AI 视频生成工具，从提示词或脚本生成面向 TikTok、Instagram 和 YouTube 的短视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ribbon:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 语音 AI 招聘员，全天候用 10 种语言进行自适应双向面试，按评分标准自动打分，可与 60 多个 ATS 同步
+  rilla:
+    status: approved
+    text: 对话智能平台，记录线下销售对话并支持销售辅导
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rillet:
+    status: approved
+    text: AI 原生 ERP 系统，自动完成月末关账、合并报表、GAAP 报告与发票处理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  riza:
+    status: approved
+    text: Riza 是沙箱运行时，通过 API 在隔离的 WebAssembly 环境中执行 AI 应用生成的不可信代码
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rodin:
+    status: approved
+    text: Rodin 支持从文本提示和图像生成 3D 模型，并能导出多种格式
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rogo-ai:
+    status: approved
+    text: 面向金融机构的 AI 分析平台，自动调研数据、生成洞察，加快投资决策
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rosebud:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: AI 日记应用，以追问展开对话并记住既往条目、关联行为模式，配合每周报告与习惯追踪，支持网页与移动端
+  rotor-videos:
+    status: approved
+    text: Rotor Videos 是面向音乐人的 AI 剪辑平台，专注生成音乐视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  rss-com:
+    status: approved
+    text: RSS.com 是播客托管服务，提供无限存储、跨平台统计与动态广告
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  runpod:
+    status: approved
+    text: RunPod 是全球分布的 GPU 云，可即时部署 Llama 等模型用于训练和推理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  runway-gen:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: Runway 的视频生成模型家族，以 Gen-4.5 为主打，强调运动质量与提示遵循，另有 GWM-1 世界模型，经其应用与 API 提供
+  rytr:
+    status: approved
+    text: Rytr 是 AI 写作助手，设有免费版和付费版
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  samaya-ai:
+    status: approved
+    text: 为金融服务与投行领域专家打造的 AI 知识发现平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sameday-ai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向暖通、水管、屋顶、光伏等上门服务行业的语音 AI 接线平台，全天候接听并下单，发起外呼营销，对接 ServiceTitan
+  scale:
+    status: approved
+    text: 为 AI 实验室、企业与政府提供数据标注、数据整理与模型评估服务的平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  scarlett-panda:
+    status: approved
+    text: Scarlett Panda 能在 30 秒内生成定制插画的睡前故事，适合家庭亲子共读
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  scholarcy:
+    status: approved
+    text: 网页工具，将论文、书籍等文献整理为结构化摘要、闪卡和引文摘录，辅助文献综述
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  scraperapi:
+    status: approved
+    text: ScraperAPI 是托管式抓取 API，自动处理代理、CAPTCHA 和 IP 封锁
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  scrapingbee:
+    status: approved
+    text: ScrapingBee 提供网页抓取 REST API，绕过反爬虫限制提取网页数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  scrapybara:
+    status: approved
+    text: Scrapybara 为 AI agent 即时开通云端桌面环境，让 agent 远程操作浏览器与计算机
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  screen-studio:
+    status: approved
+    text: Screen Studio 是 Mac 专用录屏软件，自动平滑光标轨迹、放大重点区域并优化动态效果
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  scribe:
+    status: approved
+    text: 录制屏幕上的操作，自动生成带截图的分步指南，可用于培训、客服支持和流程文档
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  scrunch-ai:
+    status: approved
+    text: Agent Experience Platform（AXP），把品牌内容以压缩、结构化、机器可读的形式提供给 AI agent 和爬虫，按 LLM 解析、理解与返回内容的方式做了优化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  search1-api:
+    status: approved
+    text: Search1 API 为 AI agent 提供网页访问基础设施，经由 REST、MCP 和 CLI 交付多引擎网页与新闻搜索、agentic 搜索、抓取及 sitemap API
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  second-nature:
+    status: approved
+    text: 销售培训平台，用 AI 角色扮演模拟让销售练习对话并获得反馈
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  seedance:
+    status: approved
+    text: ByteDance Seed 团队的视频生成模型家族，版本自 1.0 迭代至 2.5，音视频一体生成，支持参考控制与编辑，另经 Dreamina 平台提供
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  seedream:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 字节跳动 Seed 图像模型家族，Seedream 4.0 统一生成与编辑，支持文本与多图参考输入、最高 4K 输出
+  sembly:
+    status: approved
+    text: 会议助手，录制并转录会议，整理出笔记、待办和摘要
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sensei-ai:
+    status: approved
+    text: 浏览器内的面试助手，实时生成结构化回答
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sereal:
+    status: approved
+    text: Sereal+ 是免费短剧平台，收录多国迷你剧，用 AI 做个性化推荐
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  serpapi:
+    status: approved
+    text: SerpApi 抓取 Google 等搜索引擎的结果，返回结构化数据，代理、验证码和解析都由它处理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  serper:
+    status: approved
+    text: Serper 是搜索 API 服务，为应用和 AI agent 返回结构化的 Google 搜索结果
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  servicetitan:
+    status: approved
+    text: 供水暖、暖通空调和电工承包商使用的管理系统，涵盖调度排班、CRM 和财务功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sesame-csm-1b:
+    status: approved
+    text: Sesame 的对话语音模型，1B 参数版本以 Apache 2.0 开源；公司语音演示中展示的更大模型与之相配套
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  shield-ai:
+    status: approved
+    text: 国防科技公司，研发自主 AI 飞行系统（Nova、V-BAT），用于战术侦察与作战
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  shortform:
+    status: approved
+    text: 为 1000+ 部深度非虚构书籍提供专家引导式的摘要与见解
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sierra:
+    status: approved
+    text: 企业级平台，用于构建和运营跨渠道解决客服问题的对话式 AI agent
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  simplecast:
+    status: approved
+    text: Simplecast 是企业级播客托管与分发平台，提供深度统计、自定义网站和广告插播控制
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  simplified:
+    status: approved
+    text: Simplified 是 AI 内容创作平台，集设计、文案、视频生成和社媒管理工具于一体
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  siro:
+    status: approved
+    text: 销售辅导平台，记录并分析外勤面谈、电话和会议
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  skit-ai:
+    status: approved
+    text: 为催收和应收账款团队提供语音与消息自动化
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  skyfire:
+    status: approved
+    text: 服务 AI 经济的金融基础设施，支持 AI agent 自主支付与身份验证
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  skyreels:
+    status: approved
+    text: SkyReels 从文本、图像和角色参考生成电影感视频，用于短剧和叙事内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  slang-ai:
+    status: approved
+    text: slang.ai 为餐厅提供语音 AI 电话应答，接待顾客咨询、处理订位
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  slidesgo:
+    status: approved
+    text: Slidesgo 提供数万套免费 Google/PowerPoint 模板下载
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  slidesgpt-ai:
+    status: approved
+    text: SlidesGPT AI 基于文本提示生成幻灯片，输出自带备注和主题样式
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  smartly-ai:
+    status: approved
+    text: 用于搭建跨设备对话式应用的平台，覆盖 Messenger、Alexa 等渠道
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  smolagents:
+    status: approved
+    text: Hugging Face 出品的极简开源 agent 库，CodeAgent 把动作写成 Python 代码执行，可对接任意语言模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  snipd:
+    status: approved
+    text: Snipd 是 AI 播客播放器，自动转录单集，听众可保存高光片段、与单集对话并导出笔记
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  snorkel-ai:
+    status: approved
+    text: 以数据为中心的 AI 平台，用程序化方式标注训练数据、生成合成数据，支撑机器学习模型的构建与调整
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sobrief:
+    status: approved
+    text: 书籍摘要库，提供 10 分钟 AI 音频与文本摘要，支持 40 种语言
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  solo:
+    status: approved
+    text: SOLO 是 AI 影视制作公司，用 AI 制作短片和广告
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  solvely:
+    status: approved
+    text: 拍照解题的 AI 学习助手，给出分步解答，并辅助生成测验、作文与笔记
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sonia:
+    status: approved
+    text: Sonia Health 推出的 AI 心理健康陪伴应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  soundful:
+    status: approved
+    text: Soundful 生成覆盖多种曲风的免版税原创曲目，可用于视频、播客和品牌用途
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  soundraw:
+    status: approved
+    text: Soundraw 为创作者生成可定制的免版税曲目，并附带商业授权
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  speak:
+    status: approved
+    text: 专注口语练习的 AI 语言辅导应用，即时反馈发音与对话，支持英语、西班牙语、法语、韩语、意大利语和日语
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  speechify:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 把文档与网页转成语音朗读的应用，支持 60 多种语言与拍照 OCR，覆盖桌面、移动与浏览器
+  speechmatics:
+    status: approved
+    text: Speechmatics 的语音识别服务覆盖全球语言，支持多种口音和方言
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  spellbrush:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 专注动漫生图的 AI 工作室，代表作有 niji・journey 与 Waifu Labs
+  spicychat:
+    status: approved
+    text: 网页端角色扮演聊天平台，不设内容审查，用户创建的 AI 角色库庞大，含成人（NSFW）内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  spline-ai:
+    status: approved
+    text: Spline AI 从文本提示生成 3D 对象，专注网页和应用设计中的交互式 3D 场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  spoken:
+    status: approved
+    text: 围绕价格进行商品发现与搜索的平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  spothopper:
+    status: approved
+    text: 餐饮营销平台，覆盖建站、社交媒体、邮件和订位管理
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  squibler:
+    status: approved
+    text: AI 故事写作平台，生成故事开头和写作提示，帮助作者开启新项目
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  stable-diffusion:
+    status: approved
+    text: 开源文生图模型系列，提供 API 访问
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  standard-practice:
+    status: approved
+    text: 语音自动化工具，替诊所完成面向保险公司和药房的外呼
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  starrocks:
+    status: approved
+    text: 支持实时分析与数据湖查询的分布式 OLAP 数据仓库
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  statespace:
+    status: approved
+    text: 内置 AI 教练的瞄准训练器，含 Valorant 等游戏官方训练内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  stenography:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 结合 AI 与代码解析的代码文档工具，保存即更新文档，提供 VS Code 插件与解释 API
+  stitch:
+    status: approved
+    text: Google 的免费实验项目，按文字与图片提示生成 UI 设计和前端代码，可导出到 Figma 和 React
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  storeel:
+    status: approved
+    text: StoReel 是专注 1-2 分钟短剧的手机应用，片库收韩剧和华语剧，支持按集付费或看广告解锁
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  storiesforkids-ai:
+    status: approved
+    text: StoriesForKids.ai 是把真实情境转化为图画书故事和插画的 AI 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  story-com:
+    status: approved
+    text: Story.com 用于创作带互动选项和 AI 动画视频的 AI 故事
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  story-lumi:
+    status: approved
+    text: Story Lumi 由 Colin Kaepernick 创立，帮助创作者发布文字和图像内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  story-spark:
+    status: approved
+    text: Story Spark 是不限长度的 AI 故事生成器，支持续写和记忆
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  storybee:
+    status: approved
+    text: StoryBee 是专注童话题材的 AI 故事与插画生成平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  storybook-ai:
+    status: approved
+    text: StoryBook AI 是根据提示词创作互动儿童睡前故事与插画的平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  storybooks:
+    status: approved
+    text: Storybooks 是 AI 平台，一键生成可互动的儿童故事和插画
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  storywizard-ai:
+    status: approved
+    text: Storywizard.ai 是 AI 教育工具，为孩子生成个性化的学习故事
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  strawberrybrowser:
+    status: approved
+    text: Strawberry 是内置 AI 助手的桌面浏览器，能跨标签页自动完成任务（包括登录后的操作），并基于网页内容生成文档
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  stripe-agent-sdk:
+    status: approved
+    text: Stripe 工具包，让 AI agent 发起支付、管理购物车与结账流程并使用 Link 凭证，可接入 LangChain、Vercel AI SDK 等 agent 框架
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  study-fetch:
+    status: approved
+    text: 学习助手，把录音文件转成 AI 笔记和测验
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  submagic:
+    status: approved
+    text: Submagic 用来剪辑竖屏短视频，可用 AI 生成字幕和 B-roll，并发布到多个社交平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  sudowrite:
+    status: approved
+    text: Sudowrite 通过自然语言描述生成并编辑小说、故事、博客等内容
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  suno:
+    status: approved
+    text: Suno 音乐生成平台，从文字提示创作带人声的完整歌曲，覆盖多种曲风
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  supabase:
+    status: approved
+    text: 开源后端平台，提供托管 PostgreSQL、认证、即时 API、边缘函数、实时订阅、存储与向量嵌入
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  super-dial:
+    status: approved
+    text: 帮医疗收入循环团队对接保险公司的语音自动化工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  superannotate:
+    status: approved
+    text: AI 数据标注与管理平台，用于准备模型训练数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  supermemory:
+    status: approved
+    text: Supermemory 是面向 AI 应用的记忆基础设施，提供基于知识图谱的持久记忆层和 API；项目以 MIT 许可开源，另有托管 API、MCP 服务器和面向最终用户的记忆应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  supernormal:
+    status: approved
+    text: 会议笔记软件，录制谈话内容，生成摘要和行动项，还能撰写跟进文档
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  superwhisper:
+    status: approved
+    text: Superwhisper 是语音听写应用，把说话转成带格式的文字，桌面和移动应用都能用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  supio:
+    status: approved
+    text: 专为原告律师打造的法律 AI 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  surge:
+    status: approved
+    text: 全球高技能众包标注平台，为生成式 AI 提供训练数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  surveymonkey:
+    status: approved
+    text: 在线问卷平台，AI 辅助问卷的创建、发放与结果分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  swarms-ai:
+    status: approved
+    text: 多 agent 框架兼托管平台，支持用 Python 和 Rust 构建、部署与扩展 AI agent，附带 agent 市场
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  syllable:
+    status: approved
+    text: 构建、部署和监控对话式 AI 系统的平台，覆盖语音、消息和 Web 渠道
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  symbl:
+    status: approved
+    text: 实时对话智能平台，从语音、视频和聊天中提取洞察；2025 年 5 月被 Invoca 收购
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  synthesia:
+    status: approved
+    text: Synthesia 是 AI 视频生成平台，用 AI 数字人制作支持多语言的专业视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  synthflow:
+    status: approved
+    text: 无代码语音 AI 平台，用于搭建和运营 AI 电话 agent，配备流程设计器、API、电话集成、模拟与通话监控
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  syntho:
+    status: approved
+    text: 专注用 AI 生成合成数据的公司
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tactiq:
+    status: approved
+    text: 面向 Google Meet、Zoom 和 Microsoft Teams 的会议转录与笔记应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tally:
+    status: approved
+    text: 无代码表单构建工具，编辑方式类似 Notion，可免费创建各类表单
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tavily:
+    status: approved
+    text: Tavily 为 AI agent 和 RAG 流水线而建，把网页搜索、内容提取与抓取合并在一个搜索 API 里
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tavus:
+    status: approved
+    text: Tavus 是面向开发者的对话式视频平台，提供 AI 视频分身，可对接人物渲染和实时感知模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tdengine:
+    status: approved
+    text: 面向物联网与时序数据的分布式数据库
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  temporal:
+    status: approved
+    text: 持久化执行平台，故障时保留工作流状态、恢复崩溃进程，并为 LangGraph、OpenAI Agents SDK 等 agent 框架提供官方 SDK 集成
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  terrakotta:
+    status: approved
+    text: 商业地产行业的潜客开发平台，把房源数据与电话外呼流程结合起来
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  text-cortex-ai:
+    status: approved
+    text: 可嵌入任意文本框的 AI 写作助手，提供改写与摘要等工具，已转向企业级 AI 智能体平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  the-culture-dao:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 用 $CULTUR 代币资助虚拟人、AI 游戏与电影创作的 Web3 组织
+  thoughtly:
+    status: approved
+    text: 语音 agent 开发平台，主打销售触达场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  thoughtspot:
+    status: approved
+    text: AI 分析工具，可用自然语言直接查询企业数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tiny-fish:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向 AI agent 的网络基础设施平台，整合联网搜索、网页抽取、云端浏览器与自然语言自动化
+  tinybird:
+    status: approved
+    text: 托管 ClickHouse 平台，把接入的事件数据发布为低延迟 SQL REST API，并带 MCP 服务器供 AI agent 查询
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tldv:
+    status: approved
+    text: 会议录制工具，支持多语言转录并生成 AI 笔记和摘要，可同步到 CRM 及其他工作应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  toast:
+    status: approved
+    text: 餐饮云端 POS 系统，整合点单、支付、员工管理与 AI 分析
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  toma:
+    status: approved
+    text: 面向汽车行业的语音 AI agent 平台
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tonic-ai:
+    status: approved
+    text: 用 AI 与机器学习生成合成数据的公司
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  toolhouse:
+    status: approved
+    text: Toolhouse 用于构建和运行 AI agent 与常驻 AI worker，可连接数千个外部服务，并把异常升级给人工审查
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  topview:
+    status: approved
+    text: TopView AI 是 AI 视频编辑器，把产品链接和上传的素材做成多语言商业与社交短视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  trae:
+    status: approved
+    text: 字节跳动推出的 AI 原生 IDE，把编程任务拆解成步骤逐一实现，并提供端到端完成任务的自主模式
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  trancy:
+    status: approved
+    text: 自动为视频生成双语字幕，并配套生成学习卡片
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  trello:
+    status: approved
+    text: 看板式协作工具，用卡片和列表直观管理项目任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  trickle:
+    status: approved
+    text: AI 应用构建平台，其 Magic Canvas 工作区负责构建与部署全栈应用和 AI Agent，并自带内置数据库
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  trigger-dev:
+    status: approved
+    text: 开源的 TypeScript 框架和云平台，用于构建持久化后台工作流与编排 AI agent，内置重试、状态管理和可观测性
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  trillet:
+    status: approved
+    text: 用于客户互动和业务流程的 AI 语音呼叫软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tripo3d:
+    status: approved
+    text: 网页端 3D 生成平台，从文本、图片或草图生成成品级 3D 模型，支持 AI 贴图与自动绑定
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  tunee:
+    status: approved
+    text: Tunee 是 AI 音乐创作平台，可从文字、图片、音频或视频生成歌曲，内置母带处理、Remix、分轨分离与音乐视频工具
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  turboscribe:
+    status: approved
+    text: TurboScribe 提供不限量的 AI 音频转录服务，支持 98 种语言，可批量处理长录音
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  turing:
+    status: approved
+    text: AI 驱动的远程开发者平台，自动匹配并管理全球软件工程师
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  typeform:
+    status: approved
+    text: 交互式表单与问卷工具，以对话式的填写体验提高完成率
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  udio:
+    status: approved
+    text: Udio 音乐生成服务，从文字提示创作完整歌曲，支持编辑、混音、延长与上传音频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  uipath:
+    status: approved
+    text: RPA 平台，将 AI 与机器人流程自动化结合，执行重复性任务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  uizard:
+    status: approved
+    text: Uizard 从文本、草图或截图为应用和网站生成可编辑的线框图、样机和原型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  undetectable-ai:
+    status: approved
+    text: 汇总多个 AI 检测器的判定结果，并提供改写服务帮助 AI 内容规避检测
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  unireel:
+    status: approved
+    text: UniReel 是短剧平台，独家剧集覆盖多种类型，全球均可观看
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  unstructured:
+    status: approved
+    text: 文档 ETL 平台，将 PDF、表格、表单与扫描件转换成结构化数据并载入向量数据库，服务 RAG 与 LLM 应用
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  updf:
+    status: approved
+    text: 跨平台 AI PDF 编辑器，支持阅读、编辑、批注与对话
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  upstudy:
+    status: approved
+    text: 多学科作业拍照解题工具，逐步讲解并配有导师辅导
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  usemotion:
+    status: approved
+    text: AI 日程应用，统一任务管理与日历自动化，会依据任务优先级自动排布任务、会议和专注时段
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  ushur:
+    status: approved
+    text: AI 驱动的客户体验自动化平台，结合聊天与流程机器人提供端到端客户服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  utopia-studios:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 人类执导、AI 加持的影视工作室，自研 PAI 制作引擎辅助创意团队开发多部影视剧集
+  ux-pilot:
+    status: approved
+    text: UX Pilot 用 AI 自动生成屏幕流程图和高保真 UX/UI 原型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  v0:
+    status: approved
+    text: Vercel 的生成式 UI 工具，按文字提示产出 React 界面与网页，支持迭代编辑和代码导出
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  v7:
+    status: approved
+    text: AI 图像与视频标注平台，支持自动分割与工作流协作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vapi:
+    status: approved
+    text: 在电话系统上构建、测试和部署对话式语音 agent 的 API 平台，支持多语言和自带模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vast-ai:
+    status: approved
+    text: Vast.ai 是 GPU 租赁平台，用来搜索、比较各家 GPU 资源
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  veed:
+    status: approved
+    text: VEED 是浏览器端视频编辑器，支持多语言自动字幕、AI 剪辑工具和团队协作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  verda-formerly-datacrunch:
+    status: approved
+    text: Verda 是欧洲 GPU 云，提供按需集群与无服务器推理，支持 NVIDIA B/H 系列 GPU；前身为 DataCrunch，2025 年 11 月更名
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  verodat:
+    status: approved
+    text: Verodat 是数据治理平台，为 AI agent、数据分析和自动化提供经过验证、带血缘追踪并补充了上下文的数据
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vertex-ai:
+    status: approved
+    text: Google Cloud 的机器学习平台，提供模型训练与 MLOps 工具，并通过统一 API 托管调用 Gemini 模型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  verve-ai:
+    status: approved
+    text: AI 面试陪练助手，实时给出建议，并优化冷邮件与简历
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vidau:
+    status: approved
+    text: VidAU 把产品 URL 转成短视频广告，附带 AI 数字人、去字幕和多语言配音功能
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  videoleap:
+    status: approved
+    text: Videoleap 是 AI 视频编辑器，带特效、无限变焦和面向社交媒体内容的模板
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vidu-model:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 生数科技的视频生成模型家族，支持文生视频与多参考生成，含实时交互的 Vidu S
+  visily:
+    status: approved
+    text: Visily 面向非设计师，从截图、草图或文本提示生成可编辑的线框图和样机
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vivago-ai:
+    status: approved
+    text: Vivago AI 是免费 AI 创作平台，支持文生视频、图生视频和图像编辑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vizcom:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 面向工业与产品设计师的 AI 渲染工具，可将草图转为照片级渲染图与 3D 模型并支持实时渲染
+  vizly:
+    status: approved
+    text: AI 数据分析师，支持聊天式提问并自动生成可视化报告
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  vmeg:
+    status: approved
+    text: VMEG 是 AI 视频本地化平台，支持 170 多种语言的配音、翻译和对口型，也能生成短视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  voctiv:
+    status: approved
+    text: 用于客户沟通和通话处理的 AI 语音与消息软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  voice-ai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 兼具实时变声、多语言语音合成与短样本克隆的语音 AI 平台，以 API 提供
+  voicemod:
+    status: approved
+    text: Voicemod 是实时 AI 变声与音效板应用，用于游戏、直播和聊天软件
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  voicepanel:
+    status: approved
+    text: Voicepanel 用 AI 自动开展文字、语音和视频用户访谈，并分析反馈
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  voiceplug:
+    status: approved
+    text: 餐厅语音点餐软件，覆盖电话、得来速车道和自助点餐机场景
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  volley:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 开发纯语音交互游戏的娱乐科技公司，拥有 Jeopardy! 等授权节目游戏，登陆智能音箱与电视
+  wan:
+    status: approved
+    text: Alibaba 的 Wan 模型家族，支持从文本或图像生成视频
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  warp:
+    status: approved
+    text: 终端与开发环境，内置 AI 编码 Agent，支持上下文感知的提示构建与 Agent 输出审查
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wave-ai:
+    status: approved
+    text: Wave AI 是会议录音助手，自动完成多语言转录并生成摘要
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wavel:
+    status: approved
+    text: Wavel 是 AI 语音平台，提供自然语音克隆、多语言配音和视频剪辑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  weaviate:
+    status: approved
+    text: 开源向量数据库，用于存储和检索 embedding，可自托管或使用托管云服务
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  webcontainers:
+    status: approved
+    text: WebContainers 是 StackBlitz 推出的浏览器运行时，可直接在浏览器中本地运行 Node.js 环境，用于浏览器 IDE 与沙箱化的 agent 执行
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wegic:
+    status: approved
+    text: Wegic 通过对话完成网站的设计与开发
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  weglot:
+    status: approved
+    text: 无代码多语言网站翻译平台，附带 SEO 优化与内容编辑能力
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  weka-io:
+    status: approved
+    text: 云端与本地部署的 AI 数据存储平台，支撑大规模 ML/HPC 训练与推理负载
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wellsaid:
+    status: approved
+    text: Wellsaid 面向企业，通过 API 提供 120 多个拟人配音声音，支持团队协作
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  whering:
+    status: approved
+    text: 带社交功能的数字衣橱应用，登记衣物、规划穿搭并分享造型
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  willow-voice:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 按住快捷键即可向任意应用听写的语音输入工具，支持离线与上百种语言，覆盖三大桌面移动端
+  windsurf:
+    status: approved
+    text: AI 代码编辑器，补全之外可规划并修改多文件代码库的自主 Agent，前身 Codeium，已被 Cognition 收购并更名 Devin Desktop
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  winn-ai:
+    status: approved
+    text: 销售执行助手，记录通话、调出 playbook 并更新 CRM 记录
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wispr-flow:
+    status: approved
+    text: Wispr Flow 是 AI 语音听写工具，在任何桌面应用中把语音转成排好版的文字
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  withdaydream:
+    status: approved
+    text: SEO 与 AI 搜索可见性公司，整合服务、AI agent 和平台，帮助品牌增长自然流量以及在各 AI 助手中的露出
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wombo-ai:
+    status: approved
+    text: 汇聚全球闲置 GPU 的去中心化 AI 算力网络，由 WOMBO 转型而来
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wonder-3d:
+    status: approved
+    text: Autodesk Flow Studio（原 Wonder Dynamics 的 Wonder Studio）把 CG 角色动画化并合成到实拍画面，还能生成 3D 资产，现已归属 Autodesk
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  wondera:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: iOS 与 Android 上的 AI 音乐共创应用，可从灵感做成成品歌曲，输出内容完整授权
+  wordware:
+    status: approved
+    text: 基于浏览器的 AI 工具开发 IDE，支持自然语言编程、LLM 编排与多模态 agent 构建
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  writesonic:
+    status: approved
+    text: AI 写作与 SEO 平台，用来生成文章并追踪品牌在 AI 搜索引擎中的曝光
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  yellow-ai:
+    status: approved
+    text: 企业级对话式 AI 平台，提供具备 agentic AI 能力的全渠道客服聊天机器人
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  yep:
+    status: approved
+    text: Yep 是注重隐私的搜索引擎，会把大部分广告收入返还给创作者
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  yodayo:
+    status: approved
+    text: 动漫角色聊天与图像生成平台，前身为 Yodayo，现已更名 Moescape
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    verified: '2026-10-18'
+  you-com:
+    status: approved
+    text: You.com 现为 LLM 和企业应用提供网页搜索 API，此前曾做消费级 AI 搜索引擎
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  youai:
+    source: approved zh translation; facts per registry entity, 2026-10-19
+    status: approved
+    text: 阿姆斯特丹工作室，用 GAN 让历史画像与老照片开口说话，为博物馆与品牌定制会说话的肖像
+  yuma:
+    status: approved
+    text: 电商客服平台，跨渠道接待并处理买家咨询
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  zapier:
+    status: approved
+    text: 无代码工作流自动化平台，通过 Zap（触发即执行的工作流）连接数千款应用，还可搭建 AI agent、聊天机器人和表格
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  zendesk:
+    status: approved
+    text: 全渠道客户支持系统，以 AI 增强工单管理并自动化工作流
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  zep:
+    status: approved
+    text: Zep 为 AI agent 与助手提供托管的记忆和上下文服务，时序知识图谱层由配套开源项目 Graphiti 支撑
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  zeta-alpha:
+    status: approved
+    text: Zeta Alpha 是面向企业的神经搜索平台，用于知识的发现与共享
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  zmo:
+    status: approved
+    text: 生成产品视频广告与 UGC 风格短片的 AI 创意平台，前身为 ZMO.ai
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  zoca:
+    status: approved
+    text: 面向本地美容美发门店的 AI 营销平台，自动化获客与客户留存
+    source: approved zh translation; facts per registry entity, 2026-10-19
+  zyphra-zonos:
+    status: approved
+    text: ZONOS 是 Zyphra 的语音生成模型系列，包含声音克隆与实时文本转语音版本
+    source: approved zh translation; facts per registry entity, 2026-10-19

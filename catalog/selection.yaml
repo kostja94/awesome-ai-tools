@@ -1,0 +1,1604 @@
+schema: awesome-selection/v2
+registry_root: E:/data/ai-product-registry
+generated_from: Registry facts plus catalog/navigation.yaml editorial crosswalk
+sections:
+- id: language-models
+  title: Language & Search Models
+  group_id: models
+  group_title: Models
+  items:
+  - registry_id: gpt
+  - registry_id: gemini-model
+  - registry_id: claude
+  - registry_id: grok-model
+  - registry_id: llama
+  - registry_id: deepseek-model
+  - registry_id: qwen-model
+  - registry_id: mistral-model
+  - registry_id: gemma-model
+  - registry_id: kimi-model
+  - registry_id: glm
+  - registry_id: hunyuan
+  - registry_id: minimax-model
+  - registry_id: luminous
+- id: image-models
+  title: Image Models
+  group_id: models
+  group_title: Models
+  items:
+  - registry_id: midjourney-model
+  - registry_id: gpt-image-2
+  - registry_id: nano-banana-2
+  - registry_id: adobe-firefly
+  - registry_id: stable-diffusion
+  - registry_id: flux
+  - registry_id: seedream
+  - registry_id: ideogram-model
+  - registry_id: qwen-image-2-0
+  - registry_id: hunyuan-image
+  - registry_id: recraft-model
+  - registry_id: mai-image
+  - registry_id: luma-photon
+  - registry_id: hidream
+  - registry_id: reve-model
+- id: video-models
+  title: Video Models
+  group_id: models
+  group_title: Models
+  items:
+  - registry_id: google-veo-3-1
+  - registry_id: kling
+  - registry_id: runway-gen
+  - registry_id: seedance
+  - registry_id: luma-ray
+  - registry_id: pika
+  - registry_id: wan
+  - registry_id: hunyuan-video
+  - registry_id: vidu-model
+  - registry_id: mochi
+  - registry_id: animon
+- id: speech-models
+  title: Speech Models
+  group_id: models
+  group_title: Models
+  items:
+  - registry_id: openai-whisper
+  - registry_id: elevenlabs-scribe-v2
+  - registry_id: google-chirp-3
+  - registry_id: deepgram-nova
+  - registry_id: sesame-csm-1b
+  - registry_id: cartesia-sonic-model
+  - registry_id: hume-octave
+  - registry_id: inworld-tts
+  - registry_id: zyphra-zonos
+- id: music-models
+  title: Music Models
+  group_id: models
+  group_title: Models
+  items:
+  - registry_id: lyria
+  - registry_id: musicgen
+- id: spatial-models
+  title: 3D & Spatial Models
+  group_id: models
+  group_title: Models
+  items:
+  - registry_id: hunyuan3d
+  - registry_id: spline-ai
+  - registry_id: rodin
+  - registry_id: csm-ai
+  - registry_id: magic3d
+- id: agent-platforms
+  title: Agent Frameworks & Infrastructure
+  group_id: agents
+  group_title: Agent Development Infrastructure
+  items:
+  - registry_id: langgraph
+  - registry_id: crew-ai
+  - registry_id: langsmith
+  - registry_id: anthropic-computer-use
+  - registry_id: google-project-mariner
+  - registry_id: open-interpreter
+  - registry_id: langfuse
+    include_inactive_reason: Acquired by ClickHouse; Langfuse continues as an actively maintained observability platform.
+  - registry_id: smolagents
+  - registry_id: ag2
+  - registry_id: camel-ai
+  - registry_id: mem0
+  - registry_id: letta
+  - registry_id: livekit
+  - registry_id: openfga
+  - registry_id: composio
+  - registry_id: zep
+  - registry_id: agentops
+  - registry_id: opik
+  - registry_id: trigger-dev
+  - registry_id: hatchet
+  - registry_id: riza
+  - registry_id: notte
+  - registry_id: lavague
+  - registry_id: paragon
+  - registry_id: toolhouse
+  - registry_id: supermemory
+  - registry_id: cognee
+  - registry_id: memos
+  - registry_id: langmem
+  - registry_id: memobase
+  - registry_id: memu
+  - registry_id: evermemos
+  - registry_id: mirix
+  - registry_id: memories
+  - registry_id: verodat
+  - registry_id: mcp-run
+  - registry_id: promptql
+  - registry_id: anon
+  - registry_id: gensx
+  - registry_id: praison-ai
+  - registry_id: agentstack
+  - registry_id: swarms-ai
+  - registry_id: raygun
+  - registry_id: metoro
+  - registry_id: gradial
+  - registry_id: dropzone-ai
+  - registry_id: tiny-fish
+  - registry_id: os-atlas
+  - registry_id: fireproof
+  - registry_id: bytebot
+- id: agent-payments-identity
+  title: Agent Payments & Identity
+  group_id: agents
+  group_title: Agent Development Infrastructure
+  items:
+  - registry_id: stripe-agent-sdk
+  - registry_id: auth0
+  - registry_id: clerk
+  - registry_id: skyfire
+  - registry_id: payman
+  - registry_id: nekuda
+  - registry_id: authing
+  - registry_id: protegee-ai
+- id: agent-evaluation
+  title: Agent & Model Evaluation
+  group_id: agents
+  group_title: Agent Development Infrastructure
+  items:
+  - registry_id: lmarena
+  - registry_id: braintrust
+  - registry_id: galileo
+  - registry_id: phoenix
+  - registry_id: patronus-ai
+  - registry_id: outlier-ai
+  - registry_id: coval
+  - registry_id: cekura
+  - registry_id: hamming
+  - registry_id: canonical-ai
+- id: agent-builders
+  title: Agent Development Platforms
+  group_id: agents
+  group_title: Agent Development Infrastructure
+  items:
+  - registry_id: gemini-enterprise-agent-platform
+  - registry_id: rasa
+  - registry_id: kore-ai
+  - registry_id: ada
+  - registry_id: vapi
+  - registry_id: retellai
+  - registry_id: synthflow
+  - registry_id: boost-ai
+  - registry_id: bland-ai
+  - registry_id: gumloop
+  - registry_id: wordware
+  - registry_id: happyrobot
+  - registry_id: thoughtly
+  - registry_id: syllable
+  - registry_id: trillet
+- id: llm-frameworks
+  title: LLM & Agent Frameworks
+  group_id: agents
+  group_title: Agent Development Infrastructure
+  items:
+  - registry_id: langchain
+  - registry_id: llamaindex
+  - registry_id: dify
+  - registry_id: autogen
+  - registry_id: flowise
+  - registry_id: griptape
+  - registry_id: deepset
+- id: coding-tools
+  title: Coding Tools
+  group_id: coding
+  group_title: Coding & App Development
+  items:
+  - registry_id: github-copilot
+  - registry_id: cursor
+  - registry_id: codex
+  - registry_id: devin
+  - registry_id: replit
+  - registry_id: windsurf
+  - registry_id: antigravity
+  - registry_id: warp
+  - registry_id: trae
+  - registry_id: kiro
+  - registry_id: blackbox
+  - registry_id: augment-code
+  - registry_id: moderne
+  - registry_id: cleric
+- id: app-builders
+  title: App Builders
+  group_id: coding
+  group_title: Coding & App Development
+  items:
+  - registry_id: lovable-platform
+  - registry_id: v0
+  - registry_id: bolt
+  - registry_id: retool
+  - registry_id: stitch
+  - registry_id: durable
+  - registry_id: readdy
+  - registry_id: trickle
+  - registry_id: fine
+- id: developer-platforms
+  title: Developer Platforms
+  group_id: coding
+  group_title: Coding & App Development
+  items:
+  - registry_id: rapid-api
+  - registry_id: apilayer
+  - registry_id: apidog
+  - registry_id: daily
+- id: image-creation-editing
+  title: Image Creation & Editing
+  group_id: image-design
+  group_title: Image & Design
+  items:
+  - registry_id: picsart
+  - registry_id: leonardo-ai
+  - registry_id: facetune
+  - registry_id: remini
+  - registry_id: faceapp
+  - registry_id: remove-bg
+  - registry_id: prisma-labs
+  - registry_id: fotor
+  - registry_id: pixlr
+  - registry_id: photoroom
+  - registry_id: craiyon
+  - registry_id: clipdrop
+  - registry_id: nightcafe-studio
+  - registry_id: openart
+  - registry_id: cutout-pro
+  - registry_id: pixelcut
+  - registry_id: prequel
+  - registry_id: beautyplus
+  - registry_id: airbrush
+  - registry_id: headshotpro
+  - registry_id: aragon
+  - registry_id: gencraft
+  - registry_id: vizcom
+  - registry_id: spellbrush
+  - registry_id: basedlabs
+  - registry_id: vivago-ai
+  - registry_id: kive
+  - registry_id: zmo
+  - registry_id: nyxai
+  - registry_id: phota-labs
+  - registry_id: gendo
+  - registry_id: momo
+- id: design-tools
+  title: Design & User Research
+  group_id: image-design
+  group_title: Image & Design
+  items:
+  - registry_id: canva
+  - registry_id: freepik
+  - registry_id: lovart
+  - registry_id: uizard
+  - registry_id: relume
+  - registry_id: visily
+  - registry_id: designs-ai
+  - registry_id: codedesign
+  - registry_id: wegic
+  - registry_id: ux-pilot
+  - registry_id: my-map-ai
+  - registry_id: molypix
+  - registry_id: voicepanel
+  - registry_id: pomelli
+- id: creative-workflows
+  title: Multimodal Creation
+  group_id: image-design
+  group_title: Image & Design
+  items:
+  - registry_id: simplified
+  - registry_id: text-cortex-ai
+  - registry_id: glif
+  - registry_id: hypotenuse
+  - registry_id: contents
+  - registry_id: reccloud
+- id: video-generation-editing
+  title: Video Generation & Editing
+  group_id: video-film
+  group_title: Video & Filmmaking
+  items:
+  - registry_id: synthesia
+  - registry_id: heygen
+  - registry_id: descript
+  - registry_id: loom
+  - registry_id: hailuoai
+  - registry_id: pixverse
+  - registry_id: opus
+  - registry_id: veed
+  - registry_id: invideo
+  - registry_id: reface
+  - registry_id: d-id
+  - registry_id: videoleap
+  - registry_id: captions
+  - registry_id: fliki
+  - registry_id: submagic
+  - registry_id: pictory
+  - registry_id: flexclip
+  - registry_id: deepbrain-ai
+  - registry_id: hedra
+  - registry_id: artlist
+  - registry_id: higgsfield-platform
+  - registry_id: akool
+  - registry_id: elai
+  - registry_id: tavus
+  - registry_id: creatify
+  - registry_id: arcads
+  - registry_id: screen-studio
+  - registry_id: arcade
+  - registry_id: goenhance
+  - registry_id: topview
+  - registry_id: jogg
+  - registry_id: argil
+  - registry_id: vidau
+  - registry_id: vmeg
+  - registry_id: moments-lab
+  - registry_id: gling
+  - registry_id: capsule
+  - registry_id: rephrase-ai
+  - registry_id: revid
+  - registry_id: rotor-videos
+  - registry_id: autoshorts-ai
+  - registry_id: async
+  - registry_id: cursorful
+- id: filmmaking-localization
+  title: Filmmaking & Localization
+  group_id: video-film
+  group_title: Video & Filmmaking
+  items:
+  - registry_id: dramabox
+  - registry_id: ltx-studio
+  - registry_id: rask
+  - registry_id: wonder-3d
+  - registry_id: papercup
+  - registry_id: blipcut
+  - registry_id: skyreels
+  - registry_id: neuralframes
+  - registry_id: goodshort
+  - registry_id: dramawave
+  - registry_id: netshort
+  - registry_id: melolo
+  - registry_id: wavel
+  - registry_id: sereal
+  - registry_id: unireel
+  - registry_id: storeel
+  - registry_id: freereels
+  - registry_id: flickreels
+  - registry_id: heitech-hei-io
+  - registry_id: solo
+  - registry_id: utopia-studios
+  - registry_id: escape
+- id: speech-applications
+  title: Speech & Transcription Applications
+  group_id: voice-audio
+  group_title: Voice, Speech & Audio
+  items:
+  - registry_id: elevenlabs
+  - registry_id: assemblyai
+  - registry_id: amazon-polly
+  - registry_id: openai-tts
+  - registry_id: fish-audio
+  - registry_id: speechmatics
+  - registry_id: google-cloud-tts
+  - registry_id: azure-speech
+  - registry_id: speechify
+  - registry_id: krisp
+  - registry_id: voicemod
+  - registry_id: murf
+  - registry_id: resemble-ai
+  - registry_id: wellsaid
+  - registry_id: rev-ai
+  - registry_id: dialpad
+  - registry_id: wispr-flow
+  - registry_id: plaud
+  - registry_id: superwhisper
+  - registry_id: turboscribe
+  - registry_id: polyai
+  - registry_id: delphi
+  - registry_id: voice-ai
+  - registry_id: dubbing-ai
+  - registry_id: elevenreader-by-elevenlabs
+  - registry_id: openai-fm
+  - registry_id: google-real-time-s2st
+  - registry_id: goodcall
+  - registry_id: wave-ai
+  - registry_id: clipto-ai
+  - registry_id: willow-voice
+  - registry_id: autio
+- id: music-podcasts
+  title: Music, Audio & Podcasts
+  group_id: voice-audio
+  group_title: Voice, Speech & Audio
+  items:
+  - registry_id: suno
+  - registry_id: udio
+  - registry_id: producer
+  - registry_id: music
+  - registry_id: libsyn
+  - registry_id: podbean
+  - registry_id: acestudio
+  - registry_id: soundraw
+  - registry_id: aiva
+  - registry_id: boomy
+  - registry_id: mubert
+  - registry_id: endel
+  - registry_id: soundful
+  - registry_id: beatoven
+  - registry_id: musicfy
+  - registry_id: loudly
+  - registry_id: simplecast
+  - registry_id: rss-com
+  - registry_id: fireside
+  - registry_id: snipd
+  - registry_id: wombo-ai
+  - registry_id: altered
+  - registry_id: musico
+  - registry_id: aimi
+  - registry_id: podwise
+  - registry_id: wondera
+  - registry_id: mozartai
+  - registry_id: tunee
+  - registry_id: mix-audio-agent
+  - registry_id: midi-agent
+  - registry_id: rct-studio
+  - registry_id: youai
+- id: search-retrieval
+  title: Search & Retrieval
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: algolia
+  - registry_id: glean
+  - registry_id: jina-ai
+    include_inactive_reason: Acquired by Elastic; Jina AI capabilities continue under Elastic ownership.
+  - registry_id: meilisearch
+  - registry_id: common-room
+  - registry_id: juicebox
+  - registry_id: harmonic
+  - registry_id: zeta-alpha
+  - registry_id: ambersearch
+  - registry_id: openvc
+  - registry_id: lessie
+  - registry_id: clado
+- id: web-data-browsers
+  title: Web Data & Browsers
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: bright-data
+  - registry_id: oxylabs
+  - registry_id: perplexity-comet
+  - registry_id: dia-browser
+  - registry_id: firecrawl
+  - registry_id: browser-use
+  - registry_id: apify
+  - registry_id: browserbase
+  - registry_id: browserless
+  - registry_id: scrapingbee
+  - registry_id: scraperapi
+  - registry_id: browse-ai
+  - registry_id: lightpanda
+  - registry_id: strawberrybrowser
+- id: search-applications
+  title: AI Search Applications
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: perplexity
+  - registry_id: brave-search
+  - registry_id: phind
+  - registry_id: consensus
+  - registry_id: iask
+  - registry_id: andi
+  - registry_id: komo
+  - registry_id: yep
+- id: search-api-services
+  title: Search APIs
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: exa
+  - registry_id: tavily
+  - registry_id: serpapi
+  - registry_id: you-com
+  - registry_id: serper
+  - registry_id: bocha
+  - registry_id: parallel
+  - registry_id: search1-api
+- id: cloud-infrastructure
+  title: Cloud & Model Infrastructure
+  group_id: data-cloud
+  group_title: Data & AI Infrastructure
+  items:
+  - registry_id: azure-ai-foundry
+  - registry_id: vertex-ai
+  - registry_id: nvidia-nim
+  - registry_id: cloudflare-workers-ai
+  - registry_id: supabase
+  - registry_id: coreweave
+  - registry_id: groq
+  - registry_id: replicate
+  - registry_id: fal
+  - registry_id: lambda
+  - registry_id: runpod
+  - registry_id: vast-ai
+  - registry_id: temporal
+  - registry_id: netlify
+  - registry_id: render
+  - registry_id: railway
+  - registry_id: fly-io
+  - registry_id: anyscale
+  - registry_id: e2b
+  - registry_id: arize-ai
+  - registry_id: codesandbox
+  - registry_id: metronome
+  - registry_id: daytona
+  - registry_id: inngest
+  - registry_id: webcontainers
+  - registry_id: scrapybara
+  - registry_id: novita-ai
+  - registry_id: platform-sh
+  - registry_id: gmi-cloud
+  - registry_id: hyperstack
+  - registry_id: e2e-networks
+  - registry_id: verda-formerly-datacrunch
+  - registry_id: jarvis-labs
+  - registry_id: leadergpu
+  - registry_id: irender
+- id: data-platforms
+  title: Data Platforms & Analytics
+  group_id: data-cloud
+  group_title: Data & AI Infrastructure
+  items:
+  - registry_id: mongodb
+  - registry_id: elastic
+  - registry_id: duckdb
+  - registry_id: scale
+  - registry_id: neo4j
+  - registry_id: pinecone
+  - registry_id: thoughtspot
+  - registry_id: starrocks
+  - registry_id: doris
+  - registry_id: tdengine
+  - registry_id: qdrant
+  - registry_id: weaviate
+  - registry_id: chroma
+  - registry_id: neon
+  - registry_id: appen
+  - registry_id: surge
+  - registry_id: snorkel-ai
+  - registry_id: superannotate
+  - registry_id: deepnote
+  - registry_id: julius
+  - registry_id: dataloop
+  - registry_id: v7
+  - registry_id: motherduck
+  - registry_id: tinybird
+  - registry_id: weka-io
+  - registry_id: unstructured
+  - registry_id: gretel-ai
+  - registry_id: flourish
+  - registry_id: napkin
+  - registry_id: informix
+  - registry_id: tonic-ai
+  - registry_id: mostly-ai
+  - registry_id: morph
+  - registry_id: kater
+  - registry_id: datasquirrel
+  - registry_id: datachat
+  - registry_id: vizly
+  - registry_id: coactive
+  - registry_id: syntho
+  - registry_id: hazy
+  - registry_id: aindo
+  - registry_id: david-ai
+  - registry_id: paradigm
+- id: model-access
+  title: Model Access & Routing
+  group_id: data-cloud
+  group_title: Data & AI Infrastructure
+  items:
+  - registry_id: amazon-bedrock
+  - registry_id: openrouter
+  - registry_id: eden-ai
+  - registry_id: not-diamond
+  - registry_id: martian
+  - registry_id: requesty
+  - registry_id: eachlabs
+- id: model-hubs
+  title: Model Hubs & Communities
+  group_id: data-cloud
+  group_title: Data & AI Infrastructure
+  items:
+  - registry_id: hugging-face-hub
+  - registry_id: civitai
+- id: model-runtime-tools
+  title: Model Runtime Tools
+  group_id: data-cloud
+  group_title: Data & AI Infrastructure
+  items:
+  - registry_id: lm-studio
+- id: documents-knowledge
+  title: Documents & Knowledge
+  group_id: productivity-knowledge
+  group_title: Productivity & Knowledge
+  items:
+  - registry_id: evernote
+  - registry_id: obsidian
+  - registry_id: notebooklm
+  - registry_id: gitbook
+  - registry_id: logseq
+  - registry_id: mintlify
+  - registry_id: scribe
+  - registry_id: updf
+  - registry_id: mem
+  - registry_id: feather
+  - registry_id: stenography
+- id: productivity-automation
+  title: Productivity & Automation
+  group_id: productivity-knowledge
+  group_title: Productivity & Knowledge
+  items:
+  - registry_id: notion
+  - registry_id: zapier
+  - registry_id: trello
+  - registry_id: asana
+  - registry_id: uipath
+  - registry_id: miro
+  - registry_id: airtable
+  - registry_id: calendly
+  - registry_id: clickup
+  - registry_id: surveymonkey
+  - registry_id: n8n
+  - registry_id: make
+  - registry_id: automation-anywhere
+  - registry_id: typeform
+  - registry_id: manus
+  - registry_id: usemotion
+  - registry_id: cal
+  - registry_id: quip
+  - registry_id: tally
+  - registry_id: pig
+  - registry_id: flowith
+  - registry_id: induced
+  - registry_id: dasis
+  - registry_id: airtime
+  - registry_id: mana
+- id: enterprise-assistants
+  title: Enterprise Assistants
+  group_id: productivity-knowledge
+  group_title: Productivity & Knowledge
+  items:
+  - registry_id: moveworks
+    include_inactive_reason: Acquired by ServiceNow; Moveworks continues within ServiceNow's enterprise AI portfolio.
+  - registry_id: aisera
+  - registry_id: contextual-ai
+  - registry_id: ushur
+  - registry_id: pryon
+  - registry_id: blinkops
+- id: meeting-notes
+  title: Meeting Notes & Summaries
+  group_id: productivity-knowledge
+  group_title: Productivity & Knowledge
+  items:
+  - registry_id: otter
+  - registry_id: fireflies
+  - registry_id: granola
+  - registry_id: fathom
+  - registry_id: tldv
+  - registry_id: read
+  - registry_id: fellow
+  - registry_id: tactiq
+  - registry_id: sembly
+  - registry_id: meetgeek
+  - registry_id: circleback
+  - registry_id: supernormal
+  - registry_id: notta
+  - registry_id: recall-ai
+  - registry_id: claap
+  - registry_id: grain
+  - registry_id: jamie
+  - registry_id: cogram
+  - registry_id: noty-ai
+  - registry_id: leexi
+  - registry_id: paxo
+  - registry_id: fieldy
+  - registry_id: myminutes
+  - registry_id: adot
+- id: marketing-content
+  title: Marketing & Content
+  group_id: marketing-service
+  group_title: Marketing, Sales & Service
+  items:
+  - registry_id: linktree
+  - registry_id: gptzero
+  - registry_id: writesonic
+  - registry_id: weglot
+  - registry_id: originality-ai
+  - registry_id: anyword
+  - registry_id: clearscope
+  - registry_id: frase
+  - registry_id: undetectable-ai
+  - registry_id: beacons
+  - registry_id: scrunch-ai
+  - registry_id: airops
+  - registry_id: pepper-content
+  - registry_id: byword
+  - registry_id: regie
+  - registry_id: nooks
+  - registry_id: hyperbound
+  - registry_id: second-nature
+  - registry_id: munch-studio
+  - registry_id: bluefish
+  - registry_id: evertune
+  - registry_id: withdaydream
+  - registry_id: globalseo
+  - registry_id: lit-link
+  - registry_id: campsite-bio
+  - registry_id: portaly
+  - registry_id: terrakotta
+  - registry_id: digital-first-ai
+  - registry_id: anoki
+  - registry_id: icon
+  - registry_id: leadbeam
+- id: customer-service
+  title: Customer Service & Sales Intelligence
+  group_id: marketing-service
+  group_title: Marketing, Sales & Service
+  items:
+  - registry_id: zendesk
+  - registry_id: intercom
+  - registry_id: sierra
+  - registry_id: decagon
+  - registry_id: cresta
+  - registry_id: parloa
+  - registry_id: yellow-ai
+  - registry_id: forethought
+  - registry_id: chatbase
+  - registry_id: replicant
+  - registry_id: crescendo
+  - registry_id: symbl
+  - registry_id: lavender
+  - registry_id: outplay
+  - registry_id: kaizan
+  - registry_id: hellorep
+  - registry_id: rilla
+  - registry_id: siro
+  - registry_id: winn-ai
+  - registry_id: voctiv
+  - registry_id: marr-labs
+  - registry_id: edge-tier
+  - registry_id: smartly-ai
+- id: commerce-shopping
+  title: Commerce & Shopping
+  group_id: commerce
+  group_title: Commerce
+  items:
+  - registry_id: amazon-rufus
+  - registry_id: accio
+  - registry_id: karma
+  - registry_id: pietra
+  - registry_id: doji
+  - registry_id: yuma
+  - registry_id: beni
+  - registry_id: whering
+  - registry_id: acloset
+  - registry_id: cladwell
+  - registry_id: indyx
+  - registry_id: alta
+  - registry_id: faircado
+  - registry_id: manifest-ai
+  - registry_id: raspberry-ai
+  - registry_id: glam-ai
+  - registry_id: encore
+  - registry_id: spoken
+  - registry_id: phia
+  - registry_id: retrofit
+  - registry_id: openwardrobe
+  - registry_id: lookverse
+  - registry_id: onton
+  - registry_id: humind
+  - registry_id: alhena
+  - registry_id: cherry
+  - registry_id: printgen
+- id: finance-accounting
+  title: Finance & Accounting
+  group_id: finance
+  group_title: Finance
+  items:
+  - registry_id: bill
+  - registry_id: rogo-ai
+  - registry_id: rillet
+  - registry_id: samaya-ai
+  - registry_id: skit-ai
+  - registry_id: kastle-ai
+  - registry_id: aviary-ai
+  - registry_id: evalyze
+- id: learning-tools
+  title: Learning & Teaching
+  group_id: education-research
+  group_title: Education & Research
+  items:
+  - registry_id: duolingo
+  - registry_id: quizlet
+  - registry_id: khanmigo
+  - registry_id: chegg
+  - registry_id: photomath
+  - registry_id: quizizz
+  - registry_id: course-hero
+  - registry_id: blinkist
+  - registry_id: notability
+  - registry_id: gauthmath
+  - registry_id: questionai
+  - registry_id: speak
+  - registry_id: datacamp
+  - registry_id: mathway
+  - registry_id: mondly
+  - registry_id: lingokids
+  - registry_id: answerai
+  - registry_id: headway
+  - registry_id: knowt
+  - registry_id: shortform
+  - registry_id: instaread
+  - registry_id: solvely
+  - registry_id: upstudy
+  - registry_id: mindgrasp
+  - registry_id: study-fetch
+  - registry_id: scholarcy
+  - registry_id: mathgptpro
+  - registry_id: mathgpt
+  - registry_id: quanda
+  - registry_id: trancy
+  - registry_id: gliglish
+  - registry_id: praktika-ai
+  - registry_id: boldvoice
+  - registry_id: apeuni
+  - registry_id: penseum
+  - registry_id: curipod
+  - registry_id: class-companion
+  - registry_id: doctrina-ai
+  - registry_id: echolabs
+  - registry_id: coconote
+  - registry_id: sobrief
+  - registry_id: bohrium
+- id: research-writing
+  title: Research & Academic Writing
+  group_id: education-research
+  group_title: Education & Research
+  items:
+  - registry_id: paperguide
+  - registry_id: eduwriter
+- id: recruiting-careers
+  title: Recruiting & Careers
+  group_id: hr-recruiting
+  group_title: HR & Recruiting
+  items:
+  - registry_id: mercor
+  - registry_id: turing
+  - registry_id: brighthire
+  - registry_id: metaview
+  - registry_id: finalroundai
+  - registry_id: jobright
+  - registry_id: micro1
+  - registry_id: apriora
+  - registry_id: ribbon
+  - registry_id: carv
+  - registry_id: joinbrix
+  - registry_id: lightscreen
+  - registry_id: lockedinai
+  - registry_id: sensei-ai
+  - registry_id: verve-ai
+  - registry_id: himalayas
+  - registry_id: correlate-ai
+  - registry_id: nodeflair
+  - registry_id: hello-boss
+  - registry_id: quil
+- id: healthcare
+  title: Healthcare
+  group_id: healthcare
+  group_title: Healthcare
+  items:
+  - registry_id: flo
+  - registry_id: calai
+  - registry_id: hippocratic-ai
+  - registry_id: grow-therapy
+  - registry_id: blink-health
+  - registry_id: billiontoone
+  - registry_id: elise-ai
+  - registry_id: navina
+  - registry_id: infinitus
+  - registry_id: hyro
+  - registry_id: mdclone
+  - registry_id: sonia
+  - registry_id: develop-health
+  - registry_id: super-dial
+  - registry_id: arini
+  - registry_id: hello-patient
+  - registry_id: standard-practice
+  - registry_id: assort-health
+  - registry_id: clarion
+  - registry_id: health-harbor
+  - registry_id: magical
+- id: legal
+  title: Legal
+  group_id: legal
+  group_title: Legal
+  items:
+  - registry_id: harvey-platform
+  - registry_id: casetext
+  - registry_id: evenup
+  - registry_id: legora
+  - registry_id: supio
+- id: spatial-3d
+  title: 3D & Spatial Tools
+  group_id: spatial
+  group_title: 3D & Spatial
+  items:
+  - registry_id: meshy
+  - registry_id: tripo3d
+  - registry_id: kaedim
+  - registry_id: deepmotion
+  - registry_id: hexa
+  - registry_id: backflip
+  - registry_id: intangible-ai
+  - registry_id: eufymake
+  - registry_id: alpha3d
+  - registry_id: ai-build
+- id: games-interactive
+  title: Games & Interactive Media
+  group_id: games
+  group_title: Games
+  items:
+  - registry_id: ai-dungeon
+  - registry_id: statespace
+  - registry_id: mobalytics
+  - registry_id: volley
+  - registry_id: kinetix
+  - registry_id: auki-labs
+  - registry_id: layer
+  - registry_id: modl-ai
+  - registry_id: regression-games
+  - registry_id: agentic
+  - registry_id: epoch
+  - registry_id: gg-predict
+  - registry_id: incymo
+  - registry_id: oneirocom
+  - registry_id: the-culture-dao
+- id: writing-publishing
+  title: Writing & Publishing
+  group_id: writing
+  group_title: Writing & Publishing
+  items:
+  - registry_id: grammarly
+  - registry_id: jasper
+  - registry_id: gamma
+  - registry_id: rytr
+  - registry_id: slidesgo
+  - registry_id: sudowrite
+  - registry_id: jenni-ai
+  - registry_id: beautiful-ai
+  - registry_id: goodnovel
+  - registry_id: copysmith
+  - registry_id: hyper-write
+  - registry_id: fizzo
+  - registry_id: prezent
+  - registry_id: squibler
+  - registry_id: audiopen
+  - registry_id: bedtimestory-ai
+  - registry_id: compose
+  - registry_id: cleft
+  - registry_id: rosebud
+  - registry_id: mindsera
+  - registry_id: go-moonbeam
+  - registry_id: pirr
+  - registry_id: presentations-ai
+  - registry_id: slidesgpt-ai
+  - registry_id: storybee
+  - registry_id: storiesforkids-ai
+  - registry_id: storywizard-ai
+  - registry_id: storybooks
+  - registry_id: ai-story-generator
+  - registry_id: story-com
+  - registry_id: storybook-ai
+  - registry_id: story-spark
+  - registry_id: fabled-ai
+  - registry_id: child-book
+  - registry_id: scarlett-panda
+  - registry_id: bookbildr
+  - registry_id: ainia
+  - registry_id: story-lumi
+- id: chat-social
+  title: Chat & Social
+  group_id: social
+  group_title: Chat & Social
+  items:
+  - registry_id: character
+  - registry_id: replika
+  - registry_id: poe
+  - registry_id: quark
+  - registry_id: chai-research
+  - registry_id: monica
+  - registry_id: candy
+  - registry_id: spicychat
+  - registry_id: crushon
+  - registry_id: polybuzz
+  - registry_id: chub-ai
+  - registry_id: joyland
+  - registry_id: yodayo
+  - registry_id: chaton
+  - registry_id: novaapp
+  - registry_id: popai
+  - registry_id: chatbox
+  - registry_id: genie
+
+  - registry_id: autoresponder-ai
+  - registry_id: bible-chat-ai
+- id: industry-operations
+  title: Industry Operations
+  group_id: industry-solutions
+  group_title: Industry Solutions
+  items:
+  - registry_id: toast
+  - registry_id: servicetitan
+  - registry_id: mindbody
+  - registry_id: appfolio
+  - registry_id: helsing
+  - registry_id: shield-ai
+  - registry_id: placer-ai
+  - registry_id: picturethisai
+  - registry_id: homelight
+  - registry_id: carbyne
+  - registry_id: altana
+  - registry_id: aidash
+  - registry_id: bright-machines
+  - registry_id: otto
+  - registry_id: moego
+  - registry_id: miovision
+  - registry_id: spothopper
+  - registry_id: monograph
+  - registry_id: gloo
+  - registry_id: zoca
+  - registry_id: liberate
+  - registry_id: toma
+  - registry_id: numa
+  - registry_id: kea
+  - registry_id: voiceplug
+  - registry_id: hi-auto
+  - registry_id: slang-ai
+  - registry_id: loman-ai
+  - registry_id: avoca
+  - registry_id: sameday-ai
+  - registry_id: fleetworks
+  - registry_id: plantin
+  - registry_id: celebrateally
+- id: tool-discovery
+  title: AI Tool Directories
+  group_id: discovery
+  group_title: Tool Discovery
+  items:
+  - registry_id: generative-ai
+unresolved: []
+exclusions:
+- ref: Image Models#DALL-E
+  reason: Registry status is discontinued; the active curated list excludes historical models without an explicit retention
+    reason.
+  registry_id: dalle
+- ref: AI Browsers#Arc
+  reason: Registry entity arc is inactive and the browser is in maintenance mode.
+- ref: AI Healthcare Tools#Thoughtful
+  reason: 'Editorial scope exclusion: `thoughtful` is an organization, while this section curates end-user healthcare products;
+    the legacy row does not identify a distinct product.'
+  registry_id: thoughtful
+- ref: AI Search APIs & Infrastructure#AI21 Labs
+  reason: 'Editorial scope exclusion: `ai21-labs` is the company, not a specific search API or infrastructure product; the
+    legacy row is too broad for this section.'
+  registry_id: ai21-labs
+- ref: AI Shopping Tools#Capsule
+  reason: 'Incorrect legacy mapping: Capsule is a video editor, not a shopping tool; registry entity `capsule` is retained
+    under Video Editing Tools.'
+  registry_id: capsule
+  kept_section: Video Editing Tools
+- ref: AI Story & Book Generation#BedFables
+  reason: 'Unable to verify a durable Registry identity: the legacy BedFables row has no corroborated active product record
+    beyond its submitted website.'
+- ref: AI Story & Book Generation#Story MidReal
+  reason: The official linked page is a closure notice; MidReal is not an active product.
+- ref: App Development Factories#Lightricks
+  reason: 'Editorial scope exclusion: `lightricks` is an organization operating several creative apps, not an app-development
+    factory product.'
+  registry_id: lightricks
+- ref: Backend-as-a-Service#Inngest
+  reason: 'Cross-category duplicate: registry entity `inngest` is retained in Infrastructure for AI Agents, its more specific
+    durable-execution category.'
+  registry_id: inngest
+  kept_section: Infrastructure for AI Agents
+- ref: Concept Art & Creative Tools#Mirage
+  reason: 'Incorrect legacy mapping: the row was mapped to `captions`, but Mirage and Captions are different products; no
+    unique Mirage entity is verified.'
+- ref: Customer Service Platforms#Salesforce
+  reason: 'Editorial scope exclusion: `salesforce` is an organization and the row does not identify a specific customer-service
+    product such as Service Cloud.'
+  registry_id: salesforce
+- ref: Data Infrastructure & OLAP Databases#BigQuery
+  reason: The previous Gemini Enterprise Agent Platform mapping was an identity error; no exact BigQuery entity exists.
+- ref: Data Infrastructure & OLAP Databases#Redshift
+  reason: 'Incorrect legacy mapping: Amazon Redshift is a data warehouse and is not `amazon-bedrock`; no exact Redshift entity
+    is present in Registry.'
+- ref: E-commerce Search Assistants#Onton
+  reason: 'Cross-category duplicate: registry entity `onton` is retained in AI Shopping Tools, which is the canonical broader
+    shopping-discovery section.'
+  registry_id: onton
+  kept_section: AI Shopping Tools
+- ref: Enterprise AI Assistants#Kore.ai
+  reason: 'Cross-category duplicate: registry entity `kore-ai` is retained in Voice Agent Platforms, matching its conversational-agent
+    identity.'
+  registry_id: kore-ai
+  kept_section: Voice Agent Platforms
+- ref: Enterprise AI Assistants#Tinyfish
+  reason: 'Cross-category duplicate: registry entity `tiny-fish` is retained in Infrastructure for AI Agents as a web-agent
+    platform.'
+  registry_id: tiny-fish
+  kept_section: Infrastructure for AI Agents
+- ref: Filmmaking Tools#Flow by Google
+  reason: The previous Doppl mapping was an identity error; no verified Google Flow entity exists in Registry.
+- ref: Image-to-3D Models#Hunyuan3D
+  reason: 'Cross-category duplicate: registry entity `hunyuan3d` is retained in Text-to-3D Models; its image-conditioned capability
+    does not require a second listing.'
+  registry_id: hunyuan3d
+  kept_section: Text-to-3D Models
+- ref: Image-to-3D Models#Rodin
+  reason: 'Cross-category duplicate: registry entity `rodin` is retained in Text-to-3D Models and supports image input within
+    the same model family.'
+  registry_id: rodin
+  kept_section: Text-to-3D Models
+- ref: Image-to-Image Models#Adobe Firefly
+  reason: 'Cross-category duplicate: registry entity `adobe-firefly` is retained in Text-to-Image Models; editing remains
+    a capability of that family.'
+  registry_id: adobe-firefly
+  kept_section: Text-to-Image Models
+- ref: Image-to-Image Models#Flux Context
+  reason: 'Cross-category duplicate: registry entity `flux` is retained in Text-to-Image Models; FLUX contextual editing is
+    not a separate Registry identity.'
+  registry_id: flux
+  kept_section: Text-to-Image Models
+- ref: Image-to-Image Models#GPT Image
+  reason: 'Cross-category duplicate: registry entity `gpt-image-2` is retained in Text-to-Image Models and covers both generation
+    and editing.'
+  registry_id: gpt-image-2
+  kept_section: Text-to-Image Models
+- ref: Image-to-Image Models#Gemini
+  reason: nano-banana-2 is already represented in Text-to-Image Models; this editing occurrence is merged to the canonical
+    entry.
+  registry_id: nano-banana-2
+- ref: Image-to-Image Models#Qwen Image Edit
+  reason: qwen-image-2-0 is already represented in Text-to-Image Models; this occurrence is merged.
+  registry_id: qwen-image-2-0
+- ref: Image-to-Image Models#Reve
+  reason: 'Cross-category duplicate: registry entity `reve-model` is retained in Text-to-Image Models; image editing is part
+    of the same family.'
+  registry_id: reve-model
+  kept_section: Text-to-Image Models
+- ref: Image-to-Image Models#Seedream
+  reason: 'Cross-category duplicate: registry entity `seedream` is retained in Text-to-Image Models; no separate editing entity
+    is warranted.'
+  registry_id: seedream
+  kept_section: Text-to-Image Models
+- ref: Image-to-Video Models#GenFlare
+  reason: 'Unable to uniquely identify: the GenFlare name and Baidu URL do not resolve to a verified model entity, and the
+    legacy row supplies no model identifier.'
+- ref: Image-to-Video Models#Hailuo
+  reason: 'Cross-category duplicate: registry entity `hailuo` is retained in Text-to-Video Models; image input is a capability
+    of the same family.'
+  registry_id: hailuo
+  kept_section: Text-to-Video Models
+- ref: Image-to-Video Models#Hunyuan
+  reason: 'Cross-category duplicate: registry entity `hunyuan-video` is retained in Text-to-Video Models and also supports
+    image-conditioned generation.'
+  registry_id: hunyuan-video
+  kept_section: Text-to-Video Models
+- ref: Image-to-Video Models#Kling
+  reason: 'Cross-category duplicate: registry entity `kling` is retained in Text-to-Video Models; image-to-video belongs to
+    the same family.'
+  registry_id: kling
+  kept_section: Text-to-Video Models
+- ref: Image-to-Video Models#Ray
+  reason: 'Cross-category duplicate: registry entity `luma-ray` is retained in Text-to-Video Models; image-to-video remains
+    a family capability.'
+  registry_id: luma-ray
+  kept_section: Text-to-Video Models
+- ref: Image-to-Video Models#Seedance
+  reason: Seedance is already selected once in Text-to-Video Models; image-conditioned generation remains a capability of
+    the same Registry family.
+- ref: Image-to-Video Models#Veo
+  reason: google-veo-3-1 is already represented in Text-to-Video Models; this occurrence is merged.
+  registry_id: google-veo-3-1
+- ref: Image-to-Video Models#Vivago
+  reason: 'Incorrect legacy mapping: Vivago was mapped to `hidream`, but the names and products do not match; no exact Vivago
+    model entity is verified.'
+- ref: Image-to-Video Models#WAN
+  reason: WAN is represented once in Text-to-Video Models; image-conditioned video generation remains a capability of registry
+    entity wan.
+  registry_id: wan
+- ref: Image-to-Video Models#Waver
+  reason: 'Unable to uniquely identify: the row says Waver but links to ByteDance Seedance, so the name and official destination
+    conflict.'
+- ref: Infrastructure for AI Agents#AGI,inc
+  reason: AGI,inc has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Anthor Browser
+  reason: 'Unable to uniquely identify: `Anthor Browser` has no URL and appears misspelled; it cannot be safely matched to
+    Anchor Browser or another service.'
+- ref: Infrastructure for AI Agents#Astral
+  reason: Astral has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Axiom
+  reason: 'Unable to uniquely identify: Axiom has no URL and may refer to several unrelated observability, database, or agent
+    products.'
+- ref: Infrastructure for AI Agents#Boundary
+  reason: Boundary has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Browse AI
+  reason: 'Cross-category duplicate: registry entity `browse-ai` is retained in Web Scraping Tools, its canonical product
+    category.'
+  registry_id: browse-ai
+  kept_section: Web Scraping Tools
+- ref: Infrastructure for AI Agents#ControlFlow
+  reason: 'Unable to uniquely identify: ControlFlow has no URL and the generic name does not establish whether it means the
+    Prefect project or another framework.'
+- ref: Infrastructure for AI Agents#Core Science Innovations
+  reason: Core Science Innovations has no usable URL or unique identity in the legacy source, so no Registry entity can be
+    verified.
+- ref: Infrastructure for AI Agents#CovAl
+  reason: 'Cross-category duplicate: registry entity `coval` is retained in Voice Agent Platforms, its specific evaluation
+    category.'
+  registry_id: coval
+  kept_section: Voice Agent Platforms
+- ref: Infrastructure for AI Agents#Crew AI
+  reason: Crew AI duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Infrastructure for AI Agents#DataVolo
+  reason: Registry entity datavolo is inactive; excluded from active infrastructure.
+- ref: Infrastructure for AI Agents#Exa
+  reason: 'Cross-category duplicate: registry entity `exa` is retained in AI Search APIs & Infrastructure rather than repeated
+    in the generic agent stack.'
+  registry_id: exa
+  kept_section: AI Search APIs & Infrastructure
+- ref: Infrastructure for AI Agents#Firecrawl
+  reason: 'Cross-category duplicate: registry entity `firecrawl` is retained in Web Scraping Tools, its canonical data-acquisition
+    category.'
+  registry_id: firecrawl
+  kept_section: Web Scraping Tools
+- ref: Infrastructure for AI Agents#ForeverVM
+  reason: 'Unable to uniquely identify: ForeverVM has no URL in the legacy row, so the claimed sandbox service cannot be tied
+    to an official entity.'
+- ref: Infrastructure for AI Agents#Hyper Write
+  reason: 'Cross-category duplicate: registry entity `hyper-write` is retained in Writing Assistants; it is not agent infrastructure.'
+  registry_id: hyper-write
+  kept_section: Writing Assistants
+- ref: Infrastructure for AI Agents#LangGraph
+  reason: LangGraph duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Infrastructure for AI Agents#Letta
+  reason: Letta duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Infrastructure for AI Agents#LlamaIndex
+  reason: LlamaIndex duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Infrastructure for AI Agents#Models
+  reason: Models has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#NIMBE
+  reason: NIMBE has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Needle
+  reason: Needle has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#New Gen
+  reason: New Gen has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Open Commerce
+  reason: 'Unable to uniquely identify: Open Commerce has no URL and is a generic phrase shared by multiple commerce projects.'
+- ref: Infrastructure for AI Agents#OpenAI Operator
+  reason: Registry entity openai-operator is inactive; its standalone product role ended.
+- ref: Infrastructure for AI Agents#Outhzed
+  reason: 'Unable to uniquely identify: Outhzed has no URL and appears to be a misspelling of AuthZed; the source does not
+    prove that identity.'
+- ref: Infrastructure for AI Agents#Payman
+  reason: 'Cross-category duplicate: registry entity `payman` is retained in AI Agent Payment Infrastructure, its canonical
+    section.'
+  registry_id: payman
+  kept_section: AI Agent Payment Infrastructure
+- ref: Infrastructure for AI Agents#Silicon
+  reason: Silicon has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Societies
+  reason: Societies has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Supabase
+  reason: 'Cross-category duplicate: registry entity `supabase` is retained in Backend-as-a-Service rather than repeated as
+    generic agent infrastructure.'
+  registry_id: supabase
+  kept_section: Backend-as-a-Service
+- ref: Infrastructure for AI Agents#Unified
+  reason: 'Unable to uniquely identify: Unified has no URL and its secure-tool description does not establish that it is registry
+    entity `unified-to`.'
+- ref: Infrastructure for AI Agents#Wildcard
+  reason: Wildcard has no usable URL or unique identity in the legacy source, so no Registry entity can be verified.
+- ref: Infrastructure for AI Agents#Zap
+  reason: 'Unable to uniquely identify: Zap has no URL and could mean Zep, Zapier, or another memory product; no exact identity
+    is supported.'
+- ref: Link in Bio Tools#Bento
+  reason: Registry entity bento is inactive; excluded from active tools.
+- ref: Low-Code/No-Code Platforms#Poolside
+  reason: 'Editorial scope exclusion: registry entity `poolside` is an AI-model company for software engineering, not a low-code/no-code
+    platform.'
+  registry_id: poolside
+- ref: Music Generation Models#Eleven Music
+  reason: 'Removed: the former exact mapping to ElevenLabs Scribe was an identity error; no verified Eleven Music entity exists.'
+- ref: Music Generation Models#Stable Audio
+  reason: 'Incorrect legacy mapping: Stable Audio is an audio model and is not registry entity `stable-diffusion`; no exact
+    Stable Audio entity is verified.'
+- ref: Podcast Tools#Wellsaid
+  reason: Wellsaid duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: SEO Optimization Tools#Daydream
+  reason: 'Cross-category duplicate: registry entity `withdaydream` is retained in AI Shopping Tools; it is a fashion-shopping
+    discovery product, not SEO software.'
+  registry_id: withdaydream
+  kept_section: AI Shopping Tools
+- ref: Search-Enhanced LLMs#Diffbot Small XL
+  reason: The previous CosyVoice mapping was an identity error; no verified Diffbot Small XL entity exists.
+- ref: Search-Enhanced LLMs#GPT-4o Search Preview
+  reason: 'Lifecycle exclusion: GPT-4o Search Preview was an API preview with an announced 2026-07-23 shutdown and is no longer
+    an active curated model.'
+- ref: Search-Enhanced LLMs#Gemini 2.5 Pro Grounding
+  reason: Gemini 2.5 Pro is already selected in Web Development LLMs; grounding is a capability, so this occurrence is merged.
+- ref: Search-Enhanced LLMs#Perplexity Sonar Pro High
+  reason: 'Cross-category merge: model version `perplexity-sonar-pro-high` is represented through family `perplexity-sonar`
+    in Infrastructure for AI Agents.'
+  registry_id: perplexity-sonar-pro-high
+  kept_section: Infrastructure for AI Agents
+- ref: Specialized Scribes#Claap
+  reason: Claap duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Speech-to-Text (ASR) Models#Amazon Transcribe
+  reason: The previous Amazon Polly mapping was an identity error; only the distinct Amazon Transcribe Medical entity is verified.
+- ref: Speech-to-Text (ASR) Models#Azure Speech-to-Text
+  reason: Azure Speech-to-Text duplicates a Registry entity already selected in its canonical section; this occurrence is
+    merged.
+- ref: Text-to-3D Models#Luma Genie
+  reason: The previous Luma Dream Machine mapping was an identity error; no verified Luma Genie entity exists.
+- ref: Text-to-Image Models#WAN
+  reason: Registry entity wan is a video-generation family, so the legacy text-to-image occurrence is an incorrect category
+    and is excluded.
+  registry_id: wan
+- ref: Text-to-Speech (TTS) Models#MiniMax Audio
+  reason: The previous MiniMax H3 mapping was an identity error; no verified MiniMax audio-family entity exists.
+- ref: Text-to-Speech (TTS) Models#Play AI
+  reason: Registry entity play-ai is inactive; excluded from the active curated list.
+- ref: Text-to-Speech (TTS) Models#StepFun TTS
+  reason: 'Incorrect legacy mapping: `stepfun` is an image-model family in Registry, not a verified StepFun text-to-speech
+    model.'
+  registry_id: stepfun
+- ref: Text-to-Video Models#Sora
+  reason: The available Sora 2 Registry record is discontinued; the previous GPT Realtime mapping was an identity error.
+- ref: Video Editing Agents#Opus Pro Agent
+  reason: 'Incorrect legacy mapping: the row was mapped to video editor `opus`, but Opus Pro Agent is not the same product;
+    no exact agent entity is verified.'
+- ref: Voice AI Agents#Elise AI
+  reason: 'Editorial scope exclusion: registry entity `elise-ai` is a housing and healthcare communications platform, and
+    the verified record does not establish a voice-agent product.'
+  registry_id: elise-ai
+- ref: Voice Agent Platforms#Retell AI
+  reason: Retell AI duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Voice Agent Platforms#Vapi
+  reason: Vapi duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Voice Services & Applications#Coqui
+  reason: Registry entity coqui is inactive; excluded from the active curated list.
+- ref: Web Development LLMs#Claude Opus 4.7
+  reason: 'Cross-category duplicate: the legacy version label maps only to family `claude`, which is retained in General Purpose
+    LLMs; no separate Opus 4.7 entity exists.'
+  registry_id: claude
+  kept_section: General Purpose LLMs
+- ref: Web Development LLMs#GLM-5.1
+  reason: 'Cross-category duplicate: the legacy version label maps only to family `glm`, which is retained in General Purpose
+    LLMs; no separate GLM-5.1 entity exists.'
+  registry_id: glm
+  kept_section: General Purpose LLMs
+- ref: Web Development LLMs#GPT-4o
+  reason: 'Editorial and lifecycle exclusion: `gpt-4o` is a general multimodal API model, not a web-development-specific model,
+    and its API retirement is scheduled for 2027-01-14.'
+  registry_id: gpt-4o
+- ref: Workflow Automation#Composio.dev
+  reason: Composio.dev duplicates a Registry entity already selected in its canonical section; this occurrence is merged.
+- ref: Speech & Transcription Applications#Tolvia
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: tolvia
+- ref: Commerce & Shopping#Mirror Mirror
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: mirror-mirror
+- ref: Commerce & Shopping#Plush
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: plush
+- ref: Commerce & Shopping#Dupe
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: dupe
+- ref: Commerce & Shopping#YAW
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: yaw
+- ref: Commerce & Shopping#Gem
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: gem
+- ref: Learning & Teaching#Glyph AI
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: glyph-ai
+- ref: Games & Interactive Media#Ego
+  reason: Official site unreachable (DNS failure, parked domain or shell page) and product identity unverifiable as of 2026-10-18;
+    removed from the public catalog.
+  registry_id: ego
+- ref: Writing & Publishing#BabyStoryAI
+  reason: 'Status check 2026-10-18: domain parked since 2026-01, no operating trace; removed from the public catalog.'
+  registry_id: babystoryai
+- ref: Cloud & Model Infrastructure#Genesis Cloud
+  reason: 'Status check 2026-10-18: company in liquidation since 2025-08, site returning 5xx; removed from the public catalog.'
+  registry_id: genesis-cloud
+- ref: Language & Search Models#Perplexity Sonar Pro High
+  reason: 'Status check 2026-10-18: Sonar API retired by Perplexity on 2026-09-27 (migrated to Agent API); removed from the
+    public catalog.'
+  registry_id: perplexity-sonar-pro-high
+- ref: Commerce & Shopping#Revery AI
+  reason: 'Status check 2026-10-18: team dissolved end of 2022, YC marks inactive, site unresolvable; removed from the public
+    catalog.'
+  registry_id: revery-ai
+- ref: Speech Models#AMAI
+  reason: 'Status check 2026-10-18: DNS unresolvable, no trace of the company anywhere; removed from the public catalog.'
+  registry_id: amai
+- ref: Writing & Publishing#CreateBookAI
+  reason: 'Status check 2026-10-18: service shut down (confirmed no longer active as of 2026-08-31); removed from the public
+    catalog.'
+  registry_id: createbookai
+- ref: Meeting Notes & Summaries#Rewatch
+  reason: 'Status check 2026-10-18: standalone service discontinued after Atlassian acquisition (2024-11), DNS unresolvable;
+    removed from the public catalog.'
+  registry_id: rewatch
+- ref: Data Platforms & Analytics#DataGPT
+  reason: 'Status check 2026-10-18: wound down during 2025, DNS unresolvable; removed from the public catalog.'
+  registry_id: datagpt
+- ref: Writing & Publishing#Fabularis
+  reason: 'Status check 2026-10-18: domain resold to unrelated party, no activity since 2024; removed from the public catalog.'
+  registry_id: fabularis
+- ref: Games & Interactive Media#Jigger
+  reason: 'Status check 2026-10-18: domain redirected to an unrelated property-management company; product dead; removed from
+    the public catalog.'
+  registry_id: jigger
+- ref: Writing & Publishing#Write with LAIKA
+  reason: 'Status check 2026-10-18: domain redirected to an unrelated product (CleverFiles); no LAIKA continuity; removed
+    from the public catalog.'
+  registry_id: write-with-laika
+- ref: Commerce & Shopping#Pixite
+  reason: 'Status check 2026-10-18: domain redirected to an unrelated product; original product dead; removed from the public
+    catalog.'
+  registry_id: pixite
+- ref: Coding Tools#MutableAI
+  reason: 'Status check 2026-10-18: acquired by Google in December 2024 and the standalone product was discontinued; removed
+    from the public catalog.'
+  registry_id: mutableai
+- ref: Language & Search Models#Gemini 2.5 Pro
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the
+    family description.'
+  registry_id: gemini-2-5-pro
+- ref: Language & Search Models#Kimi K2.6
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the
+    family description.'
+  registry_id: kimi-k2-6
+- ref: Language & Search Models#DeepSeek-V3
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the
+    family description.'
+  registry_id: deepseek-v3
+- ref: Language & Search Models#MiniMax M2.7
+  reason: 'Editorial rule 2026-10-19: the catalog lists model families only; version-level entries are consolidated into the
+    family description.'
+  registry_id: minimax-m2-7
+- ref: Search APIs#Perplexity Sonar
+  reason: Sonar API retired 2026-09-27 and merged into the Perplexity Agent API; no standalone product remains
+  registry_id: perplexity-sonar
+- ref: Image Models#Imagen 4
+  reason: 'Registry status discontinued: Gemini API Imagen endpoints shut down 2026-08-17, users directed to Nano Banana'
+  registry_id: imagen-4
+- ref: Video Models#Seedance 2.5
+  reason: Consolidated into the Seedance family row per the families-only editorial rule; the family description covers 2.5
+  registry_id: seedance-2-5
+- ref: Speech Models#Groq Distil Whisper
+  reason: 'Status/tier review 2026-10-19: deprecated on GroqCloud 2025-08-23 per official deprecations page; removed from
+    the public catalog.'
+  registry_id: groq-distil-whisper
+- ref: Image Models#StepFun
+  reason: 'Status/tier review 2026-10-19: image generation/editing APIs discontinued 2026-10-10 per official docs; removed
+    from the public catalog.'
+  registry_id: stepfun
+- ref: Writing & Publishing#Bertha AI
+  reason: 'Status/tier review 2026-10-19: service closed to all users per official announcement; removed from the public catalog.'
+  registry_id: bertha-ai
+- ref: Writing & Publishing#CopyMonkey.ai
+  reason: 'Status/tier review 2026-10-19: service sunset (2026-09), successor Jinnify.ai is a separate entity; removed from
+    the public catalog.'
+  registry_id: copymonkey-ai
+- ref: Filmmaking & Localization#Contenda
+  reason: 'Status/tier review 2026-10-19: company pivoted to FSH Technologies (govtech software); no longer an AI filmmaking
+    tool; removed from the public catalog.'
+  registry_id: contenda
+- ref: 3D & Spatial Models#Meshy
+  reason: 'Status/tier review 2026-10-19: tier consolidation: the Meshy platform is already listed in 3D & Spatial Tools;
+    removed from the public catalog.'
+  registry_id: meshy-model
+- ref: 3D & Spatial Models#Tripo
+  reason: 'Status/tier review 2026-10-19: tier consolidation: the Tripo platform is already listed in 3D & Spatial Tools;
+    removed from the public catalog.'
+  registry_id: tripo
+- ref: Speech Models#DeepInfra Whisper
+  reason: 'Status/tier review 2026-10-19: third-party hosted Whisper endpoint, not a distinct model family; Whisper itself
+    is listed; removed from the public catalog.'
+  registry_id: deepinfra-whisper
+- ref: Speech Models#fal Wizper
+  reason: 'Status/tier review 2026-10-19: third-party hosted Whisper endpoint on fal; the fal platform is already listed;
+    removed from the public catalog.'
+  registry_id: fal-ai-wizper
+- ref: Speech Models#Fireworks Whisper
+  reason: 'Status/tier review 2026-10-19: third-party hosted Whisper, community-reported deprecated; not a distinct model
+    family; removed from the public catalog.'
+  registry_id: fireworks-whisper
+- ref: Image Creation & Editing#Midjourney
+  reason: 'Status/tier review 2026-10-19: tier consolidation: the Midjourney model family row (Image Models) carries the brand;
+    website/Discord access noted there; removed from the public catalog.'
+  registry_id: midjourney
+- ref: Models#leonardo-ai-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity leonardo-ai in its application
+    section.'
+  registry_id: leonardo-ai-model
+- ref: Models#pixverse-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity pixverse in its application section.'
+  registry_id: pixverse-model
+- ref: Models#hailuo
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity hailuoai in its application section.'
+  registry_id: hailuo
+- ref: Models#assemblyai-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity assemblyai in its application
+    section.'
+  registry_id: assemblyai-model
+- ref: Models#speechmatics
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity speechmatics in its application
+    section.'
+  registry_id: speechmatics
+- ref: Models#suno-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity suno in its application section.'
+  registry_id: suno-model
+- ref: Models#udio-model
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity udio in its application section.'
+  registry_id: udio-model
+- ref: Models#alpha3d
+  reason: 'Tier consolidation 2026-10-19: model-column entry replaced by the product entity alpha3d in its application section.'
+  registry_id: alpha3d
+- ref: Language & Search Models#Qwen Coder
+  reason: 'Family consolidation 2026-10-19: the Qwen Coder line is folded into the Qwen family description, matching the DeepSeek/R1
+    treatment.'
+  registry_id: qwen2-5-coder
+- ref: Speech Models#Fish Audio S2
+  reason: 'Tier consolidation 2026-10-19: the S2 versioned line is folded into the Fish Audio platform row in Speech & Transcription
+    Applications; version detail lives in the description.'
+  registry_id: fish-audio-s2-pro
+- ref: Chat & Social#Heeyo
+  reason: 'Status check: service no longer active as of 2026-08 (The Rundown); heeyo.ai serves an empty Framer placeholder; removed from the public catalog.'
+  registry_id: heeyo-ai
+publish_ready: true
