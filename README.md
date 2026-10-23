@@ -1238,6 +1238,7 @@ For character-based interaction, [character chat and role-playing applications](
 - <a href="https://www.polybuzz.ai" target="_blank">Polybuzz</a> - Platform for chatting with AI characters, roleplay conversations and AI-generated webtoons, including custom character creation.
 - <a href="https://www.chub.ai/" target="_blank">Chub AI</a> - Interactive roleplay AI chat platform enabling custom character experiences and storytelling
 - <a href="https://www.joyland.ai" target="_blank">Joyland</a> - Platform for creating and chatting with custom AI characters, including anime-style companions, interactive stories and roleplay, plus a community character library.
+- <a href="https://wsupai.app" target="_blank">WSUP AI</a> - Free AI character chat in the browser, no sign-up required.
 - <a href="https://moescape.ai/" target="_blank">Moescape</a> - Anime-focused AI platform combining character chat, image generation, and character creation; rebranded from Yodayo to Moescape in 2024.
 - <a href="https://chaton.ai/" target="_blank">ChatOn</a> - AI chat assistant mobile app combining conversational models with image generation, web search, document processing and writing-tone tools for writing and productivity tasks.
 - <a href="https://novaapp.ai" target="_blank">Nova</a> - Cross-platform AI chat assistant built on GPT-4o and Gemini models, offering question answering, writing help and proofreading.
