@@ -469,6 +469,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://autoshorts.ai/" target="_blank">AutoShorts AI</a> - One-click generation and auto-publishing of faceless short videos, specifically designed for TikTok and YouTube Shorts
 - <a href="https://async.com" target="_blank">Async</a> - Chat-based AI video editing platform that cuts footage, cleans audio, adds subtitles and generates voice and music from prompts.
 - <a href="https://cursorful.com/" target="_blank">Cursorful</a> - Browser recording plugin that automatically zooms in on the cursor focus for demo videos.
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 
 <a id="section-filmmaking-localization"></a>
 
