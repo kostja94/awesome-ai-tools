@@ -353,6 +353,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 - <a href="https://picsart.com" target="_blank">Picsart</a> - Creative platform for photo and video editing with AI image generation and editing tools, offered on web and mobile.
 - <a href="https://leonardo.ai" target="_blank">Leonardo AI</a> - Generative AI platform for image and video creation with fine-tuned models, style presets, an editing canvas and video generation for creative production.
+- <a href="https://promptimage.cloud" target="_blank">PromptImage</a> - Free AI image gallery and image/video generation studio with freemium signup credits (no card required).
 - <a href="https://www.facetuneapp.com/" target="_blank">Facetune</a> - Mobile image processing app providing AI retouching, filters, and beauty enhancement features
 - <a href="https://remini.ai" target="_blank">Remini</a> - Photo and video enhancement app that restores old or low-quality images and upscales media to higher definition.
 - <a href="https://www.faceapp.com/" target="_blank">FaceApp</a> - Mobile portrait AI editor that can change age, hairstyle, and makeup
@@ -409,6 +410,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 ### Multimodal Creation
 
+- <a href="https://teslawraps.design" target="_blank">TeslaWraps</a> - Browser Tesla Paint Shop wrap designer; core editing and PNG export free without an account (optional AI credits).
 - <a href="https://simplified.com/" target="_blank">Simplified</a> - AI content creation platform combining design, copywriting, video generation, and social media management tools.
 - <a href="https://textcortex.com/" target="_blank">Text Cortex AI</a> - AI writing assistant usable in any online text box, with rewriting, expansion and summarization tools across thousands of apps; repositioned as an enterprise AI agent platform.
 - <a href="https://glif.app/" target="_blank">Glif</a> - AI creative platform for generating images, video, audio, and text with customizable workflows
@@ -428,6 +430,13 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 - <a href="https://www.synthesia.io/" target="_blank">Synthesia</a> - AI video generation platform creating professional videos with AI avatars and multilingual support
 - <a href="https://www.heygen.com" target="_blank">HeyGen</a> - AI video platform that generates videos from text using photorealistic avatars, with multilingual translation, dubbing and lip-sync.
+- <a href="https://grokvideogenerator.dev" target="_blank">GrokVideo Studio</a> - Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
+- <a href="https://alorsondansevideo.com" target="_blank">Alors On Danse Video Maker</a> - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- <a href="https://badtimesai.dev" target="_blank">Bad Times AI</a> - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- <a href="https://ifoundyouinthecrowdai.com" target="_blank">I Found You in the Crowd AI</a> - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- <a href="https://kdafirestarterai.dev" target="_blank">KDA Firestarter AI Dance</a> - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- <a href="https://a2oliteai.org" target="_blank">A2O LITE NEON AI Dance</a> - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial
+- <a href="https://dimedimebabyai.dev" target="_blank">dime dime baby ai</a> - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 - <a href="https://www.descript.com/" target="_blank">Descript</a> - AI-powered video and podcast editing platform with automatic transcription, text-based editing, screen recording, and AI voice cloning; edit video like editing a document
 - <a href="https://www.loom.com/" target="_blank">Loom</a> - One-click screen recording and sharing with AI video enhancement, text editing, and cross-platform collaboration features
 - <a href="https://hailuoai.video" target="_blank">Hailuo AI Video Generator</a> - AI video and image generation platform built on MiniMax's Hailuo models, turning text prompts into short videos and images.
