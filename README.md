@@ -121,6 +121,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.microsoft.com/en-us/ai" target="_blank">MAI Image</a> - Microsoft AI's text-to-image generation model
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs' text-to-image models, served via its API as photon-1 and photon-flash-1 with up to 4 reference images.
 - <a href="https://hidreamai.com/" target="_blank">HiDream</a> - Omni-modal foundation models from Beijing-based HiDream covering image, video and 3D, with open-source HiDream-E1.1 for editing.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - <a href="https://reve.com/" target="_blank">Reve</a> - Text-to-image model with a web app unifying creation, editing and remixing via natural-language and drag-and-drop editing.
 
 <a id="section-video-models"></a>
