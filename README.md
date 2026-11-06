@@ -34,10 +34,14 @@
   - [Speech & Transcription Applications](#section-speech-applications)
   - [Music, Audio & Podcasts](#section-music-podcasts)
 - [Search & Web Data](#group-search-web-data)
-  - [Search & Retrieval](#section-search-retrieval)
-  - [Web Data & Browsers](#section-web-data-browsers)
   - [AI Search Applications](#section-search-applications)
-  - [Search APIs](#section-search-api-services)
+  - [Standalone Web Search APIs](#section-search-api-services)
+  - [SERP APIs](#section-serp-api-services)
+  - [Model-Hosted Web Search Tools](#section-model-search-tools)
+  - [URL Fetch APIs](#section-url-fetch-services)
+  - [Web Scraping & Extraction](#section-web-data-browsers)
+  - [Web Browsers](#section-web-browsers)
+  - [Browser Automation & Infrastructure](#section-browser-infrastructure)
 - [Data & AI Infrastructure](#group-data-cloud)
   - [Cloud & Model Infrastructure](#section-cloud-infrastructure)
   - [Data Platforms & Analytics](#section-data-platforms)
@@ -221,7 +225,6 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://metoro.io" target="_blank">Metoro</a> - AI SRE and observability platform for Kubernetes that detects production issues and investigates alerts using eBPF-based telemetry.
 - <a href="https://gradial.com" target="_blank">Gradial</a> - Enterprise platform that uses AI agents to automate marketing operations such as campaign assembly, content authoring, QA and brand checks.
 - <a href="https://www.dropzone.ai" target="_blank">Dropzone AI</a> - Platform of AI agents for security operations that autonomously investigate alerts and hunt threats in SOC workflows.
-- <a href="https://www.tinyfish.ai/" target="_blank">Tiny Fish</a> - Web infrastructure for AI agents: live search, URL extraction, cloud browsers and plain-English automation under a single API.
 - <a href="https://osatlas.github.io" target="_blank">OS-Atlas</a> - Open-source foundation action model for GUI grounding, trained on a large cross-platform dataset of interface elements for generalist GUI agents.
 - <a href="https://fireproof.storage" target="_blank">Fireproof</a> - Open-source embedded JavaScript database with a verifiable ledger structure, browser-side storage, and encrypted sync, used for agent and local-first apps.
 - <a href="https://www.bytebot.ai" target="_blank">Bytebot</a> - Open-source browser automation agent framework (Apache-2.0, repository archived).
@@ -583,44 +586,6 @@ For music creation within this section, [AI music-generation workflows](https://
 
 ## Search & Web Data
 
-<a id="section-search-retrieval"></a>
-
-### Search & Retrieval
-
-- <a href="https://www.algolia.com/" target="_blank">Algolia</a> - Instant site search and content discovery API service for enterprises and developers
-- <a href="https://www.glean.com/" target="_blank">Glean</a> - Enterprise AI assistant and work search platform that connects to company tools to answer questions and run agents.
-- <a href="https://jina.ai/" target="_blank">Jina AI</a> - Elastic-owned AI search model and API portfolio for multimodal and multilingual embeddings, reranking, retrieval and RAG systems.
-- <a href="https://www.meilisearch.com" target="_blank">Meilisearch</a> - Search engine with a REST API for fast, typo-tolerant search; available as open source and as a managed cloud service.
-- <a href="https://www.commonroom.io/" target="_blank">Common Room</a> - Go-to-market intelligence platform that unifies product usage, community, CRM and marketing signals into person-level buyer views, with contact enrichment and AI-driven prospecting and scoring.
-- <a href="https://juicebox.ai" target="_blank">Juicebox</a> - AI recruiting platform whose PeopleGPT search scans a large global profile database in natural language, combined with a recruitment CRM and AI agents for sourcing and outreach.
-- <a href="https://harmonic.ai" target="_blank">Harmonic</a> - Startup intelligence database that maps private companies, funding and people for investors, combining proprietary data collection with AI.
-- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> - Neural enterprise search platform for knowledge discovery and sharing
-- <a href="https://amber.de/" target="_blank">Amber</a> - Business AI platform combining enterprise search, chat and agents over corporate knowledge; formerly AmberSearch.
-- <a href="https://www.openvc.app" target="_blank">OpenVC</a> - Free platform connecting startup founders with a large investor database, with pitch deck sharing, a CRM and automated follow-ups.
-- <a href="https://lessie.ai/" target="_blank">Lessie AI</a> - Agentic people search engine that finds influencers, leads, investors and talent by searching profiles across LinkedIn, X, GitHub and other sources from a natural-language description.
-- <a href="https://www.clado.ai" target="_blank">Clado</a> - AI people-search and profile-enrichment platform for recruiting and sales teams, running agentic deep research over a large public-profile corpus to match natural-language criteria.
-
-<a id="section-web-data-browsers"></a>
-
-### Web Data & Browsers
-
-[Web scraping and data extraction](https://alignify.co/tools/web-scraping) and [AI-assisted browsing](https://alignify.co/tools/browser) describe two distinct workflows in this section.
-
-- <a href="https://brightdata.com/" target="_blank">Bright Data</a> - Large-scale proxy and web scraping platform providing structured data and APIs.
-- <a href="https://oxylabs.io" target="_blank">Oxylabs</a> - Web data extraction platform offering proxies, scraper APIs and a web search API used for AI agents and data collection.
-- <a href="https://www.perplexity.ai/comet" target="_blank">Perplexity Comet</a> - AI browser from Perplexity with an assistant that performs agentic browsing tasks on the user's behalf.
-- <a href="https://www.diabrowser.com" target="_blank">Dia Browser</a> - AI browser from The Browser Company, with built-in writing assistance and a chat helper that learns from browsing.
-- <a href="https://www.firecrawl.dev" target="_blank">Firecrawl</a> - API and open-source toolkit that crawls websites and converts pages into clean data formats such as Markdown and JSON for LLM use.
-- <a href="https://browser-use.com" target="_blank">Browser-Use</a> - Cloud API and infrastructure for running AI browser agents, with an open-source Python library built on Playwright, for data extraction, web task automation and testing.
-- <a href="https://apify.com" target="_blank">Apify</a> - Platform for web scraping and browser automation, running serverless programs called Actors with proxies, storage and AI agent integrations.
-- <a href="https://www.browserbase.com" target="_blank">Browserbase</a> - Cloud infrastructure providing headless browser sessions for AI agents and web automation, with Fetch and Search APIs, serverless Functions and observability tooling.
-- <a href="https://www.browserless.io/" target="_blank">Browserless</a> - Headless browser as a service supporting Docker deployment, anti-bot capabilities, REST APIs and the BrowserQL query language for page automation and scraping.
-- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a> - Web scraping REST API that bypasses anti-bot restrictions to extract web data.
-- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a> - Managed scraping API that automatically handles proxies, CAPTCHA and IP blocking.
-- <a href="https://www.browse.ai/" target="_blank">Browse.ai</a> - No-code platform for configuring robots that scrape and monitor data from websites.
-- <a href="https://lightpanda.io" target="_blank">Lightpanda</a> - Open-source headless browser written in Zig for web automation, scraping and AI agents, compatible with Puppeteer and Playwright, with a cloud service.
-- <a href="https://strawberrybrowser.com" target="_blank">Strawberry</a> - Desktop browser with a built-in AI assistant that automates tasks across tabs, including actions behind logins, and generates documents from web sources.
-
 <a id="section-search-applications"></a>
 
 ### AI Search Applications
@@ -629,7 +594,6 @@ For music creation within this section, [AI music-generation workflows](https://
 
 - <a href="https://www.perplexity.ai" target="_blank">Perplexity</a> - AI answer engine that responds to questions with sourced answers built on its own web index, populated by the PerplexityBot crawler.
 - <a href="https://brave.com/search/" target="_blank">Brave Search</a> - Independent, privacy-focused search engine with its own web index and no user tracking.
-- <a href="https://www.phind.com/" target="_blank">Phind</a> - AI search engine built for developers, providing visual, interactive, and clearly cited code and technical answers.
 - <a href="https://consensus.app" target="_blank">Consensus</a> - AI search engine for academic research that answers research questions by extracting and summarizing findings from a corpus of millions of peer-reviewed papers.
 - <a href="https://iask.ai/" target="_blank">iAsk</a> - AI question-answering search engine that provides instant answers to natural-language questions.
 - <a href="https://andisearch.com/" target="_blank">Andi</a> - Natural-language conversational search engine for recommendations and knowledge discovery.
@@ -638,15 +602,13 @@ For music creation within this section, [AI music-generation workflows](https://
 
 <a id="section-search-api-services"></a>
 
-### Search APIs
+### Standalone Web Search APIs
 
 [Web search APIs for applications](https://alignify.co/tools/web-search-api) provide programmatic retrieval rather than an end-user search interface.
 
 - <a href="https://exa.ai" target="_blank">Exa</a> - Search API service for AI applications, offering web search, crawling, content extraction and structured results for LLM and agent use.
 - <a href="https://tavily.com" target="_blank">Tavily</a> - Search API built for AI agents and RAG pipelines, combining web search, content extraction and crawling in one interface.
-- <a href="https://serpapi.com" target="_blank">SerpApi</a> - API that scrapes Google and other search engines and returns structured results, handling proxies, captchas and parsing for applications.
 - <a href="https://you.com" target="_blank">You.com</a> - AI search company providing a web search API for LLMs and enterprise applications; formerly a consumer AI search engine. Feature: You.com Research Agent — You.com research capability that searches sources and synthesizes cited reports.
-- <a href="https://serper.dev" target="_blank">Serper</a> - API service that returns structured Google search results for applications and AI agents.
 - <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a> - Multimodal search engine for AI applications, provided as a knowledge-retrieval API for agents.
 - <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Web search API for AI agents that returns long, evidence-based content for LLMs, with asynchronous deep-research tasks and MCP support.
 - <a href="https://s1.dev/" target="_blank">Search1 API</a> - Web access infrastructure for AI agents offering multi-engine web and news search, agentic search, crawling and sitemap APIs through REST, MCP and CLI interfaces.
@@ -661,6 +623,61 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://cloud.baidu.com/doc/BAIDU_AI_SEARCH/index.html" target="_blank">Baidu AI Search</a> - Baidu cloud service providing web retrieval and search-generated responses for AI applications.
 - <a href="https://platform.kimi.ai" target="_blank">Kimi Search API</a> - Standalone web search and URL-fetching APIs from Kimi Open Platform.
 - <a href="https://cloud.tencent.com/product/wsa" target="_blank">Tencent Cloud Web Search API</a> - Web search API returning structured webpage results for applications.
+- <a href="https://www.tinyfish.ai/" target="_blank">TinyFish</a> - Web infrastructure platform providing search, URL fetching, managed browser sessions, goal-based automation, research and webpage or topic monitoring APIs.
+
+<a id="section-serp-api-services"></a>
+
+### SERP APIs
+
+- <a href="https://serpapi.com" target="_blank">SerpApi</a> - API that scrapes Google and other search engines and returns structured results, handling proxies, captchas and parsing for applications.
+- <a href="https://serper.dev" target="_blank">Serper</a> - API service that returns structured Google search results for applications and AI agents.
+
+<a id="section-model-search-tools"></a>
+
+### Model-Hosted Web Search Tools
+
+- <a href="https://developers.openai.com/api/docs/guides/tools-web-search" target="_blank">OpenAI Web Search</a> - Hosted web search tool in OpenAI's Responses API that lets models search the web, open pages and run in-page finds, returning responses with citations and full source lists.
+- <a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool" target="_blank">Claude Web Search</a> - Server-side web search tool for the Claude API: the model decides when and how often to search, with domain, region and search-count controls, citations, and dynamic filtering of results before they enter context.
+- <a href="https://ai.google.dev" target="_blank">Google Gemini API</a> - Google's API for the Gemini model family, providing multimodal generation with long-context windows, a free tier for developers, and grounding to Google Search via the google_search tool.
+- <a href="https://docs.x.ai/developers/tools/web-search" target="_blank">xAI Web Search</a> - Server-side web search tool for the xAI Grok API that lets models search the open web and browse pages, with domain filters, image search options and citations; X platform data search is exposed as a separate tool.
+- <a href="https://docs.mistral.ai/studio/agents/agent-tools/websearch" target="_blank">Mistral Websearch</a> - Web search tool available in Mistral AI's Agents API, with a premium variant that prioritizes verified news sources.
+
+<a id="section-url-fetch-services"></a>
+
+### URL Fetch APIs
+
+- <a href="https://www.tinyfish.ai/fetch" target="_blank">TinyFish Fetch</a> - URL-fetching API that renders webpages and returns clean Markdown, semantic HTML or a structured JSON document tree.
+
+<a id="section-web-data-browsers"></a>
+
+### Web Scraping & Extraction
+
+[Web scraping and extraction](https://alignify.co/tools/web-scraping) covers collecting and processing webpage content.
+
+- <a href="https://brightdata.com/" target="_blank">Bright Data</a> - Large-scale proxy and web scraping platform providing structured data and APIs.
+- <a href="https://oxylabs.io" target="_blank">Oxylabs</a> - Web data extraction platform offering proxies, scraper APIs and a web search API used for AI agents and data collection.
+- <a href="https://www.firecrawl.dev" target="_blank">Firecrawl</a> - API and open-source toolkit that crawls websites and converts pages into clean data formats such as Markdown and JSON for LLM use.
+- <a href="https://apify.com" target="_blank">Apify</a> - Platform for web scraping and browser automation, running serverless programs called Actors with proxies, storage and AI agent integrations.
+- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a> - Web scraping REST API that bypasses anti-bot restrictions to extract web data.
+- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a> - Managed scraping API that automatically handles proxies, CAPTCHA and IP blocking.
+- <a href="https://www.browse.ai/" target="_blank">Browse.ai</a> - No-code platform for configuring robots that scrape and monitor data from websites.
+
+<a id="section-web-browsers"></a>
+
+### Web Browsers
+
+- <a href="https://www.perplexity.ai/comet" target="_blank">Perplexity Comet</a> - AI browser from Perplexity with an assistant that performs agentic browsing tasks on the user's behalf.
+- <a href="https://www.diabrowser.com" target="_blank">Dia Browser</a> - AI browser from The Browser Company, with built-in writing assistance and a chat helper that learns from browsing.
+- <a href="https://strawberrybrowser.com" target="_blank">Strawberry</a> - Desktop browser with a built-in AI assistant that automates tasks across tabs, including actions behind logins, and generates documents from web sources.
+
+<a id="section-browser-infrastructure"></a>
+
+### Browser Automation & Infrastructure
+
+- <a href="https://browser-use.com" target="_blank">Browser-Use</a> - Cloud API and infrastructure for running AI browser agents, with an open-source Python library built on Playwright, for data extraction, web task automation and testing.
+- <a href="https://www.browserbase.com" target="_blank">Browserbase</a> - Cloud infrastructure providing headless browser sessions for AI agents and web automation, with Fetch and Search APIs, serverless Functions and observability tooling.
+- <a href="https://www.browserless.io/" target="_blank">Browserless</a> - Headless browser as a service supporting Docker deployment, anti-bot capabilities, REST APIs and the BrowserQL query language for page automation and scraping.
+- <a href="https://lightpanda.io" target="_blank">Lightpanda</a> - Open-source headless browser written in Zig for web automation, scraping and AI agents, compatible with Puppeteer and Playwright, with a cloud service.
 
 <a id="group-data-cloud"></a>
 
@@ -705,6 +722,9 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a> - GPU cloud platform with one-click environments that come with deep learning frameworks ready to use.
 - <a href="https://www.leadergpu.it/" target="_blank">LeaderGPU</a> - GPU server rental focused on deep learning workloads, including training and image processing.
 - <a href="https://irendering.net/" target="_blank">iRender</a> - GPU rendering cloud for creators that accelerates Blender, Unreal and other software.
+- <a href="https://www.algolia.com/" target="_blank">Algolia</a> - Instant site search and content discovery API service for enterprises and developers
+- <a href="https://jina.ai/" target="_blank">Jina AI</a> - Elastic-owned AI search model and API portfolio for multimodal and multilingual embeddings, reranking, retrieval and RAG systems.
+- <a href="https://www.meilisearch.com" target="_blank">Meilisearch</a> - Search engine with a REST API for fast, typo-tolerant search; available as open source and as a managed cloud service.
 
 <a id="section-data-platforms"></a>
 
@@ -843,6 +863,9 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://ushur.ai/" target="_blank">Ushur</a> - AI-driven customer experience automation platform combining chat and process bots for end-to-end customer service
 - <a href="https://www.pryon.com/" target="_blank">Pryon</a> - Enterprise knowledge search and automated Q&A system built on semantic understanding
 - <a href="https://www.blinkops.com/" target="_blank">BlinkOps</a> - Security automation platform with AI-powered agents for cybersecurity operations
+- <a href="https://www.glean.com/" target="_blank">Glean</a> - Enterprise AI assistant and work search platform that connects to company tools to answer questions and run agents.
+- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> - Neural enterprise search platform for knowledge discovery and sharing
+- <a href="https://amber.de/" target="_blank">Amber</a> - Business AI platform combining enterprise search, chat and agents over corporate knowledge; formerly AmberSearch.
 
 <a id="section-meeting-notes"></a>
 
@@ -912,6 +935,12 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://www.anoki.ai/" target="_blank">Anoki</a> - Multimodal AI platform for CTV advertising with scene-level contextual video intelligence, brand safety, and GenAI-powered ad creation and personalization
 - <a href="https://icon.com" target="_blank">Icon</a> - UGC advertising platform producing creator-made video ads for brands, paired with campaign management software for tracking and iteration.
 - <a href="https://leadbeam.ai/" target="_blank">Leadbeam</a> - Mobile CRM for field sales teams that captures customer interactions and updates sales records.
+- <a href="https://www.commonroom.io/" target="_blank">Common Room</a> - Go-to-market intelligence platform that unifies product usage, community, CRM and marketing signals into person-level buyer views, with contact enrichment and AI-driven prospecting and scoring.
+- <a href="https://juicebox.ai" target="_blank">Juicebox</a> - AI recruiting platform whose PeopleGPT search scans a large global profile database in natural language, combined with a recruitment CRM and AI agents for sourcing and outreach.
+- <a href="https://harmonic.ai" target="_blank">Harmonic</a> - Startup intelligence database that maps private companies, funding and people for investors, combining proprietary data collection with AI.
+- <a href="https://www.openvc.app" target="_blank">OpenVC</a> - Free platform connecting startup founders with a large investor database, with pitch deck sharing, a CRM and automated follow-ups.
+- <a href="https://lessie.ai/" target="_blank">Lessie AI</a> - Agentic people search engine that finds influencers, leads, investors and talent by searching profiles across LinkedIn, X, GitHub and other sources from a natural-language description.
+- <a href="https://www.clado.ai" target="_blank">Clado</a> - AI people-search and profile-enrichment platform for recruiting and sales teams, running agentic deep research over a large public-profile corpus to match natural-language criteria.
 
 <a id="section-customer-service"></a>
 

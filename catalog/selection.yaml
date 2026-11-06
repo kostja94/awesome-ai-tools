@@ -137,7 +137,6 @@ sections:
   - registry_id: metoro
   - registry_id: gradial
   - registry_id: dropzone-ai
-  - registry_id: tiny-fish
   - registry_id: os-atlas
   - registry_id: fireproof
   - registry_id: bytebot
@@ -463,43 +462,6 @@ sections:
   - registry_id: midi-agent
   - registry_id: rct-studio
   - registry_id: youai
-- id: search-retrieval
-  title: Search & Retrieval
-  group_id: search-web-data
-  group_title: Search & Web Data
-  items:
-  - registry_id: algolia
-  - registry_id: glean
-  - registry_id: jina-ai
-    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
-  - registry_id: meilisearch
-  - registry_id: common-room
-  - registry_id: juicebox
-  - registry_id: harmonic
-  - registry_id: zeta-alpha
-  - registry_id: ambersearch
-  - registry_id: openvc
-  - registry_id: lessie
-  - registry_id: clado
-- id: web-data-browsers
-  title: Web Data & Browsers
-  group_id: search-web-data
-  group_title: Search & Web Data
-  items:
-  - registry_id: bright-data
-  - registry_id: oxylabs
-  - registry_id: perplexity-comet
-  - registry_id: dia-browser
-  - registry_id: firecrawl
-  - registry_id: browser-use
-  - registry_id: apify
-  - registry_id: browserbase
-  - registry_id: browserless
-  - registry_id: scrapingbee
-  - registry_id: scraperapi
-  - registry_id: browse-ai
-  - registry_id: lightpanda
-  - registry_id: strawberrybrowser
 - id: search-applications
   title: AI Search Applications
   group_id: search-web-data
@@ -507,23 +469,19 @@ sections:
   items:
   - registry_id: perplexity
   - registry_id: brave-search
-  - registry_id: phind
-    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: consensus
   - registry_id: iask
   - registry_id: andi
   - registry_id: komo
   - registry_id: yep
 - id: search-api-services
-  title: Search APIs
+  title: Standalone Web Search APIs
   group_id: search-web-data
   group_title: Search & Web Data
   items:
   - registry_id: exa
   - registry_id: tavily
-  - registry_id: serpapi
   - registry_id: you-com
-  - registry_id: serper
   - registry_id: bocha
   - registry_id: parallel
   - registry_id: search1-api
@@ -538,6 +496,59 @@ sections:
   - registry_id: baidu-ai-search
   - registry_id: kimi-search-api
   - registry_id: tencent-web-search
+  - registry_id: tiny-fish
+- id: serp-api-services
+  title: SERP APIs
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: serpapi
+  - registry_id: serper
+- id: model-search-tools
+  title: Model-Hosted Web Search Tools
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: openai-web-search
+  - registry_id: claude-web-search
+  - registry_id: google-gemini-api
+  - registry_id: xai-web-search
+  - registry_id: mistral-websearch
+- id: url-fetch-services
+  title: URL Fetch APIs
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: tinyfish-fetch
+- id: web-data-browsers
+  title: Web Scraping & Extraction
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: bright-data
+  - registry_id: oxylabs
+  - registry_id: firecrawl
+  - registry_id: apify
+  - registry_id: scrapingbee
+  - registry_id: scraperapi
+  - registry_id: browse-ai
+- id: web-browsers
+  title: Web Browsers
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: perplexity-comet
+  - registry_id: dia-browser
+  - registry_id: strawberrybrowser
+- id: browser-infrastructure
+  title: Browser Automation & Infrastructure
+  group_id: search-web-data
+  group_title: Search & Web Data
+  items:
+  - registry_id: browser-use
+  - registry_id: browserbase
+  - registry_id: browserless
+  - registry_id: lightpanda
 - id: cloud-infrastructure
   title: Cloud & Model Infrastructure
   group_id: data-cloud
@@ -578,6 +589,10 @@ sections:
   - registry_id: jarvis-labs
   - registry_id: leadergpu
   - registry_id: irender
+  - registry_id: algolia
+  - registry_id: jina-ai
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
+  - registry_id: meilisearch
 - id: data-platforms
   title: Data Platforms & Analytics
   group_id: data-cloud
@@ -711,6 +726,9 @@ sections:
   - registry_id: ushur
   - registry_id: pryon
   - registry_id: blinkops
+  - registry_id: glean
+  - registry_id: zeta-alpha
+  - registry_id: ambersearch
 - id: meeting-notes
   title: Meeting Notes & Summaries
   group_id: productivity-knowledge
@@ -776,6 +794,12 @@ sections:
   - registry_id: anoki
   - registry_id: icon
   - registry_id: leadbeam
+  - registry_id: common-room
+  - registry_id: juicebox
+  - registry_id: harmonic
+  - registry_id: openvc
+  - registry_id: lessie
+  - registry_id: clado
 - id: customer-service
   title: Customer Service & Sales Intelligence
   group_id: marketing-service

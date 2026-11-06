@@ -34,10 +34,14 @@
   - [语音与转写应用](#section-speech-applications)
   - [音乐、音频与播客](#section-music-podcasts)
 - [搜索与网页数据](#group-search-web-data)
-  - [搜索与检索](#section-search-retrieval)
-  - [网页数据与浏览器](#section-web-data-browsers)
   - [AI 搜索应用](#section-search-applications)
-  - [搜索 API](#section-search-api-services)
+  - [独立网页搜索 API](#section-search-api-services)
+  - [搜索引擎结果页 API](#section-serp-api-services)
+  - [模型平台内置搜索工具](#section-model-search-tools)
+  - [URL 正文读取 API](#section-url-fetch-services)
+  - [网页抓取与数据提取](#section-web-data-browsers)
+  - [浏览器](#section-web-browsers)
+  - [浏览器自动化与基础设施](#section-browser-infrastructure)
 - [数据与云基础设施](#group-data-cloud)
   - [云与模型基础设施](#section-cloud-infrastructure)
   - [数据平台与分析](#section-data-platforms)
@@ -221,7 +225,6 @@
 - <a href="https://metoro.io" target="_blank">Metoro</a> - 面向 Kubernetes 的 AI SRE 与可观测性平台，基于 eBPF 遥测发现生产问题并排查告警
 - <a href="https://gradial.com" target="_blank">Gradial</a> - Gradial 是面向企业的平台，用 AI agent 自动完成营销活动组装、内容撰写、QA 和品牌检查
 - <a href="https://www.dropzone.ai" target="_blank">Dropzone AI</a> - Dropzone AI 是面向安全运营的 agent 平台，能在 SOC 工作流中自主调查告警、开展威胁狩猎
-- <a href="https://www.tinyfish.ai/" target="_blank">Tiny Fish</a> - 面向 AI agent 的网络基础设施平台，整合联网搜索、网页抽取、云端浏览器与自然语言自动化
 - <a href="https://osatlas.github.io" target="_blank">OS-Atlas</a> - OS-Atlas 是开源的 GUI grounding 基础动作模型，在大规模跨平台界面元素数据集上训练，面向通用 GUI agent
 - <a href="https://fireproof.storage" target="_blank">Fireproof</a> - 开源的嵌入式 JavaScript 数据库，采用可验证的账本结构，支持浏览器端存储和加密同步，常用于 agent 与本地优先应用
 - <a href="https://www.bytebot.ai" target="_blank">Bytebot</a> - Bytebot 是开源的浏览器自动化 agent 框架，采用 Apache-2.0 许可，代码仓库已归档
@@ -583,44 +586,6 @@
 
 ## 搜索与网页数据
 
-<a id="section-search-retrieval"></a>
-
-### 搜索与检索
-
-- <a href="https://www.algolia.com/" target="_blank">Algolia</a> - Algolia 为企业和开发者提供即时站内搜索与内容发现 API 服务
-- <a href="https://www.glean.com/" target="_blank">Glean</a> - Glean 是企业 AI 助手与工作搜索平台，接入公司各类工具后即可回答问题并运行 agent
-- <a href="https://jina.ai/" target="_blank">Jina AI</a> - Jina AI 已于 2025 年 10 月被 Elastic 收购，现提供面向多模态与多语言 Embedding、重排序、检索和 RAG 的 AI 搜索模型与 API 产品线
-- <a href="https://www.meilisearch.com" target="_blank">Meilisearch</a> - Meilisearch 是通过 REST API 使用的搜索引擎，速度快、能容忍拼写错误，既可开源自部署，也提供托管云服务
-- <a href="https://www.commonroom.io/" target="_blank">Common Room</a> - Common Room 是 GTM 情报平台，将产品使用、社区、CRM 与营销信号统一成以人为粒度的买家视图，并提供联系人补全与 AI 潜客挖掘、评分
-- <a href="https://juicebox.ai" target="_blank">Juicebox</a> - Juicebox 是 AI 招聘平台，内置的 PeopleGPT 搜索用自然语言检索庞大的全球档案库，另配招聘 CRM 和负责寻访与外联的 AI agent
-- <a href="https://harmonic.ai" target="_blank">Harmonic</a> - Harmonic 是面向投资人的初创公司情报数据库，结合自有数据采集与 AI，梳理非上市公司、融资与人物信息
-- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> - Zeta Alpha 是面向企业的神经搜索平台，用于知识的发现与共享
-- <a href="https://amber.de/" target="_blank">Amber</a> - 整合企业搜索、对话与智能体的商业 AI 平台，前身为 AmberSearch
-- <a href="https://www.openvc.app" target="_blank">OpenVC</a> - OpenVC 是免费平台，帮初创公司创始人对接庞大的投资人数据库，并提供路演 Deck 分享、CRM 和自动跟进功能
-- <a href="https://lessie.ai/" target="_blank">Lessie AI</a> - Lessie AI 是 agentic 人物搜索引擎，输入一段自然语言描述，就能在 LinkedIn、X、GitHub 等来源的档案里找到影响者、销售线索、投资人和人才
-- <a href="https://www.clado.ai" target="_blank">Clado</a> - Clado 是面向招聘与销售团队的 AI 人物搜索和档案补全平台，由 agent 在大规模公开档案库中开展深度调研，按自然语言条件匹配人选
-
-<a id="section-web-data-browsers"></a>
-
-### 网页数据与浏览器
-
-[网页抓取与数据提取](https://alignify.co/zh/tools/web-scraping)和[AI 辅助浏览](https://alignify.co/zh/tools/browser)是本节中两种不同的工作流。
-
-- <a href="https://brightdata.com/" target="_blank">Bright Data</a> - Bright Data 是大规模代理与网页采集平台，直接提供结构化数据与 API
-- <a href="https://oxylabs.io" target="_blank">Oxylabs</a> - Oxylabs 是网页数据提取平台，提供代理、抓取 API 与网页搜索 API，可用于 AI agent 和数据采集
-- <a href="https://www.perplexity.ai/comet" target="_blank">Perplexity Comet</a> - Perplexity Comet 是 Perplexity 推出的 AI 浏览器，助手能替用户执行 agentic 浏览任务
-- <a href="https://www.diabrowser.com" target="_blank">Dia Browser</a> - Dia 浏览器出自 The Browser Company，内置写作辅助，聊天助手会从用户的浏览行为中学习
-- <a href="https://www.firecrawl.dev" target="_blank">Firecrawl</a> - Firecrawl 提供 API 与开源工具包，抓取网站并把页面转换成 Markdown、JSON 等干净格式，供 LLM 使用
-- <a href="https://browser-use.com" target="_blank">Browser-Use</a> - Browser-Use 为运行 AI 浏览器 agent 提供云 API 与基础设施，配套基于 Playwright 的开源 Python 库，支持数据提取、网页任务自动化与测试
-- <a href="https://apify.com" target="_blank">Apify</a> - Apify 是网页抓取与浏览器自动化平台，运行名为 Actor 的无服务器程序，内置代理与存储，并支持 AI agent 集成
-- <a href="https://www.browserbase.com" target="_blank">Browserbase</a> - Browserbase 提供云端无头浏览器会话基础设施，供 AI agent 和网页自动化使用，附带 Fetch 与 Search API、无服务器 Functions 和可观测性工具
-- <a href="https://www.browserless.io/" target="_blank">Browserless</a> - Browserless 把无头浏览器做成服务，支持 Docker 部署，自带反爬能力、REST API 和 BrowserQL 查询语言，用于页面自动化与抓取
-- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a> - ScrapingBee 提供网页抓取 REST API，绕过反爬虫限制提取网页数据
-- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a> - ScraperAPI 是托管式抓取 API，自动处理代理、CAPTCHA 和 IP 封锁
-- <a href="https://www.browse.ai/" target="_blank">Browse.ai</a> - Browse.ai 是无代码平台，通过配置机器人来抓取和监控网站数据
-- <a href="https://lightpanda.io" target="_blank">Lightpanda</a> - Lightpanda 是用 Zig 写的开源无头浏览器，兼容 Puppeteer 和 Playwright，面向网页自动化、抓取与 AI agent，另提供云服务
-- <a href="https://strawberrybrowser.com" target="_blank">Strawberry</a> - Strawberry 是内置 AI 助手的桌面浏览器，能跨标签页自动完成任务（包括登录后的操作），并基于网页内容生成文档
-
 <a id="section-search-applications"></a>
 
 ### AI 搜索应用
@@ -629,7 +594,6 @@
 
 - <a href="https://www.perplexity.ai" target="_blank">Perplexity</a> - Perplexity 是 AI 答案引擎，依托自建网页索引（由 PerplexityBot 爬虫抓取）生成带来源的回答
 - <a href="https://brave.com/search/" target="_blank">Brave Search</a> - Brave Search 是独立且注重隐私的搜索引擎，自建网页索引，不追踪用户
-- <a href="https://www.phind.com/" target="_blank">Phind</a> - Phind 为开发者打造，用 AI 搜索返回可视化、可交互且引用清晰的代码与技术答案
 - <a href="https://consensus.app" target="_blank">Consensus</a> - Consensus 是学术研究 AI 搜索引擎，从数百万篇同行评审论文中提取并归纳研究结论，回答科研问题
 - <a href="https://iask.ai/" target="_blank">iAsk</a> - iAsk 是 AI 问答搜索引擎，用自然语言提问即可即时获得答案
 - <a href="https://andisearch.com/" target="_blank">Andi</a> - Andi 用自然语言对话的方式搜索，用于推荐与知识发现
@@ -638,15 +602,13 @@
 
 <a id="section-search-api-services"></a>
 
-### 搜索 API
+### 独立网页搜索 API
 
 [面向应用的网页搜索 API](https://alignify.co/zh/tools/web-search-api)提供程序化检索，而非面向用户的搜索界面。
 
 - <a href="https://exa.ai" target="_blank">Exa</a> - Exa 是面向 AI 应用的搜索 API 服务，提供网页搜索、抓取与内容提取，为 LLM 和 agent 返回结构化结果
 - <a href="https://tavily.com" target="_blank">Tavily</a> - Tavily 为 AI agent 和 RAG 流水线而建，把网页搜索、内容提取与抓取合并在一个搜索 API 里
-- <a href="https://serpapi.com" target="_blank">SerpApi</a> - SerpApi 抓取 Google 等搜索引擎的结果，返回结构化数据，代理、验证码和解析都由它处理
 - <a href="https://you.com" target="_blank">You.com</a> - You.com 现为 LLM 和企业应用提供网页搜索 API，此前曾做消费级 AI 搜索引擎
-- <a href="https://serper.dev" target="_blank">Serper</a> - Serper 是搜索 API 服务，为应用和 AI agent 返回结构化的 Google 搜索结果
 - <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a> - 博查（Bocha）是面向 AI 应用的多模态搜索引擎，以知识检索 API 形式提供给 agent 使用
 - <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Parallel AI 面向 AI agent 提供网页搜索 API，返回带证据的长篇内容供 LLM 使用，并支持异步深度研究任务和 MCP
 - <a href="https://s1.dev/" target="_blank">Search1 API</a> - Search1 API 为 AI agent 提供网页访问基础设施，经由 REST、MCP 和 CLI 交付多引擎网页与新闻搜索、agentic 搜索、抓取及 sitemap API
@@ -661,6 +623,61 @@
 - <a href="https://cloud.baidu.com/doc/BAIDU_AI_SEARCH/index.html" target="_blank">Baidu AI Search</a> - 百度智能云搜索服务，分别提供网页检索与搜索生成接口。
 - <a href="https://platform.kimi.ai" target="_blank">Kimi Search API</a> - Kimi 开放平台提供的独立网页搜索与 URL 正文读取 API。
 - <a href="https://cloud.tencent.com/product/wsa" target="_blank">Tencent Cloud Web Search API</a> - 腾讯云提供的网页搜索 API，向应用返回标题、摘要和来源链接等结构化结果。
+- <a href="https://www.tinyfish.ai/" target="_blank">TinyFish</a> - 提供独立网页搜索、URL 正文读取、云浏览器、目标式自动化、研究及页面或主题监测 API 的平台。
+
+<a id="section-serp-api-services"></a>
+
+### 搜索引擎结果页 API
+
+- <a href="https://serpapi.com" target="_blank">SerpApi</a> - SerpApi 抓取 Google 等搜索引擎的结果，返回结构化数据，代理、验证码和解析都由它处理
+- <a href="https://serper.dev" target="_blank">Serper</a> - Serper 是搜索 API 服务，为应用和 AI agent 返回结构化的 Google 搜索结果
+
+<a id="section-model-search-tools"></a>
+
+### 模型平台内置搜索工具
+
+- <a href="https://developers.openai.com/api/docs/guides/tools-web-search" target="_blank">OpenAI Web Search</a> - OpenAI Responses API 内置搜索工具，由模型请求调用搜索并返回带引用的回答。
+- <a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool" target="_blank">Claude Web Search</a> - Claude API 的服务端搜索工具，在模型请求中启用联网检索。
+- <a href="https://ai.google.dev" target="_blank">Google Gemini API</a> - Google Gemini 模型 API，提供多模态生成及通过 google_search 工具进行搜索 Grounding。
+- <a href="https://docs.x.ai/developers/tools/web-search" target="_blank">xAI Web Search</a> - xAI Grok API 的内置网页搜索工具；X 平台搜索是另一项工具。
+- <a href="https://docs.mistral.ai/studio/agents/agent-tools/websearch" target="_blank">Mistral Websearch</a> - Mistral Agents API 中的内置网页搜索工具，包含标准版与新闻来源增强版。
+
+<a id="section-url-fetch-services"></a>
+
+### URL 正文读取 API
+
+- <a href="https://www.tinyfish.ai/fetch" target="_blank">TinyFish Fetch</a> - 读取已知 URL 并返回干净 Markdown、语义 HTML 或结构化 JSON 的网页正文 API。
+
+<a id="section-web-data-browsers"></a>
+
+### 网页抓取与数据提取
+
+[网页抓取与抽取](https://alignify.co/zh/tools/web-scraping)介绍网页内容采集与处理。
+
+- <a href="https://brightdata.com/" target="_blank">Bright Data</a> - Bright Data 是大规模代理与网页采集平台，直接提供结构化数据与 API
+- <a href="https://oxylabs.io" target="_blank">Oxylabs</a> - Oxylabs 是网页数据提取平台，提供代理、抓取 API 与网页搜索 API，可用于 AI agent 和数据采集
+- <a href="https://www.firecrawl.dev" target="_blank">Firecrawl</a> - Firecrawl 提供 API 与开源工具包，抓取网站并把页面转换成 Markdown、JSON 等干净格式，供 LLM 使用
+- <a href="https://apify.com" target="_blank">Apify</a> - Apify 是网页抓取与浏览器自动化平台，运行名为 Actor 的无服务器程序，内置代理与存储，并支持 AI agent 集成
+- <a href="https://www.scrapingbee.com/" target="_blank">ScrapingBee</a> - ScrapingBee 提供网页抓取 REST API，绕过反爬虫限制提取网页数据
+- <a href="https://www.scraperapi.com/" target="_blank">ScraperAPI</a> - ScraperAPI 是托管式抓取 API，自动处理代理、CAPTCHA 和 IP 封锁
+- <a href="https://www.browse.ai/" target="_blank">Browse.ai</a> - Browse.ai 是无代码平台，通过配置机器人来抓取和监控网站数据
+
+<a id="section-web-browsers"></a>
+
+### 浏览器
+
+- <a href="https://www.perplexity.ai/comet" target="_blank">Perplexity Comet</a> - Perplexity Comet 是 Perplexity 推出的 AI 浏览器，助手能替用户执行 agentic 浏览任务
+- <a href="https://www.diabrowser.com" target="_blank">Dia Browser</a> - Dia 浏览器出自 The Browser Company，内置写作辅助，聊天助手会从用户的浏览行为中学习
+- <a href="https://strawberrybrowser.com" target="_blank">Strawberry</a> - Strawberry 是内置 AI 助手的桌面浏览器，能跨标签页自动完成任务（包括登录后的操作），并基于网页内容生成文档
+
+<a id="section-browser-infrastructure"></a>
+
+### 浏览器自动化与基础设施
+
+- <a href="https://browser-use.com" target="_blank">Browser-Use</a> - Browser-Use 为运行 AI 浏览器 agent 提供云 API 与基础设施，配套基于 Playwright 的开源 Python 库，支持数据提取、网页任务自动化与测试
+- <a href="https://www.browserbase.com" target="_blank">Browserbase</a> - Browserbase 提供云端无头浏览器会话基础设施，供 AI agent 和网页自动化使用，附带 Fetch 与 Search API、无服务器 Functions 和可观测性工具
+- <a href="https://www.browserless.io/" target="_blank">Browserless</a> - Browserless 把无头浏览器做成服务，支持 Docker 部署，自带反爬能力、REST API 和 BrowserQL 查询语言，用于页面自动化与抓取
+- <a href="https://lightpanda.io" target="_blank">Lightpanda</a> - Lightpanda 是用 Zig 写的开源无头浏览器，兼容 Puppeteer 和 Playwright，面向网页自动化、抓取与 AI agent，另提供云服务
 
 <a id="group-data-cloud"></a>
 
@@ -705,6 +722,9 @@
 - <a href="https://jarvislabs.ai/" target="_blank">Jarvis Labs</a> - Jarvis Labs 是 GPU 云平台，一键即可创建预置深度学习框架的环境
 - <a href="https://www.leadergpu.it/" target="_blank">LeaderGPU</a> - LeaderGPU 提供 GPU 服务器租用，专注深度学习负载，涵盖训练与图像处理
 - <a href="https://irendering.net/" target="_blank">iRender</a> - iRender 是面向创作者的 GPU 渲染云，为 Blender、Unreal 等软件提供渲染加速
+- <a href="https://www.algolia.com/" target="_blank">Algolia</a> - Algolia 为企业和开发者提供即时站内搜索与内容发现 API 服务
+- <a href="https://jina.ai/" target="_blank">Jina AI</a> - Jina AI 已于 2025 年 10 月被 Elastic 收购，现提供面向多模态与多语言 Embedding、重排序、检索和 RAG 的 AI 搜索模型与 API 产品线
+- <a href="https://www.meilisearch.com" target="_blank">Meilisearch</a> - Meilisearch 是通过 REST API 使用的搜索引擎，速度快、能容忍拼写错误，既可开源自部署，也提供托管云服务
 
 <a id="section-data-platforms"></a>
 
@@ -843,6 +863,9 @@
 - <a href="https://ushur.ai/" target="_blank">Ushur</a> - AI 驱动的客户体验自动化平台，结合聊天与流程机器人提供端到端客户服务
 - <a href="https://www.pryon.com/" target="_blank">Pryon</a> - 企业知识搜索与自动问答系统，建立在语义理解之上
 - <a href="https://www.blinkops.com/" target="_blank">BlinkOps</a> - 面向网络安全运营的安全自动化平台，内置 AI agent
+- <a href="https://www.glean.com/" target="_blank">Glean</a> - Glean 是企业 AI 助手与工作搜索平台，接入公司各类工具后即可回答问题并运行 agent
+- <a href="http://www.zeta-alpha.com/" target="_blank">Zeta Alpha</a> - Zeta Alpha 是面向企业的神经搜索平台，用于知识的发现与共享
+- <a href="https://amber.de/" target="_blank">Amber</a> - 整合企业搜索、对话与智能体的商业 AI 平台，前身为 AmberSearch
 
 <a id="section-meeting-notes"></a>
 
@@ -912,6 +935,12 @@
 - <a href="https://www.anoki.ai/" target="_blank">Anoki</a> - 面向 CTV 广告的多模态 AI 平台，提供场景级上下文视频智能和品牌安全保障，支持用 GenAI 创建和个性化广告
 - <a href="https://icon.com" target="_blank">Icon</a> - UGC 广告平台，为品牌制作创作者出镜的视频广告，配套广告活动管理软件用于追踪效果和迭代
 - <a href="https://leadbeam.ai/" target="_blank">Leadbeam</a> - 面向外勤销售团队的移动 CRM，记录客户互动并更新销售记录
+- <a href="https://www.commonroom.io/" target="_blank">Common Room</a> - Common Room 是 GTM 情报平台，将产品使用、社区、CRM 与营销信号统一成以人为粒度的买家视图，并提供联系人补全与 AI 潜客挖掘、评分
+- <a href="https://juicebox.ai" target="_blank">Juicebox</a> - Juicebox 是 AI 招聘平台，内置的 PeopleGPT 搜索用自然语言检索庞大的全球档案库，另配招聘 CRM 和负责寻访与外联的 AI agent
+- <a href="https://harmonic.ai" target="_blank">Harmonic</a> - Harmonic 是面向投资人的初创公司情报数据库，结合自有数据采集与 AI，梳理非上市公司、融资与人物信息
+- <a href="https://www.openvc.app" target="_blank">OpenVC</a> - OpenVC 是免费平台，帮初创公司创始人对接庞大的投资人数据库，并提供路演 Deck 分享、CRM 和自动跟进功能
+- <a href="https://lessie.ai/" target="_blank">Lessie AI</a> - Lessie AI 是 agentic 人物搜索引擎，输入一段自然语言描述，就能在 LinkedIn、X、GitHub 等来源的档案里找到影响者、销售线索、投资人和人才
+- <a href="https://www.clado.ai" target="_blank">Clado</a> - Clado 是面向招聘与销售团队的 AI 人物搜索和档案补全平台，由 agent 在大规模公开档案库中开展深度调研，按自然语言条件匹配人选
 
 <a id="section-customer-service"></a>
 

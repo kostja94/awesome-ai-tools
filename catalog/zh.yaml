@@ -44,10 +44,9 @@ sections:
   filmmaking-localization: 影视制作与本地化
   speech-applications: 语音与转写应用
   music-podcasts: 音乐、音频与播客
-  search-retrieval: 搜索与检索
-  web-data-browsers: 网页数据与浏览器
+  web-data-browsers: 网页抓取与数据提取
   search-applications: AI 搜索应用
-  search-api-services: 搜索 API
+  search-api-services: 独立网页搜索 API
   cloud-infrastructure: 云与模型基础设施
   data-platforms: 数据平台与分析
   model-access: 模型访问与路由
@@ -72,6 +71,11 @@ sections:
   chat-social: 对话与社交
   industry-operations: 行业运营
   tool-discovery: AI 工具目录
+  serp-api-services: 搜索引擎结果页 API
+  model-search-tools: 模型平台内置搜索工具
+  url-fetch-services: URL 正文读取 API
+  web-browsers: 浏览器
+  browser-infrastructure: 浏览器自动化与基础设施
 descriptions:
   accio:
     status: approved
@@ -2334,10 +2338,6 @@ descriptions:
     source: approved zh translation; facts per registry entity, 2026-10-19
     status: approved
     text: AI 购物助手，在任意商品页寻找更低价替代，覆盖 22 万余个含二手电商在内的网站，提供 iOS 应用与 Chrome 扩展
-  phind:
-    status: approved
-    text: Phind 为开发者打造，用 AI 搜索返回可视化、可交互且引用清晰的代码与技术答案
-    source: approved zh translation; facts per registry entity, 2026-10-19
   phoenix:
     status: approved
     text: Arize 推出的 LLM 可观测与 agent 评估平台，包含追踪、评估数据集和实验跟踪；源码可获取，采用 Elastic License 2.0
@@ -3106,9 +3106,9 @@ descriptions:
     text: AI 分析工具，可用自然语言直接查询企业数据
     source: approved zh translation; facts per registry entity, 2026-10-19
   tiny-fish:
-    source: approved zh translation; facts per registry entity, 2026-10-19
     status: approved
-    text: 面向 AI agent 的网络基础设施平台，整合联网搜索、网页抽取、云端浏览器与自然语言自动化
+    text: 提供独立网页搜索、URL 正文读取、云浏览器、目标式自动化、研究及页面或主题监测 API 的平台。
+    source: Registry official product and API evidence review, 2026-11-06
   tinybird:
     status: approved
     text: 托管 ClickHouse 平台，把接入的事件数据发布为低延迟 SQL REST API，并带 MCP 服务器供 AI agent 查询
@@ -3511,3 +3511,27 @@ descriptions:
     text: CSM 是将图像和文本转为三维模型与场景的生成式 AI 平台，其开发公司 Common Sense Machines 已被 Google 收购
     source: https://csm.ai/
     verified: '2026-10-18'
+  openai-web-search:
+    status: approved
+    text: OpenAI Responses API 内置搜索工具，由模型请求调用搜索并返回带引用的回答。
+    source: Registry official product and API evidence review, 2026-11-06
+  claude-web-search:
+    status: approved
+    text: Claude API 的服务端搜索工具，在模型请求中启用联网检索。
+    source: Registry official product and API evidence review, 2026-11-06
+  google-gemini-api:
+    status: approved
+    text: Google Gemini 模型 API，提供多模态生成及通过 google_search 工具进行搜索 Grounding。
+    source: Registry official product and API evidence review, 2026-11-06
+  xai-web-search:
+    status: approved
+    text: xAI Grok API 的内置网页搜索工具；X 平台搜索是另一项工具。
+    source: Registry official product and API evidence review, 2026-11-06
+  mistral-websearch:
+    status: approved
+    text: Mistral Agents API 中的内置网页搜索工具，包含标准版与新闻来源增强版。
+    source: Registry official product and API evidence review, 2026-11-06
+  tinyfish-fetch:
+    status: approved
+    text: 读取已知 URL 并返回干净 Markdown、语义 HTML 或结构化 JSON 的网页正文 API。
+    source: Registry official product and API evidence review, 2026-11-06

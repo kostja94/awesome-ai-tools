@@ -103,7 +103,6 @@ Quick reference index of selected products.
 | [Metoro](https://metoro.io) | Agent Frameworks & Infrastructure | active |
 | [Gradial](https://gradial.com) | Agent Frameworks & Infrastructure | active |
 | [Dropzone AI](https://www.dropzone.ai) | Agent Frameworks & Infrastructure | active |
-| [Tiny Fish](https://www.tinyfish.ai/) | Agent Frameworks & Infrastructure | active |
 | [OS-Atlas](https://osatlas.github.io) | Agent Frameworks & Infrastructure | active |
 | [Fireproof](https://fireproof.storage) | Agent Frameworks & Infrastructure | active |
 | [Bytebot](https://www.bytebot.ai) | Agent Frameworks & Infrastructure | active |
@@ -356,59 +355,53 @@ Quick reference index of selected products.
 | [MIDI Agent](https://www.midiagent.com/) | Music, Audio & Podcasts | active |
 | [RCT Studio](https://www.rct.ai/) | Music, Audio & Podcasts | active |
 | [YouAI](https://www.you-ai.nl/) | Music, Audio & Podcasts | active |
-| [Algolia](https://www.algolia.com/) | Search & Retrieval | active |
-| [Glean](https://www.glean.com/) | Search & Retrieval | active |
-| [Jina AI](https://jina.ai/) | Search & Retrieval | acquired |
-| [Meilisearch](https://www.meilisearch.com) | Search & Retrieval | active |
-| [Common Room](https://www.commonroom.io/) | Search & Retrieval | active |
-| [Juicebox](https://juicebox.ai) | Search & Retrieval | active |
-| [Harmonic](https://harmonic.ai) | Search & Retrieval | active |
-| [Zeta Alpha](http://www.zeta-alpha.com/) | Search & Retrieval | active |
-| [Amber](https://amber.de/) | Search & Retrieval | active |
-| [OpenVC](https://www.openvc.app) | Search & Retrieval | active |
-| [Lessie AI](https://lessie.ai/) | Search & Retrieval | active |
-| [Clado](https://www.clado.ai) | Search & Retrieval | active |
-| [Bright Data](https://brightdata.com/) | Web Data & Browsers | active |
-| [Oxylabs](https://oxylabs.io) | Web Data & Browsers | active |
-| [Perplexity Comet](https://www.perplexity.ai/comet) | Web Data & Browsers | active |
-| [Dia Browser](https://www.diabrowser.com) | Web Data & Browsers | active |
-| [Firecrawl](https://www.firecrawl.dev) | Web Data & Browsers | active |
-| [Browser-Use](https://browser-use.com) | Web Data & Browsers | active |
-| [Apify](https://apify.com) | Web Data & Browsers | active |
-| [Browserbase](https://www.browserbase.com) | Web Data & Browsers | active |
-| [Browserless](https://www.browserless.io/) | Web Data & Browsers | active |
-| [ScrapingBee](https://www.scrapingbee.com/) | Web Data & Browsers | active |
-| [ScraperAPI](https://www.scraperapi.com/) | Web Data & Browsers | active |
-| [Browse.ai](https://www.browse.ai/) | Web Data & Browsers | active |
-| [Lightpanda](https://lightpanda.io) | Web Data & Browsers | active |
-| [Strawberry](https://strawberrybrowser.com) | Web Data & Browsers | active |
 | [Perplexity](https://www.perplexity.ai) | AI Search Applications | active |
 | [Brave Search](https://brave.com/search/) | AI Search Applications | active |
-| [Phind](https://www.phind.com/) | AI Search Applications | shutdown |
 | [Consensus](https://consensus.app) | AI Search Applications | active |
 | [iAsk](https://iask.ai/) | AI Search Applications | active |
 | [Andi](https://andisearch.com/) | AI Search Applications | active |
 | [Komo](https://komo.ai/) | AI Search Applications | active |
 | [Yep](https://yep.com/) | AI Search Applications | active |
-| [Exa](https://exa.ai) | Search APIs | active |
-| [Tavily](https://tavily.com) | Search APIs | active |
-| [SerpApi](https://serpapi.com) | Search APIs | active |
-| [You.com](https://you.com) | Search APIs | active |
-| [Serper](https://serper.dev) | Search APIs | active |
-| [博查 (Bocha)](https://bochaai.com/) | Search APIs | active |
-| [Parallel AI](https://parallel.ai) | Search APIs | active |
-| [Search1 API](https://s1.dev/) | Search APIs | active |
-| [Brave Search API](https://brave.com/search/api/) | Search APIs | active |
-| [GLM Web Search](https://open.bigmodel.cn/) | Search APIs | active |
-| [Keenable](https://keenable.ai/) | Search APIs | active |
-| [Perplexity Search API](https://docs.perplexity.ai/docs/search/quickstart) | Search APIs | active |
-| [Ceramic.ai Search](https://www.ceramic.ai) | Search APIs | active |
-| [Linkup](https://www.linkup.so) | Search APIs | active |
-| [DeepSeek API](https://platform.deepseek.com) | Search APIs | active |
-| [Doubao Search](https://docs.volcengine.com/docs/networked-search/networked-search?lang=zh) | Search APIs | active |
-| [Baidu AI Search](https://cloud.baidu.com/doc/BAIDU_AI_SEARCH/index.html) | Search APIs | active |
-| [Kimi Search API](https://platform.kimi.ai) | Search APIs | active |
-| [Tencent Cloud Web Search API](https://cloud.tencent.com/product/wsa) | Search APIs | active |
+| [Exa](https://exa.ai) | Standalone Web Search APIs | active |
+| [Tavily](https://tavily.com) | Standalone Web Search APIs | active |
+| [You.com](https://you.com) | Standalone Web Search APIs | active |
+| [博查 (Bocha)](https://bochaai.com/) | Standalone Web Search APIs | active |
+| [Parallel AI](https://parallel.ai) | Standalone Web Search APIs | active |
+| [Search1 API](https://s1.dev/) | Standalone Web Search APIs | active |
+| [Brave Search API](https://brave.com/search/api/) | Standalone Web Search APIs | active |
+| [GLM Web Search](https://open.bigmodel.cn/) | Standalone Web Search APIs | active |
+| [Keenable](https://keenable.ai/) | Standalone Web Search APIs | active |
+| [Perplexity Search API](https://docs.perplexity.ai/docs/search/quickstart) | Standalone Web Search APIs | active |
+| [Ceramic.ai Search](https://www.ceramic.ai) | Standalone Web Search APIs | active |
+| [Linkup](https://www.linkup.so) | Standalone Web Search APIs | active |
+| [DeepSeek API](https://platform.deepseek.com) | Standalone Web Search APIs | active |
+| [Doubao Search](https://docs.volcengine.com/docs/networked-search/networked-search?lang=zh) | Standalone Web Search APIs | active |
+| [Baidu AI Search](https://cloud.baidu.com/doc/BAIDU_AI_SEARCH/index.html) | Standalone Web Search APIs | active |
+| [Kimi Search API](https://platform.kimi.ai) | Standalone Web Search APIs | active |
+| [Tencent Cloud Web Search API](https://cloud.tencent.com/product/wsa) | Standalone Web Search APIs | active |
+| [TinyFish](https://www.tinyfish.ai/) | Standalone Web Search APIs | active |
+| [SerpApi](https://serpapi.com) | SERP APIs | active |
+| [Serper](https://serper.dev) | SERP APIs | active |
+| [OpenAI Web Search](https://developers.openai.com/api/docs/guides/tools-web-search) | Model-Hosted Web Search Tools | active |
+| [Claude Web Search](https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool) | Model-Hosted Web Search Tools | active |
+| [Google Gemini API](https://ai.google.dev) | Model-Hosted Web Search Tools | active |
+| [xAI Web Search](https://docs.x.ai/developers/tools/web-search) | Model-Hosted Web Search Tools | active |
+| [Mistral Websearch](https://docs.mistral.ai/studio/agents/agent-tools/websearch) | Model-Hosted Web Search Tools | active |
+| [TinyFish Fetch](https://www.tinyfish.ai/fetch) | URL Fetch APIs | active |
+| [Bright Data](https://brightdata.com/) | Web Scraping & Extraction | active |
+| [Oxylabs](https://oxylabs.io) | Web Scraping & Extraction | active |
+| [Firecrawl](https://www.firecrawl.dev) | Web Scraping & Extraction | active |
+| [Apify](https://apify.com) | Web Scraping & Extraction | active |
+| [ScrapingBee](https://www.scrapingbee.com/) | Web Scraping & Extraction | active |
+| [ScraperAPI](https://www.scraperapi.com/) | Web Scraping & Extraction | active |
+| [Browse.ai](https://www.browse.ai/) | Web Scraping & Extraction | active |
+| [Perplexity Comet](https://www.perplexity.ai/comet) | Web Browsers | active |
+| [Dia Browser](https://www.diabrowser.com) | Web Browsers | active |
+| [Strawberry](https://strawberrybrowser.com) | Web Browsers | active |
+| [Browser-Use](https://browser-use.com) | Browser Automation & Infrastructure | active |
+| [Browserbase](https://www.browserbase.com) | Browser Automation & Infrastructure | active |
+| [Browserless](https://www.browserless.io/) | Browser Automation & Infrastructure | active |
+| [Lightpanda](https://lightpanda.io) | Browser Automation & Infrastructure | active |
 | [Azure AI Foundry](https://ai.azure.com/) | Cloud & Model Infrastructure | active |
 | [Vertex AI](https://cloud.google.com/vertex-ai) | Cloud & Model Infrastructure | active |
 | [NVIDIA NIM](https://build.nvidia.com/) | Cloud & Model Infrastructure | active |
@@ -444,6 +437,9 @@ Quick reference index of selected products.
 | [Jarvis Labs](https://jarvislabs.ai/) | Cloud & Model Infrastructure | active |
 | [LeaderGPU](https://www.leadergpu.it/) | Cloud & Model Infrastructure | active |
 | [iRender](https://irendering.net/) | Cloud & Model Infrastructure | active |
+| [Algolia](https://www.algolia.com/) | Cloud & Model Infrastructure | active |
+| [Jina AI](https://jina.ai/) | Cloud & Model Infrastructure | acquired |
+| [Meilisearch](https://www.meilisearch.com) | Cloud & Model Infrastructure | active |
 | [MongoDB](https://www.mongodb.com) | Data Platforms & Analytics | active |
 | [Elastic](https://www.elastic.co/) | Data Platforms & Analytics | active |
 | [DuckDB](https://duckdb.org/) | Data Platforms & Analytics | active |
@@ -539,6 +535,9 @@ Quick reference index of selected products.
 | [Ushur](https://ushur.ai/) | Enterprise Assistants | active |
 | [Pryon](https://www.pryon.com/) | Enterprise Assistants | active |
 | [BlinkOps](https://www.blinkops.com/) | Enterprise Assistants | active |
+| [Glean](https://www.glean.com/) | Enterprise Assistants | active |
+| [Zeta Alpha](http://www.zeta-alpha.com/) | Enterprise Assistants | active |
+| [Amber](https://amber.de/) | Enterprise Assistants | active |
 | [Otter.ai](https://otter.ai) | Meeting Notes & Summaries | active |
 | [Fireflies.ai](https://fireflies.ai/) | Meeting Notes & Summaries | active |
 | [Granola](https://www.granola.ai/) | Meeting Notes & Summaries | active |
@@ -594,6 +593,12 @@ Quick reference index of selected products.
 | [Anoki](https://www.anoki.ai/) | Marketing & Content | active |
 | [Icon](https://icon.com) | Marketing & Content | active |
 | [Leadbeam](https://leadbeam.ai/) | Marketing & Content | active |
+| [Common Room](https://www.commonroom.io/) | Marketing & Content | active |
+| [Juicebox](https://juicebox.ai) | Marketing & Content | active |
+| [Harmonic](https://harmonic.ai) | Marketing & Content | active |
+| [OpenVC](https://www.openvc.app) | Marketing & Content | active |
+| [Lessie AI](https://lessie.ai/) | Marketing & Content | active |
+| [Clado](https://www.clado.ai) | Marketing & Content | active |
 | [Zendesk](https://www.zendesk.com/) | Customer Service & Sales Intelligence | active |
 | [Intercom](https://www.intercom.com) | Customer Service & Sales Intelligence | active |
 | [Sierra](https://sierra.ai/) | Customer Service & Sales Intelligence | active |

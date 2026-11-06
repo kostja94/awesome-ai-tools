@@ -46,7 +46,7 @@ When submitting a product, please follow this format:
 
 ### Sections
 
-The catalog is organized into 22 groups with 49 sections — see the table of
+The catalog is organized into 22 groups with 53 sections — see the table of
 contents in [README.md](README.md) for the current, authoritative list (Models,
 Agent Development Infrastructure, Coding & App Development, Image & Design,
 Video & Filmmaking, Voice/Speech/Audio, Search & Web Data, Data & AI
@@ -79,3 +79,5 @@ Thank you for contributing! 🎉
 ## Search inclusion boundary
 
 Search Applications requires a user-facing search product; chat assistants do not qualify solely because answers use web sources. Search APIs requires a standalone query interface returning structured search results, including SERP and independent-index APIs. Model-hosted search tools, URL fetching and research services are distinct delivery forms and do not by themselves establish a standalone Search API. A brand may have multiple related products; reuse Registry identities rather than duplicating product facts. Publish additions only after Registry identity and interface evidence are verified. Alignify maintains the conceptual distinction; this repository maintains inclusion and placement.
+
+Search & Web Data separates search applications, standalone web search APIs, SERP APIs, model-hosted tools, URL fetching, scraping, browsers and browser infrastructure. Third-party model routing and enterprise/application retrieval are outside this group. A platform entry may describe several interfaces, but each Registry identity appears once; named subproducts use their existing separate identities.

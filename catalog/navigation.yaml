@@ -118,22 +118,22 @@ groups:
 - id: search-web-data
   title: Search & Web Data
   sections:
-  - id: search-retrieval
-    title: Search & Retrieval
-    sources:
-    - search-enhanced-llms
-    - ai-search-apis-infrastructure
-    - ai-powered-search-engines
-    - ai-powered-people-company-search
-  - id: web-data-browsers
-    title: Web Data & Browsers
-    sources:
-    - web-scraping-tools
-    - ai-browsers
   - id: search-applications
     title: AI Search Applications
   - id: search-api-services
-    title: Search APIs
+    title: Standalone Web Search APIs
+  - id: serp-api-services
+    title: SERP APIs
+  - id: model-search-tools
+    title: Model-Hosted Web Search Tools
+  - id: url-fetch-services
+    title: URL Fetch APIs
+  - id: web-data-browsers
+    title: Web Scraping & Extraction
+  - id: web-browsers
+    title: Web Browsers
+  - id: browser-infrastructure
+    title: Browser Automation & Infrastructure
 - id: data-cloud
   title: Data & AI Infrastructure
   sections:

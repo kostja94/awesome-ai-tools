@@ -39,11 +39,13 @@ SECTION_CATEGORIES = {
     "filmmaking-localization": "filmmaking short-drama video-translation",
     "speech-applications": "voice-services transcription voice-changer speech-models",
     "music-podcasts": "music-tools music-generation audio-creation podcast-hosting podcast-tools",
-    "search-retrieval": "people-search enterprise-search application-search retrieval-model-services",
+
     "search-applications": "search-engine",
     "search-api-services": "search-api",
-    "web-data-browsers": "web-scraping browser browser-infrastructure",
-    "cloud-infrastructure": "gpu-cloud model-inference training-tools sandbox app-deployment backend-service",
+    "web-data-browsers": "web-scraping",
+    "web-browsers": "browser",
+    "browser-infrastructure": "browser-infrastructure",
+    "cloud-infrastructure": "application-search retrieval-model-services gpu-cloud model-inference training-tools sandbox app-deployment backend-service",
     "model-access": "model-routing",
     "model-hubs": "model-hub",
     "model-runtime-tools": "model-runtime",
@@ -51,8 +53,8 @@ SECTION_CATEGORIES = {
     "documents-knowledge": "knowledge-management documentation pdf-tools",
     "meeting-notes": "meeting-notes",
     "productivity-automation": "project-management forms scheduling collaborative-workspace workspace-assistant task-execution automation rpa",
-    "enterprise-assistants": "enterprise-assistant",
-    "marketing-content": "seo-marketing seo geo seo-localization sales-content content-detection link-in-bio sales-outreach sales-crm",
+    "enterprise-assistants": "enterprise-assistant enterprise-search",
+    "marketing-content": "people-search seo-marketing seo geo seo-localization sales-content content-detection link-in-bio sales-outreach sales-crm",
     "customer-service": "customer-service conversation-intelligence",
     "commerce-shopping": "shopping ecommerce-search",
     "finance-accounting": "finance-ops financial-analysis financial-infrastructure mortgage-operations",
@@ -85,7 +87,12 @@ PREFERRED_SECTION = {
 }
 
 
+SEARCH_DELIVERY_SECTION = {'openai-web-search': 'model-search-tools', 'claude-web-search': 'model-search-tools', 'google-gemini-api': 'model-search-tools', 'xai-web-search': 'model-search-tools', 'mistral-websearch': 'model-search-tools', 'serpapi': 'serp-api-services', 'serper': 'serp-api-services', 'tiny-fish': 'search-api-services', 'tinyfish-fetch': 'url-fetch-services'}
+
+
 def allowed_sections(entity: dict) -> set[str]:
+    if entity.get("id") in SEARCH_DELIVERY_SECTION:
+        return {SEARCH_DELIVERY_SECTION[entity["id"]]}
     if entity["type"] in MODEL_TYPES:
         return {MODEL_CATEGORY_SECTION[cat] for cat in entity.get("categories", [])
                 if cat in MODEL_CATEGORY_SECTION}
