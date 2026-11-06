@@ -866,3 +866,32 @@ Quick reference index of selected products.
 | [Plantin](https://myplantin.com/) | Industry Operations | active |
 | [CelebrateAlly](https://www.celebrateally.com/) | Industry Operations | active |
 | [Generative AI](http://generativeai.net/) | AI Tool Directories | active |
+| [ChatGPT](https://chatgpt.com/) | Deep Research Applications | active |
+| [Gemini](https://gemini.google.com) | Deep Research Applications | active |
+| [Claude (assistant)](https://claude.ai) | Deep Research Applications | active |
+| [Perplexity](https://www.perplexity.ai) | Deep Research Applications | active |
+| [Kimi](https://www.kimi.com/en) | Deep Research Applications | active |
+| [Genspark](https://www.genspark.ai) | Deep Research Applications | active |
+| [Gemini Notebook](https://notebook.google/) | Deep Research Applications | active |
+| [Copilot](https://copilot.microsoft.com/) | Deep Research Applications | active |
+| [Felo](https://felo.ai) | Deep Research Applications | active |
+| [Tavily](https://tavily.com) | Managed Research APIs | active |
+| [Parallel AI](https://parallel.ai) | Managed Research APIs | active |
+| [Exa](https://exa.ai) | Managed Research APIs | active |
+| [Linkup](https://www.linkup.so) | Managed Research APIs | active |
+| [TinyFish](https://www.tinyfish.ai/) | Managed Research APIs | active |
+| [You.com](https://you.com) | Managed Research APIs | active |
+| [Jina AI](https://jina.ai/) | Managed Research APIs | acquired |
+| [Valyu](https://www.valyu.ai) | Managed Research APIs | active |
+| [Perplexity Agent API](https://docs.perplexity.ai/docs/agent-api/quickstart) | Managed Research APIs | active |
+| [Google Gemini API](https://ai.google.dev) | Managed Research APIs | active |
+| [OpenAI API](https://platform.openai.com) | Programmable Research Workflows | active |
+| [Manus](https://manus.im) | Programmable Research Workflows | active |
+| [Elicit](https://elicit.com) | Academic Evidence Research | active |
+| [Consensus](https://consensus.app) | Academic Evidence Research | active |
+| [SciSpace](https://scispace.com) | Academic Evidence Research | active |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Research Software & Frameworks | active |
+| [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Research Software & Frameworks | active |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | Research Software & Frameworks | active |
+| [Tongyi DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | Research Software & Frameworks | active |
+| [STORM](https://github.com/stanford-oval/storm) | Research Software & Frameworks | active |

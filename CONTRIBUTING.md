@@ -46,7 +46,7 @@ When submitting a product, please follow this format:
 
 ### Sections
 
-The catalog is organized into 22 groups with 53 sections — see the table of
+The catalog is organized into 23 groups with 58 sections — see the table of
 contents in [README.md](README.md) for the current, authoritative list (Models,
 Agent Development Infrastructure, Coding & App Development, Image & Design,
 Video & Filmmaking, Voice/Speech/Audio, Search & Web Data, Data & AI
@@ -80,4 +80,6 @@ Thank you for contributing! 🎉
 
 Search Applications requires a user-facing search product; chat assistants do not qualify solely because answers use web sources. Search APIs requires a standalone query interface returning structured search results, including SERP and independent-index APIs. Model-hosted search tools, URL fetching and research services are distinct delivery forms and do not by themselves establish a standalone Search API. A brand may have multiple related products; reuse Registry identities rather than duplicating product facts. Publish additions only after Registry identity and interface evidence are verified. Alignify maintains the conceptual distinction; this repository maintains inclusion and placement.
 
-Search & Web Data separates search applications, standalone web search APIs, SERP APIs, model-hosted tools, URL fetching, scraping, browsers and browser infrastructure. Third-party model routing and enterprise/application retrieval are outside this group. A platform entry may describe several interfaces, but each Registry identity appears once; named subproducts use their existing separate identities.
+Search & Web Data separates search applications, standalone web search APIs, SERP APIs, model-hosted tools, URL fetching, scraping, browsers and browser infrastructure. Third-party model routing and enterprise/application retrieval are outside this group. A platform entry may describe several interfaces, but each product retains one Registry identity; named subproducts use their existing separate identities, and the research-reference exception below permits evidence-backed cross-listing.
+
+Research references may reuse a Registry ID in a dedicated research section using `reference_only: true`. The editorial routing map and sourced Registry research facts must support the reference. These references do not create another product record. Distinguish consumer research, managed Research APIs, model-and-tools workflows, academic evidence research and self-hosted research software. Missing API documentation means unknown, not unavailable; restricted and migrating services stay out of the current general API list.

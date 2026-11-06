@@ -81,6 +81,12 @@
   - [行业运营](#section-industry-operations)
 - [AI 工具发现](#group-discovery)
   - [AI 工具目录](#section-tool-discovery)
+- [研究与调查](#group-research)
+  - [深度研究应用](#section-deep-research-applications)
+  - [托管研究 API](#section-research-api-services)
+  - [可编排研究工作流](#section-research-model-workflows)
+  - [学术证据研究](#section-academic-research)
+  - [研究软件与框架](#section-research-software)
 
 <a id="group-models"></a>
 
@@ -1338,6 +1344,64 @@
 ### AI 工具目录
 
 - <a href="http://generativeai.net/" target="_blank">Generative AI</a> - Generative AI 是独立博客兼咨询服务，做生成式 AI 的科普教学与资源汇总
+
+<a id="group-research"></a>
+
+## 研究与调查
+
+<a id="section-deep-research-applications"></a>
+
+### 深度研究应用
+
+- <a href="https://chatgpt.com/" target="_blank">ChatGPT</a> - OpenAI 的对话助手，提供聊天、网页搜索、文档与图像分析及任务自动化；研究功能的可用性取决于账号与工作区。
+- <a href="https://gemini.google.com" target="_blank">Gemini</a> - Google 的 AI 助手，提供多模态交互及 Deep Research 等研究功能。
+- <a href="https://claude.ai" target="_blank">Claude (assistant)</a> - Anthropic 的 AI 助手，提供对话、资料分析和带来源的 Research 工作流。
+- <a href="https://www.perplexity.ai" target="_blank">Perplexity</a> - Perplexity 是 AI 答案引擎，依托自建网页索引（由 PerplexityBot 爬虫抓取）生成带来源的回答
+- <a href="https://www.kimi.com/en" target="_blank">Kimi</a> - 月之暗面的 AI 助手，提供联网搜索、深度研究及文档等内容创建功能。
+- <a href="https://www.genspark.ai" target="_blank">Genspark</a> - 提供研究、内容创建与多种任务执行能力的 AI 应用平台。
+- <a href="https://notebook.google/" target="_blank">Gemini Notebook</a> - Google 的 AI 研究笔记本，原名 NotebookLM，回答、摘要与音频概述均基于用户上传的资料生成
+- <a href="https://copilot.microsoft.com/" target="_blank">Copilot</a> - Microsoft 的 AI 助手，提供联网问答及适用订阅下的研究功能。
+- <a href="https://felo.ai" target="_blank">Felo</a> - 提供搜索、深度研究及 Agent 集成的应用平台。
+
+<a id="section-research-api-services"></a>
+
+### 托管研究 API
+
+- <a href="https://tavily.com" target="_blank">Tavily</a> - Tavily 为 AI agent 和 RAG 流水线而建，把网页搜索、内容提取与抓取合并在一个搜索 API 里
+- <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Parallel AI 面向 AI agent 提供网页搜索 API，返回带证据的长篇内容供 LLM 使用，并支持异步深度研究任务和 MCP
+- <a href="https://exa.ai" target="_blank">Exa</a> - Exa 是面向 AI 应用的搜索 API 服务，提供网页搜索、抓取与内容提取，为 LLM 和 agent 返回结构化结果
+- <a href="https://www.linkup.so" target="_blank">Linkup</a> - 提供网页搜索结果、带来源答案及结构化输出的搜索 API。
+- <a href="https://www.tinyfish.ai/" target="_blank">TinyFish</a> - 提供独立网页搜索、URL 正文读取、云浏览器、目标式自动化、研究及页面或主题监测 API 的平台。
+- <a href="https://you.com" target="_blank">You.com</a> - You.com 现为 LLM 和企业应用提供网页搜索 API，此前曾做消费级 AI 搜索引擎
+- <a href="https://jina.ai/" target="_blank">Jina AI</a> - Jina AI 已于 2025 年 10 月被 Elastic 收购，现提供面向多模态与多语言 Embedding、重排序、检索和 RAG 的 AI 搜索模型与 API 产品线
+- <a href="https://www.valyu.ai" target="_blank">Valyu</a> - 提供证据检索与 DeepResearch 服务的平台，可交付带引用的报告、结构化结果和文件。
+- <a href="https://docs.perplexity.ai/docs/agent-api/quickstart" target="_blank">Perplexity Agent API</a> - 将模型推理、网页搜索与工具组合为带引用研究和结构化回答的托管 Agent API。
+- <a href="https://ai.google.dev" target="_blank">Google Gemini API</a> - Google Gemini 模型 API，提供多模态生成及通过 google_search 工具进行搜索 Grounding。
+
+<a id="section-research-model-workflows"></a>
+
+### 可编排研究工作流
+
+- <a href="https://platform.openai.com" target="_blank">OpenAI API</a> - OpenAI 的开发者 API 平台，提供模型推理及网页搜索等工具，可用于编排研究工作流。
+- <a href="https://manus.im" target="_blank">Manus</a> - 能自主执行多步任务的 AI agent，例如搭建网站、做数据分析、产出报告，并具备持久记忆
+
+<a id="section-academic-research"></a>
+
+### 学术证据研究
+
+- <a href="https://elicit.com" target="_blank">Elicit</a> - 提供研究 Agent、研究报告及系统性文献综述流程的学术证据研究平台。
+- <a href="https://consensus.app" target="_blank">Consensus</a> - Consensus 是学术研究 AI 搜索引擎，从数百万篇同行评审论文中提取并归纳研究结论，回答科研问题
+- <a href="https://scispace.com" target="_blank">SciSpace</a> - 提供 Deep Review 等多篇论文综合与文献分析流程的学术研究平台。
+
+<a id="section-research-software"></a>
+
+### 研究软件与框架
+
+- <a href="https://github.com/assafelovic/gpt-researcher" target="_blank">GPT Researcher</a> - 执行多源检索并生成带引用报告的研究软件。
+- <a href="https://github.com/langchain-ai/open_deep_research" target="_blank">Open Deep Research</a> - 可配置的多步资料调查与研究报告生成软件。
+- <a href="https://github.com/bytedance/deer-flow" target="_blank">DeerFlow</a> - 支持长期任务与研究工作流的可扩展 Agent 软件。
+- <a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">Tongyi DeepResearch</a> - 公开发布的深度研究 Agent 实现，包含模型与评测资源。
+- <a href="https://github.com/stanford-oval/storm" target="_blank">STORM</a> - 围绕主题研究资料并生成带引用报告的知识整理软件。
 
 ---
 

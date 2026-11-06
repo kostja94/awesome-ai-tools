@@ -14,7 +14,7 @@ from pathlib import Path
 import yaml
 
 from section_guides import load_guides, validate_guides
-from purpose_projection import audit as audit_purpose_projection
+from purpose_projection import audit as audit_purpose_projection, RESEARCH_REFERENCE_SECTION
 from zh_localization import description as zh_description, load_locale, validate_locale
 
 
@@ -190,6 +190,7 @@ def validate(selection: dict, entities: dict[str, dict]) -> tuple[list[str], lis
     warnings: list[str] = []
     selected: list[tuple[dict, dict]] = []
     seen: dict[str, str] = {}
+    research_seen: set[tuple[str, str]] = set()
     errors.extend(validate_guides(load_guides(), selection))
 
     if selection.get("schema") not in {"awesome-selection/v1", "awesome-selection/v2"}:
@@ -206,14 +207,26 @@ def validate(selection: dict, entities: dict[str, dict]) -> tuple[list[str], lis
             if not rid:
                 errors.append(f"{title}: item missing registry_id")
                 continue
-            if rid in seen:
-                errors.append(f"duplicate registry_id {rid!r} in {seen[rid]!r} and {title!r}")
-                continue
-            seen[rid] = title
+            if item.get("reference_only") is True:
+                key = (rid, section["id"])
+                if RESEARCH_REFERENCE_SECTION.get(rid) != section["id"] or key in research_seen:
+                    errors.append(f"invalid or duplicate research reference: {rid} in {title}")
+                    continue
+                research_seen.add(key)
+            else:
+                if rid in seen:
+                    errors.append(f"duplicate registry_id {rid!r} in {seen[rid]!r} and {title!r}")
+                    continue
+                seen[rid] = title
             entity = entities.get(rid)
             if not entity:
                 errors.append(f"{title}: unknown registry_id {rid!r}")
                 continue
+            if item.get("reference_only") is True and not any(
+                f.get("sources") and re.search(r"research|deepsearch|literature", str(f.get("value", "")), re.I)
+                for f in entity.get("facts", [])
+            ):
+                errors.append(f"research reference lacks sourced Registry research evidence: {rid}")
             if entity.get("type") not in ALLOWED_TYPES:
                 errors.append(f"{title}: {rid} has non-display type {entity.get('type')!r}")
             if entity.get("status") in DEFAULT_EXCLUDED_STATUSES and not item.get("include_inactive_reason"):

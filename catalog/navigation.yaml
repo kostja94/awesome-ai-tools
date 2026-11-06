@@ -327,3 +327,16 @@ groups:
   sections:
   - id: tool-discovery
     title: AI Tool Directories
+- id: research
+  title: Research & Investigation
+  sections:
+  - id: deep-research-applications
+    title: Deep Research Applications
+  - id: research-api-services
+    title: Managed Research APIs
+  - id: research-model-workflows
+    title: Programmable Research Workflows
+  - id: academic-research
+    title: Academic Evidence Research
+  - id: research-software
+    title: Research Software & Frameworks

@@ -81,6 +81,12 @@
   - [Industry Operations](#section-industry-operations)
 - [Tool Discovery](#group-discovery)
   - [AI Tool Directories](#section-tool-discovery)
+- [Research & Investigation](#group-research)
+  - [Deep Research Applications](#section-deep-research-applications)
+  - [Managed Research APIs](#section-research-api-services)
+  - [Programmable Research Workflows](#section-research-model-workflows)
+  - [Academic Evidence Research](#section-academic-research)
+  - [Research Software & Frameworks](#section-research-software)
 
 <a id="group-models"></a>
 
@@ -1338,6 +1344,64 @@ For character-based interaction, [character chat and role-playing applications](
 ### AI Tool Directories
 
 - <a href="http://generativeai.net/" target="_blank">Generative AI</a> - Independent blog and consultancy covering generative AI education and resources
+
+<a id="group-research"></a>
+
+## Research & Investigation
+
+<a id="section-deep-research-applications"></a>
+
+### Deep Research Applications
+
+- <a href="https://chatgpt.com/" target="_blank">ChatGPT</a> - OpenAI's conversational assistant providing chat, web search, document and image analysis, and task automation on web and mobile. Feature: ChatGPT Translate — Standalone translation interface from OpenAI offering tone- and context-aware text translation with style presets such as business formal, academic and child-friendly.
+- <a href="https://gemini.google.com" target="_blank">Gemini</a> - Google's AI assistant (formerly Bard) for writing, planning, research and learning, available on web and mobile.
+- <a href="https://claude.ai" target="_blank">Claude (assistant)</a> - Anthropic's assistant product providing chat access to Claude models via web and mobile apps. Feature: Artifacts — Claude assistant feature that renders documents, code and small web apps in a side panel alongside the conversation.
+- <a href="https://www.perplexity.ai" target="_blank">Perplexity</a> - AI answer engine that responds to questions with sourced answers built on its own web index, populated by the PerplexityBot crawler.
+- <a href="https://www.kimi.com/en" target="_blank">Kimi</a> - AI assistant from Moonshot AI for web search and deep research, and for creating documents, slides, spreadsheets and websites, on web and mobile.
+- <a href="https://www.genspark.ai" target="_blank">Genspark</a> - AI workspace combining agents and tools for slides, sheets, docs, chat, media generation and meeting automation.
+- <a href="https://notebook.google/" target="_blank">Gemini Notebook</a> - Google's AI research notebook, formerly named NotebookLM, that grounds answers, summaries and audio overviews in user-uploaded sources.
+- <a href="https://copilot.microsoft.com/" target="_blank">Copilot</a> - Microsoft's AI assistant available across Windows, Edge, Bing and Microsoft 365, providing chat, search assistance and content generation.
+- <a href="https://felo.ai" target="_blank">Felo</a> - Felo exposes live search and deep research through its connected agent integrations.
+
+<a id="section-research-api-services"></a>
+
+### Managed Research APIs
+
+- <a href="https://tavily.com" target="_blank">Tavily</a> - Search API built for AI agents and RAG pipelines, combining web search, content extraction and crawling in one interface.
+- <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Web search API for AI agents that returns long, evidence-based content for LLMs, with asynchronous deep-research tasks and MCP support.
+- <a href="https://exa.ai" target="_blank">Exa</a> - Search API service for AI applications, offering web search, crawling, content extraction and structured results for LLM and agent use.
+- <a href="https://www.linkup.so" target="_blank">Linkup</a> - Web search API providing search results, sourced answers and structured output for applications.
+- <a href="https://www.tinyfish.ai/" target="_blank">TinyFish</a> - Web infrastructure platform providing search, URL fetching, managed browser sessions, goal-based automation, research and webpage or topic monitoring APIs.
+- <a href="https://you.com" target="_blank">You.com</a> - AI search company providing a web search API for LLMs and enterprise applications; formerly a consumer AI search engine. Feature: You.com Research Agent — You.com research capability that searches sources and synthesizes cited reports.
+- <a href="https://jina.ai/" target="_blank">Jina AI</a> - Elastic-owned AI search model and API portfolio for multimodal and multilingual embeddings, reranking, retrieval and RAG systems.
+- <a href="https://www.valyu.ai" target="_blank">Valyu</a> - Search and DeepResearch platform providing cited reports, structured outputs and generated files from web and specialized evidence sources.
+- <a href="https://docs.perplexity.ai/docs/agent-api/quickstart" target="_blank">Perplexity Agent API</a> - Hosted agent API combining model inference, web search and tools for cited research and structured answers.
+- <a href="https://ai.google.dev" target="_blank">Google Gemini API</a> - Google's API for the Gemini model family, providing multimodal generation with long-context windows, a free tier for developers, and grounding to Google Search via the google_search tool.
+
+<a id="section-research-model-workflows"></a>
+
+### Programmable Research Workflows
+
+- <a href="https://platform.openai.com" target="_blank">OpenAI API</a> - OpenAI's developer API platform providing access to its language, reasoning and multimodal models. Feature: OpenAI Decisions API — OpenAI API endpoint that evaluates text, images and structured JSON to return condition probabilities, fixed-set choices or rubric scores.
+- <a href="https://manus.im" target="_blank">Manus</a> - Autonomous AI agent that executes multi-step tasks such as building websites, running data analyses and producing reports, with persistent memory.
+
+<a id="section-academic-research"></a>
+
+### Academic Evidence Research
+
+- <a href="https://elicit.com" target="_blank">Elicit</a> - Academic evidence research platform with Research Agent, Research Reports and Systematic Review workflows.
+- <a href="https://consensus.app" target="_blank">Consensus</a> - AI search engine for academic research that answers research questions by extracting and summarizing findings from a corpus of millions of peer-reviewed papers.
+- <a href="https://scispace.com" target="_blank">SciSpace</a> - Academic research platform offering Deep Review to synthesize findings across multiple papers for advanced literature analysis.
+
+<a id="section-research-software"></a>
+
+### Research Software & Frameworks
+
+- <a href="https://github.com/assafelovic/gpt-researcher" target="_blank">GPT Researcher</a> - Research software that searches sources and generates cited reports..
+- <a href="https://github.com/langchain-ai/open_deep_research" target="_blank">Open Deep Research</a> - Configurable research software for multi-step source investigation and report synthesis..
+- <a href="https://github.com/bytedance/deer-flow" target="_blank">DeerFlow</a> - Extensible agent software with research workflows and tools for long-running tasks..
+- <a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">Tongyi DeepResearch</a> - Published deep research agent implementation with model and evaluation resources..
+- <a href="https://github.com/stanford-oval/storm" target="_blank">STORM</a> - Knowledge curation software that researches a topic and generates a cited report..
 
 ---
 

@@ -22,6 +22,7 @@ groups:
   social: 对话与社交
   industry-solutions: 行业运营
   discovery: AI 工具发现
+  research: 研究与调查
 sections:
   language-models: 语言与搜索模型
   image-models: 图像模型
@@ -76,6 +77,11 @@ sections:
   url-fetch-services: URL 正文读取 API
   web-browsers: 浏览器
   browser-infrastructure: 浏览器自动化与基础设施
+  deep-research-applications: 深度研究应用
+  research-api-services: 托管研究 API
+  research-model-workflows: 可编排研究工作流
+  academic-research: 学术证据研究
+  research-software: 研究软件与框架
 descriptions:
   accio:
     status: approved
@@ -3535,3 +3541,71 @@ descriptions:
     status: approved
     text: 读取已知 URL 并返回干净 Markdown、语义 HTML 或结构化 JSON 的网页正文 API。
     source: Registry official product and API evidence review, 2026-11-06
+  valyu:
+    status: approved
+    text: 提供证据检索与 DeepResearch 服务的平台，可交付带引用的报告、结构化结果和文件。
+    source: Registry directed research evidence review, 2026-11-06
+  felo:
+    status: approved
+    text: 提供搜索、深度研究及 Agent 集成的应用平台。
+    source: Registry directed research evidence review, 2026-11-06
+  elicit:
+    status: approved
+    text: 提供研究 Agent、研究报告及系统性文献综述流程的学术证据研究平台。
+    source: Registry directed research evidence review, 2026-11-06
+  perplexity-agent-api:
+    status: approved
+    text: 将模型推理、网页搜索与工具组合为带引用研究和结构化回答的托管 Agent API。
+    source: Registry directed research evidence review, 2026-11-06
+  gpt-researcher:
+    status: approved
+    text: 执行多源检索并生成带引用报告的研究软件。
+    source: Registry directed research evidence review, 2026-11-06
+  open-deep-research:
+    status: approved
+    text: 可配置的多步资料调查与研究报告生成软件。
+    source: Registry directed research evidence review, 2026-11-06
+  deerflow:
+    status: approved
+    text: 支持长期任务与研究工作流的可扩展 Agent 软件。
+    source: Registry directed research evidence review, 2026-11-06
+  tongyi-deepresearch:
+    status: approved
+    text: 公开发布的深度研究 Agent 实现，包含模型与评测资源。
+    source: Registry directed research evidence review, 2026-11-06
+  storm:
+    status: approved
+    text: 围绕主题研究资料并生成带引用报告的知识整理软件。
+    source: Registry directed research evidence review, 2026-11-06
+  chatgpt:
+    status: approved
+    text: OpenAI 的对话助手，提供聊天、网页搜索、文档与图像分析及任务自动化；研究功能的可用性取决于账号与工作区。
+    source: Registry product description and directed research evidence review, 2026-11-06
+  gemini:
+    status: approved
+    text: Google 的 AI 助手，提供多模态交互及 Deep Research 等研究功能。
+    source: Registry product description and directed research evidence review, 2026-11-06
+  claude-ai:
+    status: approved
+    text: Anthropic 的 AI 助手，提供对话、资料分析和带来源的 Research 工作流。
+    source: Registry product description and directed research evidence review, 2026-11-06
+  kimi:
+    status: approved
+    text: 月之暗面的 AI 助手，提供联网搜索、深度研究及文档等内容创建功能。
+    source: Registry product description and directed research evidence review, 2026-11-06
+  genspark:
+    status: approved
+    text: 提供研究、内容创建与多种任务执行能力的 AI 应用平台。
+    source: Registry product description and directed research evidence review, 2026-11-06
+  copilot:
+    status: approved
+    text: Microsoft 的 AI 助手，提供联网问答及适用订阅下的研究功能。
+    source: Registry product description and directed research evidence review, 2026-11-06
+  openai-api:
+    status: approved
+    text: OpenAI 的开发者 API 平台，提供模型推理及网页搜索等工具，可用于编排研究工作流。
+    source: Registry product description and directed research evidence review, 2026-11-06
+  scispace:
+    status: approved
+    text: 提供 Deep Review 等多篇论文综合与文献分析流程的学术研究平台。
+    source: Registry official research feature documentation, 2026-11-06

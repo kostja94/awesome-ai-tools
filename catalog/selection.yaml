@@ -1137,6 +1137,91 @@ sections:
   group_title: Tool Discovery
   items:
   - registry_id: generative-ai
+- id: deep-research-applications
+  title: Deep Research Applications
+  group_id: research
+  group_title: Research & Investigation
+  items:
+  - registry_id: chatgpt
+    reference_only: true
+  - registry_id: gemini
+    reference_only: true
+  - registry_id: claude-ai
+    reference_only: true
+  - registry_id: perplexity
+    reference_only: true
+  - registry_id: kimi
+    reference_only: true
+  - registry_id: genspark
+    reference_only: true
+  - registry_id: notebooklm
+    reference_only: true
+  - registry_id: copilot
+    reference_only: true
+  - registry_id: felo
+    reference_only: true
+- id: research-api-services
+  title: Managed Research APIs
+  group_id: research
+  group_title: Research & Investigation
+  items:
+  - registry_id: tavily
+    reference_only: true
+  - registry_id: parallel
+    reference_only: true
+  - registry_id: exa
+    reference_only: true
+  - registry_id: linkup
+    reference_only: true
+  - registry_id: tiny-fish
+    reference_only: true
+  - registry_id: you-com
+    reference_only: true
+  - registry_id: jina-ai
+    reference_only: true
+    include_inactive_reason: Existing platform lifecycle is shown; this references documented research interfaces, not a fresh
+      operating-status assertion.
+  - registry_id: valyu
+    reference_only: true
+  - registry_id: perplexity-agent-api
+    reference_only: true
+  - registry_id: google-gemini-api
+    reference_only: true
+- id: research-model-workflows
+  title: Programmable Research Workflows
+  group_id: research
+  group_title: Research & Investigation
+  items:
+  - registry_id: openai-api
+    reference_only: true
+  - registry_id: manus
+    reference_only: true
+- id: academic-research
+  title: Academic Evidence Research
+  group_id: research
+  group_title: Research & Investigation
+  items:
+  - registry_id: elicit
+    reference_only: true
+  - registry_id: consensus
+    reference_only: true
+  - registry_id: scispace
+    reference_only: true
+- id: research-software
+  title: Research Software & Frameworks
+  group_id: research
+  group_title: Research & Investigation
+  items:
+  - registry_id: gpt-researcher
+    reference_only: true
+  - registry_id: open-deep-research
+    reference_only: true
+  - registry_id: deerflow
+    reference_only: true
+  - registry_id: tongyi-deepresearch
+    reference_only: true
+  - registry_id: storm
+    reference_only: true
 unresolved: []
 exclusions:
 - ref: Image Models#DALL-E

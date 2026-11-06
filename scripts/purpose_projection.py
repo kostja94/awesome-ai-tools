@@ -90,6 +90,9 @@ PREFERRED_SECTION = {
 SEARCH_DELIVERY_SECTION = {'openai-web-search': 'model-search-tools', 'claude-web-search': 'model-search-tools', 'google-gemini-api': 'model-search-tools', 'xai-web-search': 'model-search-tools', 'mistral-websearch': 'model-search-tools', 'serpapi': 'serp-api-services', 'serper': 'serp-api-services', 'tiny-fish': 'search-api-services', 'tinyfish-fetch': 'url-fetch-services'}
 
 
+RESEARCH_REFERENCE_SECTION = {'chatgpt': 'deep-research-applications', 'gemini': 'deep-research-applications', 'claude-ai': 'deep-research-applications', 'perplexity': 'deep-research-applications', 'kimi': 'deep-research-applications', 'genspark': 'deep-research-applications', 'notebooklm': 'deep-research-applications', 'copilot': 'deep-research-applications', 'felo': 'deep-research-applications', 'tavily': 'research-api-services', 'parallel': 'research-api-services', 'exa': 'research-api-services', 'linkup': 'research-api-services', 'tiny-fish': 'research-api-services', 'you-com': 'research-api-services', 'jina-ai': 'research-api-services', 'valyu': 'research-api-services', 'perplexity-agent-api': 'research-api-services', 'google-gemini-api': 'research-api-services', 'elicit': 'academic-research', 'consensus': 'academic-research', 'gpt-researcher': 'research-software', 'open-deep-research': 'research-software', 'deerflow': 'research-software', 'tongyi-deepresearch': 'research-software', 'storm': 'research-software', 'openai-api': 'research-model-workflows', 'scispace': 'academic-research', 'manus': 'research-model-workflows'}
+
+
 def allowed_sections(entity: dict) -> set[str]:
     if entity.get("id") in SEARCH_DELIVERY_SECTION:
         return {SEARCH_DELIVERY_SECTION[entity["id"]]}
@@ -105,6 +108,8 @@ def audit(selection: dict, entities: dict[str, dict]) -> list[tuple[str, str, li
         for item in section["items"]:
             rid = item["registry_id"]
             if rid not in entities:
+                continue
+            if item.get("reference_only") is True and RESEARCH_REFERENCE_SECTION.get(rid) == section["id"]:
                 continue
             allowed = allowed_sections(entities[rid])
             preferred = PREFERRED_SECTION.get(rid)
