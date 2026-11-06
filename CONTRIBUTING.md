@@ -75,3 +75,7 @@ If you have questions about contributing, please open a [GitHub Issue](https://g
 
 Thank you for contributing! 🎉
 
+
+## Search inclusion boundary
+
+Search Applications requires a user-facing search product; chat assistants do not qualify solely because answers use web sources. Search APIs requires a standalone query interface returning structured search results, including SERP and independent-index APIs. Model-hosted search tools, URL fetching and research services are distinct delivery forms and do not by themselves establish a standalone Search API. A brand may have multiple related products; reuse Registry identities rather than duplicating product facts. Publish additions only after Registry identity and interface evidence are verified. Alignify maintains the conceptual distinction; this repository maintains inclusion and placement.

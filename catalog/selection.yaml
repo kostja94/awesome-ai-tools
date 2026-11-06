@@ -56,7 +56,6 @@ sections:
   - registry_id: hunyuan-video
   - registry_id: vidu-model
   - registry_id: mochi
-  - registry_id: animon
 - id: speech-models
   title: Speech Models
   group_id: models
@@ -84,9 +83,7 @@ sections:
   group_title: Models
   items:
   - registry_id: hunyuan3d
-  - registry_id: spline-ai
   - registry_id: rodin
-  - registry_id: csm-ai
   - registry_id: magic3d
 - id: agent-platforms
   title: Agent Frameworks & Infrastructure
@@ -100,7 +97,7 @@ sections:
   - registry_id: google-project-mariner
   - registry_id: open-interpreter
   - registry_id: langfuse
-    include_inactive_reason: Acquired by ClickHouse; Langfuse continues as an actively maintained observability platform.
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: smolagents
   - registry_id: ag2
   - registry_id: camel-ai
@@ -215,6 +212,7 @@ sections:
   - registry_id: devin
   - registry_id: replit
   - registry_id: windsurf
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: antigravity
   - registry_id: warp
   - registry_id: trae
@@ -237,6 +235,7 @@ sections:
   - registry_id: readdy
   - registry_id: trickle
   - registry_id: fine
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
 - id: developer-platforms
   title: Developer Platforms
   group_id: coding
@@ -361,6 +360,7 @@ sections:
   - registry_id: autoshorts-ai
   - registry_id: async
   - registry_id: cursorful
+  - registry_id: animon
 - id: filmmaking-localization
   title: Filmmaking & Localization
   group_id: video-film
@@ -371,6 +371,7 @@ sections:
   - registry_id: rask
   - registry_id: wonder-3d
   - registry_id: papercup
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: blipcut
   - registry_id: skyreels
   - registry_id: neuralframes
@@ -470,7 +471,7 @@ sections:
   - registry_id: algolia
   - registry_id: glean
   - registry_id: jina-ai
-    include_inactive_reason: Acquired by Elastic; Jina AI capabilities continue under Elastic ownership.
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: meilisearch
   - registry_id: common-room
   - registry_id: juicebox
@@ -507,6 +508,7 @@ sections:
   - registry_id: perplexity
   - registry_id: brave-search
   - registry_id: phind
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: consensus
   - registry_id: iask
   - registry_id: andi
@@ -525,6 +527,17 @@ sections:
   - registry_id: bocha
   - registry_id: parallel
   - registry_id: search1-api
+  - registry_id: brave-search-api
+  - registry_id: glm-web-search
+  - registry_id: keenable
+  - registry_id: perplexity-search-api
+  - registry_id: ceramic-ai-search
+  - registry_id: linkup
+  - registry_id: deepseek-api
+  - registry_id: doubao-search
+  - registry_id: baidu-ai-search
+  - registry_id: kimi-search-api
+  - registry_id: tencent-web-search
 - id: cloud-infrastructure
   title: Cloud & Model Infrastructure
   group_id: data-cloud
@@ -597,6 +610,7 @@ sections:
   - registry_id: weka-io
   - registry_id: unstructured
   - registry_id: gretel-ai
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: flourish
   - registry_id: napkin
   - registry_id: informix
@@ -681,6 +695,7 @@ sections:
   - registry_id: pig
   - registry_id: flowith
   - registry_id: induced
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: dasis
   - registry_id: airtime
   - registry_id: mana
@@ -690,7 +705,7 @@ sections:
   group_title: Productivity & Knowledge
   items:
   - registry_id: moveworks
-    include_inactive_reason: Acquired by ServiceNow; Moveworks continues within ServiceNow's enterprise AI portfolio.
+    include_inactive_reason: Historical catalog entry; lifecycle status is displayed, not a claim of current availability.
   - registry_id: aisera
   - registry_id: contextual-ai
   - registry_id: ushur
@@ -964,6 +979,8 @@ sections:
   - registry_id: eufymake
   - registry_id: alpha3d
   - registry_id: ai-build
+  - registry_id: spline
+  - registry_id: csm
 - id: games-interactive
   title: Games & Interactive Media
   group_id: games
@@ -1050,7 +1067,6 @@ sections:
   - registry_id: popai
   - registry_id: chatbox
   - registry_id: genie
-
   - registry_id: autoresponder-ai
   - registry_id: bible-chat-ai
 - id: industry-operations
@@ -1599,6 +1615,7 @@ exclusions:
     Applications; version detail lives in the description.'
   registry_id: fish-audio-s2-pro
 - ref: Chat & Social#Heeyo
-  reason: 'Status check: service no longer active as of 2026-08 (The Rundown); heeyo.ai serves an empty Framer placeholder; removed from the public catalog.'
+  reason: 'Status check: service no longer active as of 2026-08 (The Rundown); heeyo.ai serves an empty Framer placeholder;
+    removed from the public catalog.'
   registry_id: heeyo-ai
 publish_ready: true

@@ -111,14 +111,14 @@
 - <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI 图像生成与编辑模型家族，现行 gpt-image-2.5 可从提示词、草图与参考图生成和编辑图像，支持多语言图内文字，经 ChatGPT 与 API 提供
 - <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google 图像生成与编辑模型家族，现行 Nano Banana 2.1 取代基于 Gemini 3.1 Flash Image 的前代，经 Gemini 应用、AI Studio 与 API 提供
 - <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe 的文生图模型，与 Creative Cloud 集成
-- <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> - 开源文生图模型系列，提供 API 访问
-- <a href="https://bfl.ai/" target="_blank">FLUX</a> - Black Forest Labs 推出的文生图模型
+- <a href="https://stability.ai/core-models" target="_blank">Stable Diffusion</a> - 开源文生图模型系列，提供 API 访问
+- <a href="https://bfl.ai/models/" target="_blank">FLUX</a> - Black Forest Labs 推出的文生图模型
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> - 字节跳动 Seed 图像模型家族，Seedream 4.0 统一生成与编辑，支持文本与多图参考输入、最高 4K 输出
-- <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - 以图像内文字渲染见长的文生图模型
+- <a href="https://ideogram.ai/models/4.0/" target="_blank">Ideogram</a> - 以图像内文字渲染见长的文生图模型
 - <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen 图像生成家族，从 Qwen-Image-2.0 迭代至现行 3.0，支持中英文图内文字，经 DashScope 与 Qwen Chat 提供，基础权重开源
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan 图像家族，3.0 版开源，3.5 预览版支持多轮对话编辑
-- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - 支持矢量图与 mockup 输出的文生图模型
-- <a href="https://www.microsoft.com/en-us/ai" target="_blank">MAI Image</a> - Microsoft AI 的文生图模型
+- <a href="https://www.recraft.ai/ai-models/recraft" target="_blank">Recraft</a> - 支持矢量图与 mockup 输出的文生图模型
+- <a href="https://learn.microsoft.com/en-us/azure/foundry/foundry-models/how-to/use-foundry-models-mai-image" target="_blank">MAI Image</a> - Microsoft AI 的文生图模型
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs 的文生图模型系列，photon-1 支持多图参考与角色一致性
 - <a href="https://hidreamai.com/" target="_blank">HiDream</a> - HiDream 的全模态基础模型覆盖图像、视频与 3D，并开源 E1.1 图像编辑模型
 - <a href="https://reve.com/" target="_blank">Reve</a> - Reve 的文生图模型，配套统一网页应用，支持创建、编辑与重混图像，将自然语言指令与拖拽式编辑器相结合
@@ -137,7 +137,6 @@
 - <a href="https://aivideo.hunyuan.tencent.com/" target="_blank">Tencent Hunyuan Video</a> - Tencent Hunyuan 视频生成模型家族，可从文本和图像输入生成视频
 - <a href="https://www.vidu.com/" target="_blank">Vidu</a> - 生数科技的视频生成模型家族，支持文生视频与多参考生成，含实时交互的 Vidu S
 - <a href="https://www.genmo.ai/" target="_blank">Mochi</a> - Genmo 的开源文生视频模型，Mochi 1 权重在 Hugging Face，支持本地运行
-- <a href="https://www.animon.ai/" target="_blank">Animon</a> - 东京 Animon 推出的动漫专用 AI 视频生成平台，订阅制不限量生成
 
 <a id="section-speech-models"></a>
 
@@ -150,14 +149,14 @@
 - <a href="https://www.sesame.com/" target="_blank">Sesame CSM</a> - Sesame 的对话语音模型，1B 参数版本以 Apache 2.0 开源；公司语音演示中展示的更大模型与之相配套
 - <a href="https://www.cartesia.ai/sonic" target="_blank">Sonic</a> - Cartesia 的流式文本转语音模型系列，面向需要实时语音输出的应用
 - <a href="https://dev.hume.ai/voice/docs/text-to-speech-tts/overview" target="_blank">Octave</a> - Hume 推出的语音语言模型系列，用于生成富有表现力的语音
-- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Inworld 的实时文本转语音模型，支持多种语言
+- <a href="https://docs.inworld.ai/models" target="_blank">Inworld TTS</a> - Inworld 的实时文本转语音模型，支持多种语言
 - <a href="https://www.zyphra.com/models/zonos2" target="_blank">ZONOS</a> - ZONOS 是 Zyphra 的语音生成模型系列，包含声音克隆与实时文本转语音版本
 
 <a id="section-music-models"></a>
 
 ### 音乐模型
 
-- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> - Google 推出的音乐生成模型，已与 YouTube 集成
+- <a href="https://deepmind.google/models/lyria/" target="_blank">Lyria</a> - Google 推出的音乐生成模型，已与 YouTube 集成
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> - Meta 开源的音乐生成模型，属于 AudioCraft 仓库的一部分
 
 <a id="section-spatial-models"></a>
@@ -165,9 +164,7 @@
 ### 三维与空间模型
 
 - <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> - Hunyuan3D 从文本和图像生成几何结构干净、外观逼真的 3D 模型，尤其擅长角色生成
-- <a href="https://spline.design/" target="_blank">Spline AI</a> - Spline AI 从文本提示生成 3D 对象，专注网页和应用设计中的交互式 3D 场景
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> - Rodin 支持从文本提示和图像生成 3D 模型，并能导出多种格式
-- <a href="https://csm.ai/" target="_blank">CSM AI</a> - 文本生成 3D 模型工具；Common Sense Machines 已被 Google 收购
 - <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> - Magic3D 是高分辨率的文本到 3D 内容生成模型，面向图形与视觉技术研究
 
 <a id="group-agents"></a>
@@ -257,7 +254,7 @@
 - <a href="https://www.coval.ai/" target="_blank">Coval</a> - 评估和测试语音、对话式 AI agent 的平台，提供场景模拟与端点测试
 - <a href="https://www.cekura.ai/" target="_blank">Cekura</a> - 针对生产环境语音与聊天 AI agent 的测试、监控和评估平台
 - <a href="https://hamming.ai/" target="_blank">Hamming</a> - 面向语音 AI agent 的测试与监控平台
-- <a href="https://canonical.ai/" target="_blank">Canonical AI</a> - 面向语音 agent 的分析与评估平台
+- <a href="https://canonical.chat" target="_blank">Canonical AI</a> - 面向语音 agent 的分析与评估平台
 
 <a id="section-agent-builders"></a>
 
@@ -469,6 +466,7 @@
 - <a href="https://autoshorts.ai/" target="_blank">AutoShorts AI</a> - AutoShorts AI 一键生成无人出镜短视频并自动发布，专为 TikTok 和 YouTube Shorts 设计
 - <a href="https://async.com" target="_blank">Async</a> - Async 通过对话完成视频剪辑，能切素材、清理音频、添加字幕，还可按提示生成语音和音乐
 - <a href="https://cursorful.com/" target="_blank">Cursorful</a> - Cursorful 是浏览器录制插件，录演示视频时自动放大光标焦点区域
+- <a href="https://www.animon.ai/" target="_blank">Animon</a> - 东京 Animon 推出的动漫专用 AI 视频生成平台，订阅制不限量生成
 
 <a id="section-filmmaking-localization"></a>
 
@@ -652,6 +650,17 @@
 - <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a> - 博查（Bocha）是面向 AI 应用的多模态搜索引擎，以知识检索 API 形式提供给 agent 使用
 - <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Parallel AI 面向 AI agent 提供网页搜索 API，返回带证据的长篇内容供 LLM 使用，并支持异步深度研究任务和 MCP
 - <a href="https://s1.dev/" target="_blank">Search1 API</a> - Search1 API 为 AI agent 提供网页访问基础设施，经由 REST、MCP 和 CLI 交付多引擎网页与新闻搜索、agentic 搜索、抓取及 sitemap API
+- <a href="https://brave.com/search/api/" target="_blank">Brave Search API</a> - 基于 Brave 独立网页索引的搜索 API，为应用返回网页检索结果。
+- <a href="https://open.bigmodel.cn/" target="_blank">GLM Web Search</a> - 智谱 BigModel 的搜索服务，提供独立搜索 API、GLM 模型内置搜索工具及 MCP 接入。
+- <a href="https://keenable.ai/" target="_blank">Keenable</a> - 提供网页搜索、内容提取、结构化查询及 MCP 和 SDK 接入的搜索 API 服务。
+- <a href="https://docs.perplexity.ai/docs/search/quickstart" target="_blank">Perplexity Search API</a> - Perplexity 提供的搜索 API，为应用提供网页检索与排序接口。
+- <a href="https://www.ceramic.ai" target="_blank">Ceramic.ai Search</a> - 面向 LLM 应用与 Agent 的关键词网页搜索 API，从预建索引返回搜索结果。
+- <a href="https://www.linkup.so" target="_blank">Linkup</a> - 提供网页搜索结果、带来源答案及结构化输出的搜索 API。
+- <a href="https://platform.deepseek.com" target="_blank">DeepSeek API</a> - 提供 DeepSeek 模型推理、独立网页搜索及网页正文读取 API 的开发者平台。
+- <a href="https://docs.volcengine.com/docs/networked-search/networked-search?lang=zh" target="_blank">Doubao Search</a> - 火山引擎提供的网页搜索服务，支持独立搜索 API 与模型内置工具接入。
+- <a href="https://cloud.baidu.com/doc/BAIDU_AI_SEARCH/index.html" target="_blank">Baidu AI Search</a> - 百度智能云搜索服务，分别提供网页检索与搜索生成接口。
+- <a href="https://platform.kimi.ai" target="_blank">Kimi Search API</a> - Kimi 开放平台提供的独立网页搜索与 URL 正文读取 API。
+- <a href="https://cloud.tencent.com/product/wsa" target="_blank">Tencent Cloud Web Search API</a> - 腾讯云提供的网页搜索 API，向应用返回标题、摘要和来源链接等结构化结果。
 
 <a id="group-data-cloud"></a>
 
@@ -1144,6 +1153,8 @@
 - <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> - 无代码 AI 工具，可生成、编辑 3D 场景并支持团队协作
 - <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Alpha3D 将文本或 2D 图像转换成游戏可用的 3D 资产，并提供 Unity 开发支持
 - <a href="https://ai-build.com/" target="_blank">AI Build</a> - 结合 3D 打印与 CNC 技术、用于自动化生产的制造平台
+- <a href="https://spline.design" target="_blank">Spline</a> - Spline 是浏览器中的协作式 3D 设计工具，可用 AI 生成对象与场景，并制作供网页和应用使用的交互体验
+- <a href="https://csm.ai" target="_blank">CSM</a> - CSM 是将图像和文本转为三维模型与场景的生成式 AI 平台，其开发公司 Common Sense Machines 已被 Google 收购
 
 <a id="group-games"></a>
 
@@ -1238,7 +1249,7 @@
 - <a href="https://www.polybuzz.ai" target="_blank">Polybuzz</a> - AI 角色聊天平台，支持角色扮演对话与 AI 生成条漫，并可自定义创建角色
 - <a href="https://www.chub.ai/" target="_blank">Chub AI</a> - 角色扮演 AI 聊天平台，支持自定义角色体验与互动叙事
 - <a href="https://www.joyland.ai" target="_blank">Joyland</a> - AI 角色创建与聊天平台，涵盖动漫风陪伴角色、互动故事和角色扮演，配有社区角色库
-- <a href="https://moescape.ai/" target="_blank">Moescape</a> - 动漫角色聊天与图像生成平台，前身为 Yodayo，现已更名 Moescape
+- <a href="https://moescape.ai/" target="_blank">Moescape AI</a> - 动漫角色聊天与图像生成平台，前身为 Yodayo，现已更名 Moescape
 - <a href="https://chaton.ai/" target="_blank">ChatOn</a> - 移动端 AI 聊天助手，组合对话模型、图像生成、联网搜索、文档处理与写作语气工具，用于写作和办公任务
 - <a href="https://novaapp.ai" target="_blank">Nova</a> - 基于 GPT-4o 和 Gemini 的跨平台聊天助手，提供问答、写作帮助和文字校对
 - <a href="https://www.popai.pro/" target="_blank">PopAi</a> - AI 助手应用，支持与文档对话、制作幻灯片、解答作业和生成图像

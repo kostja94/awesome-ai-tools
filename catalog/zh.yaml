@@ -783,11 +783,6 @@ descriptions:
     status: approved
     text: 成人向角色聊天平台，支持自定义角色并保留长期对话记忆，仅限 18 岁以上用户使用
     source: approved zh translation; facts per registry entity, 2026-10-19
-  csm-ai:
-    status: approved
-    text: 文本生成 3D 模型工具；Common Sense Machines 已被 Google 收购
-    source: approved zh translation; facts per registry entity, 2026-10-19
-    verified: '2026-10-18'
   curipod:
     status: approved
     text: 面向 K-12 的 AI 互动课堂工具，可生成投票和测验
@@ -2908,10 +2903,6 @@ descriptions:
     status: approved
     text: 网页端角色扮演聊天平台，不设内容审查，用户创建的 AI 角色库庞大，含成人（NSFW）内容
     source: approved zh translation; facts per registry entity, 2026-10-19
-  spline-ai:
-    status: approved
-    text: Spline AI 从文本提示生成 3D 对象，专注网页和应用设计中的交互式 3D 场景
-    source: approved zh translation; facts per registry entity, 2026-10-19
   spoken:
     status: approved
     text: 围绕价格进行商品发现与搜索的平台
@@ -3467,3 +3458,56 @@ descriptions:
     status: approved
     text: ZONOS 是 Zyphra 的语音生成模型系列，包含声音克隆与实时文本转语音版本
     source: approved zh translation; facts per registry entity, 2026-10-19
+  brave-search-api:
+    status: approved
+    text: 基于 Brave 独立网页索引的搜索 API，为应用返回网页检索结果。
+    source: Registry entity facts reviewed for search catalog projection, 2026-11-06
+  glm-web-search:
+    status: approved
+    text: 智谱 BigModel 的搜索服务，提供独立搜索 API、GLM 模型内置搜索工具及 MCP 接入。
+    source: Registry entity facts reviewed for search catalog projection, 2026-11-06
+  keenable:
+    status: approved
+    text: 提供网页搜索、内容提取、结构化查询及 MCP 和 SDK 接入的搜索 API 服务。
+    source: Registry entity facts reviewed for search catalog projection, 2026-11-06
+  perplexity-search-api:
+    status: approved
+    text: Perplexity 提供的搜索 API，为应用提供网页检索与排序接口。
+    source: Registry entity facts reviewed for search catalog projection, 2026-11-06
+  ceramic-ai-search:
+    status: approved
+    text: 面向 LLM 应用与 Agent 的关键词网页搜索 API，从预建索引返回搜索结果。
+    source: Registry search interface review with official documentation, 2026-11-06
+  linkup:
+    status: approved
+    text: 提供网页搜索结果、带来源答案及结构化输出的搜索 API。
+    source: Registry search interface review with official documentation, 2026-11-06
+  deepseek-api:
+    status: approved
+    text: 提供 DeepSeek 模型推理、独立网页搜索及网页正文读取 API 的开发者平台。
+    source: Registry search interface review with official documentation, 2026-11-06
+  doubao-search:
+    status: approved
+    text: 火山引擎提供的网页搜索服务，支持独立搜索 API 与模型内置工具接入。
+    source: Registry search interface review with official documentation, 2026-11-06
+  baidu-ai-search:
+    status: approved
+    text: 百度智能云搜索服务，分别提供网页检索与搜索生成接口。
+    source: Registry search interface review with official documentation, 2026-11-06
+  kimi-search-api:
+    status: approved
+    text: Kimi 开放平台提供的独立网页搜索与 URL 正文读取 API。
+    source: Registry official API documentation review, 2026-11-06
+  tencent-web-search:
+    status: approved
+    text: 腾讯云提供的网页搜索 API，向应用返回标题、摘要和来源链接等结构化结果。
+    source: Registry official API documentation review, 2026-11-06
+  spline:
+    status: approved
+    text: Spline 是浏览器中的协作式 3D 设计工具，可用 AI 生成对象与场景，并制作供网页和应用使用的交互体验
+    source: https://docs.spline.design/
+  csm:
+    status: approved
+    text: CSM 是将图像和文本转为三维模型与场景的生成式 AI 平台，其开发公司 Common Sense Machines 已被 Google 收购
+    source: https://csm.ai/
+    verified: '2026-10-18'

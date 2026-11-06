@@ -99,7 +99,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://deepmind.google/models/gemma/" target="_blank">Gemma</a> - Gemma is a family of open-weight models from Google built using research and technology from the Gemini model program, spanning Gemma 1 through Gemma 4.
 - <a href="https://www.kimi.com/" target="_blank">Kimi</a> - Moonshot AI's language model family for text, code and reasoning tasks, including vision-capable and open-weight releases from K1.5 through K3.
 - <a href="https://docs.z.ai/" target="_blank">GLM</a> - Large language model family from Zhipu AI (Z.ai), spanning GLM-4, GLM-4.5 and GLM-5, offered via the Z.ai API with open-weight releases under the MIT license since 2025.
-- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Hunyuan is Tencent's family of AI models spanning language, image, video and three-dimensional content generation.
+- <a href="https://hunyuan.tencent.com/" target="_blank">Hunyuan</a> - Tencent's Hunyuan language-model family for text generation and reasoning; Hunyuan image, video and 3D models are separate modality-specific families.
 - <a href="https://www.minimax.io/" target="_blank">MiniMax</a> - MiniMax's language model family with open weights, covering text generation, coding and tool-assisted workflows; current release M2.7.
 - <a href="https://aleph-alpha.com" target="_blank">Luminous</a> - Language model family from Aleph Alpha, supporting multilingual text and image analysis.
 
@@ -110,24 +110,24 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.midjourney.com/" target="_blank">Midjourney</a> - Independent lab Midjourney's text-to-image and video model family known for its artistic style, with image models up to V8; served through its website and Discord.
 - <a href="https://developers.openai.com/api/docs/models/gpt-image-2" target="_blank">GPT Image</a> - OpenAI image generation and editing family; the current gpt-image-2.5 generates and edits images from prompts, sketches and reference photos with multilingual in-image text, in ChatGPT and the API.
 - <a href="https://aistudio.google.com/models/nano-banana" target="_blank">Nano Banana</a> - Google image generation and editing family; the current Nano Banana 2.1 supersedes Nano Banana 2 (Gemini 3.1 Flash Image) and is offered through Gemini apps, AI Studio and the Gemini API.
-- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe's text-to-image generation model integrated with Creative Cloud
-- <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> - Open-source text-to-image models with API access
-- <a href="https://bfl.ai/" target="_blank">FLUX</a> - Black Forest Labs' text-to-image generation model
+- <a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe's Firefly image-model family generates and edits images from text prompts, including the Image 5 line, and is accessible in the Firefly app and Creative Cloud workflows.
+- <a href="https://stability.ai/core-models" target="_blank">Stable Diffusion</a> - Stability AI's open-weight image-generation family spanning SDXL and Stable Diffusion 3 and 3.5, with locally deployable model weights and hosted API access.
+- <a href="https://bfl.ai/models/" target="_blank">FLUX</a> - Black Forest Labs' FLUX image-model family spans text-to-image generation, image editing and reference-guided workflows, with hosted API variants and selected open-weight releases.
 - <a href="https://seed.bytedance.com/en/tech/seedream3_0" target="_blank">Seedream</a> - ByteDance Seed image model family; Seedream 4.0 unifies generation and editing with multi-image inputs up to 4K.
-- <a href="https://ideogram.ai/" target="_blank">Ideogram</a> - Text-to-image generation model with a focus on text rendering.
+- <a href="https://ideogram.ai/models/4.0/" target="_blank">Ideogram</a> - Ideogram's image-generation family specializes in legible in-image text and controlled graphic layouts; Ideogram 4.0 offers open weights alongside hosted web and API access.
 - <a href="https://chat.qwen.ai" target="_blank">Qwen Image</a> - Alibaba Qwen image-generation family spanning Qwen-Image-2.0 to the current 3.0, with legible Chinese-English in-image text; served via DashScope and Qwen Chat with open-weight base releases.
 - <a href="https://hunyuan.tencent.com/image/en" target="_blank">Tencent Hunyuan Image</a> - Tencent Hunyuan image-generation family; the open-weight HunyuanImage 3.0 renders strong in-image text, and the Hy Image 3.5 preview adds multi-round conversational editing.
-- <a href="https://www.recraft.ai/" target="_blank">Recraft</a> - Text-to-image generation model supporting vectors and mockups
-- <a href="https://www.microsoft.com/en-us/ai" target="_blank">MAI Image</a> - Microsoft AI's text-to-image generation model
+- <a href="https://www.recraft.ai/ai-models/recraft" target="_blank">Recraft</a> - Recraft's image-generation model family for raster images and editable vector graphics, with standard and Pro variants available in Recraft Studio and through its API.
+- <a href="https://learn.microsoft.com/en-us/azure/foundry/foundry-models/how-to/use-foundry-models-mai-image" target="_blank">MAI Image</a> - Microsoft AI's MAI Image model family for image generation and, in supported versions, image editing; MAI-Image-2.5 and 2.6 variants are available through Microsoft Foundry.
 - <a href="https://lumalabs.ai/photon" target="_blank">Luma Photon</a> - Luma Labs' text-to-image models, served via its API as photon-1 and photon-flash-1 with up to 4 reference images.
-- <a href="https://hidreamai.com/" target="_blank">HiDream</a> - Omni-modal foundation models from Beijing-based HiDream covering image, video and 3D, with open-source HiDream-E1.1 for editing.
+- <a href="https://hidreamai.com/" target="_blank">HiDream</a> - HiDream's image-model line covers text-to-image generation and image editing, including HiDream-O1-Image and the open-weight HiDream-E1.1 editor; its wider platform also offers other modalities.
 - <a href="https://reve.com/" target="_blank">Reve</a> - Text-to-image model with a web app unifying creation, editing and remixing via natural-language and drag-and-drop editing.
 
 <a id="section-video-models"></a>
 
 ### Video Models
 
-- <a href="https://deepmind.google/technologies/veo/" target="_blank">Google Veo</a> - Google text-to-video generation model family; the current Veo 3.1 outputs video with native audio at up to 4K resolution with SynthID watermarking, served through Gemini apps and API.
+- <a href="https://deepmind.google/technologies/veo/" target="_blank">Google Veo</a> - Google video generation model family with text and image conditioning; availability depends on product and API entry point.
 - <a href="https://kling.ai/" target="_blank">Kling</a> - Kuaishou's AI video and image platform; its video model line has reached Kling 4.0, and Kling Image 3.0 outputs native 4K.
 - <a href="https://runway.com/" target="_blank">Runway Gen</a> - Runway's video model family led by Gen-4.5, with the GWM-1 general world model alongside, served via its web app and API.
 - <a href="https://seed.bytedance.com/en/seedance" target="_blank">Seedance</a> - Video generation model family from ByteDance's Seed team spanning 1.0 through the current 2.5, generating synchronized audio at up to 2K resolution from text, image and multi-reference inputs, with editing and extendable clips; also served through Dreamina.
@@ -137,7 +137,6 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://aivideo.hunyuan.tencent.com/" target="_blank">Tencent Hunyuan Video</a> - Tencent's video generation model family, producing video from both text and image inputs.
 - <a href="https://www.vidu.com/" target="_blank">Vidu</a> - Video generation family from Shengshu Technology, spanning text-to-video, image-to-video and multi-reference video generation.
 - <a href="https://www.genmo.ai/" target="_blank">Mochi</a> - Genmo's open text-to-video model; Mochi 1 preview weights are on Hugging Face with GitHub code and local ComfyUI support.
-- <a href="https://www.animon.ai/" target="_blank">Animon</a> - Anime-specific AI video generator from Tokyo-based Animon, launched April 2025 with unlimited generation on subscriptions.
 
 <a id="section-speech-models"></a>
 
@@ -150,14 +149,14 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.sesame.com/" target="_blank">Sesame CSM</a> - Conversational speech model from Sesame released under Apache 2.0; the open CSM-1B release accompanies a larger model demonstrated in the company voice demos.
 - <a href="https://www.cartesia.ai/sonic" target="_blank">Sonic</a> - Cartesia family of streaming text-to-speech models for spoken output in real-time applications.
 - <a href="https://dev.hume.ai/voice/docs/text-to-speech-tts/overview" target="_blank">Octave</a> - Hume speech-language model family for expressive text-to-speech generation.
-- <a href="https://inworld.ai/" target="_blank">Inworld TTS</a> - Real-time text-to-speech model with multilingual support.
+- <a href="https://docs.inworld.ai/models" target="_blank">Inworld TTS</a> - Inworld's Realtime TTS model family produces streaming speech for voice applications; TTS-2 and TTS-2 Flash support multilingual synthesis, voice cloning and natural-language delivery control.
 - <a href="https://www.zyphra.com/models/zonos2" target="_blank">ZONOS</a> - Zyphra family of speech generation models with voice cloning and real-time text-to-speech variants.
 
 <a id="section-music-models"></a>
 
 ### Music Models
 
-- <a href="https://ai.google.dev/gemini/docs/audio" target="_blank">Lyria</a> - Google's music generation model integrated with YouTube.
+- <a href="https://deepmind.google/models/lyria/" target="_blank">Lyria</a> - Google DeepMind's Lyria music-model family generates vocal and instrumental tracks from text or image prompts; Lyria 3.5 supports full-length compositions through Google products and the Gemini API.
 - <a href="https://github.com/facebookresearch/audiocraft" target="_blank">MusicGen</a> - Meta's open-source music generation model, part of the AudioCraft repository.
 
 <a id="section-spatial-models"></a>
@@ -165,9 +164,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 ### 3D & Spatial Models
 
 - <a href="https://3d.hunyuan.tencent.com/" target="_blank">Hunyuan3D</a> - Generates realistic 3D models with clean geometric structure from text and images, particularly for character generation.
-- <a href="https://spline.design/" target="_blank">Spline AI</a> - Generates 3D objects from text prompts, focused on interactive 3D scene creation for web and app design.
 - <a href="https://hyper3d.ai/" target="_blank">Rodin</a> - 3D model generation from text prompts and images, with support for multiple export formats.
-- <a href="https://csm.ai/" target="_blank">CSM AI</a> - Tool that generates 3D models from text descriptions; its maker Common Sense Machines was acquired by Google in January 2026.
 - <a href="https://deepimagination.cc/Magic3D/" target="_blank">Magic3D</a> - High-resolution text-to-3D content generation model for graphics and visual technology research.
 
 <a id="group-agents"></a>
@@ -257,7 +254,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.coval.ai/" target="_blank">Coval</a> - Evaluation and testing platform for voice and conversational AI agents, providing scenario simulations and endpoint testing.
 - <a href="https://www.cekura.ai/" target="_blank">Cekura</a> - Testing, monitoring and evaluation platform for production voice and chat AI agents.
 - <a href="https://hamming.ai/" target="_blank">Hamming</a> - Testing and monitoring platform for voice AI agents.
-- <a href="https://canonical.ai/" target="_blank">Canonical AI</a> - Analytics and evaluation platform for voice agents.
+- <a href="https://canonical.chat" target="_blank">Canonical AI</a> - Analytics and evaluation platform for voice agents.
 
 <a id="section-agent-builders"></a>
 
@@ -303,7 +300,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 - <a href="https://github.com/features/copilot" target="_blank">GitHub Copilot</a> - GitHub's AI pair programmer, providing code completion and pull-request code review across GitHub.com, VS Code, JetBrains and other IDEs, GitHub CLI and GitHub Mobile.
 - <a href="https://cursor.com" target="_blank">Cursor</a> - AI code editor with codebase-aware autocomplete, chat and agent modes for software development tasks.
-- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> - OpenAI's coding agent that completes software engineering tasks end-to-end across the cloud, IDEs and terminal, supporting multi-agent workflows, custom skills and code-review automations.
+- <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> - OpenAI's coding agent that completes software engineering tasks end-to-end across the cloud, IDEs and terminal, supporting multi-agent workflows, custom skills and code-review automations. Feature: Codex Skills — OpenAI Codex capability for packaging procedural knowledge as skills: a directory whose SKILL.md states trigger conditions and workflow, optionally with scripts, references and assets, lo
 - <a href="https://devin.ai" target="_blank">Devin</a> - Autonomous AI software engineer agent that plans and executes coding tasks such as bug fixes, refactors and code migrations.
 - <a href="https://replit.com/" target="_blank">Replit</a> - Cloud-based IDE and development platform supporting coding, real-time collaboration and deployment, with an AI agent that builds apps from natural language.
 - <a href="https://devin.ai/desktop" target="_blank">Windsurf</a> - AI code editor with autocomplete and autonomous agents that plan and edit multi-file codebases; developed by the company formerly known as Codeium; acquired by Cognition in 2025 and renamed Devin Desktop.
@@ -469,6 +466,7 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://autoshorts.ai/" target="_blank">AutoShorts AI</a> - One-click generation and auto-publishing of faceless short videos, specifically designed for TikTok and YouTube Shorts
 - <a href="https://async.com" target="_blank">Async</a> - Chat-based AI video editing platform that cuts footage, cleans audio, adds subtitles and generates voice and music from prompts.
 - <a href="https://cursorful.com/" target="_blank">Cursorful</a> - Browser recording plugin that automatically zooms in on the cursor focus for demo videos.
+- <a href="https://www.animon.ai/" target="_blank">Animon</a> - Anime-focused video-generation platform that turns images into animated clips through a subscription-based creation workflow.
 
 <a id="section-filmmaking-localization"></a>
 
@@ -509,7 +507,7 @@ For the filmmaking side of this section, [AI-assisted film production](https://a
 
 Speech applications include both [speech recognition and transcription](https://alignify.co/tools/speech-to-text) and [text-to-speech synthesis](https://alignify.co/tools/text-to-speech).
 
-- <a href="https://elevenlabs.io" target="_blank">ElevenLabs</a> - Voice AI platform offering text-to-speech, voice cloning, dubbing and audio generation, with APIs and a large voice library across many languages.
+- <a href="https://elevenlabs.io" target="_blank">ElevenLabs</a> - Voice AI platform offering text-to-speech, voice cloning, dubbing and audio generation, with APIs and a large voice library across many languages. Feature: ElevenCreative Flows — ElevenLabs node-based creative canvas that chains image, video and audio models — including speech, sound effects and lip sync nodes — into reusable AI content pipelines. Feature: Voice Changer — ElevenLabs speech-to-spee
 - <a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> - Speech-to-text and speech understanding API with real-time transcription, speaker identification and audio intelligence features.
 - <a href="https://aws.amazon.com/polly/" target="_blank">Amazon Polly</a> - AWS text-to-speech API with 100+ voices in 40+ languages, SSML customization and a billion-parameter generative speech engine.
 - <a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/" target="_blank">OpenAI TTS</a> - OpenAI's text-to-speech API models for synthesizing speech in applications and voice pipelines.
@@ -647,11 +645,22 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://exa.ai" target="_blank">Exa</a> - Search API service for AI applications, offering web search, crawling, content extraction and structured results for LLM and agent use.
 - <a href="https://tavily.com" target="_blank">Tavily</a> - Search API built for AI agents and RAG pipelines, combining web search, content extraction and crawling in one interface.
 - <a href="https://serpapi.com" target="_blank">SerpApi</a> - API that scrapes Google and other search engines and returns structured results, handling proxies, captchas and parsing for applications.
-- <a href="https://you.com" target="_blank">You.com</a> - AI search company providing a web search API for LLMs and enterprise applications; formerly a consumer AI search engine.
+- <a href="https://you.com" target="_blank">You.com</a> - AI search company providing a web search API for LLMs and enterprise applications; formerly a consumer AI search engine. Feature: You.com Research Agent — You.com research capability that searches sources and synthesizes cited reports.
 - <a href="https://serper.dev" target="_blank">Serper</a> - API service that returns structured Google search results for applications and AI agents.
 - <a href="https://bochaai.com/" target="_blank">博查 (Bocha)</a> - Multimodal search engine for AI applications, provided as a knowledge-retrieval API for agents.
 - <a href="https://parallel.ai" target="_blank">Parallel AI</a> - Web search API for AI agents that returns long, evidence-based content for LLMs, with asynchronous deep-research tasks and MCP support.
 - <a href="https://s1.dev/" target="_blank">Search1 API</a> - Web access infrastructure for AI agents offering multi-engine web and news search, agentic search, crawling and sitemap APIs through REST, MCP and CLI interfaces.
+- <a href="https://brave.com/search/api/" target="_blank">Brave Search API</a> - Web search API built on Brave's independent index, positioned for privacy-preserving search integrations.
+- <a href="https://open.bigmodel.cn/" target="_blank">GLM Web Search</a> - Zhipu AI's web search offering on the BigModel platform, delivered as a built-in web_search tool for GLM chat models, a standalone search API with a Web Reader for known-URL content, and a remote MCP for coding-agent clients.
+- <a href="https://keenable.ai/" target="_blank">Keenable</a> - Independent web search API for AI agents and labs running its own crawler and index, with content extraction, SELECT structured web queries, time-machine historical retrieval, and MCP and SDK integrations.
+- <a href="https://docs.perplexity.ai/docs/search/quickstart" target="_blank">Perplexity Search API</a> - Search API from Perplexity providing retrieval and ranking interfaces for applications that need web-sourced answers.
+- <a href="https://www.ceramic.ai" target="_blank">Ceramic.ai Search</a> - Lexical web search API for LLM applications and agents, returning search results from a pre-built index.
+- <a href="https://www.linkup.so" target="_blank">Linkup</a> - Web search API providing search results, sourced answers and structured output for applications.
+- <a href="https://platform.deepseek.com" target="_blank">DeepSeek API</a> - Developer platform providing DeepSeek language model inference, standalone web search and page-fetching APIs.
+- <a href="https://docs.volcengine.com/docs/networked-search/networked-search?lang=zh" target="_blank">Doubao Search</a> - Web search service from Volcengine exposing standalone search and model-integrated search interfaces.
+- <a href="https://cloud.baidu.com/doc/BAIDU_AI_SEARCH/index.html" target="_blank">Baidu AI Search</a> - Baidu cloud service providing web retrieval and search-generated responses for AI applications.
+- <a href="https://platform.kimi.ai" target="_blank">Kimi Search API</a> - Standalone web search and URL-fetching APIs from Kimi Open Platform.
+- <a href="https://cloud.tencent.com/product/wsa" target="_blank">Tencent Cloud Web Search API</a> - Web search API returning structured webpage results for applications.
 
 <a id="group-data-cloud"></a>
 
@@ -749,7 +758,7 @@ For music creation within this section, [AI music-generation workflows](https://
 
 ### Model Access & Routing
 
-- <a href="https://aws.amazon.com/bedrock/" target="_blank">Amazon Bedrock</a> - Single API to access multiple foundation models, enabling text, image, and multimodal inference
+- <a href="https://aws.amazon.com/bedrock/" target="_blank">Amazon Bedrock</a> - Single API to access multiple foundation models, enabling text, image, and multimodal inference Feature: Amazon Bedrock Guardrails — Amazon Bedrock capability combining content filters, denied topics, word filters, sensitive information filters, contextual grounding checks and Automated Reasoning checks, callable within Bedrock or standalone via the ApplyGuardrail API.
 - <a href="https://openrouter.ai/" target="_blank">OpenRouter</a> - API platform offering unified access to a large catalog of language models from multiple providers through a single endpoint.
 - <a href="https://www.edenai.co/" target="_blank">Eden AI</a> - Unified API platform providing access to a marketplace of AI models
 - <a href="https://www.notdiamond.ai" target="_blank">Not Diamond</a> - Model router that selects which LLM should handle each request, used by coding agents and LLM applications to optimize cost, latency and quality.
@@ -1144,6 +1153,8 @@ For the recruiting side of this section, [AI-assisted recruiting workflows](http
 - <a href="https://www.eufymake.com/" target="_blank">Eufymake</a> - No-code AI tool for generating, editing and collaborating on 3D scenes
 - <a href="https://www.alpha3d.io/" target="_blank">Alpha3D</a> - Converts text or 2D images into game-ready 3D assets, with Unity development support.
 - <a href="https://ai-build.com/" target="_blank">AI Build</a> - Manufacturing platform combining 3D printing and CNC technologies for automated production
+- <a href="https://spline.design" target="_blank">Spline</a> - Collaborative browser-based 3D design tool with built-in AI generation of 3D objects and scenes for web and product design.
+- <a href="https://csm.ai" target="_blank">CSM</a> - Generative AI platform that converts images and text into 3D models and scenes; its maker Common Sense Machines was acquired by Google in January 2026.
 
 <a id="group-games"></a>
 
@@ -1238,7 +1249,7 @@ For character-based interaction, [character chat and role-playing applications](
 - <a href="https://www.polybuzz.ai" target="_blank">Polybuzz</a> - Platform for chatting with AI characters, roleplay conversations and AI-generated webtoons, including custom character creation.
 - <a href="https://www.chub.ai/" target="_blank">Chub AI</a> - Interactive roleplay AI chat platform enabling custom character experiences and storytelling
 - <a href="https://www.joyland.ai" target="_blank">Joyland</a> - Platform for creating and chatting with custom AI characters, including anime-style companions, interactive stories and roleplay, plus a community character library.
-- <a href="https://moescape.ai/" target="_blank">Moescape</a> - Anime-focused AI platform combining character chat, image generation, and character creation; rebranded from Yodayo to Moescape in 2024.
+- <a href="https://moescape.ai/" target="_blank">Moescape AI</a> - Anime-focused AI platform combining character chat, image generation, and character creation; rebranded from Yodayo to Moescape in 2024.
 - <a href="https://chaton.ai/" target="_blank">ChatOn</a> - AI chat assistant mobile app combining conversational models with image generation, web search, document processing and writing-tone tools for writing and productivity tasks.
 - <a href="https://novaapp.ai" target="_blank">Nova</a> - Cross-platform AI chat assistant built on GPT-4o and Gemini models, offering question answering, writing help and proofreading.
 - <a href="https://www.popai.pro/" target="_blank">PopAi</a> - AI assistant app supporting document chat, slide creation, homework solutions, and image generation.

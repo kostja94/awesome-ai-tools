@@ -22,14 +22,14 @@ Quick reference index of selected products.
 | [GPT Image](https://developers.openai.com/api/docs/models/gpt-image-2) | Image Models | active |
 | [Nano Banana](https://aistudio.google.com/models/nano-banana) | Image Models | active |
 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Image Models | active |
-| [Stable Diffusion](https://stability.ai/) | Image Models | active |
-| [FLUX](https://bfl.ai/) | Image Models | active |
+| [Stable Diffusion](https://stability.ai/core-models) | Image Models | active |
+| [FLUX](https://bfl.ai/models/) | Image Models | active |
 | [Seedream](https://seed.bytedance.com/en/tech/seedream3_0) | Image Models | active |
-| [Ideogram](https://ideogram.ai/) | Image Models | active |
+| [Ideogram](https://ideogram.ai/models/4.0/) | Image Models | active |
 | [Qwen Image](https://chat.qwen.ai) | Image Models | active |
 | [Tencent Hunyuan Image](https://hunyuan.tencent.com/image/en) | Image Models | active |
-| [Recraft](https://www.recraft.ai/) | Image Models | active |
-| [MAI Image](https://www.microsoft.com/en-us/ai) | Image Models | active |
+| [Recraft](https://www.recraft.ai/ai-models/recraft) | Image Models | active |
+| [MAI Image](https://learn.microsoft.com/en-us/azure/foundry/foundry-models/how-to/use-foundry-models-mai-image) | Image Models | active |
 | [Luma Photon](https://lumalabs.ai/photon) | Image Models | active |
 | [HiDream](https://hidreamai.com/) | Image Models | active |
 | [Reve](https://reve.com/) | Image Models | active |
@@ -43,7 +43,6 @@ Quick reference index of selected products.
 | [Tencent Hunyuan Video](https://aivideo.hunyuan.tencent.com/) | Video Models | active |
 | [Vidu](https://www.vidu.com/) | Video Models | active |
 | [Mochi](https://www.genmo.ai/) | Video Models | active |
-| [Animon](https://www.animon.ai/) | Video Models | active |
 | [OpenAI Whisper](https://github.com/openai/whisper) | Speech Models | active |
 | [ElevenLabs Scribe](https://elevenlabs.io/speech-to-text) | Speech Models | active |
 | [Google Chirp](https://docs.cloud.google.com/speech-to-text/docs/models/chirp-3) | Speech Models | active |
@@ -51,14 +50,12 @@ Quick reference index of selected products.
 | [Sesame CSM](https://www.sesame.com/) | Speech Models | active |
 | [Sonic](https://www.cartesia.ai/sonic) | Speech Models | active |
 | [Octave](https://dev.hume.ai/voice/docs/text-to-speech-tts/overview) | Speech Models | active |
-| [Inworld TTS](https://inworld.ai/) | Speech Models | active |
+| [Inworld TTS](https://docs.inworld.ai/models) | Speech Models | active |
 | [ZONOS](https://www.zyphra.com/models/zonos2) | Speech Models | active |
-| [Lyria](https://ai.google.dev/gemini/docs/audio) | Music Models | active |
+| [Lyria](https://deepmind.google/models/lyria/) | Music Models | active |
 | [MusicGen](https://github.com/facebookresearch/audiocraft) | Music Models | active |
 | [Hunyuan3D](https://3d.hunyuan.tencent.com/) | 3D & Spatial Models | active |
-| [Spline AI](https://spline.design/) | 3D & Spatial Models | active |
 | [Rodin](https://hyper3d.ai/) | 3D & Spatial Models | active |
-| [CSM AI](https://csm.ai/) | 3D & Spatial Models | active |
 | [Magic3D](https://deepimagination.cc/Magic3D/) | 3D & Spatial Models | active |
 | [LangGraph](https://www.langchain.com/langgraph) | Agent Frameworks & Infrastructure | active |
 | [CrewAI](https://crewai.com) | Agent Frameworks & Infrastructure | active |
@@ -127,7 +124,7 @@ Quick reference index of selected products.
 | [Coval](https://www.coval.ai/) | Agent & Model Evaluation | active |
 | [Cekura](https://www.cekura.ai/) | Agent & Model Evaluation | active |
 | [Hamming](https://hamming.ai/) | Agent & Model Evaluation | active |
-| [Canonical AI](https://canonical.ai/) | Agent & Model Evaluation | active |
+| [Canonical AI](https://canonical.chat) | Agent & Model Evaluation | active |
 | [Gemini Enterprise Agent Platform](https://cloud.google.com/products/gemini-enterprise-agent-platform) | Agent Development Platforms | active |
 | [RASA](https://rasa.com/) | Agent Development Platforms | active |
 | [Kore.ai](https://kore.ai/) | Agent Development Platforms | active |
@@ -155,7 +152,7 @@ Quick reference index of selected products.
 | [OpenAI Codex](https://openai.com/codex/) | Coding Tools | active |
 | [Devin](https://devin.ai) | Coding Tools | active |
 | [Replit](https://replit.com/) | Coding Tools | active |
-| [Windsurf](https://devin.ai/desktop) | Coding Tools | active |
+| [Windsurf](https://devin.ai/desktop) | Coding Tools | acquired |
 | [Google Antigravity](https://antigravity.google) | Coding Tools | active |
 | [Warp](https://www.warp.dev) | Coding Tools | active |
 | [TRAE](https://www.trae.ai) | Coding Tools | active |
@@ -172,7 +169,7 @@ Quick reference index of selected products.
 | [Durable](https://durable.com/) | App Builders | active |
 | [Readdy](https://readdy.ai/) | App Builders | active |
 | [Trickle](https://www.trickle.so/) | App Builders | active |
-| [Fine](https://www.fine.dev/) | App Builders | active |
+| [Fine](https://www.fine.dev/) | App Builders | acquired |
 | [Rapid API](https://rapidapi.com/) | Developer Platforms | active |
 | [APILayer](https://apilayer.com/) | Developer Platforms | active |
 | [Apidog](https://apidog.com/) | Developer Platforms | active |
@@ -272,11 +269,12 @@ Quick reference index of selected products.
 | [AutoShorts AI](https://autoshorts.ai/) | Video Generation & Editing | active |
 | [Async](https://async.com) | Video Generation & Editing | active |
 | [Cursorful](https://cursorful.com/) | Video Generation & Editing | active |
+| [Animon](https://www.animon.ai/) | Video Generation & Editing | active |
 | [DramaBox](https://www.dramaboxdb.com/) | Filmmaking & Localization | active |
 | [LTX Studio](https://ltx.io/studio) | Filmmaking & Localization | active |
 | [Rask](https://www.rask.ai) | Filmmaking & Localization | active |
 | [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio/overview) | Filmmaking & Localization | active |
-| [Papercup](https://www.rws.com/localization/services/translation-services/video-and-audio-translation/ai-dubbing-and-vo/) | Filmmaking & Localization | active |
+| [Papercup](https://www.rws.com/localization/services/translation-services/video-and-audio-translation/ai-dubbing-and-vo/) | Filmmaking & Localization | acquired |
 | [Blipcut](https://videotranslator.blipcut.com/) | Filmmaking & Localization | active |
 | [SkyReels](https://www.skyreels.ai) | Filmmaking & Localization | active |
 | [NeuralFrames](https://www.neuralframes.com/) | Filmmaking & Localization | active |
@@ -386,7 +384,7 @@ Quick reference index of selected products.
 | [Strawberry](https://strawberrybrowser.com) | Web Data & Browsers | active |
 | [Perplexity](https://www.perplexity.ai) | AI Search Applications | active |
 | [Brave Search](https://brave.com/search/) | AI Search Applications | active |
-| [Phind](https://www.phind.com/) | AI Search Applications | active |
+| [Phind](https://www.phind.com/) | AI Search Applications | shutdown |
 | [Consensus](https://consensus.app) | AI Search Applications | active |
 | [iAsk](https://iask.ai/) | AI Search Applications | active |
 | [Andi](https://andisearch.com/) | AI Search Applications | active |
@@ -400,6 +398,17 @@ Quick reference index of selected products.
 | [博查 (Bocha)](https://bochaai.com/) | Search APIs | active |
 | [Parallel AI](https://parallel.ai) | Search APIs | active |
 | [Search1 API](https://s1.dev/) | Search APIs | active |
+| [Brave Search API](https://brave.com/search/api/) | Search APIs | active |
+| [GLM Web Search](https://open.bigmodel.cn/) | Search APIs | active |
+| [Keenable](https://keenable.ai/) | Search APIs | active |
+| [Perplexity Search API](https://docs.perplexity.ai/docs/search/quickstart) | Search APIs | active |
+| [Ceramic.ai Search](https://www.ceramic.ai) | Search APIs | active |
+| [Linkup](https://www.linkup.so) | Search APIs | active |
+| [DeepSeek API](https://platform.deepseek.com) | Search APIs | active |
+| [Doubao Search](https://docs.volcengine.com/docs/networked-search/networked-search?lang=zh) | Search APIs | active |
+| [Baidu AI Search](https://cloud.baidu.com/doc/BAIDU_AI_SEARCH/index.html) | Search APIs | active |
+| [Kimi Search API](https://platform.kimi.ai) | Search APIs | active |
+| [Tencent Cloud Web Search API](https://cloud.tencent.com/product/wsa) | Search APIs | active |
 | [Azure AI Foundry](https://ai.azure.com/) | Cloud & Model Infrastructure | active |
 | [Vertex AI](https://cloud.google.com/vertex-ai) | Cloud & Model Infrastructure | active |
 | [NVIDIA NIM](https://build.nvidia.com/) | Cloud & Model Infrastructure | active |
@@ -461,7 +470,7 @@ Quick reference index of selected products.
 | [Tinybird](https://www.tinybird.co) | Data Platforms & Analytics | active |
 | [Weka.IO](https://www.weka.io/) | Data Platforms & Analytics | active |
 | [Unstructured](https://unstructured.io) | Data Platforms & Analytics | active |
-| [Gretel AI](https://www.nvidia.com/en-us/use-cases/synthetic-data-generation-for-agentic-ai/) | Data Platforms & Analytics | active |
+| [Gretel AI](https://www.nvidia.com/en-us/use-cases/synthetic-data-generation-for-agentic-ai/) | Data Platforms & Analytics | acquired |
 | [Flourish](https://flourish.studio/) | Data Platforms & Analytics | active |
 | [Napkin](https://www.napkin.ai/) | Data Platforms & Analytics | active |
 | [Informix](https://www.ibm.com/products/informix) | Data Platforms & Analytics | active |
@@ -520,7 +529,7 @@ Quick reference index of selected products.
 | [Tally](https://tally.so/) | Productivity & Automation | active |
 | [Pig](https://pig.dev) | Productivity & Automation | active |
 | [Flowith](https://flowith.io) | Productivity & Automation | active |
-| [Induced](https://www.induced.ai/) | Productivity & Automation | active |
+| [Induced](https://www.induced.ai/) | Productivity & Automation | shutdown |
 | [Dasis](https://www.dasis.ai/) | Productivity & Automation | active |
 | [Airtime](https://www.airtime.com/) | Productivity & Automation | active |
 | [Mana](https://withmana.com) | Productivity & Automation | active |
@@ -743,6 +752,8 @@ Quick reference index of selected products.
 | [Eufymake](https://www.eufymake.com/) | 3D & Spatial Tools | active |
 | [Alpha3D](https://www.alpha3d.io/) | 3D & Spatial Tools | active |
 | [AI Build](https://ai-build.com/) | 3D & Spatial Tools | active |
+| [Spline](https://spline.design) | 3D & Spatial Tools | active |
+| [CSM](https://csm.ai) | 3D & Spatial Tools | active |
 | [AI Dungeon](https://www.aidungeon.com/) | Games & Interactive Media | active |
 | [Aimlabs](https://aimlabs.com/) | Games & Interactive Media | active |
 | [Mobalytics](https://mobalytics.gg/) | Games & Interactive Media | active |
@@ -808,7 +819,7 @@ Quick reference index of selected products.
 | [Polybuzz](https://www.polybuzz.ai) | Chat & Social | active |
 | [Chub AI](https://www.chub.ai/) | Chat & Social | active |
 | [Joyland](https://www.joyland.ai) | Chat & Social | active |
-| [Moescape](https://moescape.ai/) | Chat & Social | active |
+| [Moescape AI](https://moescape.ai/) | Chat & Social | renamed |
 | [ChatOn](https://chaton.ai/) | Chat & Social | active |
 | [Nova](https://novaapp.ai) | Chat & Social | active |
 | [PopAi](https://www.popai.pro/) | Chat & Social | active |
