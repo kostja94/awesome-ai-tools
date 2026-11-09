@@ -3609,3 +3609,7 @@ descriptions:
     status: approved
     text: 提供 Deep Review 等多篇论文综合与文献分析流程的学术研究平台。
     source: Registry official research feature documentation, 2026-11-06
+  outcrawl:
+    status: approved
+    text: 面向 AI Agent 的网页基础设施，提供通过 CDP 连接的云浏览器会话、网页搜索、抓取与爬取 API、会话回放，以及开源浏览器 Agent。
+    source: Registry product description and official Scout repository review, 2026-11-09

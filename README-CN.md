@@ -684,6 +684,7 @@
 - <a href="https://www.browserbase.com" target="_blank">Browserbase</a> - Browserbase 提供云端无头浏览器会话基础设施，供 AI agent 和网页自动化使用，附带 Fetch 与 Search API、无服务器 Functions 和可观测性工具
 - <a href="https://www.browserless.io/" target="_blank">Browserless</a> - Browserless 把无头浏览器做成服务，支持 Docker 部署，自带反爬能力、REST API 和 BrowserQL 查询语言，用于页面自动化与抓取
 - <a href="https://lightpanda.io" target="_blank">Lightpanda</a> - Lightpanda 是用 Zig 写的开源无头浏览器，兼容 Puppeteer 和 Playwright，面向网页自动化、抓取与 AI agent，另提供云服务
+- <a href="https://outcrawl.ai/" target="_blank">Outcrawl</a> - 面向 AI Agent 的网页基础设施，提供通过 CDP 连接的云浏览器会话、网页搜索、抓取与爬取 API、会话回放，以及开源浏览器 Agent。
 
 <a id="group-data-cloud"></a>
 

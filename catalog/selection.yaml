@@ -549,6 +549,7 @@ sections:
   - registry_id: browserbase
   - registry_id: browserless
   - registry_id: lightpanda
+  - registry_id: outcrawl
 - id: cloud-infrastructure
   title: Cloud & Model Infrastructure
   group_id: data-cloud

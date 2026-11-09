@@ -684,6 +684,7 @@ For music creation within this section, [AI music-generation workflows](https://
 - <a href="https://www.browserbase.com" target="_blank">Browserbase</a> - Cloud infrastructure providing headless browser sessions for AI agents and web automation, with Fetch and Search APIs, serverless Functions and observability tooling.
 - <a href="https://www.browserless.io/" target="_blank">Browserless</a> - Headless browser as a service supporting Docker deployment, anti-bot capabilities, REST APIs and the BrowserQL query language for page automation and scraping.
 - <a href="https://lightpanda.io" target="_blank">Lightpanda</a> - Open-source headless browser written in Zig for web automation, scraping and AI agents, compatible with Puppeteer and Playwright, with a cloud service.
+- <a href="https://outcrawl.ai/" target="_blank">Outcrawl</a> - Web infrastructure for AI agents providing cloud browser sessions over CDP, web search, scraping and crawling APIs, session replay and an open-source browser agent.
 
 <a id="group-data-cloud"></a>
 
