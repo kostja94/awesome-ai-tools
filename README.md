@@ -1345,6 +1345,7 @@ For character-based interaction, [character chat and role-playing applications](
 ### AI Tool Directories
 
 - <a href="http://generativeai.net/" target="_blank">Generative AI</a> - Independent blog and consultancy covering generative AI education and resources
+- <a href="https://meetnewai.com/" target="_blank">MeetNewAI</a> - Free bilingual directory of AI tools, browser-playable AI games, and MCP servers organized by the job you need done.
 
 <a id="group-research"></a>
 
