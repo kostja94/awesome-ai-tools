@@ -434,6 +434,8 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 
 - <a href="https://www.synthesia.io/" target="_blank">Synthesia</a> - AI video generation platform creating professional videos with AI avatars and multilingual support
 - <a href="https://www.heygen.com" target="_blank">HeyGen</a> - AI video platform that generates videos from text using photorealistic avatars, with multilingual translation, dubbing and lip-sync.
+- <a href="https://cyanvid.com/?utm_source=kostja94-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks" target="_blank">Cyanvid</a> - AI video generator from text or images; credit quotes before generate
+- <a href="https://barzvideo.com/?utm_source=kostja94-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks" target="_blank">Barz Studio</a> - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM
 - <a href="https://www.descript.com/" target="_blank">Descript</a> - AI-powered video and podcast editing platform with automatic transcription, text-based editing, screen recording, and AI voice cloning; edit video like editing a document
 - <a href="https://www.loom.com/" target="_blank">Loom</a> - One-click screen recording and sharing with AI video enhancement, text editing, and cross-platform collaboration features
 - <a href="https://hailuoai.video" target="_blank">Hailuo AI Video Generator</a> - AI video and image generation platform built on MiniMax's Hailuo models, turning text prompts into short videos and images.
