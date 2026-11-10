@@ -1025,6 +1025,7 @@ For automation in this section, [workflow orchestration and integration](https:/
 - <a href="https://rogo.com/" target="_blank">Rogo AI</a> - AI analysis platform for financial institutions that automatically researches data, generates insights, and accelerates investment decisions.
 - <a href="https://www.rillet.com/" target="_blank">Rillet</a> - AI-native ERP system that automatically completes month-end closing, consolidation, GAAP reporting, and invoice processing.
 - <a href="https://samaya.ai/" target="_blank">Samaya AI</a> - AI-powered knowledge discovery platform for financial services and investment banking domain experts
+- <a href="https://disconfirmai.com/en" target="_blank">DisconfirmAI</a> - Investment research and reading platform for the AI era. Looks for evidence that could overturn a thesis before you form conviction, with daily public-source reading, earnings and data research, and condition-based radar.
 - <a href="https://skit.ai/" target="_blank">Skit.ai</a> - Voice and messaging automation for debt collection and accounts receivable teams.
 - <a href="https://www.kastle.ai/" target="_blank">Kastle AI</a> - Voice AI agent platform for financial services, focused on mortgage operations.
 - <a href="https://www.aviaryai.co/" target="_blank">Aviary AI</a> - Voice AI agent platform for financial services operations.
