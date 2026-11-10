@@ -1022,6 +1022,7 @@ For automation in this section, [workflow orchestration and integration](https:/
 ### Finance & Accounting
 
 - <a href="https://www.bill.com/" target="_blank">Bill</a> - Financial operations platform for small and medium businesses, automatically handling invoice generation, payments, billing, expense management, and budget control.
+- <a href="https://disconfirmai.com/en" target="_blank">DisconfirmAI</a> - Investment research and reading platform that helps you seek disconfirming evidence before conviction: daily reading, filings research, condition radar, and a personal framework.
 - <a href="https://rogo.com/" target="_blank">Rogo AI</a> - AI analysis platform for financial institutions that automatically researches data, generates insights, and accelerates investment decisions.
 - <a href="https://www.rillet.com/" target="_blank">Rillet</a> - AI-native ERP system that automatically completes month-end closing, consolidation, GAAP reporting, and invoice processing.
 - <a href="https://samaya.ai/" target="_blank">Samaya AI</a> - AI-powered knowledge discovery platform for financial services and investment banking domain experts
